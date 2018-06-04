@@ -1,0 +1,20 @@
+<keymap version="1" name="IdeaVimOSX" parent="Mac OS X 10.5+">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>

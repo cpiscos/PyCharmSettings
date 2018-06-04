@@ -1,0 +1,118 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1527965724719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/.gitignore" timestamp="1528089730024">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528091226355">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="58" />
+        <mark key="^" line="41" column="58" />
+        <mark key="." line="41" column="58" />
+      </file>
+      <file name="/__dummy.as" timestamp="1528086847186">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="8" column="28" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="3" column="29" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="12" column="9" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>one_million_digits</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>inoremap j1 _</text>
+      </register>
+      <register name="-" type="4">
+        <text>one_million_digits</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxyc3RyaXBcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxyc3RyaXBcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxyc3RyaXBcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>help</entry>
+        <entry>;help</entry>
+        <entry>:help</entry>
+        <entry encoding="base64">XDxyc3RyaXBcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">aW1hcCA8cy1zcGFjZT4gXw==</entry>
+        <entry>maps</entry>
+        <entry>ls!</entry>
+        <entry>!cd ~/PycharmPr*/*Crash*</entry>
+        <entry>!pwd</entry>
+        <entry>set autochir</entry>
+        <entry>!ls</entry>
+        <entry>help write</entry>
+        <entry>help</entry>
+        <entry>map</entry>
+        <entry>map!</entry>
+        <entry>inoremap j1 _</entry>
+        <entry>verbose set timeoutlen?</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
