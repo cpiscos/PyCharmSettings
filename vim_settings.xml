@@ -11,6 +11,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1528096520714">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528092279568">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="12" column="10" />
@@ -31,18 +37,21 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>one_million_digits</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
