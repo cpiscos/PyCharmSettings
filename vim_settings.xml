@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1527965724719">
+      <file name="/Dummy.txt" timestamp="1528092335979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/.gitignore" timestamp="1528089730024">
@@ -11,7 +11,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528091226355">
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528092279568">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -95,7 +95,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
