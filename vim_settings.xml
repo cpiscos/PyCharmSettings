@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1528096623668">
+        <mark key="[" line="80" column="50" />
+      </file>
       <file name="/Dummy.txt" timestamp="1528092335979">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,10 +14,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1528096520714">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1528096792323">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528092279568">
@@ -37,21 +40,30 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjdXN0b20gUHlDaGFybSBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjdXN0b20gUHlDaGFybSBwcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+        <text encoding="base64">a2V5bWFwLndpbmRvd3MuYXMubmV0YT10cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -115,6 +127,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
