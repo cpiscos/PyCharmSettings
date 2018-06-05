@@ -46,11 +46,12 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528241653188">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528242526767">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
         <mark key="[" line="2" column="21" />
@@ -112,56 +113,59 @@
       <jump line="6" column="3" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
       <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
+      <jump line="4" column="26" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 'w'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZfOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uZGRhY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, 'w'</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text>hell</text>
+        <text>file</text>
       </register>
       <register name="0" type="4">
         <text>Orange is the New Black</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobnUpCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZfOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uZGRhY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcChudW1iZXJzLCBmX29iaikK</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSAndXNlcgp3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZmlsZW5hbWU6YWN0aW9uIEhpcHBpZUJhY2t3YXJkQ29tcGxldGlvbjphY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVCYWNrd2FyZENvbXBsZXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">anNvbgo=</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSAndXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQobnUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgIGpzb24uZHVtcChudW1iZXJzLCBmX29iaikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SGVsbG8gd29ybGQhCg==</text>
+        <text encoding="base64">anNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSAnbnVtYmVycycgKwo=</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSAnbnVtYmVycycgKwo=</text>
+        <text encoding="base64">SGVsbG8gd29ybGQhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>hell</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>hell</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>file</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -182,13 +186,9 @@
         <entry>except</entry>
         <entry>try</entry>
         <entry>hell</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
-        <entry>verbose set timeoutlen?</entry>
-        <entry>ds(</entry>
-        <entry>help i</entry>
-        <entry encoding="base64">dm5vcmVtYXAgPFRhYj4gPmd2IA==</entry>
-        <entry>set rnu</entry>
         <entry>so %</entry>
         <entry>set hls</entry>
         <entry>set ic</entry>
@@ -198,12 +198,17 @@
         <entry>nohls</entry>
         <entry>source ~/.ideavim</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>actionlist</entry>
         <entry>action hippy</entry>
         <entry>reg</entry>
         <entry>set nosurround</entry>
         <entry>nosurround</entry>
         <entry>set surround</entry>
+        <entry>action Hippie</entry>
+        <entry>action</entry>
+        <entry>action [Hippie}</entry>
+        <entry>action [Hippie]</entry>
+        <entry>action HippieCompletion</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -247,6 +252,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
