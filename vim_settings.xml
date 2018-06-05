@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528167968741">
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528227091452">
         <mark key="'" line="3" column="20" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1528092335979">
         <mark key="[" line="0" column="0" />
@@ -24,7 +24,7 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1528166805903">
+      <file name="/a.dummy" timestamp="1528228664453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
@@ -40,6 +40,19 @@
         <mark key="]" line="41" column="58" />
         <mark key="^" line="41" column="58" />
         <mark key="." line="41" column="58" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-6_addition.py" timestamp="1528228034037">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528229231870">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="/__dummy.as" timestamp="1528086847186">
         <mark key="[" line="0" column="0" />
@@ -58,55 +71,56 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="0" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="2" column="20" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
+      <jump line="9" column="28" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>100</text>
+        <text>cat</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aW5kZXhfaW5fcGkg</text>
+      <register name="0" type="2">
+        <text encoding="base64">dHJ5OgogICAgd2l0aCBvcGVuKCdjYXRzLnR4dCcsICd3JykgYXMgZl9vYmo6CiAgICAgICAgZm9yIGNhdCBpbiBjYXRzOgogICAgICAgICAgICBjYXRzLndyaXRlKGNhdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSBndWVzdC50eHQK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignY2F0cy50eHQnLCAnYScpIGFzIGNfb2JqOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSBndWVzdC50eHQK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZG9ncy50eHQnLCAnYScpIGFzIGRfb2JqOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhpdF9jb2RlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGd1ZXN0bGlzdDoKICAgIGRrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZGV4X2luX3BpID0gaW50KHBpX3N0cmluZy5pbmRleChiaXJ0aGRheSkpCg==</text>
+        <text encoding="base64">IyBleGNlcHQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>100</last-search>
+      <last-search>cat</last-search>
       <last-offset />
-      <last-pattern>100</last-pattern>
+      <last-pattern>cat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -119,9 +133,9 @@
         <entry>appea</entry>
         <entry>birthday</entry>
         <entry>100</entry>
+        <entry>cat</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">aW1hcCA8cy1zcGFjZT4gXw==</entry>
         <entry>maps</entry>
         <entry>ls!</entry>
@@ -135,10 +149,12 @@
         <entry>map!</entry>
         <entry>inoremap j1 _</entry>
         <entry>verbose set timeoutlen?</entry>
-        <entry>set rnu</entry>
         <entry>ds(</entry>
         <entry>help i</entry>
         <entry>set surround</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPFRhYj4gPmd2IA==</entry>
+        <entry>set rnu</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,6 +177,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed TAB</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
