@@ -47,12 +47,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528229231870">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528231329781">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="/__dummy.as" timestamp="1528086847186">
         <mark key="[" line="0" column="0" />
@@ -71,35 +71,48 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="0" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="2" column="20" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
-      <jump line="9" column="28" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="10" column="19" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="13" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="9" column="15" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="21" column="3" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>write</text>
       </register>
       <register name="/" type="4">
-        <text>cat</text>
+        <text>read</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dHJ5OgogICAgd2l0aCBvcGVuKCdjYXRzLnR4dCcsICd3JykgYXMgZl9vYmo6CiAgICAgICAgZm9yIGNhdCBpbiBjYXRzOgogICAgICAgICAgICBjYXRzLndyaXRlKGNhdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignY2F0cy50eHQnLCAnYScpIGFzIGNfb2JqOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignZG9ncy50eHQnLCAnYScpIGFzIGRfb2JqOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -108,20 +121,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB0cnk6Cg==</text>
+        <text encoding="base64">ZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICBwcmludChmaWxlbmFtZSArICcgbm90IGluIG1haW4gZGlyZWN0b3J5IScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgcHJpbnQoZmlsZW5hbWUgKyAnIG5vdCBpbiBtYWluIGRpcmVjdG9yeSEnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>cat</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>cat</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>read</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -134,14 +147,11 @@
         <entry>birthday</entry>
         <entry>100</entry>
         <entry>cat</entry>
+        <entry>dogs</entry>
+        <entry>cats</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">aW1hcCA8cy1zcGFjZT4gXw==</entry>
-        <entry>maps</entry>
-        <entry>ls!</entry>
-        <entry>!cd ~/PycharmPr*/*Crash*</entry>
-        <entry>!pwd</entry>
-        <entry>set autochir</entry>
         <entry>!ls</entry>
         <entry>help write</entry>
         <entry>help</entry>
@@ -155,6 +165,13 @@
         <entry encoding="base64">dm5vcmVtYXAgPFRhYj4gPmd2IA==</entry>
         <entry>set rnu</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>so %</entry>
+        <entry>set hls</entry>
+        <entry>set ic</entry>
+        <entry>set noic</entry>
+        <entry>set nohls</entry>
+        <entry>noic</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
