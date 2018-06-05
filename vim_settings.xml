@@ -10,7 +10,7 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528092335979">
+      <file name="/Dummy.txt" timestamp="1528234406148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/.gitignore" timestamp="1528089730024">
@@ -47,12 +47,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528231329781">
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528234102910">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="36" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="/__dummy.as" timestamp="1528086847186">
         <mark key="[" line="0" column="0" />
@@ -87,11 +87,11 @@
       <jump line="20" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZW5hbWUgaW4gZmlsZW5hbWVzOgo=</text>
+      <register name="&quot;" type="4">
+        <text>filena</text>
       </register>
       <register name="-" type="4">
-        <text>write</text>
+        <text>filena</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
@@ -127,7 +127,7 @@
         <text encoding="base64">ZXhjZXB0IEZpbGVOb3RGb3VuZEVycm9yOgogICAgcHJpbnQoZmlsZW5hbWUgKyAnIG5vdCBpbiBtYWluIGRpcmVjdG9yeSEnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -152,7 +152,6 @@
         <entry>read</entry>
       </history-search>
       <history-cmd>
-        <entry>!ls</entry>
         <entry>help write</entry>
         <entry>help</entry>
         <entry>map</entry>
@@ -164,7 +163,6 @@
         <entry>set surround</entry>
         <entry encoding="base64">dm5vcmVtYXAgPFRhYj4gPmd2IA==</entry>
         <entry>set rnu</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>so %</entry>
         <entry>set hls</entry>
         <entry>set ic</entry>
@@ -172,6 +170,8 @@
         <entry>set nohls</entry>
         <entry>noic</entry>
         <entry>nohls</entry>
+        <entry>source ~/.ideavim</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
