@@ -1,8 +1,11 @@
 <keymap version="1" name="IdeaVimOSX" parent="Mac OS X 10.5+">
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl meta enter" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
@@ -13,7 +16,7 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />

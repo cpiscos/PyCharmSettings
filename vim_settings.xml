@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528227091452">
-        <mark key="'" line="3" column="20" />
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-      </file>
       <file name="/Dummy.txt" timestamp="1528234406148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,29 +14,15 @@
       <file name="/fragment.py" timestamp="1528234989273">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="22" />
-      </file>
       <file name="/a.dummy" timestamp="1528228664453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
-        <mark key="'" line="16" column="0" />
-        <mark key="j" line="16" column="54" />
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" timestamp="1528238151768">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" timestamp="1528240465931">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
         <mark key="[" line="41" column="60" />
@@ -57,14 +36,46 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528236292483">
-        <mark key="'" line="20" column="8" />
+      <file name="/__dummy.as" timestamp="1528086847186">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528227091452">
+        <mark key="'" line="3" column="20" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528241653188">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
+        <mark key="'" line="16" column="0" />
+        <mark key="j" line="16" column="54" />
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_reader.py" timestamp="1528241473530">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" timestamp="1528240659963">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="/__dummy.as" timestamp="1528086847186">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -98,14 +109,16 @@
       <jump line="22" column="2" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
       <jump line="20" column="8" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
       <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
-      <jump line="4" column="15" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
+      <jump line="6" column="3" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11numbersrss</text>
+        <text>, 'w'</text>
       </register>
       <register name="-" type="4">
-        <text>11numbersrss</text>
+        <text>, 'w'</text>
       </register>
       <register name="/" type="4">
         <text>hell</text>
@@ -114,34 +127,34 @@
         <text>Orange is the New Black</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnVtYmVycyA9IFsyLCAzLCA1LCA3LCAxMSwgMTNdCg==</text>
+        <text encoding="base64">cHJpbnQobnUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnVtYmVycyA9IFsyLCAzLCA1LCA3LCAxMSwgMTNdCg==</text>
+        <text encoding="base64">ICAgIGpzb24uZHVtcChudW1iZXJzLCBmX29iaikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnVtYmVycyA9IFsyLCAzLCA1LCA3LCAxMSwgMTNdCg==</text>
+        <text encoding="base64">anNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnVtYmVycyA9IFsyLCAzLCA1LCA3LCAxMSwgMTNdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnVtYmVycyA9IFsyLCAzLCA1LCA3LCAxMSwgMTNdCg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2h5Cg==</text>
+        <text encoding="base64">SGVsbG8gd29ybGQhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2h5Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSAnbnVtYmVycycgKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSAnbnVtYmVycycgKwo=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>set surround</text>
       </register>
     </registers>
     <search>
@@ -171,12 +184,9 @@
         <entry>hell</entry>
       </history-search>
       <history-cmd>
-        <entry>map!</entry>
-        <entry>inoremap j1 _</entry>
         <entry>verbose set timeoutlen?</entry>
         <entry>ds(</entry>
         <entry>help i</entry>
-        <entry>set surround</entry>
         <entry encoding="base64">dm5vcmVtYXAgPFRhYj4gPmd2IA==</entry>
         <entry>set rnu</entry>
         <entry>so %</entry>
@@ -188,9 +198,12 @@
         <entry>nohls</entry>
         <entry>source ~/.ideavim</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>reg</entry>
         <entry>actionlist</entry>
         <entry>action hippy</entry>
+        <entry>reg</entry>
+        <entry>set nosurround</entry>
+        <entry>nosurround</entry>
+        <entry>set surround</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -225,6 +238,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
