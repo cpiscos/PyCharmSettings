@@ -11,12 +11,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528159184532">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166518511">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
+        <mark key="'" line="16" column="0" />
+        <mark key="j" line="16" column="54" />
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
         <mark key="[" line="41" column="60" />
@@ -37,57 +44,57 @@
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
       <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
       <jump line="14" column="62" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ygo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>hered</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>birthday</text>
+        <text>100</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW5kZXhfaW5fcGkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ygo=</text>
+        <text encoding="base64">ICAgIGluZGV4X2luX3BpID0gaW50KHBpX3N0cmluZy5pbmRleChiaXJ0aGRheSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluZGV4X2luX3BpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHBpX3N0cmluZ1tpbmRleF9pbl9waS0xMDppbmRleF9pbl9waSsxMF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ygo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcK</text>
+        <text encoding="base64">ICAgIHByaW50KGluZGV4X2luX3BpKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
       </register>
       <register name=":" type="4">
         <text>help i</text>
       </register>
     </registers>
     <search>
-      <last-search>birthday</last-search>
+      <last-search>100</last-search>
       <last-offset />
-      <last-pattern>birthday</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>100</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -98,6 +105,7 @@
         <entry encoding="base64">XDxyc3RyaXBcPg==</entry>
         <entry>appea</entry>
         <entry>birthday</entry>
+        <entry>100</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
