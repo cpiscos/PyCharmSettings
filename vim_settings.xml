@@ -11,12 +11,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528092279568">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528159184532">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
         <mark key="[" line="41" column="60" />
@@ -34,38 +34,60 @@
       <jump line="0" column="32" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
       <jump line="3" column="29" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
       <jump line="12" column="9" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="14" column="62" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ygo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>one_million_digits</text>
+      <register name="-" type="4">
+        <text>hered</text>
+      </register>
+      <register name="/" type="4">
+        <text>birthday</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">aW5kZXhfaW5fcGkg</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ygo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+        <text encoding="base64">ICAgIHByaW50KGluZGV4X2luX3BpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQobGVuKHBpX3N0cmluZykpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IS8wOF9GdW5jdGlvbnMucHkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBpX3N0cmluZyArPSBsaW5lICAgLnJzdHJpcCgpCgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>inoremap j1 _</text>
-      </register>
-      <register name="-" type="4">
-        <text>one_million_digits</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxyc3RyaXBcPg==</text>
+        <text>help i</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyc3RyaXBcPg==</last-search>
+      <last-search>birthday</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyc3RyaXBcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>birthday</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -74,6 +96,8 @@
         <entry>;help</entry>
         <entry>:help</entry>
         <entry encoding="base64">XDxyc3RyaXBcPg==</entry>
+        <entry>appea</entry>
+        <entry>birthday</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -90,6 +114,10 @@
         <entry>map!</entry>
         <entry>inoremap j1 _</entry>
         <entry>verbose set timeoutlen?</entry>
+        <entry>set rnu</entry>
+        <entry>ds(</entry>
+        <entry>set surround</entry>
+        <entry>help i</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,6 +137,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
