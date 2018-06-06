@@ -46,12 +46,8 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528244237189">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528244366327">
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
         <mark key="[" line="2" column="21" />
@@ -121,16 +117,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVzZXI6YWN0aW9uIHtIaXBwaWVCYWNrd2FyZENvbXBsZXRpb259aW1wb3J0</text>
+        <text>usernahewhatrme</text>
       </register>
       <register name="/" type="4">
         <text>try</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
