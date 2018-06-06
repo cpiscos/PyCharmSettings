@@ -80,11 +80,12 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528270024212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528271632440">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_reader.py" timestamp="1528241473530">
         <mark key="[" line="3" column="18" />
@@ -224,6 +225,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/password_generator.py" />
       <jump line="10" column="13" filename="$USER_HOME$/PycharmProjects/PracticePython/password_generator.py" />
       <jump line="4" column="17" filename="$USER_HOME$/PycharmProjects/PracticePython/12 List Ends.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -236,7 +238,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQobGlzdChyYW5nZSgxMCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
@@ -248,30 +250,30 @@
         <text encoding="base64">ICAgICAgICBwcmludChzdHIodmFsdWUpICsgImlzIGEgcHJpbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobGlzdChyYW5nZSgxMCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Zmlib25hY2NpID0gWzFdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQobGlzdChyYW5nZSgxMCkpKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiBbblswXSArIG5bLTFdXQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>):
     
 a = [5, 10, 15, 20, 25</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IitQIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
