@@ -46,12 +46,12 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528243159375">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528244237189">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
         <mark key="[" line="2" column="21" />
@@ -116,55 +116,57 @@
       <jump line="4" column="26" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
       </register>
       <register name="-" type="4">
-        <text>jso</text>
+        <text encoding="base64">IHVzZXI6YWN0aW9uIHtIaXBwaWVCYWNrd2FyZENvbXBsZXRpb259aW1wb3J0</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>try</text>
       </register>
-      <register name="0" type="4">
-        <text>Orange is the New Black</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmlsZW5hOmFjdGlvbiB7SGlwcGllQmFja3dhcmRDb21wbGV0aW9ufTphY3Rpb24ge0hpcHBpZUJhY2t3YXJkQ29tcGxldGlvbmxldGlvbn1tZSA9ICd1c2VybmFtZS5qc29uJwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGlucHV0KCJXaGF0IGlzIHlvdXIgbmFtZT8iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lLCAndycpIGFzIGZfOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVDb21wbGV0aW9uZGRhY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiV2VsY29tZSBiYWNrICIgKyB1c2VyICsgIiEiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSAndXNlcgp3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZmlsZW5hbWU6YWN0aW9uIEhpcHBpZUJhY2t3YXJkQ29tcGxldGlvbjphY3Rpb24gSGlwcGllQmFja3dhcmRDb21wbGV0aW9uOmFjdGlvbiBIaXBwaWVCYWNrd2FyZENvbXBsZXRpb24K</text>
+        <text encoding="base64">Z3JlZXRfdXNlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlsZW5hbWUgPSAndXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQobnUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcChudW1iZXJzLCBmX29iaikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">anNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>try</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>try</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -184,9 +186,9 @@
         <entry>def</entry>
         <entry>write</entry>
         <entry>except</entry>
-        <entry>try</entry>
         <entry>hell</entry>
         <entry>file</entry>
+        <entry>try</entry>
       </history-search>
       <history-cmd>
         <entry>so %</entry>
@@ -197,9 +199,7 @@
         <entry>noic</entry>
         <entry>nohls</entry>
         <entry>source ~/.ideavim</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action hippy</entry>
-        <entry>reg</entry>
         <entry>set nosurround</entry>
         <entry>nosurround</entry>
         <entry>set surround</entry>
@@ -209,6 +209,8 @@
         <entry>action [Hippie]</entry>
         <entry>action HippieCompletion</entry>
         <entry>actionlist</entry>
+        <entry>reg</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -250,7 +252,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
