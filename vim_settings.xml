@@ -6,12 +6,18 @@
       <file name="/start_script.py" timestamp="1528249578128">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528255750517">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528259412702">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/password_generator.py" timestamp="1528260143757">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1528254619342">
         <mark key="[" line="0" column="0" />
@@ -188,63 +194,63 @@
       <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
       <jump line="4" column="37" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
-      <jump line="7" column="14" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
+      <jump line="7" column="12" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/password_generator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>random.choice(letters)</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>random.choice(letters)</text>
       </register>
       <register name="/" type="4">
-        <text>bg</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bGxfbmFtZSA9IGZpcnN0ICsgIiAiICsgbGFzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+        <text encoding="base64">cHJyYW5kb20uY2hvaWNlKGxldHRlcnMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ICAgIGVsaWYgZ3Vlc3MgPCBhY3R1YWxfbnVtYmVyOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAjIFNldCBiYWNrZ3JvdW5kIGNvbG9yCiAgICBiZ19jb2xvciA9ICgyMzAsIDIzMCwgMjMwKQo=</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB5Z2FtZS5kaXNwbGF5LnNldF9jYXB0aW9uKCJBbGllbiBJbnZhc2lvbiIpCgogICAgIyBTZXQgYmFja2dyb3VuZCBjb2xvcgogICAgYmdfY29sb3IgPSAoMjMwLCAyMzAsIDIzMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAjIFNldCBiYWNrZ3JvdW5kIGNvbG9yCiAgICBiZ19jb2xvciA9ICgyMzAsIDIzMCwgMjMwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVyZSBjb21lcyB0aGUgc3VuCg==</text>
+        <text encoding="base64">ICAgIHB5Z2FtZS5kaXNwbGF5LnNldF9jYXB0aW9uKCJBbGllbiBJbnZhc2lvbiIpCgogICAgIyBTZXQgYmFja2dyb3VuZCBjb2xvcgogICAgYmdfY29sb3IgPSAoMjMwLCAyMzAsIDIzMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
+        <text encoding="base64">aGVyZSBjb21lcyB0aGUgc3VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search>bg</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>bg</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>help</entry>
-        <entry>;help</entry>
         <entry>:help</entry>
         <entry encoding="base64">XDxyc3RyaXBcPg==</entry>
         <entry>appea</entry>
@@ -263,6 +269,8 @@
         <entry>janis</entry>
         <entry>Jop</entry>
         <entry>bg</entry>
+        <entry>pr</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
