@@ -141,6 +141,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528324458954">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
         <mark key="[" line="41" column="60" />
         <mark key="]" line="41" column="58" />
@@ -313,8 +319,8 @@
       <register name="a" type="4">
         <text>0r&quot;t,r&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y291bnQgPSBbJ2ZpcnN0JywgJ3NlY29uZCcsICd0aGlyZCddCg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -325,35 +331,35 @@
       <register name="0" type="2">
         <text encoding="base64">4pePIEl0IGlzIGRlY2lkZWRseSBzbwril48gV2l0aG91dCBhIGRvdWJ0Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>t,&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[j</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y291bnQgPSBbJ2ZpcnN0JywgJ3NlY29uZCcsICd0aGlyZCddCg==</text>
       </register>
       <register name="q" type="4">
         <text>0r&quot;t,r&quot;j</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoIiIpCg==</text>
+      <register name="2" type="4">
+        <text>t,&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[j</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoIiIpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>test</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aGV4ID0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aGV4ID0gaC5kKCJoZXgiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>h motion.txt</text>
