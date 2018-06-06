@@ -141,11 +141,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528324458954">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="4" column="10" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="4" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528325558954">
+        <mark key="'" line="10" column="28" />
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/09_Classes.py" timestamp="1527968208854">
         <mark key="[" line="41" column="60" />
@@ -216,16 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="8" column="28" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="0" column="32" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="3" column="29" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="12" column="9" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="14" column="62" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="0" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="2" column="20" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" />
       <jump line="11" column="6" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/10-8_Cats_and_Dogs.py" />
@@ -314,61 +305,104 @@
       <jump line="3" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
       <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
       <jump line="5" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="0" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="1" column="39" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="5" column="64" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="6" column="20" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="7" column="50" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="8" column="54" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>0r&quot;t,r&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y291bnQgPSBbJ2ZpcnN0JywgJ3NlY29uZCcsICd0aGlyZCddCg==</text>
+      <register name="&quot;" type="4">
+        <text>quit</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>quit</text>
       </register>
       <register name="/" type="4">
-        <text>le</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">4pePIEl0IGlzIGRlY2lkZWRseSBzbwril48gV2l0aG91dCBhIGRvdWJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y291bnQgPSBbJ2ZpcnN0JywgJ3NlY29uZCcsICd0aGlyZCddCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0cmlwbGUpCg==</text>
       </register>
       <register name="q" type="4">
-        <text>0r&quot;t,r&quot;j</text>
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
-      <register name="2" type="4">
-        <text>t,&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[j</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvdW50ID0gWydmaXJzdCcsICdzZWNvbmQnLCAndGhpcmQnXQogICAgdHJpcGxlID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>test</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y291bnQgPSBbJ2ZpcnN0JywgJ3NlY29uZCcsICd0aGlyZCddCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
+      <register name="6" type="4">
+        <text>t,&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[j</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
+        <text encoding="base64">cHJpbnQoIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGV4ID0K</text>
+        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
+      <register name="9" type="4">
+        <text>test</text>
       </register>
       <register name=":" type="4">
         <text>h motion.txt</text>
       </register>
     </registers>
     <search>
-      <last-search>le</last-search>
+      <last-search>.</last-search>
       <last-offset />
-      <last-pattern>le</last-pattern>
+      <last-pattern>.</last-pattern>
       <last-replace>second_plur_bottle</last-replace>
       <last-substitute>sing_bottle</last-substitute>
       <last-dir>1</last-dir>
@@ -376,15 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hell</entry>
-        <entry>file</entry>
-        <entry>try</entry>
-        <entry>def</entry>
-        <entry>janis</entry>
-        <entry>Jop</entry>
-        <entry>bg</entry>
-        <entry>pr</entry>
-        <entry>replace</entry>
         <entry>pass</entry>
         <entry>s</entry>
         <entry>x</entry>
@@ -396,6 +421,15 @@
         <entry>sing</entry>
         <entry>sing_bottle</entry>
         <entry>le</entry>
+        <entry>2</entry>
+        <entry>co</entry>
+        <entry>str</entry>
+        <entry>tri</entry>
+        <entry>print</entry>
+        <entry>tripl</entry>
+        <entry>\n</entry>
+        <entry>triple.</entry>
+        <entry>.</entry>
       </history-search>
       <history-cmd>
         <entry>action Hippie</entry>
