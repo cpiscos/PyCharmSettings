@@ -55,7 +55,6 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/passwords.json" timestamp="1528267668195" />
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528227091452">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="6" column="7" />
@@ -80,12 +79,11 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528271632440">
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528272079038">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="15" column="9" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_reader.py" timestamp="1528241473530">
         <mark key="[" line="3" column="18" />
@@ -110,7 +108,7 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528254619342">
+      <file name="/Dummy.txt" timestamp="1528272106469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/.gitignore" timestamp="1528089730024">
@@ -238,7 +236,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bnVtYmVyczEK</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
@@ -250,33 +248,31 @@
         <text encoding="base64">ICAgICAgICBwcmludChzdHIodmFsdWUpICsgImlzIGEgcHJpbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bnVtYmVyczEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zmlib25hY2NpbmFjY2FpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zmlib25hY2NpID0gWzFdCg==</text>
+        <text encoding="base64">ICAgIGZpYm9uYWNjaW5hY2NhaWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobGlzdChyYW5nZSgxMCkpKQo=</text>
+        <text encoding="base64">ICAgIGZvcmtqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbblswXSArIG5bLTFdXQo=</text>
+        <text encoding="base64">Zmlib25hY2NpaQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>):
-    
-a = [5, 10, 15, 20, 25</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zmlib25hY2NpID0gWzFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobGlzdChyYW5nZSgxMCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
