@@ -46,18 +46,25 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528245375916">
-        <mark key="'" line="30" column="70" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="32" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528245839128">
+        <mark key="'" line="29" column="70" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" timestamp="1528246426672">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="29" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
         <mark key="'" line="16" column="0" />
@@ -125,13 +132,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="27" column="14" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="30" column="70" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="5" column="36" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="17" column="23" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getc</text>
+        <text>avorite_number</text>
       </register>
       <register name="-" type="4">
-        <text>getc</text>
+        <text>avorite_number</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -140,31 +153,31 @@
         <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCiAgICAgICAgICAgIHByaW50KCJXZSdsbCByZW1lbWJlciB5b3Ugd2hlbiB5b3UgY29tZSBiYWNrLCAiICsgdXNlcm5hbWUgKyAiISIpCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGlucHV0KCJXaGF0IGlzIHlvdXIgbmFtZT8iKQo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCiAgICAgICAgICAgIHByaW50KCJXZSdsbCByZW1lbWJlciB5b3Ugd2hlbiB5b3UgY29tZSBiYWNrLCAiICsgdXNlcm5hbWUgKyAiISIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiV2VsY29tZSBiYWNrICIgKyB1c2VyICsgIiEiKQo=</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JlZXRfdXNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGlucHV0KCJXaGF0IGlzIHlvdXIgbmFtZT8iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>!ls</text>
