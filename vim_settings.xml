@@ -107,6 +107,19 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" timestamp="1528253205690">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/settings.py" timestamp="1528252906933">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" />
@@ -162,55 +175,57 @@
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
       <jump line="9" column="76" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" />
       <jump line="10" column="31" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>bg_color</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>bg_color</text>
       </register>
       <register name="/" type="4">
-        <text>Jop</text>
+        <text>bg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bGxfbmFtZSA9IGZpcnN0ICsgIiAiICsgbGFzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
+        <text encoding="base64">CiAgICAjIFNldCBiYWNrZ3JvdW5kIGNvbG9yCiAgICBiZ19jb2xvciA9ICgyMzAsIDIzMCwgMjMwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
+        <text encoding="base64">ICAgIHB5Z2FtZS5kaXNwbGF5LnNldF9jYXB0aW9uKCJBbGllbiBJbnZhc2lvbiIpCgogICAgIyBTZXQgYmFja2dyb3VuZCBjb2xvcgogICAgYmdfY29sb3IgPSAoMjMwLCAyMzAsIDIzMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVyZSBjb21lcyB0aGUgc3VuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfbmFtZShwYXJhbSwgcGFyYW0xKToKICAgIHBhc3MKCg==</text>
+        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CgpkZWYgZ2V0X2Zvcm1hdHRlZF9uYW1lKHBhcmFtLCBwYXJhbTEpOgo=</text>
+        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfbmFtZShwYXJhbSwgcGFyYW0xKToKICAgIHBhc3MKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search>Jop</last-search>
+      <last-search>bg</last-search>
       <last-offset />
-      <last-pattern>Jop</last-pattern>
+      <last-pattern>bg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,6 +250,7 @@
         <entry>def</entry>
         <entry>janis</entry>
         <entry>Jop</entry>
+        <entry>bg</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
