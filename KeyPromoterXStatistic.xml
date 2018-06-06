@@ -1,36 +1,84 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Close">
+      <Statistic Action="Declaration">
         <Item>
-          <IdeaActionID>CloseContent</IdeaActionID>
-          <ShortCut>'Ctrl+F4'</ShortCut>
-          <Description>Close</Description>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New...">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <Description>New...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'⇧⌘K'</ShortCut>
+          <Description>Push...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
-          <ShortCut>'Shift+F6'</ShortCut>
+          <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests in test_na...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Unittests in test_na...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Revert...">
+      <Statistic Action="Terminal">
         <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'Meta+Alt+Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>1</Count>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Settings...">
+      <Statistic Action="Toggle Line Breakpoint">
         <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Meta+Comma'</ShortCut>
-          <Description>Settings...</Description>
-          <Count>9</Count>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
