@@ -33,6 +33,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Desktop Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Desktop Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -46,6 +54,14 @@
           <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
           <ShortCut>'Ctrl+Quote'</ShortCut>
           <Description>Hide Grid</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Home Directory</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -78,7 +94,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'mql_squares'">
