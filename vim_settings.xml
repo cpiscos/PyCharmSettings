@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1528249578128">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528254998951">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1528254619342">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +50,11 @@
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/.gitignore" timestamp="1528254692082">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" timestamp="1528251466540">
         <mark key="'" line="10" column="31" />
@@ -93,14 +104,6 @@
         <mark key="]" line="29" column="39" />
         <mark key="^" line="22" column="10" />
         <mark key="." line="29" column="39" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/file_reader.py" timestamp="1528166261263">
-        <mark key="'" line="16" column="0" />
-        <mark key="j" line="16" column="54" />
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_reader.py" timestamp="1528241473530">
         <mark key="[" line="3" column="18" />
@@ -186,7 +189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="-" type="4">
         <text>bg_color</text>
@@ -198,31 +201,31 @@
         <text encoding="base64">ICAgIGZ1bGxfbmFtZSA9IGZpcnN0ICsgIiAiICsgbGFzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIFNldCBiYWNrZ3JvdW5kIGNvbG9yCiAgICBiZ19jb2xvciA9ICgyMzAsIDIzMCwgMjMwKQo=</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5Z2FtZS5kaXNwbGF5LnNldF9jYXB0aW9uKCJBbGllbiBJbnZhc2lvbiIpCgogICAgIyBTZXQgYmFja2dyb3VuZCBjb2xvcgogICAgYmdfY29sb3IgPSAoMjMwLCAyMzAsIDIzMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAjIFNldCBiYWNrZ3JvdW5kIGNvbG9yCiAgICBiZ19jb2xvciA9ICgyMzAsIDIzMCwgMjMwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGVyZSBjb21lcyB0aGUgc3VuCg==</text>
+        <text encoding="base64">ICAgIHB5Z2FtZS5kaXNwbGF5LnNldF9jYXB0aW9uKCJBbGllbiBJbnZhc2lvbiIpCgogICAgIyBTZXQgYmFja2dyb3VuZCBjb2xvcgogICAgYmdfY29sb3IgPSAoMjMwLCAyMzAsIDIzMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
+        <text encoding="base64">aGVyZSBjb21lcyB0aGUgc3VuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
@@ -328,6 +331,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
