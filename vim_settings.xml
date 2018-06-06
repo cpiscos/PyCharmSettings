@@ -19,7 +19,14 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1528272824321">
+      <file name="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" timestamp="1528317010790">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="/Python Console" timestamp="1528315968803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1528234989273">
@@ -258,6 +265,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/SnakeGame/player.py" />
       <jump line="5" column="12" filename="$USER_HOME$/PycharmProjects/SnakeGame/player.py" />
       <jump line="12" column="21" filename="$USER_HOME$/PycharmProjects/SnakeGame/player.py" />
+      <jump line="0" column="111" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
+      <jump line="3" column="31" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -269,53 +279,54 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>x</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSBzZWxmLnkgKyBzZWxmLnNwZWVkCg==</text>
+        <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>test</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">aGV4ID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aGV4ID0gaC5kKCJoZXgiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQoKCnByaW50KGhleF9zdHJpbmcpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>bytearray(
+    '49276d206b696c6c696e6720796f757220627261696e206c696b65206120706f69736f6e6f7573206d757368726f6f6d'.decode('hex'))</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>x</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>x</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -323,10 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>birthday</entry>
-        <entry>100</entry>
-        <entry>cat</entry>
-        <entry>dogs</entry>
         <entry>cats</entry>
         <entry>read</entry>
         <entry>write</entry>
@@ -343,6 +350,10 @@
         <entry>pass</entry>
         <entry>s</entry>
         <entry>x</entry>
+        <entry>hex</entry>
+        <entry>base</entry>
+        <entry>enco</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>action hippy</entry>

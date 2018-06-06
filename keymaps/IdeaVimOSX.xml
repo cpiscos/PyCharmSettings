@@ -1,4 +1,7 @@
 <keymap version="1" name="IdeaVimOSX" parent="Mac OS X 10.5+">
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
@@ -32,6 +35,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta i" />
