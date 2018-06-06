@@ -95,11 +95,12 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528318719644">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528319722516">
+        <mark key="'" line="16" column="42" />
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="18" column="65" />
+        <mark key="." line="18" column="65" />
+        <mark key="^" line="18" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Visualizing Data/mql_squares.py" timestamp="1528272819475">
         <mark key="[" line="3" column="17" />
@@ -112,6 +113,13 @@
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" timestamp="1528321531791">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/settings.py" timestamp="1528254350377">
         <mark key="[" line="7" column="20" />
@@ -276,75 +284,92 @@
       <jump line="3" column="31" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
       <jump line="2" column="17" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="3" column="60" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
-      <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="7" column="32" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="9" column="24" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="4" column="23" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="16" column="42" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="0" column="38" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="19" column="17" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="1" column="19" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="6" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="7" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="8" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="9" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="10" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="11" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="12" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="13" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="14" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="15" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="16" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="17" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="18" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
+      <jump line="5" column="1" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Magic 8 ball.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>0r&quot;t,r&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym90dGxlcyA=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>'of beer</text>
+        <text>le</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQo=</text>
+        <text encoding="base64">4pePIEl0IGlzIGRlY2lkZWRseSBzbwril48gV2l0aG91dCBhIGRvdWJ0Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
+      <register name="1" type="4">
+        <text>t,&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[j</text>
       </register>
-      <register name="2" type="4">
-        <text>test</text>
+      <register name="q" type="4">
+        <text>0r&quot;t,r&quot;j</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
+        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
+      <register name="4" type="4">
+        <text>test</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGV4ID0K</text>
+        <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
+        <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGV4ID0gaC5kKCJoZXgiKQo=</text>
+        <text encoding="base64">aGV4ID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQoKCnByaW50KGhleF9zdHJpbmcpCg==</text>
+        <text encoding="base64">aGV4ID0gaC5kKCJoZXgiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>h motion.txt</text>
       </register>
     </registers>
     <search>
-      <last-search>'of beer</last-search>
+      <last-search>le</last-search>
       <last-offset />
-      <last-pattern>'of beer</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-pattern>le</last-pattern>
+      <last-replace>second_plur_bottle</last-replace>
+      <last-substitute>sing_bottle</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
-        <entry>write</entry>
-        <entry>except</entry>
         <entry>hell</entry>
         <entry>file</entry>
         <entry>try</entry>
@@ -362,11 +387,11 @@
         <entry>enco</entry>
         <entry>test</entry>
         <entry>'of beer</entry>
+        <entry>sing</entry>
+        <entry>sing_bottle</entry>
+        <entry>le</entry>
       </history-search>
       <history-cmd>
-        <entry>action hippy</entry>
-        <entry>set nosurround</entry>
-        <entry>nosurround</entry>
         <entry>action Hippie</entry>
         <entry>action</entry>
         <entry>action [Hippie}</entry>
@@ -384,6 +409,9 @@
         <entry>set number</entry>
         <entry>%s/x/y/g</entry>
         <entry>reg</entry>
+        <entry>%s/sing_bottle/first_plur_bottle/g</entry>
+        <entry>%s/sing_bottle/second_plur_bottle/g</entry>
+        <entry>h motion.txt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
