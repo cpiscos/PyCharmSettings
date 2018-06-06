@@ -46,8 +46,12 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528244366327">
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" timestamp="1528245375916">
+        <mark key="'" line="30" column="70" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/write_message.py" timestamp="1528166616718">
         <mark key="[" line="2" column="21" />
@@ -111,58 +115,65 @@
       <jump line="4" column="19" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/number_writer.py" />
       <jump line="4" column="26" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="5" column="11" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
-      <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="34" column="32" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="27" column="14" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
+      <jump line="30" column="70" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/remember_me.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+      <register name="&quot;" type="4">
+        <text>getc</text>
       </register>
       <register name="-" type="4">
-        <text>usernahewhatrme</text>
+        <text>getc</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>def</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCiAgICAgICAgICAgIHByaW50KCJXZSdsbCByZW1lbWJlciB5b3Ugd2hlbiB5b3UgY29tZSBiYWNrLCAiICsgdXNlcm5hbWUgKyAiISIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGlucHV0KCJXaGF0IGlzIHlvdXIgbmFtZT8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdW1wKHVzZXJuYW1lLCBmX29iaikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiV2VsY29tZSBiYWNrICIgKyB1c2VyICsgIiEiKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JlZXRfdXNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9IGlucHV0KCJXaGF0IGlzIHlvdXIgbmFtZT8iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiV2VsY29tZSBiYWNrICIgKyB1c2VyICsgIiEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JlZXRfdXNlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>!ls</text>
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -179,15 +190,14 @@
         <entry>dogs</entry>
         <entry>cats</entry>
         <entry>read</entry>
-        <entry>def</entry>
         <entry>write</entry>
         <entry>except</entry>
         <entry>hell</entry>
         <entry>file</entry>
         <entry>try</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>so %</entry>
         <entry>set hls</entry>
         <entry>set ic</entry>
         <entry>set noic</entry>
@@ -207,6 +217,7 @@
         <entry>actionlist</entry>
         <entry>reg</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>!ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
