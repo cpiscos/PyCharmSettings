@@ -95,6 +95,12 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528318719644">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Visualizing Data/mql_squares.py" timestamp="1528272819475">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="4" column="8" />
@@ -268,6 +274,9 @@
       <jump line="0" column="111" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
       <jump line="3" column="31" filename="$USER_HOME$/PycharmProjects/Cryptopals/Set 1/Challenge 1.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="3" column="60" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="9" column="3" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -279,54 +288,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">Ym90dGxlcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>'of beer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIGJvdHRsZXMtMSA9PSAxOgogICAgICAgIHNpbmdfYm90dGxlID0gJyBib3R0bGUgJwogICAgZWxzZToKICAgICAgICBzaW5nX2JvdHRsZSA9ICcgYm90dGxlcyAnCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>test</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dGVzdCA9IGNvZGVjcy5kZWNvZGUoaGV4LCAnaGV4JykK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aGV4ID0gaC5kZWNvZGUoImhleCIpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aGV4ID0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGJpbmFzY2lpCgpoZXhfc3RyaW5nID0gIjQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZCIKYmluX2hleCA9IGJpbmFzY2lpLmEyYl9oZXgoaGV4X3N0cmluZykKcHJpbnQoYmluX2hleCkKZW5jb2RlZF9iYXNlNjQgPSBiaW5hc2NpaS5iMmFfYmFzZTY0KGJpbl9oZXgpCnByaW50KGVuY29kZWRfYmFzZTY0KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aGV4ID0gaC5kKCJoZXgiKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aGV4X3N0cmluZyA9Ynl0ZWFycmF5KDQ5Mjc2ZDIwNmI2OTZjNmM2OTZlNjcyMDc5NmY3NTcyMjA2MjcyNjE2OTZlMjA2YzY5NmI2NTIwNjEyMDcwNmY2OTczNmY2ZTZmNzU3MzIwNmQ3NTczNjg3MjZmNmY2ZC5kZWNvZGUoJ2hleCcpKQoKCnByaW50KGhleF9zdHJpbmcpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>bytearray(
-    '49276d206b696c6c696e6720796f757220627261696e206c696b65206120706f69736f6e6f7573206d757368726f6f6d'.decode('hex'))</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>'of beer</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>'of beer</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cats</entry>
         <entry>read</entry>
         <entry>write</entry>
         <entry>except</entry>
@@ -354,6 +361,7 @@
         <entry>base</entry>
         <entry>enco</entry>
         <entry>test</entry>
+        <entry>'of beer</entry>
       </history-search>
       <history-cmd>
         <entry>action hippy</entry>
