@@ -6,11 +6,12 @@
       <file name="/start_script.py" timestamp="1528249578128">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528255133428">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528255750517">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1528254619342">
         <mark key="[" line="0" column="0" />
@@ -186,13 +187,15 @@
       <jump line="10" column="31" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" />
       <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Alien Invasion/alien_invasion.py" />
+      <jump line="4" column="37" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
+      <jump line="7" column="14" filename="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>bg_color</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>bg</text>
@@ -228,7 +231,7 @@
         <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>set surround</text>
       </register>
     </registers>
     <search>
@@ -262,7 +265,6 @@
         <entry>bg</entry>
       </history-search>
       <history-cmd>
-        <entry>set hls</entry>
         <entry>set ic</entry>
         <entry>set noic</entry>
         <entry>set nohls</entry>
@@ -280,8 +282,9 @@
         <entry>actionlist</entry>
         <entry>reg</entry>
         <entry>!ls</entry>
-        <entry>set surround</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>set surroung</entry>
+        <entry>set surround</entry>
       </history-cmd>
       <history-expr />
       <history-input />
