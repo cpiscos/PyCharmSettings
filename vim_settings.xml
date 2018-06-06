@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1528249578128">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528254998951">
-        <mark key="[" line="2" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/09 Guessing Game One.py" timestamp="1528255133428">
+        <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
@@ -228,7 +228,7 @@
         <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -279,9 +279,9 @@
         <entry>action HippieCompletion</entry>
         <entry>actionlist</entry>
         <entry>reg</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>!ls</entry>
         <entry>set surround</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
