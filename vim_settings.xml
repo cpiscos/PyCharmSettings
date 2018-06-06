@@ -45,20 +45,21 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" timestamp="1528250435348">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" timestamp="1528251466540">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="/__dummy.as" timestamp="1528086847186">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/name_function.py" timestamp="1528248340657">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/name_function.py" timestamp="1528250907660">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonCrashCourse/10 Guests.py" timestamp="1528227091452">
         <mark key="'" line="3" column="20" />
@@ -159,56 +160,58 @@
       <jump line="31" column="16" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
       <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 10/favorite_number.py" />
+      <jump line="9" column="76" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" />
+      <jump line="10" column="31" filename="$USER_HOME$/PycharmProjects/PythonCrashCourse/Lesson 11/test_name_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>na</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text>Jop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+        <text encoding="base64">ICAgIGZ1bGxfbmFtZSA9IGZpcnN0ICsgIiAiICsgbGFzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW5pdGVzdC5tYWluKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfbmFtZShwYXJhbSwgcGFyYW0xKToKICAgIHBhc3MKCg==</text>
+        <text encoding="base64">dW5pdHRlc3QubWFpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CgpkZWYgZ2V0X2Zvcm1hdHRlZF9uYW1lKHBhcmFtLCBwYXJhbTEpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
+        <text encoding="base64">ZGVmIGdldF9mb3JtYXR0ZWRfbmFtZShwYXJhbSwgcGFyYW0xKToKICAgIHBhc3MKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CgpkZWYgZ2V0X2Zvcm1hdHRlZF9uYW1lKHBhcmFtLCBwYXJhbTEpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGZfb2JqOgogICAgICAgICAgICB1c2VyID0ganNvbi5sb2FkKGZfb2JqKQogICAgICAgIHByaW50KCJXZWxjb21lIGJhY2sgIiArIHVzZXIgKyAiISIpCiAgICBleGNlcHQgRmlsZU5vdEZvdW5kRXJyb3I6CiAgICAgICAgdXNlcm5hbWUgPSBpbnB1dCgiV2hhdCBpcyB5b3VyIG5hbWU/IikKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICd3JykgYXMgZl9vYmo6CiAgICAgICAgICAgIGpzb24uZHVtcCh1c2VybmFtZSwgZl9vYmopCiAgICAgICAgICAgIHByaW50KCJXZSdsbCByZW1lbWJlciB5b3Ugd2hlbiB5b3UgY29tZSBiYWNrLCAiICsgdXNlcm5hbWUgKyAiISIpCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2Zhdm9yaXRlX251bWJlci5qc29uJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ3VzZXJuYW1lLmpzb24nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>!ls</text>
+        <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search>Jop</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Jop</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -230,6 +233,8 @@
         <entry>file</entry>
         <entry>try</entry>
         <entry>def</entry>
+        <entry>janis</entry>
+        <entry>Jop</entry>
       </history-search>
       <history-cmd>
         <entry>set hls</entry>
@@ -242,7 +247,6 @@
         <entry>action hippy</entry>
         <entry>set nosurround</entry>
         <entry>nosurround</entry>
-        <entry>set surround</entry>
         <entry>action Hippie</entry>
         <entry>action</entry>
         <entry>action [Hippie}</entry>
@@ -252,6 +256,7 @@
         <entry>reg</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>!ls</entry>
+        <entry>set surround</entry>
       </history-cmd>
       <history-expr />
       <history-input />
