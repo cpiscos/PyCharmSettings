@@ -12,8 +12,8 @@
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528339303491">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528340565923">
+        <mark key="'" line="5" column="15" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="69" />
         <mark key="." line="13" column="13" />
@@ -21,11 +21,18 @@
     </filemarks>
     <jumps>
       <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="6" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="11" column="54" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -38,16 +45,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>noh</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>tri</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>tri</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>tri</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -55,13 +62,26 @@
       <history-search>
         <entry>srt</entry>
         <entry>sort</entry>
-        <entry>append</entry>
         <entry>count</entry>
+        <entry>triple.s</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry encoding="base64">XDx0cmlwbGVcPg==</entry>
+        <entry>exit.cond</entry>
+        <entry>t.</entry>
+        <entry>t</entry>
+        <entry>sear</entry>
+        <entry>str</entry>
+        <entry>append</entry>
+        <entry>tri</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
         <entry>set incsearch</entry>
         <entry>reg</entry>
+        <entry>?</entry>
+        <entry>/exit.cond</entry>
+        <entry>?exit.cond</entry>
+        <entry>noh</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
