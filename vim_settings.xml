@@ -12,21 +12,53 @@
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528337516881">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528337948687">
+        <mark key="'" line="1" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="5" column="32" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>set incsearch</text>
+      </register>
+      <register name="/" type="4">
+        <text>append</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>append</last-search>
+      <last-offset />
+      <last-pattern>append</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>srt</entry>
+        <entry>sort</entry>
+        <entry>count</entry>
+        <entry>append</entry>
+      </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
+        <entry>set incsearch</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
