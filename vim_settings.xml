@@ -9,11 +9,14 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
+      <file name="/Python Console" timestamp="1528340793991">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528340565923">
-        <mark key="'" line="5" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528340838762">
+        <mark key="'" line="13" column="12" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="69" />
         <mark key="." line="13" column="13" />
@@ -22,7 +25,6 @@
     <jumps>
       <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="2" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="6" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
@@ -33,6 +35,7 @@
       <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -48,13 +51,13 @@
         <text>noh</text>
       </register>
       <register name="/" type="4">
-        <text>tri</text>
+        <text>else</text>
       </register>
     </registers>
     <search>
-      <last-search>tri</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>tri</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -73,6 +76,7 @@
         <entry>str</entry>
         <entry>append</entry>
         <entry>tri</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
@@ -83,6 +87,8 @@
         <entry>?exit.cond</entry>
         <entry>noh</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
