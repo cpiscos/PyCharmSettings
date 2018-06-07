@@ -12,12 +12,12 @@
       <file name="/Python Console" timestamp="1528346248196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528354285057">
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528357547840">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
@@ -51,28 +51,55 @@
       <jump line="6" column="6" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">d2hrCg==</text>
+      <register name="1" type="8">
+        <text>n range(1,100):
+tles = 100-i
+bottles == 2:
+ first_plur_bottle = '
+ second_plur_bottle = 
+f bottles == 1:
+ first_plur_bottle = '
+ second_plur_bottle = 
+e:
+ first_plur_bottle = '
+ second_plur_bottle = 
+nt()
+nt(str(bottles) + firs</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hrCg==</text>
+      <register name="&quot;" type="8">
+        <text>n range(1,100):
+tles = 100-i
+bottles == 2:
+ first_plur_bottle = '
+ second_plur_bottle = 
+f bottles == 1:
+ first_plur_bottle = '
+ second_plur_bottle = 
+e:
+ first_plur_bottle = '
+ second_plur_bottle = 
+nt()
+nt(str(bottles) + firs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">d2hrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5wdXQoKQo=</text>
+        <text encoding="base64">CgoKCgoKCgoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGpqaWlqampqago=</text>
+        <text encoding="base64">aW5wdXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
+        <text encoding="base64">IGpqaWlqampqago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
