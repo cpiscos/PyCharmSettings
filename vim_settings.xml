@@ -12,18 +12,20 @@
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528337948687">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528339303491">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="13" />
       </file>
     </filemarks>
     <jumps>
       <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="5" column="32" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -36,16 +38,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set incsearch</text>
+        <text>reg</text>
       </register>
       <register name="/" type="4">
-        <text>append</text>
+        <text>count</text>
       </register>
     </registers>
     <search>
-      <last-search>append</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>append</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -53,12 +55,13 @@
       <history-search>
         <entry>srt</entry>
         <entry>sort</entry>
-        <entry>count</entry>
         <entry>append</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
         <entry>set incsearch</entry>
+        <entry>reg</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -70,6 +73,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
