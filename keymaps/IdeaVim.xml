@@ -6,6 +6,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt escape" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
@@ -47,6 +50,9 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickActionPopup" />
   <action id="QuickJavaDoc">
