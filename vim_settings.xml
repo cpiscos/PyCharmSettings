@@ -12,6 +12,12 @@
       <file name="/Python Console" timestamp="1528346248196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528352641698">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,6 +45,9 @@
       <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="3" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -72,14 +81,14 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text>if</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>if</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -103,6 +112,7 @@
         <entry>ran</entry>
         <entry encoding="base64">XDxuXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
@@ -144,6 +154,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
