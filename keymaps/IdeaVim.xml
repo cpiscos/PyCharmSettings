@@ -9,6 +9,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -50,6 +51,9 @@
   <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="QuickActionPopup" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
