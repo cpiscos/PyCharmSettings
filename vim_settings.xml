@@ -15,11 +15,17 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="/code.py" timestamp="1528400773483">
+      <file name="/code.py" timestamp="1528400914605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528403857899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="/Python Console" timestamp="1528400751776">
         <mark key="[" line="0" column="0" />
@@ -46,6 +52,13 @@
         <mark key="]" line="162" column="10" />
         <mark key="." line="162" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528405244206">
+        <mark key="'" line="0" column="24" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
@@ -69,122 +82,37 @@
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" />
       <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="0" column="24" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGljdAo=</text>
+      <register name="&quot;" type="4">
+        <text>dict[key]</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>dict[key]</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f1&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;display_brightness_decrement&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f2&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;display_brightness_increment&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f3&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;key_code&quot;: &quot;mission_control&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f4&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;key_code&quot;: &quot;launchpad&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f5&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;key_code&quot;: &quot;illumination_decrement&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f6&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;key_code&quot;: &quot;illumination_increment&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f7&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;rewind&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f8&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;play_or_pause&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f9&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;fastforward&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f10&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;mute&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f11&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;volume_decrement&quot;
-                    }
-                },
-                {
-                    &quot;from&quot;: {
-                        &quot;key_code&quot;: &quot;f12&quot;
-                    },
-                    &quot;to&quot;: {
-                        &quot;consumer_key_code&quot;: &quot;volume_increment&quot;
-                    }
-                }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChrZXksIGRpY3Rba2V5XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGljdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGljdAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImNhcHNfbG9jayIKICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0X2NvbW1hbmQiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>n range(1,100):
 tles = 100-i
 bottles == 2:
@@ -199,23 +127,14 @@ e:
 nt()
 nt(str(bottles) + firs</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">d2hrCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CgoKCgoKCgoKCgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW5wdXQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IGpqaWlqampqago=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW5wdXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
