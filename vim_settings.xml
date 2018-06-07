@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py" timestamp="1528336553171">
@@ -9,17 +9,18 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1528340793991">
+      <file name="/Python Console" timestamp="1528341063046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528340838762">
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528341414256">
         <mark key="'" line="13" column="12" />
         <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="69" />
-        <mark key="." line="13" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -48,7 +49,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action HippieCompletion</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
@@ -59,7 +60,7 @@
       <last-offset />
       <last-pattern>else</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -86,15 +87,17 @@
         <entry>/exit.cond</entry>
         <entry>?exit.cond</entry>
         <entry>noh</entry>
+        <entry>let @/=&quot;&quot;</entry>
+        <entry>action HippieCompletion</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
