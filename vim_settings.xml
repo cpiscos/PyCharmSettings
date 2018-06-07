@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528394829049">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528397478285">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="106" column="16" />
         <mark key="." line="0" column="1" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py" timestamp="1528336553171">
@@ -17,8 +18,8 @@
       <file name="/Python Console" timestamp="1528346248196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528393298684">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528398595504">
+        <mark key="'" line="5" column="7" />
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -33,6 +34,11 @@
         <mark key="]" line="14" column="7" />
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528390258.json" timestamp="1528396156342">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="10" />
+        <mark key="." line="162" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -51,26 +57,128 @@
       <jump line="8" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="3" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="3" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="6" column="6" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="8" column="19" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
+      <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" />
+      <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJnbG9iYWwiOiB7ImNoZWNrX2Zvcl91cGRhdGVzX29uX3N0YXJ0dXAiOiB0cnVlLCAic2hvd19pbl9tZW51X2JhciI6IHRydWUsICJzaG93X3Byb2ZpbGVfbmFtZV9pbl9tZW51X2JhciI6IGZhbHNlfSwgInByb2ZpbGVzIjogWwo=</text>
+        <text encoding="base64">ZGljdAo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>elif</text>
+        <text>con</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJnbG9iYWwiOiB7ImNoZWNrX2Zvcl91cGRhdGVzX29uX3N0YXJ0dXAiOiB0cnVlLCAic2hvd19pbl9tZW51X2JhciI6IHRydWUsICJzaG93X3Byb2ZpbGVfbmFtZV9pbl9tZW51X2JhciI6IGZhbHNlfSwgInByb2ZpbGVzIjogWwo=</text>
+      <register name="0" type="4">
+        <text>{
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f1&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;display_brightness_decrement&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f2&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;display_brightness_increment&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f3&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;key_code&quot;: &quot;mission_control&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f4&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;key_code&quot;: &quot;launchpad&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f5&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;key_code&quot;: &quot;illumination_decrement&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f6&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;key_code&quot;: &quot;illumination_increment&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f7&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;rewind&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f8&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;play_or_pause&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f9&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;fastforward&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f10&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;mute&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f11&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;volume_decrement&quot;
+                    }
+                },
+                {
+                    &quot;from&quot;: {
+                        &quot;key_code&quot;: &quot;f12&quot;
+                    },
+                    &quot;to&quot;: {
+                        &quot;consumer_key_code&quot;: &quot;volume_increment&quot;
+                    }
+                }</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ZGljdAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImNhcHNfbG9jayIKICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0X2NvbW1hbmQiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>n range(1,100):
 tles = 100-i
 bottles == 2:
@@ -85,41 +193,37 @@ e:
 nt()
 nt(str(bottles) + firs</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">d2hrCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CgoKCgoKCgoKCgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW5wdXQoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IGpqaWlqampqago=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>elif</last-search>
+      <last-search>con</last-search>
       <last-offset />
-      <last-pattern>elif</last-pattern>
+      <last-pattern>con</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDx0cmlwbGVcPg==</entry>
         <entry>exit.cond</entry>
         <entry>t.</entry>
@@ -139,20 +243,23 @@ nt(str(bottles) + firs</text>
         <entry>plu</entry>
         <entry>for</entry>
         <entry>elif</entry>
+        <entry>con</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
         <entry>set incsearch</entry>
-        <entry>reg</entry>
         <entry>?</entry>
         <entry>/exit.cond</entry>
         <entry>?exit.cond</entry>
         <entry>action HippieCompletion</entry>
         <entry>let @/ = &quot;&quot;</entry>
         <entry>let @/=&quot;&quot;</entry>
-        <entry>noh</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>reg</entry>
+        <entry>noh</entry>
+        <entry>e</entry>
+        <entry encoding="base64">ZWRpdCA=</entry>
         <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
@@ -191,6 +298,9 @@ nt(str(bottles) + firs</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

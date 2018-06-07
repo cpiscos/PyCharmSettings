@@ -4,10 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="ContextHelp" />
   <action id="EditorChooseLookupItemCompleteStatement" />
@@ -18,6 +15,7 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorJoinLines" />
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
@@ -53,9 +51,6 @@
   <action id="QuickActionPopup" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
-  </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt back_quote" />
