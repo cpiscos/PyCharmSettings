@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py" timestamp="1528336553171">
@@ -15,12 +15,12 @@
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528342418824">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528345682674">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -29,26 +29,38 @@
       <jump line="1" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="2" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="6" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="8" column="25" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="11" column="54" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="9" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
       <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
-      <jump line="13" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="8" column="62" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
+        <text encoding="base64">d2hrCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
+        <text encoding="base64">d2hrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoKCgoKCgoKCgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW5wdXQoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IGpqaWlqampqago=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -66,7 +78,7 @@
       <last-offset />
       <last-pattern>else</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
