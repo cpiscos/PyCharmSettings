@@ -23,4 +23,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift #100007e" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>

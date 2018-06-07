@@ -15,12 +15,12 @@
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528341414256">
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528342418824">
         <mark key="'" line="13" column="12" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -40,16 +40,22 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBweXRoYWdvcmVhbmlxcm91ZWphZmRrc252Y216eGpuID0gUHl0aGFnb3JlYW5wCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action HippieCompletion</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
