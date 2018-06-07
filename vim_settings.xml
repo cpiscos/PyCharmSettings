@@ -52,12 +52,11 @@
         <mark key="]" line="162" column="10" />
         <mark key="." line="162" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528405244206">
-        <mark key="'" line="0" column="24" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528407964813">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -83,75 +82,72 @@
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" />
       <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" />
       <jump line="0" column="24" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="1" column="7" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="5" column="1" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dict[key]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bXlfYXJyID0gbnAuYXJhbmdlKDEwMDAwMDApCm15X3JhbiA9IGxpc3QocmFuZ2UoMTAwMDAwMCkpCgpzdGFydCA9IHRpbWUudGltZSgpCm15X2FyciA9IG15X2FyciAqIDIKcHJpbnQodGltZS50aW1lKCktc3RhcnQpCgpzdGFydCA9IHRpbWUudGltZSgpCm15X3JhbiA9IG15X3JhbiAqIDIKcHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dict[key]</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>my</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXksIGRpY3Rba2V5XSkK</text>
+        <text encoding="base64">cHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bXlfYXJyID0gbnAuYXJhbmdlKDEwMDAwMDApCm15X3JhbiA9IGxpc3QocmFuZ2UoMTAwMDAwMCkpCgpzdGFydCA9IHRpbWUudGltZSgpCm15X2FyciA9IG15X2FyciAqIDIKcHJpbnQodGltZS50aW1lKCktc3RhcnQpCgpzdGFydCA9IHRpbWUudGltZSgpCm15X3JhbiA9IG15X3JhbiAqIDIKcHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZmluaXNoID0gZGF0ZXRpbWUudGltZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGljdAo=</text>
+        <text encoding="base64">cHJpbnQoZGF0ZXRpbWUudGltZWRlbHRhKHN0YXJ0KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImNhcHNfbG9jayIKICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0X2NvbW1hbmQiCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Zm9yIGEgaW4gCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>n range(1,100):
-tles = 100-i
-bottles == 2:
- first_plur_bottle = '
- second_plur_bottle = 
-f bottles == 1:
- first_plur_bottle = '
- second_plur_bottle = 
-e:
- first_plur_bottle = '
- second_plur_bottle = 
-nt()
-nt(str(bottles) + firs</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZmluaXNoID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hrCg==</text>
+        <text encoding="base64">ZGF0ZXRpbWUudGltZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">ZGljdCA9IHsnYSc6IFsndmFsdWUgYScsICd2YWx1ZSBjJ10sICdiJzogJ3ZhbHVlIGInfQpmb3Iga2V5IGluIGRpY3Q6CiAgICBpZiBsZW4oZGljdFtrZXldKSAhPSAxOgogICAgICAgIGZvciBlYWNoIGluIGRpY3Rba2V5XToKICAgICAgICAgICAgcHJpbnQoa2V5LCBlYWNoKQogICAgZWxzZToKICAgICAgICBwcmludChrZXksIGRpY3Rba2V5XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>jumps</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>my</last-pattern>
+      <last-replace>my_ran</last-replace>
+      <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlwbGVcPg==</entry>
-        <entry>exit.cond</entry>
-        <entry>t.</entry>
         <entry>t</entry>
         <entry>sear</entry>
         <entry>str</entry>
@@ -169,6 +165,9 @@ nt(str(bottles) + firs</text>
         <entry>for</entry>
         <entry>elif</entry>
         <entry>con</entry>
+        <entry encoding="base64">XDxzdGFydFw+</entry>
+        <entry>my.arr</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
@@ -187,6 +186,8 @@ nt(str(bottles) + firs</text>
         <entry encoding="base64">ZWRpdCA=</entry>
         <entry>action EditorJoinLines</entry>
         <entry>sp</entry>
+        <entry>s/my.arr/my_ran/g</entry>
+        <entry>jumps</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -227,6 +228,9 @@ nt(str(bottles) + firs</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
