@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1528442725453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1528486579824">
+      <file name="/code.py" timestamp="1528487532398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -27,6 +27,11 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" timestamp="1528487681427">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="133" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
@@ -254,7 +259,7 @@
         <text encoding="base64">bmV3ID0gW10KcHJpbnQobHN0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text encoding="base64">JzwsJz5yZWc=</text>
       </register>
     </registers>
     <search>
@@ -290,7 +295,6 @@
         <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>set background=dark</entry>
         <entry>set incsearch</entry>
         <entry>?</entry>
         <entry>/exit.cond</entry>
@@ -310,6 +314,7 @@
         <entry>%y+</entry>
         <entry>action EditorJoinLines</entry>
         <entry>set surround</entry>
+        <entry encoding="base64">JzwsJz5yZWc=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
