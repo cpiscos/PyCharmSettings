@@ -6,13 +6,13 @@
       <file name="/Dummy.txt" timestamp="1528442725453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1528466862162">
+      <file name="/code.py" timestamp="1528486579824">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1528477999406">
+      <file name="/Python Console" timestamp="1528485594027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528471914219">
@@ -49,11 +49,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528481441611">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528470909280">
         <mark key="'" line="129" column="13" />
@@ -179,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100, 5</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>100, 5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>[</text>
@@ -191,7 +191,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJvcHRpb25hbCI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYW55IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgptdHJ4ID0gbnAuYXJyYXkoKFsxLDIsM10sIFsxLDIsM10pKQpuZXcgPSBtdHJ4WyhtdHJ4ID4gMSldCgpwcmludChtdHJ4KQpwcmludChuZXcpCg==</text>
+        <text encoding="base64">cHJpbnQocm5nLnJhbmRuKDIsIDEwMCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -209,28 +209,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGltZS50aW1lKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobmV3KQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgptdHJ4ID0gbnAuYXJyYXkoKFsxLDIsM10sIFsxLDIsM10pKQpuZXcgPSBtdHJ4WyhtdHJ4ID4gMSldCgpwcmludChtdHJ4KQpwcmludChuZXcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmV3ID0gW24qKjkgZm9yIG4gaW4gbHN0XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bHN0ID0gbGlzdChyYW5nZSgxMDApKQo=</text>
+        <text encoding="base64">cHJpbnQobmV3KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">bmV3ID0gW24qKjkgZm9yIG4gaW4gbHN0XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV3ID0gW10KcHJpbnQobHN0KQo=</text>
+        <text encoding="base64">bHN0ID0gbGlzdChyYW5nZSgxMDApKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgbmV3IAo=</text>
+        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gbHN0Ogo=</text>
+        <text encoding="base64">bmV3ID0gW10KcHJpbnQobHN0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
