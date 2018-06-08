@@ -49,6 +49,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528479205927">
+        <mark key="'" line="2" column="26" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528470909280">
         <mark key="'" line="129" column="13" />
         <mark key="[" line="8" column="0" />
@@ -165,16 +172,19 @@
       <jump line="5" column="24" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
       <jump line="0" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" />
+      <jump line="3" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lmao</text>
+        <text>'lol'</text>
       </register>
       <register name="-" type="4">
-        <text>lmao</text>
+        <text>'lol'</text>
       </register>
       <register name="/" type="4">
-        <text>ls</text>
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJvcHRpb25hbCI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYW55IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -226,9 +236,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ls</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern>ls</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>my_ran</last-replace>
       <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
@@ -236,7 +246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fplu</entry>
         <entry>plu</entry>
         <entry>for</entry>
         <entry>elif</entry>
@@ -256,6 +265,7 @@
         <entry>request</entry>
         <entry>from</entry>
         <entry>ls</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
