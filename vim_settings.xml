@@ -3,24 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528419335543">
-        <mark key="'" line="129" column="13" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
-        <mark key="'" line="4" column="22" />
-        <mark key="[" line="104" column="5" />
-        <mark key="]" line="104" column="5" />
-        <mark key="^" line="90" column="41" />
-        <mark key="." line="104" column="5" />
-      </file>
-      <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py" timestamp="1528336553171">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="/Dummy.txt" timestamp="1528442725453">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1528400914605">
         <mark key="[" line="0" column="0" />
@@ -28,21 +12,8 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528403857899">
+      <file name="/Python Console" timestamp="1528443860593">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="/Python Console" timestamp="1528400751776">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528398595504">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528425801988">
         <mark key="'" line="13" column="39" />
@@ -66,11 +37,49 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="178" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528419335543">
+        <mark key="'" line="129" column="13" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="104" column="5" />
+        <mark key="]" line="104" column="5" />
+        <mark key="^" line="90" column="41" />
+        <mark key="." line="104" column="5" />
+      </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py" timestamp="1528336553171">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528403857899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528398595504">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528418842661">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/ch02.py" timestamp="1528443615558">
+        <mark key="[" line="92" column="15" />
+        <mark key="]" line="92" column="15" />
+        <mark key="^" line="92" column="17" />
+        <mark key="." line="92" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -131,13 +140,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>control</text>
+        <text>jju</text>
       </register>
       <register name="-" type="4">
-        <text>control</text>
+        <text>jju</text>
       </register>
       <register name="/" type="4">
-        <text>control</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIkNhcHMgbG9jayB0byBjb21tYW5kIGluIFNhZmFyaSIsCiAgICAgICJtYW5pcHVsYXRvcnMiOiBbCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJjYXBzX2xvY2siCiAgICAgICAgICB9LAogICAgICAgICAgInRvIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImtleV9jb2RlIjogImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgfQogICAgICAgICAgXSwKICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX2lmIiwKICAgICAgICAgICAgICAiYnVuZGxlX2lkZW50aWZpZXJzIjogWwogICAgICAgICAgICAgICAgIl5jb21cXC5hcHBsZVxcLlNhZmFyaSQiCiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfQogICAgICBdCiAgICB9LAo=</text>
@@ -177,9 +186,9 @@
       </register>
     </registers>
     <search>
-      <last-search>control</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>control</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>my_ran</last-replace>
       <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
@@ -187,7 +196,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>if</entry>
         <entry>fplu</entry>
@@ -207,6 +215,7 @@
         <entry>in</entry>
         <entry encoding="base64">Q2FwcyB0byA=</entry>
         <entry>control</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>set background=dark</entry>
