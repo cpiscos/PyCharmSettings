@@ -60,7 +60,6 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoFile" />
   <action id="GotoSymbol" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />

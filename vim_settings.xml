@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1528442725453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1528487532398">
+      <file name="/code.py" timestamp="1528487794973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -202,6 +202,7 @@
       <jump line="135" column="2" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="133" column="6" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="132" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
+      <jump line="0" column="43" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +270,7 @@
       <last-replace>my_ran</last-replace>
       <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
