@@ -6,13 +6,13 @@
       <file name="/Dummy.txt" timestamp="1528442725453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1528487794973">
+      <file name="/code.py" timestamp="1528488860694">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1528485594027">
+      <file name="/Python Console" timestamp="1528489386830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -53,6 +53,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528491250370">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+        <mark key="." line="28" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -203,19 +210,28 @@
       <jump line="133" column="6" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="132" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="0" column="43" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" />
+      <jump line="3" column="41" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="10" column="68" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="20" column="12" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="17" column="48" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="24" column="17" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>predic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0b19pZl9hbG9uZSI6IFsKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICJrZXlfY29kZSI6ICJlc2NhcGUiCiAgICAgICAgICAgICAgfQogICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQocm5nLnJhbmRuKDIsIDEwMCkpCg==</text>
@@ -260,13 +276,13 @@
         <text encoding="base64">bmV3ID0gW10KcHJpbnQobHN0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5yZWc=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>predic</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>predic</last-pattern>
       <last-replace>my_ran</last-replace>
       <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
@@ -274,10 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
-        <entry>disable</entry>
-        <entry>goog</entry>
-        <entry>&quot;a</entry>
         <entry>front</entry>
         <entry>left</entry>
         <entry>right</entry>
@@ -294,6 +306,10 @@
         <entry>to.if</entry>
         <entry>]</entry>
         <entry>,</entry>
+        <entry>lr</entry>
+        <entry>no</entry>
+        <entry>for</entry>
+        <entry>predic</entry>
       </history-search>
       <history-cmd>
         <entry>set incsearch</entry>
@@ -306,7 +322,6 @@
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>reg</entry>
-        <entry>noh</entry>
         <entry>e</entry>
         <entry encoding="base64">ZWRpdCA=</entry>
         <entry>sp</entry>
@@ -316,6 +331,7 @@
         <entry>action EditorJoinLines</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
