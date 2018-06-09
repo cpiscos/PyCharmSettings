@@ -101,24 +101,24 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528522766138">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528558964511">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="7" />
         <mark key="^" line="10" column="0" />
-        <mark key="." line="11" column="8" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1528501778316">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528558603713">
-        <mark key="'" line="26" column="49" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528558846836">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -153,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
-      <jump line="53" column="11" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
-      <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
       <jump line="13" column="39" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
       <jump line="11" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
       <jump line="34" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
@@ -253,19 +250,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="26" column="49" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="27" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="25" column="11" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np.dot(X, self.w_[1:]) + self.w_[0]</text>
+        <text>.shape[0]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>np.dot(X, self.w_[1:]) + self.w_[0]</text>
+        <text>.shape[0]</text>
       </register>
       <register name="/" type="4">
-        <text>df</text>
+        <text>.shape</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
@@ -316,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>df</last-search>
+      <last-search>.shape</last-search>
       <last-offset />
-      <last-pattern>df</last-pattern>
+      <last-pattern>.shape</last-pattern>
       <last-replace>my_ran</last-replace>
       <last-substitute>my.arr</last-substitute>
       <last-dir>1</last-dir>
@@ -326,8 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arrow</entry>
-        <entry>left</entry>
         <entry>&quot;h</entry>
         <entry>if</entry>
         <entry>comman</entry>
@@ -346,6 +344,8 @@
         <entry>re</entry>
         <entry>set</entry>
         <entry>df</entry>
+        <entry>b</entry>
+        <entry>.shape</entry>
       </history-search>
       <history-cmd>
         <entry>/exit.cond</entry>
