@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1528513405310">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1528336497529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,24 +94,24 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528513166010">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528514614986">
         <mark key="'" line="3" column="23" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-        <mark key="^" line="25" column="8" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1528501778316">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528512834108">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528514275539">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="65" />
-        <mark key="]" line="11" column="66" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="11" column="66" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -245,14 +248,14 @@
       <jump line="3" column="23" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bnAuZG90KFsxLDIsM10sWzEsMiwzLDQsNV0pCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -261,7 +264,7 @@
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBlcmNlcHRyb24K</text>
+        <text encoding="base64">bnAuZG90KFsxLDIsM10sWzEsMiwzLDQsNV0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -278,28 +281,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoWCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBuZXRfaW5wdXQoc2VsZiwgWCk6CiAgICAgICAgcmV0dXJuIG5wLmRvdChYLCBzZWxmLndfWzE6XSkgKyBzZWxmLndfWzBdCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">cHBuLnByZWRpY3QoWzUuMCwgMi4wXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">cHJpbnQoWC5zaGFwZVsxXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">aW1wb3J0IHBlcmNlcHRyb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">cHJpbnQoWCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IG51bWJlciBybnUgaGxzZWFyY2ggaW5jc2VhcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
