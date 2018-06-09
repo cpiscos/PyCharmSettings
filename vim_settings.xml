@@ -113,12 +113,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528514275539">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528558603713">
+        <mark key="'" line="26" column="49" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -153,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="51" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
       <jump line="90" column="4" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
       <jump line="53" column="11" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
       <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" />
@@ -253,16 +252,17 @@
       <jump line="24" column="1" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="26" column="49" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
+      <register name="&quot;" type="4">
+        <text>np.dot(X, self.w_[1:]) + self.w_[0]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>np.dot(X, self.w_[1:]) + self.w_[0]</text>
       </register>
       <register name="/" type="4">
         <text>df</text>
@@ -271,7 +271,7 @@
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqaikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -288,31 +288,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCg==</text>
+        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnAuZG90KFsxLDIsM10sWzEsMiwzLDQsNV0pCg==</text>
+        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnAuZG90KFsxLDIsM10sWzEsMiwzLDQsNV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXRfaW5wdXQoc2VsZiwgWCk6CiAgICAgICAgcmV0dXJuIG5wLmRvdChYLCBzZWxmLndfWzE6XSkgKyBzZWxmLndfWzBdCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>help v_s</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -364,10 +364,10 @@
         <entry encoding="base64">JzwsJz5yZWc=</entry>
         <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
-        <entry>reg</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>help s</entry>
         <entry>help v_s</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
