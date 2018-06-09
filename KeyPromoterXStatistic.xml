@@ -6,7 +6,7 @@
           <IdeaActionID>Images.Editor.ActualSize</IdeaActionID>
           <ShortCut>'⌃NumPad /' or '⌃/'</ShortCut>
           <Description>Actual Size</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Auto-Indent Lines">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -78,7 +78,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ch02'">
@@ -158,7 +158,7 @@
           <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
           <ShortCut>'⌃''</ShortCut>
           <Description>Show Grid</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PythonMachineLearning'">
@@ -206,6 +206,14 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'⌥V'</ShortCut>
           <Description>Vim Emulator</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>Images.Editor.ZoomOut</IdeaActionID>
+          <ShortCut>'⌃-' or '⌃-'</ShortCut>
+          <Description>Zoom Out</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
