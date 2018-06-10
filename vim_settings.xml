@@ -115,12 +115,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528602711895">
-        <mark key="'" line="1" column="74" />
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" timestamp="1528604444787">
+        <mark key="'" line="3" column="39" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528581629083">
         <mark key="'" line="32" column="10" />
@@ -162,9 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
-      <jump line="5" column="24" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
       <jump line="0" column="7" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" />
       <jump line="3" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
@@ -262,25 +259,28 @@
       <jump line="31" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
       <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="1" column="74" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
+      <jump line="10" column="17" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
+      <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>X.T.dot(errors)</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>errors_</text>
+        <text>coun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aWYgY291bnQgPD0gMToKICAgIHBhc3MKZWxzZToKICAgIGZvciBpIGluIHJhbmdlKGNvdW50LTEpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,37 +297,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
+        <text encoding="base64">ICAgIHByaW50KGZpYm9uYWNjaSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWJvbmFjY2kpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9ycyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqaikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9ycyA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>s/errors_/cost_</text>
       </register>
     </registers>
     <search>
-      <last-search>errors_</last-search>
+      <last-search>coun</last-search>
       <last-offset />
-      <last-pattern>errors_</last-pattern>
+      <last-pattern>coun</last-pattern>
       <last-replace>cost_</last-replace>
       <last-substitute>errors_</last-substitute>
       <last-dir>1</last-dir>
@@ -335,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
-        <entry>j&quot;</entry>
         <entry>down</entry>
         <entry>arr</entry>
         <entry>l&quot;</entry>
@@ -355,6 +353,8 @@
         <entry>prin</entry>
         <entry>err</entry>
         <entry>errors_</entry>
+        <entry>-2</entry>
+        <entry>coun</entry>
       </history-search>
       <history-cmd>
         <entry>?exit.cond</entry>
