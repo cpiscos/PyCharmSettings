@@ -8,7 +8,7 @@
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1528520267310">
+      <file name="/Python Console" timestamp="1528649628262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1528336497529">
@@ -144,11 +144,11 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528403857899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528649659358">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528418842661">
         <mark key="[" line="2" column="28" />
@@ -267,14 +267,14 @@
       <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>˜</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>coun</text>
@@ -283,7 +283,7 @@
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -300,28 +300,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eCA9IGZpYm9uYWNjaVstMV0gaWYgbGVuKGZpYm9uYWNjaSkgPT0gMSBlbHNlIGZpYm9uYWNjaVstMV0rZmlib25hY2NpWy0yXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgY291bnQgPD0gMToKICAgIHBhc3MKZWxzZToKICAgIGZvciBpIGluIHJhbmdlKGNvdW50LTEpOgo=</text>
+        <text encoding="base64">eCA9IGZpYm9uYWNjaVstMV0gaWYgbGVuKGZpYm9uYWNjaSkgPT0gMSBlbHNlIGZpYm9uYWNjaVstMV0rZmlib25hY2NpWy0yXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpYm9uYWNjaSkK</text>
+        <text encoding="base64">aWYgY291bnQgPD0gMToKICAgIHBhc3MKZWxzZToKICAgIGZvciBpIGluIHJhbmdlKGNvdW50LTEpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWJvbmFjY2kpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZpYm9uYWNjaSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/errors_/cost_</text>
