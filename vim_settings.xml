@@ -16,11 +16,6 @@
         <mark key="." line="16" column="269" />
         <mark key="^" line="16" column="269" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528390258.json" timestamp="1528419044317">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="178" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" timestamp="1528477376186">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -53,6 +48,13 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528582319089">
+        <mark key="'" line="35" column="10" />
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/ch02.py" timestamp="1528443615558">
         <mark key="[" line="92" column="15" />
@@ -101,20 +103,20 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528558964511">
-        <mark key="'" line="25" column="11" />
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="7" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="27" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528582409157">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="11" />
       </file>
       <file name="$USER_HOME$/.vimrc" timestamp="1528501778316">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528558846836">
-        <mark key="'" line="31" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528581629083">
+        <mark key="'" line="32" column="10" />
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="23" />
         <mark key="." line="34" column="23" />
@@ -153,11 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="39" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="11" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="34" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="58" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="87" column="12" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
       <jump line="4" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
       <jump line="5" column="24" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" />
@@ -253,25 +250,30 @@
       <jump line="27" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="25" column="11" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="34" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="33" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="32" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
+      <jump line="31" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
+      <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.shape[0]</text>
+        <text>errors_</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.shape[0]</text>
+        <text>errors_</text>
       </register>
       <register name="/" type="4">
-        <text>.shape</text>
+        <text>errors_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqaikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -288,48 +290,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQogICAgICAgICAgICBzZWxmLmVycm9yc18uYXBwZW5kKGVycm9ycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpLCB0YXJnZXQgaW4gemlwKFgsIHkpOgogICAgICAgICAgICAgICAgdXBkYXRlID0gc2VsZi5ldGEgKiAodGFyZ2V0IC0gc2VsZi5wcmVkaWN0KHhpKSkKICAgICAgICAgICAgICAgIHNlbGYud19bMTpdICs9IHVwZGF0ZSAqIHhpCiAgICAgICAgICAgICAgICBzZWxmLndfWzBdICs9IHVwZGF0ZQogICAgICAgICAgICAgICAgZXJyb3JzICs9IGludCh1cGRhdGUgIT0gMC4wKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9ycyA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqaikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
+        <text encoding="base64">cHJpbnQocHBuLndfKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnAuZG90KFsxLDIsM10sWzEsMiwzLDQsNV0pCg==</text>
+        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WCA9IGRmLmlsb2NbOjEwMCwgWzAsIDJdXS52YWx1ZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/errors_/cost_</text>
       </register>
     </registers>
     <search>
-      <last-search>.shape</last-search>
+      <last-search>errors_</last-search>
       <last-offset />
-      <last-pattern>.shape</last-pattern>
-      <last-replace>my_ran</last-replace>
-      <last-substitute>my.arr</last-substitute>
+      <last-pattern>errors_</last-pattern>
+      <last-replace>cost_</last-replace>
+      <last-substitute>errors_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;h</entry>
-        <entry>if</entry>
-        <entry>comman</entry>
-        <entry>basic</entry>
         <entry>right</entry>
         <entry>j&quot;</entry>
         <entry>down</entry>
@@ -346,9 +344,12 @@
         <entry>df</entry>
         <entry>b</entry>
         <entry>.shape</entry>
+        <entry>print</entry>
+        <entry>prin</entry>
+        <entry>err</entry>
+        <entry>errors_</entry>
       </history-search>
       <history-cmd>
-        <entry>/exit.cond</entry>
         <entry>?exit.cond</entry>
         <entry>action HippieCompletion</entry>
         <entry>let @/ = &quot;&quot;</entry>
@@ -368,6 +369,7 @@
         <entry>help s</entry>
         <entry>help v_s</entry>
         <entry>reg</entry>
+        <entry>s/errors_/cost_</entry>
       </history-cmd>
       <history-expr />
       <history-input />
