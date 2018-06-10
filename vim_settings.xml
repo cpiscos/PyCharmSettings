@@ -49,12 +49,12 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528582319089">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528601811773">
         <mark key="'" line="35" column="10" />
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/ch02.py" timestamp="1528443615558">
         <mark key="[" line="92" column="15" />
@@ -258,13 +258,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>errors_</text>
+        <text>X.T.dot(errors)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>errors_</text>
+        <text>X.T.dot(errors)</text>
       </register>
       <register name="/" type="4">
         <text>errors_</text>
