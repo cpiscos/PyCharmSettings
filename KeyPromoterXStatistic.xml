@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌃⌥A'</ShortCut>
+          <Description>Add</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Auto-Indent Lines">
         <Item>
           <IdeaActionID>AutoIndentLines</IdeaActionID>
