@@ -106,7 +106,7 @@
   <action id="SelectNextOccurrence" />
   <action id="ShowSettings" />
   <action id="Switcher">
-    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt back_quote" />
