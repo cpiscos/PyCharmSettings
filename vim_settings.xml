@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528763098965">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="2" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528764582228">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="/Python Console" timestamp="1528758562039">
         <mark key="[" line="0" column="0" />
@@ -140,19 +140,19 @@
         <mark key="." line="16" column="269" />
         <mark key="^" line="16" column="269" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528762007949">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528765271140">
+        <mark key="'" line="40" column="24" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528762703308">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528765244332">
         <mark key="'" line="30" column="14" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -271,13 +271,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>array([0, 9, 8, 7])</text>
+        <text>.shape</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>array([0, 9, 8, 7])</text>
+        <text>.shape</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -286,7 +286,7 @@
         <text encoding="base64">cHJpbnQoYSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YSA9IG5wLmFycmF5KFtbMSwyLDNdLFsxLDIsM11dKQpiID0gbnAuYXJyYXkoWzEsMiwzXSkKcHJpbnQoJ2EgZGF0YScpCnByaW50KGEpCnByaW50KGEuc2hhcGUpCnByaW50KCdcbmIgZGF0YScpCnByaW50KGIpCnByaW50KGIuc2hhcGUpCnByaW50KCdcbiBhIGRvdCBiJykKcHJpbnQoYS5kb3QoYikpCiMgcHJpbnQoYS5UICogYikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ25ldF9pbnB1dDogJywgbmV0X2lucHV0KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -303,33 +303,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3g6ICcsIFgpCg==</text>
+        <text encoding="base64">YSA9IG5wLmFycmF5KFtbMSwyLDNdLFsxLDIsM11dKQpiID0gbnAuYXJyYXkoWzEsMiwzXSkKcHJpbnQoJ2EgZGF0YScpCnByaW50KGEpCnByaW50KGEuc2hhcGUpCnByaW50KCdcbmIgZGF0YScpCnByaW50KGIpCnByaW50KGIuc2hhcGUpCnByaW50KCdcbiBhIGRvdCBiJykKcHJpbnQoYS5kb3QoYikpCiMgcHJpbnQoYS5UICogYikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3g6ICcsIFgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53XykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53X1sxOl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53XykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnd2VpZ2h0czogJywgc2VsZi53X1sxOl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53X1sxOl0pCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2VpZ2h0czogJywgc2VsZi53X1sxOl0pCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1guVDogJywgWC5UKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>for _ in range(self.n_iter):
             print('x: ', X)
             net_input = self.net_input(X)
             print('net_input: ', net_input)
             errors = (y-net_input)
             self.w_[1:] += self.e</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Vycm9yczsgJywgZXJyb3JzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
