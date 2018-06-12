@@ -150,11 +150,12 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528773576287">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1528794074422">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonForDataScience/test.py" timestamp="1528418842661">
         <mark key="[" line="2" column="28" />
@@ -171,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="71" column="37" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
       <jump line="9" column="25" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
@@ -271,10 +271,11 @@
       <jump line="24" column="33" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="17" column="15" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="22" column="23" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="5" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmEgPSBucC5hcnJheShbWzEsIDIsIDNdLCBbMSwgMiwgM11dKQpiID0gbnAuYXJhbmdlKDEsIDQpCmZvciBpLCBuIGluIHppcChhLCBiKToKICAgIHByaW50KGkpCiAgICBwcmludChuKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -289,7 +290,7 @@
         <text>x[:,i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eFs6LDBdCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmEgPSBucC5hcnJheShbWzEsIDIsIDNdLCBbMSwgMiwgM11dKQpiID0gbnAuYXJhbmdlKDEsIDQpCmZvciBpLCBuIGluIHppcChhLCBiKToKICAgIHByaW50KGkpCiAgICBwcmludChuKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,28 +307,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eCA9IG5wLmFycmF5Cg==</text>
+        <text encoding="base64">eFs6LDBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
+        <text encoding="base64">eCA9IG5wLmFycmF5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
+        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
