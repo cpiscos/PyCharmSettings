@@ -69,12 +69,12 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528792361480">
-        <mark key="'" line="21" column="46" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528825279142">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/ch02.py" timestamp="1528443615558">
         <mark key="[" line="92" column="15" />
@@ -178,10 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="25" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="124" column="14" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="131" column="11" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
-      <jump line="1" column="18" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="21" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="136" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="135" column="2" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -278,25 +274,29 @@
       <jump line="268" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/ch02.py" />
       <jump line="193" column="16" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/ch02.py" />
       <jump line="5" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>sum</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sum</text>
       </register>
       <register name="/" type="4">
-        <text>np</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text>x[:,i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCdzYW1wbGU6JywgWCkKICAgICAgICBwcmludCgnZG90OiAnLCBucC5kb3QoWCwgc2VsZi53X1sxOl0pKQogICAgICAgIHByaW50KCdiOiAnLCBiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -313,54 +313,50 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBhID0gWzEsIDIsIDNdCiMgYiA9IGFbMSwgMCwgMl0KIyBwcmludChiKQphID0gbnAuYXJhbmdlKDkpLnJlc2hhcGUoMywgMykKcHJpbnQoYSkKYiA9IFswLCAyXQpwcmludChhW2JdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncHJlZGljdGlvbicsIGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChiKQpwcmludChucC5hcmFuZ2UoOSkucmVzaGFwZSgzLCAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3k6ICcsIHkpCiAgICAgICAgICAgIHByaW50KCduZXRfaW5wdXQ6ICcsIG5ldF9pbnB1dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncjpcbicsIHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Vycm9yczsgJywgZXJyb3JzKQogICAgICAgICAgICBwcmludCgnd2VpZ2h0czogJywgc2VsZi53X1sxOl0pCiAgICAgICAgICAgIHByaW50KCdkZWx0YScsIHNlbGYuZXRhICogKHguVC5kb3QoZXJyb3JzKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmEgPSBucC5hcnJheShbWzEsIDIsIDNdLCBbMSwgMiwgM11dKQpiID0gbnAuYXJhbmdlKDEsIDQpCmZvciBpLCBuIGluIHppcChhLCBiKToKICAgIHByaW50KGkpCiAgICBwcmludChuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1g6ICcsIHgpCiAgICAgICAgICAgIHByaW50KCdYIHNoYXBlOiAnLCB4LnNoYXBlKQogICAgICAgICAgICBwcmludCgnWC5UOiAnLCB4LlQpCiAgICAgICAgICAgIHByaW50KCdYLlQuZG90KGVycm9ycyknLCB4LlQuZG90KGVycm9ycykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eFs6LDBdCg==</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IG5wLmFycmF5Cg==</text>
+        <text encoding="base64">IyBhID0gWzEsIDIsIDNdCiMgYiA9IGFbMSwgMCwgMl0KIyBwcmludChiKQphID0gbnAuYXJhbmdlKDkpLnJlc2hhcGUoMywgMykKcHJpbnQoYSkKYiA9IFswLCAyXQpwcmludChhW2JdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
+        <text encoding="base64">IyBwcmludChiKQpwcmludChucC5hcmFuZ2UoOSkucmVzaGFwZSgzLCAzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncjpcbicsIHIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>np</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>np</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>0</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>red</entry>
-        <entry>50</entry>
         <entry>from</entry>
         <entry>re</entry>
         <entry>set</entry>
         <entry>df</entry>
         <entry>b</entry>
         <entry>.shape</entry>
-        <entry>print</entry>
-        <entry>prin</entry>
         <entry>err</entry>
         <entry>errors_</entry>
         <entry>-2</entry>
@@ -371,6 +367,10 @@
         <entry>plot.decision</entry>
         <entry>:5</entry>
         <entry>np</entry>
+        <entry>dot</entry>
+        <entry>prin</entry>
+        <entry>pr</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>action HippieCompletion</entry>
