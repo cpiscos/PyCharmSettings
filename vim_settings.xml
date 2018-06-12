@@ -21,6 +21,9 @@
         <mark key="." line="16" column="269" />
         <mark key="^" line="16" column="269" />
       </file>
+      <file name="/a.dummy" timestamp="1528792355794">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/test.py" timestamp="1528477376186">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -59,12 +62,12 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528685759216">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528792361480">
         <mark key="'" line="21" column="46" />
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="40" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/code/ch02/ch02.py" timestamp="1528443615558">
         <mark key="[" line="92" column="15" />
@@ -78,7 +81,7 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528773357087">
+      <file name="/Dummy.txt" timestamp="1528792259088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1528492944206">
@@ -113,12 +116,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528773687753">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528792709736">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
@@ -168,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="6" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="71" column="37" filename="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" />
@@ -250,7 +251,6 @@
       <jump line="11" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/Resources/iris.data" />
       <jump line="7" column="29" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="11" column="34" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="24" column="1" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="26" column="49" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
@@ -261,32 +261,35 @@
       <jump line="33" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="32" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="31" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
-      <jump line="22" column="26" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="1" column="74" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="10" column="17" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
       <jump line="3" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="17" column="15" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>*errors</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoWFs6NTAsIDBdLCBYWzo1MCwgMV0sIGNvbG9yPSdyZWQnLCBtYXJrZXI9J28nLCBsYWJlbD0nc2V0b3NhJykK</text>
+      <register name="0" type="4">
+        <text>x[:,i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
+        <text encoding="base64">eFs6LDBdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -303,46 +306,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
+        <text encoding="base64">eCA9IG5wLmFycmF5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">ZGVmIHJlY3Vyc2l2ZShhLCBiLCBjb3VudD0xMCk6CiAgICBmb3IgXyBpbiByYW5nZShjb3VudCk6CiAgICAgICAgYSA9IGErYgogICAgcHJpbnQoYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+        <text encoding="base64">ICAgIGEgPSBhICsgYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IGZpYm9uYWNjaVstMV0gaWYgbGVuKGZpYm9uYWNjaSkgPT0gMSBlbHNlIGZpYm9uYWNjaVstMV0rZmlib25hY2NpWy0yXQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgY291bnQgPD0gMToKICAgIHBhc3MKZWxzZToKICAgIGZvciBpIGluIHJhbmdlKGNvdW50LTEpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/errors_/cost_</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
-      <last-replace>cost_</last-replace>
-      <last-substitute>errors_</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>1</last-pattern>
+      <last-replace>1</last-replace>
+      <last-substitute>0</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>arr</entry>
-        <entry>l&quot;</entry>
         <entry>Caps</entry>
         <entry>option</entry>
         <entry>con</entry>
@@ -361,9 +362,10 @@
         <entry>-2</entry>
         <entry>coun</entry>
         <entry>*</entry>
+        <entry>0</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry>?exit.cond</entry>
         <entry>action HippieCompletion</entry>
         <entry>let @/ = &quot;&quot;</entry>
         <entry>let @/=&quot;&quot;</entry>
@@ -376,13 +378,14 @@
         <entry>%y+</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>help s</entry>
         <entry>help v_s</entry>
-        <entry>reg</entry>
         <entry>s/errors_/cost_</entry>
+        <entry>reg</entry>
+        <entry>s/0/1/g</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
