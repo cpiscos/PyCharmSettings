@@ -10,7 +10,7 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1528758562039">
+      <file name="/Python Console" timestamp="1528791471122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1528336497529">
@@ -107,7 +107,7 @@
         <mark key="^" line="92" column="17" />
         <mark key="." line="92" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528760522816">
+      <file name="/Dummy.txt" timestamp="1528791945218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -338,7 +338,7 @@
       <last-replace>cost_</last-replace>
       <last-substitute>errors_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
