@@ -67,12 +67,11 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1528966876276">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1529017746363">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PracticePython/.gitignore" timestamp="1528611612132">
         <mark key="[" line="3" column="0" />
@@ -100,7 +99,7 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529010840500">
+      <file name="/Dummy.txt" timestamp="1529017789792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -141,11 +140,12 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528966986249">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1529017825930">
+        <mark key="'" line="12" column="39" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -155,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="11" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="207" column="19" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="165" column="19" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="117" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="211" column="25" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="220" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -182,7 +179,6 @@
       <jump line="183" column="15" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="181" column="17" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="160" column="14" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="12" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="3" column="23" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="11" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/Resources/iris.data" />
       <jump line="11" column="34" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
@@ -255,16 +251,20 @@
       <jump line="26" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="29" column="52" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5.4,3.9,1.7,0.4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5.4,3.9,1.7,0.4</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -273,7 +273,7 @@
         <text>5.6,3.0,4.5,1.5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChYKQo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -290,28 +290,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBYID0gCg==</text>
+        <text encoding="base64">IyBwcmludChhWzosIDBdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdzdGQnLCBzZWxmLnN0ZCkK</text>
+        <text encoding="base64">IyBwcmludChhWzosIDFdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdpdCBzdGQnLCBYWzosal0uc3RkKGF4aXM9MCkpCg==</text>
+        <text encoding="base64">IyBwcmludChhLlQuZG90KGIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdtdScsIHNlbGYubXUK</text>
+        <text encoding="base64">IyBwcmludChiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11ID0gW10KICAgICAgICBzZWxmLnN0ZCA9IFtdCg==</text>
+        <text encoding="base64">IyBwcmludChhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11ID0gW10KICAgICAgICBzZWxmLnN0ZCA9IFtdCg==</text>
+        <text encoding="base64">IyBiID0gbnAuYXJhbmdlKDUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChYLnJlc2hhcGUoMSwgNCkpCg==</text>
+        <text encoding="base64">IyBhID0gbnAuYXJhbmdlKDEwKS5yZXNoYXBlKDUsIDIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KFhbOixqXS5tZWFuKCkpCg==</text>
+        <text encoding="base64">IyBwcmludCgnc2FtcGxlIHNldDogJywgWC5zaGFwZVsxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/mu/std/g</text>
@@ -324,7 +324,7 @@
       <last-replace>std</last-replace>
       <last-substitute>mu</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
