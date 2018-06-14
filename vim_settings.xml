@@ -67,12 +67,12 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1528957998603">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="39" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1528959678062">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="20" column="90" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PracticePython/.gitignore" timestamp="1528611612132">
         <mark key="[" line="3" column="0" />
@@ -141,12 +141,12 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528957825100">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528959296144">
         <mark key="'" line="13" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="6" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+        <mark key="^" line="22" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528957781117">
         <mark key="'" line="0" column="0" />
@@ -157,9 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="86" column="27" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="140" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="147" column="35" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="226" column="8" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="223" column="32" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -255,27 +252,30 @@
       <jump line="15" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="16" column="50" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="18" column="61" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="20" column="40" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgpjbGFzcyBMb2dpdFJlZygpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIFgsIHksIGFscGhhLCBuX2l0ZXIpOgogICAgICAgIHNlbGYuWCA9IG5wLmNvbmNhdGVuYXRlKChucC5vbmVzKChYLnNoYXBlWzBdLCAxKSwgZHR5cGU9ZmxvYXQpLCBYKSwgYXhpcz0xKQogICAgICAgIHNlbGYueSA9IHkKICAgICAgICBzZWxmLmFscGhhID0gYWxwaGEKICAgICAgICBzZWxmLm5faXRlciA9IG5faXRlcgoKCiAgICBkZWYgZml0KHNlbGYpOgogICAgICAgIHNlbGYud18gPSBucC5yYW5kb20ucmFuZG4oMSwgc2VsZi5YLnNoYXBlWzFdKQogICAgICAgIHNlbGYuY29zdCA9IFtdCiAgICAgICAgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5uX2l0ZXIpOgogICAgICAgICAgICBoeXAgPSBucC5kb3Qoc2VsZi5YLCBzZWxmLndfLlQpCiAgICAgICAgICAgIGxvZ19mdW5jID0gMSAvICgxICsgbnAuZXhwKC1oeXApKQogICAgICAgICAgICBzZWxmLndfIC09IHNlbGYuYWxwaGEgKiBzZWxmLlguVC5kb3QoKGxvZ19mdW5jIC0gc2VsZi55KSkvc2VsZi5YLnNoYXBlWzBdCiAgICAgICAgICAgIGNvc3RfZnVuYyA9IG5wLmF2ZXJhZ2UoLXNlbGYueS5ULmRvdChucC5sb2coaHlwKSkgLSAoMS1zZWxmLnkpLlQuZG90KG5wLmxvZygxLWh5cCkpKQogICAgICAgICAgICBzZWxmLmNvc3QuYXBwZW5kKGNvc3RfZnVuYykK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.shape</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>np</text>
+        <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBJbXBvcnQgZGF0YSBhbmQgY2hhbmdlIHNldG9zYSB0byAtMSAmIHZpY2UtdmVyc2EKZGYgPSBwZC5yZWFkX2NzdignLi4vUmVzb3VyY2VzL2lyaXMuZGF0YScsIGhlYWRlcj1Ob25lKQp5ID0gZGYuaWxvY1s6MTAwLCA0XS52YWx1ZXMKeSA9IG5wLndoZXJlKHkgPT0gIklyaXMtc2V0b3NhIiwgLTEsIDEpCgojIEV4dHJhY3Qgc2VwYWwgbGVuZ3RoWzBdIGFuZCBwZXRhbCBsZW5ndGhbMl0KWCA9IGRmLmlsb2NbOjEwMCw6NF0udmFsdWVzCmZvciBqIGluIHJhbmdlKFguc2hhcGVbMV0pOgogICAgWFs6LGpdID0gKFhbOixqXSAtIFhbOixqXS5tZWFuKCkpIC8gWFs6LGpdLnN0ZCgpCg==</text>
+      <register name="0" type="4">
+        <text>self.y.T.dot(np.log(hyp))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53Xy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi55LnNoYXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -292,57 +292,54 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5YKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoLXNlbGYueS5ULmRvdChucC5sb2coaHlwKSkgLSAoMS1zZWxmLnkpLlQuZG90KG5wLmxvZygxLWh5cCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndfID0gbnAucmFuZG9tLnJhbmRuKDEsIDEgKyBzZWxmLlguc2hhcGVbMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKGxvZ19mdW5jIC0gc2VsZi55LnJlc2hhcGUoc2VsZi55LnNpemUsIDEpKS5zaGFwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX3dlaWdodHMoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53Xy5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobnAuY29uY2F0ZW5hdGUoKG5wLm9uZXMoWC5zaGFwZVswXSwgMSksIGR0eXBlPWZsb2F0KSksIFgpLCBheGlzPTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53XyAtPSBucC50cmFuc3Bvc2Uoc2VsZi5hbHBoYSAqIHNlbGYuWC5ULmRvdCgobG9nX2Z1bmMgLSBzZWxmLnkucmVzaGFwZShzZWxmLnkuc2l6ZSwgMSkpKS9zZWxmLlguc2hhcGVbMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoWC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5YLlQuZG90KChsb2dfZnVuYyAtIHNlbGYueS5yZXNoYXBlKHNlbGYueS5zaXplLCAxKSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgphID0gbnAuYXJhbmdlKDYpLnJlc2hhcGUoMiwgMykKYiA9IG5wLm1hdHJpeCgpCnByaW50KGEpCnByaW50KGIpCnByaW50KGEgKiBiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBwcmludChzZWxmLlguVC5kb3QoKGxvZ19mdW5jIC0gc2VsZi55KSkvc2VsZi5YLnNoYXBlWzBdKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cHJpbnQoWCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53Xy5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/0/j/g</text>
       </register>
     </registers>
     <search>
-      <last-search>np</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>np</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>j</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sel</entry>
         <entry>error</entry>
         <entry>weight</entry>
         <entry>reshape</entry>
         <entry>b</entry>
         <entry>range</entry>
-        <entry>print</entry>
         <entry>n.it</entry>
         <entry>*</entry>
         <entry>def</entry>
         <entry>pas</entry>
         <entry>ini</entry>
-        <entry>self</entry>
         <entry>log</entry>
         <entry>=</entry>
         <entry>np.dot</entry>
@@ -350,6 +347,9 @@
         <entry>ada</entry>
         <entry>5</entry>
         <entry>np</entry>
+        <entry>y</entry>
+        <entry>self</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>action HippieCompletion</entry>
