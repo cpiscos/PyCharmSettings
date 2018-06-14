@@ -67,12 +67,12 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1528959678062">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="20" column="90" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" timestamp="1528960478931">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PracticePython/.gitignore" timestamp="1528611612132">
         <mark key="[" line="3" column="0" />
@@ -255,8 +255,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="16" column="50" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="18" column="61" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
-      <jump line="20" column="40" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +269,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>hyp</text>
       </register>
       <register name="0" type="4">
         <text>self.y.T.dot(np.log(hyp))</text>
@@ -316,21 +316,20 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi53Xy5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>s/0/j/g</text>
+        <text>s/hyp/log_func/g</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>hyp</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>j</last-replace>
-      <last-substitute>0</last-substitute>
+      <last-pattern>hyp</last-pattern>
+      <last-replace>log_func</last-replace>
+      <last-substitute>hyp</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry>weight</entry>
         <entry>reshape</entry>
         <entry>b</entry>
@@ -350,9 +349,9 @@
         <entry>y</entry>
         <entry>self</entry>
         <entry>print</entry>
+        <entry>hyp</entry>
       </history-search>
       <history-cmd>
-        <entry>action HippieCompletion</entry>
         <entry>let @/ = &quot;&quot;</entry>
         <entry>let @/=&quot;&quot;</entry>
         <entry>actionlist</entry>
@@ -372,6 +371,7 @@
         <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
         <entry>s/0/j/g</entry>
+        <entry>s/hyp/log_func/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -150,7 +150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Rerun 'iris'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test (1)'">
@@ -255,6 +255,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'PythonMachineLearning'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'iris'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'iris'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test'">
