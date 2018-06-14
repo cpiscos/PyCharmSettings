@@ -30,12 +30,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528946981886">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" timestamp="1528487681427">
         <mark key="[" line="0" column="0" />
@@ -152,12 +152,12 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528856301907">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1528948847711">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="38" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1528486611847">
         <mark key="[" line="7" column="0" />
@@ -173,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="7" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
-      <jump line="17" column="48" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="24" column="17" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="1" column="0" filename="/code.py" />
       <jump line="12" column="17" filename="$USER_HOME$/.ideavimrc" />
@@ -273,25 +271,27 @@
       <jump line="18" column="21" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
       <jump line="12" column="17" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
       <jump line="15" column="14" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
+      <jump line="17" column="69" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
+      <jump line="16" column="21" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc3QuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>initial_weights</text>
+        <text>np.dot(self.X, self.w_))</text>
       </register>
       <register name="/" type="4">
-        <text>ini</text>
+        <text>np.dot</text>
       </register>
       <register name="0" type="4">
-        <text>X.shape[1]</text>
+        <text>np.dot(self.X, self.w_)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc3QuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -308,37 +308,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc3QuYXBwZW5kKCkK</text>
+        <text encoding="base64">WFs6LDFdID0gKFhbOiwxXSAtIFhbOiwxXS5tZWFuKCkpIC8gWFs6LDFdLnN0ZCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5wLmRvdChzZWxmLlgsIHNlbGYud18pCikpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX3dlaWdodHMoc2VsZik6CiAgICAgICAgc2VsZi5pbml0aWFsX3dlaWdodHMgPSBucC5yYW5kb20ucmFuZG4oMSwgMSArIFguc2hhcGVbMV0p</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19mdW5jID0gMSAvICgxICsgbnAuZXhwKC0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5wLmRvdChzZWxmLlgsIHNlbGYud18pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RlbHRhJywgc2VsZi5ldGEgKiAoWC5ULmRvdChlcnJvcnMpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5wLmRvdChzZWxmLlgsIHNlbGYud18pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3dlaWdodHM6ICcsIHNlbGYud19bMTpdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc3QuYXBwZW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2Vycm9yczsgJywgZXJyb3JzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc3QuYXBwZW5kKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ25ldF9pbnB1dDogJywgbmV0X2lucHV0KQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3k6ICcsIHkpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX3dlaWdodHMoc2VsZik6CiAgICAgICAgc2VsZi5pbml0aWFsX3dlaWdodHMgPSBucC5yYW5kb20ucmFuZG4oMSwgMSArIFguc2hhcGVbMV0p</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>ini</last-search>
+      <last-search>np.dot</last-search>
       <last-offset />
-      <last-pattern>ini</last-pattern>
+      <last-pattern>np.dot</last-pattern>
       <last-replace>cost_</last-replace>
       <last-substitute>errors_</last-substitute>
       <last-dir>1</last-dir>
@@ -346,10 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
-        <entry>errors_</entry>
-        <entry>-2</entry>
-        <entry>coun</entry>
         <entry>#</entry>
         <entry>sh</entry>
         <entry>.arra</entry>
@@ -366,6 +362,10 @@
         <entry>def</entry>
         <entry>pas</entry>
         <entry>ini</entry>
+        <entry>self</entry>
+        <entry>log</entry>
+        <entry>=</entry>
+        <entry>np.dot</entry>
       </history-search>
       <history-cmd>
         <entry>?exit.cond</entry>
@@ -381,13 +381,13 @@
         <entry>%y+</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>help s</entry>
         <entry>help v_s</entry>
         <entry>reg</entry>
         <entry>s/errors_/cost_</entry>
         <entry>noh</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
