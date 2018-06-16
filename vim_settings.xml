@@ -85,6 +85,12 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" timestamp="1528478163581">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
@@ -140,7 +146,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1529040207719">
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1529181706105">
         <mark key="'" line="12" column="39" />
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="22" />
@@ -155,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="211" column="25" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="220" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="205" column="8" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -255,6 +260,7 @@
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
+      <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -437,6 +443,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
