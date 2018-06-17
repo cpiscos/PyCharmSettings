@@ -43,6 +43,12 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529216178000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" timestamp="1528487681427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="133" />
@@ -263,8 +269,8 @@
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>np.where(y== &quot;Iris-versicolor&quot;, [0,1,0], [0,0,1])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -279,7 +285,7 @@
         <text>5.6,3.0,4.5,1.5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -296,28 +302,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwcmludChhWzosIDBdLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChhWzosIDFdLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">IyBwcmludChhWzosIDBdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChhLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">IyBwcmludChhWzosIDFdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChiKQo=</text>
+        <text encoding="base64">IyBwcmludChhLlQuZG90KGIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludChhKQo=</text>
+        <text encoding="base64">IyBwcmludChiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBiID0gbnAuYXJhbmdlKDUpCg==</text>
+        <text encoding="base64">IyBwcmludChhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBhID0gbnAuYXJhbmdlKDEwKS5yZXNoYXBlKDUsIDIpCg==</text>
+        <text encoding="base64">IyBiID0gbnAuYXJhbmdlKDUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludCgnc2FtcGxlIHNldDogJywgWC5zaGFwZVsxXSkK</text>
+        <text encoding="base64">IyBhID0gbnAuYXJhbmdlKDEwKS5yZXNoYXBlKDUsIDIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mu/std/g</text>
