@@ -10,6 +10,11 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week3.py" timestamp="1529221757585">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1529216663655">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,7 +26,7 @@
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1528952553346">
+      <file name="/a.dummy" timestamp="1529221620643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -43,11 +48,12 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529216407661">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529221569184">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/jupyter" timestamp="1528487681427">
         <mark key="[" line="0" column="0" />
@@ -121,7 +127,7 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="/code.py" timestamp="1529216741607">
+      <file name="/code.py" timestamp="1529221790033">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="8" />
@@ -167,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="25" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="220" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="205" column="8" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="186" column="19" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -267,25 +272,26 @@
       <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>np.where(y== &quot;Iris-versicolor&quot;, [0,1,0], [0,0,1])</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>tran</text>
       </register>
       <register name="0" type="4">
         <text>5.6,3.0,4.5,1.5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -302,45 +308,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlggPSBYCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChhWzosIDBdLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX3dlaWdodHMoc2VsZik6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChhWzosIDFdLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndfID0gbnAucmFuZG9tLnJhbmRuKHNlbGYuWC5zaGFwZVsxXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChhLlQuZG90KGIpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcmludChiKQo=</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcmludChhKQo=</text>
+        <text encoding="base64">IyBwcmludChhWzosIDBdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBiID0gbnAuYXJhbmdlKDUpCg==</text>
+        <text encoding="base64">IyBwcmludChhWzosIDFdLlQuZG90KGIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBhID0gbnAuYXJhbmdlKDEwKS5yZXNoYXBlKDUsIDIpCg==</text>
+        <text encoding="base64">IyBwcmludChhLlQuZG90KGIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/mu/std/g</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>tran</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>tran</last-pattern>
       <last-replace>std</last-replace>
       <last-substitute>mu</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>range</entry>
         <entry>n.it</entry>
         <entry>*</entry>
         <entry>def</entry>
@@ -360,6 +365,7 @@
         <entry encoding="base64">XDxsb2dfZnVuY1w+</entry>
         <entry>mu</entry>
         <entry>print</entry>
+        <entry>tran</entry>
       </history-search>
       <history-cmd>
         <entry>let @/=&quot;&quot;</entry>

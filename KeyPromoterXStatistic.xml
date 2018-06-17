@@ -126,7 +126,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>Paste</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -150,7 +150,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '13 Fibonacci'">
