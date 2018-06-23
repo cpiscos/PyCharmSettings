@@ -120,12 +120,11 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529721099498">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529722968314">
+        <mark key="[" line="29" column="72" />
+        <mark key="]" line="29" column="86" />
+        <mark key="." line="29" column="86" />
+        <mark key="^" line="29" column="86" />
       </file>
       <file name="/Dummy.txt" timestamp="1529720531088">
         <mark key="[" line="0" column="0" />
@@ -191,21 +190,14 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529721192660">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529723316391">
         <mark key="'" line="7" column="23" />
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="162" column="25" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="178" column="25" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="187" column="28" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="128" column="12" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
-      <jump line="139" column="5" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="7" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="198" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="197" column="17" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -300,25 +292,31 @@
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="7" column="23" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="82" column="8" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="41" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="29" column="72" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="22" column="19" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="23" column="19" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="24" column="19" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="40" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGhwbAo=</text>
+        <text encoding="base64">cHJpbnQoc3RvY2tOTi5jb3N0Wy0xXSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xvc2VfZGVsdGEg</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>plt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGxvYWRfZGF0YXNldCgpOgogICAgdHJhaW5fZGF0YXNldCA9IGg1cHkuRmlsZSgnLi9kYXRhc2V0cy90cmFpbl9jYXR2bm9uY2F0Lmg1JywgInIiKQogICAgdHJhaW5fc2V0X3hfb3JpZyA9IG5wLmFycmF5KHRyYWluX2RhdGFzZXRbInRyYWluX3NldF94Il1bOl0pICMgeW91ciB0cmFpbiBzZXQgZmVhdHVyZXMKICAgIHRyYWluX3NldF95X29yaWcgPSBucC5hcnJheSh0cmFpbl9kYXRhc2V0WyJ0cmFpbl9zZXRfeSJdWzpdKSAjIHlvdXIgdHJhaW4gc2V0IGxhYmVscwoKICAgIHRlc3RfZGF0YXNldCA9IGg1cHkuRmlsZSgnZGF0YXNldHMvdGVzdF9jYXR2bm9uY2F0Lmg1JywgInIiKQogICAgdGVzdF9zZXRfeF9vcmlnID0gbnAuYXJyYXkodGVzdF9kYXRhc2V0WyJ0ZXN0X3NldF94Il1bOl0pICMgeW91ciB0ZXN0IHNldCBmZWF0dXJlcwogICAgdGVzdF9zZXRfeV9vcmlnID0gbnAuYXJyYXkodGVzdF9kYXRhc2V0WyJ0ZXN0X3NldF95Il1bOl0pICMgeW91ciB0ZXN0IHNldCBsYWJlbHMKCiAgICBjbGFzc2VzID0gbnAuYXJyYXkodGVzdF9kYXRhc2V0WyJsaXN0X2NsYXNzZXMiXVs6XSkgIyB0aGUgbGlzdCBvZiBjbGFzc2VzCiAgICAKICAgIHRyYWluX3NldF95X29yaWcgPSB0cmFpbl9zZXRfeV9vcmlnLnJlc2hhcGUoKDEsIHRyYWluX3NldF95X29yaWcuc2hhcGVbMF0pKQogICAgdGVzdF9zZXRfeV9vcmlnID0gdGVzdF9zZXRfeV9vcmlnLnJlc2hhcGUoKDEsIHRlc3Rfc2V0X3lfb3JpZy5zaGFwZVswXSkpCiAgICAKICAgIHJldHVybiB0cmFpbl9zZXRfeF9vcmlnLCB0cmFpbl9zZXRfeV9vcmlnLCB0ZXN0X3NldF94X29yaWcsIHRlc3Rfc2V0X3lfb3JpZywgY2xhc3Nlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGhwbAo=</text>
+        <text encoding="base64">cHJpbnQoc3RvY2tOTi5jb3N0Wy0xXSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -335,46 +333,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">cHJpbnQoeFs6MjBdKQpwcmludCh5WzoyMF0pCnN0b2NrTk4gPSBOTi5JbWFnZU5OKHgseSkKcHJpbnQoc3RvY2tOTi5ZLnNoYXBlKQpwcmludChzdG9ja05OLlguc2hhcGUpCnN0b2NrTk4uZml0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV4dF9kYXlfY2xvc2UgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIG4sIHYgaW4gZW51bWVyYXRlKGNsb3NlKToKICAgIGlmIG4gPT0gbGVuKGNsb3NlKS0xOgogICAgICAgIHBhc3MKICAgIGVsc2U6CiAgICAgICAgbmV4dF9kYXlfY2xvc2UuYQo=</text>
+        <text encoding="base64">cHJpbnQoc3RvY2suYVswXS5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoY2xvc2Uuc2hhcGUpCg==</text>
+        <text encoding="base64">cHJpbnQoc3RvY2suYVswXS5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xvc2Vfb3JpZyA9IGNsb3NlW10gCg==</text>
+        <text encoding="base64">cHJpbnQoc3RvY2suYVswXS5zaGFwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">cHJpbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoc3RvY2spCg==</text>
+        <text encoding="base64">cHJpbnQobGVuKHkpKQpwcmludChzdG9jay50YWlsKDEwKSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>plt</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>plt</last-pattern>
       <last-replace>tail</last-replace>
       <last-substitute>head</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ini</entry>
-        <entry>log</entry>
         <entry>=</entry>
         <entry>np.dot</entry>
         <entry>0</entry>
@@ -393,6 +389,8 @@
         <entry>len</entry>
         <entry>xlose</entry>
         <entry>close</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
+        <entry>plt</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
