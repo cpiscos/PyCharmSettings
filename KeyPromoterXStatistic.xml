@@ -38,7 +38,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+Shift+Escape'</ShortCut>
           <Description>Close Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -287,6 +287,14 @@
           <ShortCut>'⌃''</ShortCut>
           <Description>Show Grid</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CourseraMachineLearning'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CourseraMachineLearning'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PythonMachineLearning'">
