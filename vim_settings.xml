@@ -15,7 +15,7 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1529727729278">
+      <file name="/Python Console" timestamp="1529733439785">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
@@ -121,12 +121,12 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529730756070">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="22" />
-        <mark key="^" line="39" column="55" />
-        <mark key="." line="34" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529732939262">
+        <mark key="'" line="112" column="18" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+        <mark key="." line="113" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1529725552654">
         <mark key="[" line="0" column="0" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="183" column="15" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="181" column="17" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
       <jump line="160" column="14" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" />
@@ -301,25 +300,26 @@
       <jump line="21" column="44" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="53" column="17" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
+      <jump line="112" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>, norm**3</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>, norm**3</text>
       </register>
       <register name="/" type="4">
         <text>pas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hWy0xXVtzZWxmLmFbLTFdID4gMC45OTk5OTk5OTk5OV0gPSAwLjk5OTk5OTk5OTkKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHggLSBzZWxmLm11KSAvIHNlbGYuc3RkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZXIgPSBzZWxmLmFbLTFdCg==</text>
+        <text encoding="base64">ICAgICAgICBpID0gMAogICAgICAgIHdoaWxlIGFicyhzZWxmLmNvc3RbLTFdIC0gc2VsZi5jb3N0Wy0yXSkgPiAwLjAwMToK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -336,31 +336,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgSiA8IDAuNToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZXIgPSBzZWxmLmFbLTFdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgSiA8IDAuNToK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuYVstMV0pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgSiA9PSAnbmFuJzoK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuYVstMV0pCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgSiA9PSAnbmFuJzoK</text>
+      </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -411,11 +411,11 @@
         <entry>s/errors_/cost_</entry>
         <entry>s/0/j/g</entry>
         <entry>s/hyp/log_func/g</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>reg</entry>
         <entry>s/mu/std/g</entry>
         <entry>%s/head/tail/g</entry>
         <entry>noh</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
