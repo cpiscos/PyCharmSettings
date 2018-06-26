@@ -15,7 +15,7 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530054621298">
+      <file name="/Python Console" timestamp="1530055511793">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
@@ -64,12 +64,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530054267710">
+      <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530055981427">
         <mark key="'" line="18" column="19" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="8" column="17" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="9" />
         <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+        <mark key="." line="25" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528470909280">
         <mark key="'" line="129" column="13" />
@@ -138,7 +138,7 @@
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530054550692">
+      <file name="/Dummy.txt" timestamp="1530054925302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -319,8 +319,8 @@
       <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIFsxLDAsMF0sIFswLCAxLCAwXSkKcHJpbnQoeSkKWCA9IGRmLmlsb2NbOjEwMCw6NF0udmFsdWVzCgppcmlzID0gTG9naXRSZWcoWCwgeSwgYWxwaGE9MC4wMSwgbl9pdGVyPTUwMCkKaXJpcy5maXQoKQppcmlzLnByZWRpY3QoWzUuNiwzLjAsNC41LDEuNV0pCnBsdC5wbG90KHJhbmdlKDEsIGxlbihpcmlzLmNvc3QpICsgMSksIGlyaXMuY29zdCwgbWFya2VyPSdvJykKcGx0LnhsYWJlbCgnSXRlcmF0aW9ucycpCnBsdC55bGFiZWwoJ0Nvc3QodGhldGEpJykK</text>
+      <register name="&quot;" type="4">
+        <text>how</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -376,7 +376,7 @@
         <text encoding="base64">ZnJvbSBmYXN0YWkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -421,7 +421,6 @@
         <entry>%y+</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>help s</entry>
         <entry>help v_s</entry>
         <entry>s/errors_/cost_</entry>
@@ -432,6 +431,7 @@
         <entry>%s/head/tail/g</entry>
         <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
