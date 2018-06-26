@@ -15,7 +15,7 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530035597416">
+      <file name="/Python Console" timestamp="1530054298237">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
@@ -64,8 +64,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530049675465">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530054267710">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/karabiner.json" timestamp="1528470909280">
         <mark key="'" line="129" column="13" />
@@ -103,6 +107,9 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/container.py" timestamp="1530052145549">
+        <mark key="'" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -211,10 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
-      <jump line="6" column="39" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
-      <jump line="21" column="46" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
@@ -311,31 +314,29 @@
       <jump line="67" column="2" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="65" column="39" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
+      <jump line="27" column="35" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/container.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
+      <jump line="7" column="30" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
+      <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>in
-eL
-in
-h.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, device=torch.device('cuda:0')</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>de</text>
       </register>
       <register name="0" type="4">
-        <text>device=torch.device(&quot;cuda:0&quot;)</text>
+        <text>load_mnist(path+FILENAME)</text>
       </register>
-      <register name="1" type="8">
-        <text>in
-eL
-in
-h.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -352,28 +353,28 @@ h.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
+        <text encoding="base64">cHJpbnQobnAuYXJyYXkobG9hZF9tbmlzdChwYXRoK0ZJTEVOQU1FKSkuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBkZWYgZ2V0X2RhdGEodXJsLCBmaWxlbmFtZSk6CiMgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhmaWxlbmFtZSk6CiMgICAgICAgICBkaXJuYW1lID0gb3MucGF0aC5kaXJuYW1lKGZpbGVuYW1lKQojICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRpcm5hbWUpOgojICAgICAgICAgICAgIG9zLm1ha2VkaXJzKGRpcm5hbWUpCiMKIyAgICAgICAgIHdpdGggVHFkbVVwVG8oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TiwgRF9pbiwgSCwgRF9vdXQgPSA2NCwgMTAwMCwgMTAwLCAxMAo=</text>
+        <text encoding="base64">Z2V0X2RhdGEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">ZnJvbSBmYXN0YWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29zdCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
@@ -502,6 +503,9 @@ h.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

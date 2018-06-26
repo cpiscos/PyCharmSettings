@@ -38,7 +38,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+Shift+Escape'</ShortCut>
           <Description>Close Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -102,7 +102,7 @@
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
           <ShortCut>'Ctrl+1'</ShortCut>
           <Description>Home Directory</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="New...">
@@ -158,6 +158,14 @@
           <IdeaActionID>QuickJavaDoc</IdeaActionID>
           <ShortCut>'F1'</ShortCut>
           <Description>Quick Documentation</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'Ctrl+`'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -294,7 +302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Grid">
@@ -310,6 +318,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CourseraMachineLearning'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PyTorchEx'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PyTorchEx'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
