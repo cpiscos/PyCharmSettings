@@ -147,11 +147,11 @@
         <mark key="^" line="249" column="8" />
         <mark key="." line="249" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050134672">
+      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
-        <mark key="[" line="64" column="23" />
-        <mark key="]" line="64" column="23" />
-        <mark key="." line="64" column="23" />
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="14" />
         <mark key="^" line="71" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528346518087">
@@ -313,8 +313,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, device=torch.device('cuda:0')</text>
+      <register name="&quot;" type="8">
+        <text>in
+eL
+in
+h.</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -328,8 +331,11 @@
       <register name="0" type="4">
         <text>device=torch.device(&quot;cuda:0&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+      <register name="1" type="8">
+        <text>in
+eL
+in
+h.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,25 +352,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
+        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TiwgRF9pbiwgSCwgRF9vdXQgPSA2NCwgMTAwMCwgMTAwLCAxMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">TiwgRF9pbiwgSCwgRF9vdXQgPSA2NCwgMTAwMCwgMTAwLCAxMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29zdCA9IFtdCg==</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Y29zdCA9IFtdCg==</text>
