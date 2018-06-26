@@ -15,7 +15,7 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530000531741">
+      <file name="/Python Console" timestamp="1530035597416">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
@@ -377,7 +377,7 @@
       <last-replace>tail</last-replace>
       <last-substitute>head</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
