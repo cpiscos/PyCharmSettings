@@ -144,12 +144,12 @@
         <mark key="^" line="249" column="8" />
         <mark key="." line="249" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530039284540">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="71" column="1" />
-        <mark key="]" line="71" column="1" />
-        <mark key="." line="71" column="1" />
-        <mark key="^" line="71" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530040565561">
+        <mark key="'" line="65" column="39" />
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="64" column="23" />
+        <mark key="." line="64" column="23" />
+        <mark key="^" line="71" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528346518087">
         <mark key="'" line="10" column="8" />
@@ -208,12 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
-      <jump line="25" column="11" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="34" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
-      <jump line="33" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
-      <jump line="32" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" />
       <jump line="1" column="74" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="10" column="17" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PracticePython/13 Fibonacci.py" />
@@ -308,25 +302,31 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="13" column="47" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="64" column="18" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="71" column="1" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="67" column="2" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
+      <jump line="65" column="39" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>, device=torch.device('cuda:0')</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>, device=torch.device('cuda:0')</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>de</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eCA9IHRvcmNoLnJhbmRuKE4sIERfaW4pCg==</text>
+      <register name="0" type="4">
+        <text>device=torch.device(&quot;cuda:0&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
+        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,45 +343,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TiwgRF9pbiwgSCwgRF9vdXQgPSA2NCwgMTAwMCwgMTAwLCAxMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JycnCg==</text>
+        <text encoding="base64">TiwgRF9pbiwgSCwgRF9vdXQgPSA2NCwgMTAwMCwgMTAwLCAxMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29zdCA9IFtdCg==</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Y29zdCA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgUHlUb3JjaCBBdXRvZ3JhZAo=</text>
+        <text encoding="base64">Y29zdCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>de</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>de</last-pattern>
       <last-replace>tail</last-replace>
       <last-substitute>head</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>np</entry>
         <entry>y</entry>
         <entry>self</entry>
         <entry>hyp</entry>
@@ -401,6 +400,7 @@
         <entry>pas</entry>
         <entry>relu</entry>
         <entry>for</entry>
+        <entry>de</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
