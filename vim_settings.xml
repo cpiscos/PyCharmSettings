@@ -101,6 +101,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" timestamp="1530066380337">
+        <mark key="'" line="5" column="44" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+      </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
         <mark key="[" line="150" column="0" />
@@ -217,10 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="29" column="27" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="30" column="14" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
@@ -317,25 +320,29 @@
       <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
       <jump line="9" column="20" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
+      <jump line="29" column="5" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" />
+      <jump line="0" column="30" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" />
+      <jump line="21" column="13" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" />
+      <jump line="5" column="44" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>[[], [4.0], [6.0]]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[[], [4.0], [6.0]]</text>
       </register>
       <register name="/" type="4">
-        <text>de</text>
+        <text>i)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eF90cmFpbiA9ICh4X3RyYWluLW11KSAvIG11Cg==</text>
+      <register name="0" type="4">
+        <text>x_data.data[0,0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQoeVs6NV0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -352,47 +359,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW1hZ2VDbGFzcwo=</text>
+        <text encoding="base64">cHJpbnQoeFs6NV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGVuZC54KGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwbHQuaW1zaG93KHhbMF0ucmVzaGFwZSgyOCwyOCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIocmFuZ2UoMTApLCBucC5yYW5kb20ucmFuZG4oMTApKQo=</text>
+        <text encoding="base64">bW9kZWwuZm9yd2FyZCh0b3JjaC5UZW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KCh4LCB5KSwgKHhfdmFsaWQsIHlfdmFsaWQpLCBfKSkgPSBsb2FkX21uaXN0KHBhdGgrRklMRU5BTUUpCg==</text>
+        <text encoding="base64">eV9kYXRhID0gWzIuMCwgNC4wLCA2LjBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dyA9IFZhcmlhYmxlKHRvcmNoLlRlbnNvcihbMS4wXSksIHJlcXVpcmVzX2dyYWQ9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VVJMID0gJ2h0dHA6Ly9kZWVwbGVhcm5pbmcubmV0L2RhdGEvbW5pc3QvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>de</last-search>
+      <last-search>i)</last-search>
       <last-offset />
-      <last-pattern>de</last-pattern>
+      <last-pattern>i)</last-pattern>
       <last-replace>tail</last-replace>
       <last-substitute>head</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
-        <entry>self</entry>
-        <entry>hyp</entry>
         <entry>-self</entry>
         <entry encoding="base64">XDxsb2dfZnVuY1w+</entry>
         <entry>mu</entry>
@@ -410,6 +414,9 @@
         <entry>relu</entry>
         <entry>for</entry>
         <entry>de</entry>
+        <entry>rang</entry>
+        <entry>torch</entry>
+        <entry>i)</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
