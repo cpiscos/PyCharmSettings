@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>FileChooser.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -343,6 +351,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'PythonMachineLearning'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SungKim (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SungKim (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'iris'">
