@@ -353,6 +353,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SungKim'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SungKim'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'iris'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>

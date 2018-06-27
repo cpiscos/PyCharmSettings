@@ -100,12 +100,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" timestamp="1530069118714">
+      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" timestamp="1530073727599">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="61" />
-        <mark key="]" line="42" column="67" />
-        <mark key="^" line="42" column="67" />
-        <mark key="." line="42" column="67" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -325,23 +325,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoeCxsZW4oeSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxvc3M=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>i)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm5uLkxpbmVhcigyMCw1MCkK</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi5pbml0Lnhhdmllcl91bmlmb3JtKHNlbGYubDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoeCxsZW4oeSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB5X3ByZWQgPSBoMl9yZWx1Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,29 +357,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dG9yY2gubm4uTGluZWFyKDIwLDUwKQo=</text>
+      <register name="2" type="4">
+        <text>model = torch.nn.Sequential(
+    torch.nn.Linear(20,50),
+    torch.nn.LeakyReLU(),
+    torch.nn.Linear(50,20),
+    torch.nn.LeakyReLU(),
+    torch.nn.Linear(20,1)
+).cuda()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTW9kZWwodG9yY2gubm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmwxID0gdG9yY2gubm4uTGluZWFyKDIwLCA1MCkKICAgICAgICBzZWxmLmwyID0gdG9yY2gubm4uTGluZWFyKDUwLCAyMCkKICAgICAgICBzZWxmLmwzID0gdG9yY2gubm4uTGluZWFyKDIwLCAxKQogICAgICAgIHNlbGYuTGVha3lSZUxVID0gdG9yY2gubm4uTGVha3lSZUxVKCkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4KToKICAgICAgICBvdXQxID0gc2VsZi5MZWFreVJlTFUoc2VsZi5sMSh4KSkKICAgICAgICBvdXQyID0gc2VsZi5MZWFreVJlTFUoc2VsZi5sMihvdXQxKSkKICAgICAgICBvdXQzID0gdG9yY2gubm4uTGluZWFyKHNlbGYubDMob3V0MikpCiAgICAgICAgcmV0dXJuIG91dDMKCm1vZGVsID0gTW9kZWwoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5X3ByZWQgPSBzZWxmLmxpbmVhcih4KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGx0LnNjYXR0ZXIoeCwgeV9kYXRhLmRhdGEpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHgpLGxlbih5KSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Zm9yIG4gaW4gcmFuZ2UoMSw1KToK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bW9kZWwgPSB0b3JjaC5ubi5TZXF1ZW50aWFsKAogICAgdG9yY2gubm4uTGluZWFyKDIwLDUwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDUwLDIwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDIwLDEpCikuY3VkYSgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoeCxsZW4oeSkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dG9yY2gubm4uTGluZWFyKDIwLDUwKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgTW9kZWwodG9yY2gubm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmwxID0gdG9yY2gubm4uTGluZWFyKDIwLCA1MCkKICAgICAgICBzZWxmLmwyID0gdG9yY2gubm4uTGluZWFyKDUwLCAyMCkKICAgICAgICBzZWxmLmwzID0gdG9yY2gubm4uTGluZWFyKDIwLCAxKQogICAgICAgIHNlbGYuTGVha3lSZUxVID0gdG9yY2gubm4uTGVha3lSZUxVKCkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4KToKICAgICAgICBvdXQxID0gc2VsZi5MZWFreVJlTFUoc2VsZi5sMSh4KSkKICAgICAgICBvdXQyID0gc2VsZi5MZWFreVJlTFUoc2VsZi5sMihvdXQxKSkKICAgICAgICBvdXQzID0gdG9yY2gubm4uTGluZWFyKHNlbGYubDMob3V0MikpCiAgICAgICAgcmV0dXJuIG91dDMKCm1vZGVsID0gTW9kZWwoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB5X3ByZWQgPSBzZWxmLmxpbmVhcih4KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmYXN0YWkuaW1wb3J0cyBpbXBvcnQgKgpmcm9tIGZhc3RhaS50b3JjaF9pbXBvcnRzIGltcG9ydCAqCmZyb20gZmFzdGFpLmlvIGltcG9ydCAqCmltcG9ydCBnemlwCmltcG9ydCBvcwppbXBvcnQgX3BpY2tsZQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgdXJsbGliCmltcG9ydCB0b3JjaC5ubiBhcyBubgoKZGVmIGxvYWRfbW5pc3QoZmlsZW5hbWUpOgogICAgcmV0dXJuIF9waWNrbGUubG9hZChnemlwLm9wZW4oZmlsZW5hbWUpLCBlbmNvZGluZz0nbGF0aW4tMScpCgoKcGF0aCA9ICdkYXRhL21uaXN0LycKZmlsZSA9ICdtbmlzdC5wa2wuZ3onClVSTCA9ICdodHRwOi8vZGVlcGxlYXJuaW5nLm5ldC9kYXRhL21uaXN0LycKCmlmIG5vdCBvcy5wYXRoLmlzZmlsZShwYXRoICsgZmlsZSk6CiAgICBvcy5tYWtlZGlycyhwYXRoLCBleGlzdF9vaz1UcnVlKQogICAgdXJsbGliLnVybHJldHJlaXZlKFVSTCArIGZpbGUsIGZpbGUpCgp0cmFpbiwgdmFsaWQsIHRlc3QgPSBfcGlja2xlLmxvYWQoZ3ppcC5vcGVuKHBhdGggKyBmaWxlKSwgZW5jb2Rpbmc9J2xhdGluLTEnKQooeF90cmFpbiwgeV90cmFpbiksICh4X3ZhbGlkLCB5X3ZhbGlkKSA9IHRyYWluLCB2YWxpZAoKIyBwbHQuaW1zaG93KHhfdHJhaW5bMF0ucmVzaGFwZSgyOCwyOCksIGNtYXA9J2dyYXknKQojIHBsdC50aXRsZSh5X3RyYWluWzBdKQptdSA9IHhfdHJhaW4ubWVhbigpCnN0ZCA9IHhfdHJhaW4uc3RkKCkKeF90cmFpbiA9ICh4X3RyYWluIC0gbXUpIC8gc3RkCnhfdmFsaWQgPSAoeF92YWxpZCAtIG11KSAvIHN0ZAoKbmV0ID0gbm4uU2VxdWVudGlhbCgKICAgIG5uLkxpbmVhcigyOCAqIDI4LCAxMDApLAogICAgbm4uTGVha3lSZUxVKCksCiAgICBubi5MaW5lYXIoMTAwLCAxMDApLAogICAgbm4uTGVha3lSZUxVKCksCiAgICBubi5MaW5lYXIoMTAwLCAxMCksCiAgICBubi5Mb2dTb2Z0bWF4KCkKKS5jdWRhKCkKCmkgPSBpdGVyKFsxLDIsMyw0LDVdKQp5ID0gbmV4dChpKQpmb3IgaSBpbiByYW5nZSg1KToKICAgIHggPSBcCiAgICAgICAgMQogICAgcHJpbnQoeCkK</text>
+        <text encoding="base64">cGx0LnNjYXR0ZXIoeCwgeV9kYXRhLmRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
