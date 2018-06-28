@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530215146250">
+      <file name="/Python Console" timestamp="1530216264231">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
@@ -205,16 +205,15 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530215145982">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="24" />
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530216264012">
+        <mark key="'" line="35" column="7" />
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
+        <mark key="^" line="11" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="21" column="48" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="17" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" />
@@ -314,25 +313,26 @@
       <jump line="10" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="2" column="33" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
+      <jump line="35" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.values).to(device)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>xy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geHkuaWxvY1s6LDozXQo=</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLkxpbmVhcigxMCwzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +349,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQodHJhaW5fbG9hZGVyKQo=</text>
+        <text encoding="base64">cHJpbnQoJycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJ2xvbCcpCg==</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLkNyb3NzRW50cm9weUxvc3MoMTAsMykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoOyBwcmludCh0b3JjaC5jdWRhLmN1cnJ0ZW50X2RldmljZSgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG4K</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

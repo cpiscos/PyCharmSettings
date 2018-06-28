@@ -278,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Rerun 'iris'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test (1)'">
@@ -502,7 +502,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>63</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
