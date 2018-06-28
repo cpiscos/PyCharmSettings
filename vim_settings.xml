@@ -111,7 +111,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530170291404">
+      <file name="/Dummy.txt" timestamp="1530171295973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -217,11 +217,12 @@
         <mark key="." line="68" column="14" />
         <mark key="^" line="71" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530165481456">
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+        <mark key="^" line="98" column="11" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -334,14 +335,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogaCAvIHc=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text encoding="base64">ICogaCAvIHc=</text>
       </register>
       <register name="/" type="4">
         <text>plt</text>
