@@ -100,12 +100,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" timestamp="1530076605342">
+      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/SungKim.py" timestamp="1530077540103">
         <mark key="'" line="51" column="32" />
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="53" column="18" />
-        <mark key="." line="53" column="18" />
-        <mark key="^" line="53" column="18" />
+        <mark key="[" line="34" column="84" />
+        <mark key="]" line="34" column="85" />
+        <mark key="." line="34" column="85" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -326,13 +326,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h2_tanh</text>
+        <text>, bias=True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>h2_tanh</text>
+        <text>, bias=True</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -341,7 +341,7 @@
         <text encoding="base64">ICAgICAgICBoMl9yZWx1ID0gc2VsZi5sMihoMV9yZWx1KS5jbGFtcChtaW49MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB0b3JjaC5zYXZlKG1vZGVsLnN0YXRlX2RpY3QoKSwgJ3Npbi5wdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,18 +358,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2UK</text>
+        <text encoding="base64">IyB0b3JjaC5zYXZlKG1vZGVsLnN0YXRlX2RpY3QoKSwgJ3Npbi5wdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQoJ3Npbi5wdCcpKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">bW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQoJ3Npbi5wdCcpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB5X3ByZWQgPSBoMl9yZWx1Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>model = torch.nn.Sequential(
     torch.nn.Linear(20,50),
     torch.nn.LeakyReLU(),
@@ -378,14 +381,11 @@
     torch.nn.Linear(20,1)
 ).cuda()</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bW9kZWwgPSB0b3JjaC5ubi5TZXF1ZW50aWFsKAogICAgdG9yY2gubm4uTGluZWFyKDIwLDUwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDUwLDIwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDIwLDEpCikuY3VkYSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoeCxsZW4oeSkpCg==</text>
+        <text encoding="base64">bW9kZWwgPSB0b3JjaC5ubi5TZXF1ZW50aWFsKAogICAgdG9yY2gubm4uTGluZWFyKDIwLDUwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDUwLDIwKSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAogICAgdG9yY2gubm4uTGluZWFyKDIwLDEpCikuY3VkYSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
