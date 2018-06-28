@@ -1,4 +1,7 @@
 <keymap version="1" name="IdeaVim" parent="Default for XWin">
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -67,7 +70,7 @@
   <action id="GotoClass" />
   <action id="GotoSymbol" />
   <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="alt escape" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="ctrl n" />

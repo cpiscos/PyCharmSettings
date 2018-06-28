@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/test.py" timestamp="1530208524716">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/test.py" timestamp="1530213486806">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/Resources/iris.data" timestamp="1528966959101">
         <mark key="'" line="11" column="27" />
@@ -17,11 +15,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530208389833">
+      <file name="/Python Console" timestamp="1530215146250">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="/fragment.py" timestamp="1530208378975">
+      <file name="/fragment.py" timestamp="1530214683695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
@@ -112,7 +110,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530208012956">
+      <file name="/Dummy.txt" timestamp="1530214841803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -207,12 +205,12 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530208358858">
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530215145982">
         <mark key="'" line="10" column="30" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="71" />
-        <mark key="." line="20" column="71" />
-        <mark key="^" line="20" column="71" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -319,13 +317,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>).to(device)</text>
+        <text>.values).to(device)</text>
       </register>
       <register name="/" type="4">
         <text>xy</text>
@@ -334,7 +332,7 @@
         <text encoding="base64">ICAgICAgICB4ID0geHkuaWxvY1s6LDozXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,31 +349,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG4K</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoaXJpc19kYXRhLmhlYWQoKSkK</text>
+        <text encoding="base64">cHJpbnQodHJhaW5fbG9hZGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXJpc19kYXRhID0gcGQucmVhZF9jc3YoJ2RhdGEvaXJpcy5kYXRhJywgaGVhZGVyPU5vbmUpCg==</text>
+        <text encoding="base64">cHJpbnQoJ2xvbCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoOyBwcmludCh0b3JjaC5jdWRhLmN1cnJ0ZW50X2RldmljZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHNmbSA9IFRyYW5zZm9ybShwYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltYWdlLnNoYXBlKQo=</text>
+        <text encoding="base64">aW1wb3J0IG4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNob3dfbGFuZG1hcmtzKCoqc2FtcGxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -429,8 +427,8 @@
         <entry>action RenameElemenet</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action RenameElement</entry>
-        <entry>reg</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
