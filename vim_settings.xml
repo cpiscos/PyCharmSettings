@@ -16,11 +16,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530088328298">
+      <file name="/Python Console" timestamp="1530162527629">
         <mark key="[" line="0" column="0" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="/fragment.py" timestamp="1528336497529">
+      <file name="/fragment.py" timestamp="1530162432236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
@@ -111,7 +111,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530054925302">
+      <file name="/Dummy.txt" timestamp="1530162416817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -217,6 +217,13 @@
         <mark key="." line="68" column="14" />
         <mark key="^" line="71" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530162503596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="42" column="42" />
+        <mark key="^" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+      </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
         <mark key="[" line="150" column="0" />
@@ -226,11 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="69" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
-      <jump line="16" column="21" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" />
-      <jump line="22" column="40" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="24" column="48" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
-      <jump line="28" column="8" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="4" column="53" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="17" column="21" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
@@ -326,25 +328,30 @@
       <jump line="87" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="79" column="25" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
+      <jump line="1" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
+      <jump line="7" column="40" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>transforms, utils</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4X2RhdGEgPSB4X2RhdGEuY3VkYSgpCg==</text>
+        <text encoding="base64">aW1nX25hbWUgPSBsYW5kbWFya3NfZnJhbWUuaWxvY1tuLCAwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -361,28 +368,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGltZS50aQo=</text>
+        <text encoding="base64">ZnJvbSBza2ltYWdlIGltcG9ydCBpbywgdHJhbnNmb3JtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxheWVyMiA9IG5uCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXNkZgo=</text>
+      <register name="6" type="4">
+        <text>print(f'Image name: {img_name}')
+print(f'Landmarks shape: {landmarks.shape}')
+print(f'First 4 Landmarks: {landmarks[:4]}')</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgdG9yY2gKZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRoCnkgPSBbW21hdGguc2luKGkpXSBmb3IgaSBpbiBucC5hcmFuZ2UoLTUsNS4xLDAuMSldCnggPSBbW2ldIGZvciBpIGluIG5wLmFyYW5nZSgtNSw1LjEsMC4xKV0KZmVhdCA9IG5wLmFycmF5KHgpCmZlYXQgPSBucC5jb25jYXRlbmF0ZSh0dXBsZShbZmVhdCoqbiBmb3IgbiBpbiByYW5nZSgxLDIxKV0pLCBheGlzPTEpCgpwcmludChmZWF0LnNoYXBlKQoKeF9kYXRhID0gVmFyaWFibGUodG9yY2guVGVuc29yKHgpKQp5X2RhdGEgPSBWYXJpYWJsZSh0b3JjaC5UZW5zb3IoeSkpCg==</text>
+      <register name="7" type="4">
+        <text>print(f'Image name: {img_name}')
+print(f'Landmarks shape: {landmarks.shape}')
+print(f'First 4 Landmarks: {landmarks[:4]}')</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">eSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIFsxLDAsMF0sIFswLCAxLCAwXSkKcHJpbnQoeSkKWCA9IGRmLmlsb2NbOjEwMCw6NF0udmFsdWVzCgppcmlzID0gTG9naXRSZWcoWCwgeSwgYWxwaGE9MC4wMSwgbl9pdGVyPTUwMCkKaXJpcy5maXQoKQppcmlzLnByZWRpY3QoWzUuNiwzLjAsNC41LDEuNV0pCnBsdC5wbG90KHJhbmdlKDEsIGxlbihpcmlzLmNvc3QpICsgMSksIGlyaXMuY29zdCwgbWFya2VyPSdvJykKcGx0LnhsYWJlbCgnSXRlcmF0aW9ucycpCnBsdC55bGFiZWwoJ0Nvc3QodGhldGEpJykK</text>
+      <register name="8" type="4">
+        <text>print(f'Image name: {img_name}')
+print(f'Landmarks shape: {landmarks.shape}')
+print(f'First 4 Landmarks: {landmarks[:4]}')</text>
+      </register>
+      <register name="9" type="4">
+        <text>print(f'Image name: {img_name}')
+print(f'Landmarks shape: {landmarks.shape}')
+print(f'First 4 Landmarks: {landmarks[:4]}')</text>
       </register>
       <register name=":" type="4">
         <text>s/x/y/g</text>
