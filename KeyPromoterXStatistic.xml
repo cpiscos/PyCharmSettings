@@ -57,6 +57,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'iris'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'iris'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'test (1)'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -86,6 +94,14 @@
           <IdeaActionID>ExecuteInPyConsoleAction</IdeaActionID>
           <ShortCut>'Alt+Shift+E'</ShortCut>
           <Description>Execute Selection in Console</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exit">
+        <Item>
+          <IdeaActionID>Exit</IdeaActionID>
+          <ShortCut>'Ctrl+C'</ShortCut>
+          <Description>Exit</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -238,7 +254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Rerun 'iris'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test (1)'">
@@ -345,6 +361,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -438,7 +462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>15</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -454,6 +478,14 @@
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⌥`'</ShortCut>
           <Description>VCS Operations Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
