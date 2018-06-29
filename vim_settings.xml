@@ -15,8 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530240986021">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1530241022723">
         <mark key="." line="12" column="18" />
       </file>
       <file name="/fragment.py" timestamp="1530214683695">
@@ -116,7 +115,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530240986030">
+      <file name="/Dummy.txt" timestamp="1530241259126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -137,6 +136,12 @@
         <mark key="]" line="40" column="54" />
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530241919004">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
         <mark key="'" line="0" column="0" />
@@ -330,8 +335,8 @@
       <jump line="18" column="28" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, momentum=0.5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiB0cgo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -346,7 +351,7 @@
         <text encoding="base64">dG9yY2guY3VkYS5zeW5jaHJvbml6ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,28 +368,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB0b3JjaC5jdWRhLnN5bmNocm9uaXplKCkK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0b3JjaC5jdWRhLnN5bmNocm9uaXplKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnhbMF0sIHNlbGYueVswXSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyB0b3JjaC5jdWRhLnN5bmNocm9uaXplKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyB0b3JjaC5jdWRhLnN5bmNocm9uaXplKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi54KSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnhbMF0sIHNlbGYueVswXSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4eVs0XSA9IHh5WzRdLmFzdHlwZSgnY2F0ZWdvcnknKQogICAgICAgIHNlbGYueCA9IHh5Lmlsb2NbOiwgOjRdLnZhbHVlcwogICAgICAgIHNlbGYueF9tdSA9IG5wLm1lYW4oc2VsZi54LCBheGlzPTApCiAgICAgICAgc2VsZi54X3N0ZCA9IG5wLnN0ZChzZWxmLngsIGF4aXM9MCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi54KSkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
