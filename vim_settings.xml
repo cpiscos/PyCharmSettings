@@ -15,9 +15,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530242794751">
+      <file name="/Python Console" timestamp="1530245463807">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="12" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530214683695">
         <mark key="[" line="0" column="0" />
@@ -138,11 +139,12 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530242928718">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
-        <mark key="^" line="25" column="53" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530245484628">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
         <mark key="'" line="0" column="0" />
@@ -234,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="29" column="52" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
@@ -334,25 +335,26 @@
       <jump line="7" column="24" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="17" column="28" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="18" column="28" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>train_idx = np.random.choice(10, np.floor(0.7*10, dtype=int), replace=True)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>train_idx = np.random.choice(10, np.floor(0.7*10, dtype=int), replace=True)</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>t_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeF90ZXN0ID0gdGVzdF94eS5pbG9jWzosIDo0XS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLkxpbmVhcig0LCA0KSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmFpbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZfbGFiZWxbMF0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,45 +371,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeF90ZXN0ID0gdGVzdF94eS5pbG9jWzosIDo0XS52YWx1ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV90ZXN0ID0gdGVzdF94eS5pbG9jWzosIDRdLnZhbHVlcwo=</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLlNvZnRtYXgoZGltPTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnhfdHJuID0gCg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4odGVzdF94eSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeHkgPSB4eS5pbG9jW3RyYWluX2lkeF0K</text>
+        <text encoding="base64">ICAgICAgICBsb3NzLnplcm9fZ3JhZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cgo=</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLlNvZnRtYXgoZGltPTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/t_/v_/g</text>
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>t_</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-pattern>t_</last-pattern>
+      <last-replace>v_</last-replace>
+      <last-substitute>t_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stock</entry>
         <entry>pas</entry>
         <entry>relu</entry>
         <entry>for</entry>
@@ -427,9 +428,9 @@
         <entry>.cuda</entry>
         <entry>from</entry>
         <entry>num</entry>
+        <entry>t_</entry>
       </history-search>
       <history-cmd>
-        <entry>s/my.arr/my_ran/g</entry>
         <entry>jumps</entry>
         <entry>%y+</entry>
         <entry>set surround</entry>
@@ -449,6 +450,7 @@
         <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
         <entry>reg</entry>
+        <entry>s/t_/v_/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
