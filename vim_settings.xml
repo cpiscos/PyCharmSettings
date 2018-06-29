@@ -15,8 +15,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530254525522">
+      <file name="/Python Console" timestamp="1530309475730">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
         <mark key="[" line="0" column="0" />
@@ -115,7 +118,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530254525599">
+      <file name="/Dummy.txt" timestamp="1530308629608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -158,11 +161,12 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530255011025">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="70" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530309475155">
+        <mark key="'" line="89" column="115" />
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -240,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" />
       <jump line="3" column="7" filename="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" />
       <jump line="3" column="36" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
@@ -340,25 +343,26 @@
       <jump line="79" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
       <jump line="82" column="52" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
+      <jump line="90" column="115" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNyb3NzX25ldCkK</text>
+      <register name="&quot;" type="4">
+        <text>SGD</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>SGD</text>
       </register>
       <register name="/" type="4">
         <text>t_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">Y3JpdGVyaW9uID0gdG9yY2gubm4uTVNFTG9zcygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNyb3NzX25ldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -375,28 +379,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z2FuX2NyaXRlcmlvbiA9IHRvcmNoLm5uLk1TRUxvc3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRvcmNoLm1lYW4oY3Jvc3NfbmV0KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlc3QpCg==</text>
+        <text encoding="base64">ICAgIHRvcmNoLm5uLlNpZ21vaWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdlbmVyYXRlZC5zaGFwZSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Z2FuX2NyaXRlcmlvbiA9IHRvcmNoLm5uLkJDRUxvc3MoKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">a2sK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnguc2hhcGUsIHNlbGYueS5zaGFwZSwgc2VsZi54X3ZhbGlkLnNoYXBlLCBzZWxmLnlfdmFsaWQuc2hhcGUpCg==</text>
+        <text encoding="base64">cHJpbnQoZGF0YXNldC54eSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnguc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1hdGNoKQogICAgICAgICAgICAgICAgcHJpbnQodl9wcmVkKQogICAgICAgICAgICAgICAgcHJpbnQodl9sYWJlbCkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
