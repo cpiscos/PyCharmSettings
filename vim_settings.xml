@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530245463807">
+      <file name="/Python Console" timestamp="1530246635908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,12 +139,12 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530245484628">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="25" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530246635645">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+        <mark key="^" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
         <mark key="'" line="0" column="0" />
@@ -339,22 +339,23 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>train_idx = np.random.choice(10, np.floor(0.7*10, dtype=int), replace=True)</text>
+        <text>, weight_decay=0.01</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>train_idx = np.random.choice(10, np.floor(0.7*10, dtype=int), replace=True)</text>
+        <text>, weight_decay=0.01</text>
       </register>
       <register name="/" type="4">
         <text>t_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm5uLkxpbmVhcig0LCA0KSwKICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAo=</text>
+      <register name="0" type="4">
+        <text>torch.argmax(v_pred, dim=1), v_label)
+            i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZfbGFiZWxbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCksICkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,28 +372,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm5uLlNvZnRtYXgoZGltPTEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnRXBvY2g6IHtlcG9jaH0gIExvc3M6e3RfbG9zc1stMV19JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZfbGFiZWxbMF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzLnplcm9fZ3JhZCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHRvcmNoLm5uLlNvZnRtYXgoZGltPTEpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm5uLkxlYWt5UmVMVSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/t_/v_/g</text>
