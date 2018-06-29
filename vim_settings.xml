@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530251514653">
+      <file name="/Python Console" timestamp="1530254059873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -158,11 +158,11 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530251538868">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530254059576">
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="95" column="13" />
+        <mark key="." line="95" column="13" />
+        <mark key="^" line="95" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -240,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit_regression.py" />
       <jump line="12" column="39" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" />
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" />
       <jump line="3" column="7" filename="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" />
@@ -340,25 +339,26 @@
       <jump line="80" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" />
+      <jump line="82" column="52" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGdlbmVyYXRlZC5zaGFwZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>t_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgdG9yY2gKZnJvbSB0b3JjaC51dGlscy5kYXRhIGltcG9ydCBEYXRhc2V0LCBEYXRhTG9hZGVyCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCB0aW1lCgpkZXZpY2UgPSB0b3JjaC5kZXZpY2UoJ2N1ZGEnKQoKCmNsYXNzIElyaXNEYXRhKERhdGFzZXQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHh5ID0gcGQucmVhZF9jc3YoJ2RhdGEvaXJpcy5kYXRhJywgaGVhZGVyPU5vbmUpCiAgICAgICAgeHlbNF0gPSB4eVs0XS5hc3R5cGUoJ2NhdGVnb3J5JykKICAgICAgICB2YWxpZF9pZHggPSBucC5yYW5kb20uY2hvaWNlKGxlbih4eSksIGludCgwLjMqbGVuKHh5KSksIHJlcGxhY2U9RmFsc2UpCiAgICAgICAgdmFsaWRfeHkgPSB4eS5pbG9jW3ZhbGlkX2lkeF0uY29weSgpCiAgICAgICAgeHkgPSB4eS5kcm9wKHZhbGlkX2lkeCkKCiAgICAgICAgeF92YWxpZCA9IHZhbGlkX3h5Lmlsb2NbOiwgOjRdLnZhbHVlcwogICAgICAgIHNlbGYueCA9IHh5Lmlsb2NbOiwgOjRdLnZhbHVlcwogICAgICAgIHNlbGYueF9tdSA9IG5wLm1lYW4oc2VsZi54LCBheGlzPTApCiAgICAgICAgc2VsZi54X3N0ZCA9IG5wLnN0ZChzZWxmLngsIGF4aXM9MCkKICAgICAgICBzZWxmLnggPSB0b3JjaC5mcm9tX251bXB5KChzZWxmLnggLSBzZWxmLnhfbXUpIC8gc2VsZi54X3N0ZCkKICAgICAgICBzZWxmLnkgPSB0b3JjaC5mcm9tX251bXB5KG5wLmFycmF5KHh5WzRdLmNhdC5jb2RlcywgZHR5cGU9J2ludDY0JykpCiAgICAgICAgc2VsZi54X3ZhbGlkID0gdG9yY2guZnJvbV9udW1weSgoeF92YWxpZCAtIHNlbGYueF9tdSkgLyBzZWxmLnhfc3RkKQogICAgICAgIHNlbGYueV92YWxpZCA9IHRvcmNoLmZyb21fbnVtcHkobnAuYXJyYXkodmFsaWRfeHlbNF0uY2F0LmNvZGVzLCBkdHlwZT0naW50NjQnKSkKCiAgICBkZWYgX19sZW5fXyhzZWxmKToKICAgICAgICByZXR1cm4gbGVuKHNlbGYueCkKCiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaWR4KToKICAgICAgICByZXR1cm4gc2VsZi54W2lkeF0sIHNlbGYueVtpZHhdCgpkYXRhc2V0ID0gSXJpc0RhdGEoKQp0cmFpbl9sb2FkZXIgPSBEYXRhTG9hZGVyKGRhdGFzZXQ9ZGF0YXNldCwgc2h1ZmZsZT1UcnVlLCBiYXRjaF9zaXplPTUwLCBudW1fd29ya2Vycz0wKQoKbmV0ID0gdG9yY2gubm4uU2VxdWVudGlhbCgKICAgIHRvcmNoLm5uLkxpbmVhcig0LCAxMCksCiAgICB0b3JjaC5ubi5FTFUoKSwKICAgIHRvcmNoLm5uLkxpbmVhcigxMCwgMyksCiAgICB0b3JjaC5ubi5Mb2dTb2Z0bWF4KGRpbT0xKQopLnRvKGRldmljZSkKCm9wdGltaXplciA9IHRvcmNoLm9wdGltLlJNU3Byb3AobmV0LnBhcmFtZXRlcnMoKSwgbHI9MC4wMDMpCmNyaXRlcmlvbiA9IHRvcmNoLm5uLkNyb3NzRW50cm9weUxvc3MoKQoKdF9sb3NzID0gW10Kdl9sb3NzID0gW10Kc3RhcnQgPSB0aW1lLnRpbWUoKQpmb3IgZXBvY2ggaW4gcmFuZ2UoNTAwKToKICAgIGZvciBpLCBzYW1wbGUgaW4gZW51bWVyYXRlKHRyYWluX2xvYWRlcik6CiAgICAgICAgZGF0YSwgbGFiZWwgPSBzYW1wbGUKICAgICAgICBkYXRhID0gZGF0YS5mbG9hdCgpLnRvKGRldmljZSkKICAgICAgICBsYWJlbCA9IGxhYmVsLmxvbmcoKS50byhkZXZpY2UpCgogICAgICAgIG9wdGltaXplci56ZXJvX2dyYWQoKQogICAgICAgIHByZWQgPSBuZXQoZGF0YSkKICAgICAgICBsb3NzID0gY3JpdGVyaW9uKHByZWQsIGxhYmVsKQogICAgICAgIHRfbG9zcy5hcHBlbmQobG9zcy5pdGVtKCkpCgogICAgICAgIGxvc3MuYmFja3dhcmQoKQogICAgICAgIG9wdGltaXplci5zdGVwKCkKICAgICAgICBpZiBpID09IGxlbih0cmFpbl9sb2FkZXIpLTE6CiAgICAgICAgICAgIHByaW50KGYnRXBvY2g6IHtlcG9jaH0gIExvc3M6e3RfbG9zc1stMV19JykKCiAgICAgICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgICAgIHZfZGF0YSwgdl9sYWJlbCA9IGRhdGFzZXQueF92YWxpZCwgZGF0YXNldC55X3ZhbGlkCiAgICAgICAgICAgIHZfZGF0YSA9IHZfZGF0YS5mbG9hdCgpLnRvKGRldmljZSkKICAgICAgICAgICAgdl9sYWJlbCA9IHZfbGFiZWwubG9uZygpLnRvKGRldmljZSkKICAgICAgICAgICAgdl9wcmVkID0gbmV0KHZfZGF0YSkKICAgICAgICAgICAgaWYgKGVwb2NoID09IDQ5OSkgJiAoaSA9PSBsZW4odHJhaW5fbG9hZGVyKS0xKToKICAgICAgICAgICAgICAgIG1hdGNoID0gdG9yY2guYXJnbWF4KHZfcHJlZCwgZGltPTEpID09IHZfbGFiZWwKICAgICAgICAgICAgICAgIHByaW50KHN0cihucC5tZWFuKG1hdGNoLmNwdSgpLm51bXB5KCkpKjEwMCkrJyUnKQogICAgICAgICAgICBpdl9sb3NzID0gY3JpdGVyaW9uKHZfcHJlZCwgdl9sYWJlbCkKICAgICAgICAgICAgdl9sb3NzLmFwcGVuZChpdl9sb3NzLml0ZW0oKSkKCnByaW50KHRpbWUudGltZSgpIC0gc3RhcnQpCnBsdC5wbG90KHJhbmdlKGxlbih0X2xvc3MpKSwgdF9sb3NzKQpwbHQucGxvdChyYW5nZShsZW4odl9sb3NzKSksIHZfbG9zcykKcGx0LnNob3coKQo=</text>
+      <register name="0" type="4">
+        <text>torch.optim.RMSprop(net.parameters(), lr=0.003)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnguc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdlbmVyYXRlZC5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -375,28 +375,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">Z2FuX2NyaXRlcmlvbiA9IHRvcmNoLm5uLkJDRUxvc3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4eVs0XSA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnguc2hhcGUsIHNlbGYueS5zaGFwZSwgc2VsZi54X3ZhbGlkLnNoYXBlLCBzZWxmLnlfdmFsaWQuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCksICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnguc2hhcGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnRXBvY2g6IHtlcG9jaH0gIExvc3M6e3RfbG9zc1stMV19JykK</text>
+        <text encoding="base64">ICAgICAgICB4eVs0XSA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZfbGFiZWxbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCksICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm5uLlNvZnRtYXgoZGltPTEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnRXBvY2g6IHtlcG9jaH0gIExvc3M6e3RfbG9zc1stMV19JykK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
