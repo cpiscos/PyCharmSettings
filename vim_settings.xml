@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530312915829">
+      <file name="/Python Console" timestamp="1530314536841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1530144227804">
+      <file name="/a.dummy" timestamp="1530314817974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
@@ -104,11 +104,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan_2.py" timestamp="1530313027627">
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan_2.py" timestamp="1530313652093">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529221569184">
         <mark key="'" line="11" column="7" />
@@ -126,6 +126,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1530308629608">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530314889727">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
         <mark key="'" line="4" column="22" />
@@ -167,12 +173,12 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530312904056">
-        <mark key="'" line="89" column="27" />
-        <mark key="[" line="83" column="78" />
-        <mark key="]" line="83" column="77" />
-        <mark key="^" line="83" column="77" />
-        <mark key="." line="83" column="77" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530314536180">
+        <mark key="'" line="90" column="27" />
+        <mark key="[" line="97" column="15" />
+        <mark key="]" line="97" column="15" />
+        <mark key="^" line="97" column="19" />
+        <mark key="." line="97" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -352,14 +358,14 @@
       <jump line="89" column="27" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>zeros</text>
@@ -368,7 +374,7 @@
         <text encoding="base64">eF9tdSA9IG5wLm1lYW4oeHlbOiw6NF0sIGF4aXM9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">aW1wb3J0IGNQaWNrbGUsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,28 +391,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBnYW5fb3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICBub2lzZSA9IHRvcmNoLnJhbmRuKDEwMCwgNDApLnRvKGRldmljZSkKICAgIGdlbmVyYXRlZCA9IGdhbihub2lzZSkKICAgIGNyb3NzX25ldCA9IG5ldChnZW5lcmF0ZWQpCiAgICBnYW5fbG9zcyA9IGNyaXRlcmlvbihjcm9zc19uZXQsIHRvcmNoLm9uZXMoMTAwKS52aWV3KDEwMCwxKS50byhkZXZpY2UpKQogICAgdF9nYW5fbG9zcy5hcHBlbmQoZ2FuX2xvc3MuaXRlbSgpKQoKICAgIGdhbl9sb3NzLmJhY2t3YXJkKCkKICAgIGdhbl9vcHRpbWl6ZXIuc3RlcCgpCiAgICB3aXRoIHRvcmNoLm5vX2dyYWQoKToKICAgICAgICBwcmludCh0b3JjaC5tZWFuKGNyb3NzX25ldCkpCiAgICAgICAgZ2VuX2Zvcm1hdCA9IGdlbmVyYXRlZC5jcHUoKS5udW1weSgpCiAgICAgICAgZ2VuZXJhdGVkID0gbnAuY29uY2F0ZW5hdGUoKGdlbl9mb3JtYXQsIG5wLm9uZXMobGVuKGdlbl9mb3JtYXQpKS5yZXNoYXBlKC0xLDEpKSwgYXhpcz0xKQogICAgICAgIG1hdGNoID0gbnAud2hlcmUoY3Jvc3NfbmV0LmNwdSgpLm51bXB5KCkucmVzaGFwZSgtMSkgPiAwLjUsIDEsIDApID09IDEKICAgICAgICAjIHByaW50KGNyb3NzX25ldC5jcHUoKS5udW1weSgpKQogICAgICAgIHByaW50KHN0cihucC5tZWFuKG1hdGNoKSoxMDApKyclIGdhbicpCgo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuc3RlcCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">CiAgICBnYW5fb3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICBub2lzZSA9IHRvcmNoLnJhbmRuKDEwMCwgNDApLnRvKGRldmljZSkKICAgIGdlbmVyYXRlZCA9IGdhbihub2lzZSkKICAgIGNyb3NzX25ldCA9IG5ldChnZW5lcmF0ZWQpCiAgICBnYW5fbG9zcyA9IGNyaXRlcmlvbihjcm9zc19uZXQsIHRvcmNoLm9uZXMoMTAwKS52aWV3KDEwMCwxKS50byhkZXZpY2UpKQogICAgdF9nYW5fbG9zcy5hcHBlbmQoZ2FuX2xvc3MuaXRlbSgpKQoKICAgIGdhbl9sb3NzLmJhY2t3YXJkKCkKICAgIGdhbl9vcHRpbWl6ZXIuc3RlcCgpCiAgICB3aXRoIHRvcmNoLm5vX2dyYWQoKToKICAgICAgICBwcmludCh0b3JjaC5tZWFuKGNyb3NzX25ldCkpCiAgICAgICAgZ2VuX2Zvcm1hdCA9IGdlbmVyYXRlZC5jcHUoKS5udW1weSgpCiAgICAgICAgZ2VuZXJhdGVkID0gbnAuY29uY2F0ZW5hdGUoKGdlbl9mb3JtYXQsIG5wLm9uZXMobGVuKGdlbl9mb3JtYXQpKS5yZXNoYXBlKC0xLDEpKSwgYXhpcz0xKQogICAgICAgIG1hdGNoID0gbnAud2hlcmUoY3Jvc3NfbmV0LmNwdSgpLm51bXB5KCkucmVzaGFwZSgtMSkgPiAwLjUsIDEsIDApID09IDEKICAgICAgICAjIHByaW50KGNyb3NzX25ldC5jcHUoKS5udW1weSgpKQogICAgICAgIHByaW50KHN0cihucC5tZWFuKG1hdGNoKSoxMDApKyclIGdhbicpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplci56ZXJvX2dyYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdhbl9sb3NzLmJhY2t3YXJkKCkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
