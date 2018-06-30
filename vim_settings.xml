@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530314536841">
+      <file name="/Python Console" timestamp="1530318743464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -127,11 +127,12 @@
       <file name="/Dummy.txt" timestamp="1530308629608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530314889727">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="3" column="27" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530318743033">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
         <mark key="'" line="4" column="22" />
@@ -256,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" />
-      <jump line="3" column="36" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="1" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="2" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
       <jump line="7" column="23" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
@@ -356,25 +353,29 @@
       <jump line="82" column="52" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
       <jump line="90" column="115" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
       <jump line="89" column="27" filename="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" />
+      <jump line="28" column="3" filename="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" />
+      <jump line="44" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>zeros</text>
+        <text>d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eF9tdSA9IG5wLm1lYW4oeHlbOiw6NF0sIGF4aXM9MCkK</text>
+        <text encoding="base64">cGx0LnBsb3QobGVuKGRfbG9zcyksIGRfbG9zcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNQaWNrbGUsCg==</text>
+        <text encoding="base64">ICAgIHJlYWwgPSB0b3JjaC5jYXQoKHgsIHRvcmNoLm9uZXMoMjAsIDEpLnRvKGRldmljZSkpLCBkaW09MSkKICAgIGZha2UgPSB0b3JjaC5jYXQoKGdlbmVyYXRlZCwgdG9yY2guemVyb3MoMjAsIDEpLnRvKGRldmljZSkpLCBkaW09MSkKICAgIHNhbXBsZSA9IHRvcmNoLmNhdCgocmVhbCwgZmFrZSksIGRpbT0wKQogICAgc2FtcGxlID0gc2FtcGxlW3RvcmNoLnJhbmRwZXJtKDQwKV0KCiAgICB4ID0gc2FtcGxlWzosIDo1XQogICAgeSA9IHNhbXBsZVs6LCA1XS5kZXRhY2goKS52aWV3KDQwLCAxKQoKICAgIERfbG9zcyA9IGNyaXRlcmlvbihEKHgpLCB5KQogICAgRF9vcHQuemVyb19ncmFkKCkKICAgIERfbG9zcy5iYWNrd2FyZCgpCiAgICBEX29wdC5zdGVwKCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -391,47 +392,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">R19jcml0ZXJpb24gPSB0b3JjaC5ubi5CQ0VMb3NzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIERfb3B0Lnplcm9fZ3JhZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBnYW5fb3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICBub2lzZSA9IHRvcmNoLnJhbmRuKDEwMCwgNDApLnRvKGRldmljZSkKICAgIGdlbmVyYXRlZCA9IGdhbihub2lzZSkKICAgIGNyb3NzX25ldCA9IG5ldChnZW5lcmF0ZWQpCiAgICBnYW5fbG9zcyA9IGNyaXRlcmlvbihjcm9zc19uZXQsIHRvcmNoLm9uZXMoMTAwKS52aWV3KDEwMCwxKS50byhkZXZpY2UpKQogICAgdF9nYW5fbG9zcy5hcHBlbmQoZ2FuX2xvc3MuaXRlbSgpKQoKICAgIGdhbl9sb3NzLmJhY2t3YXJkKCkKICAgIGdhbl9vcHRpbWl6ZXIuc3RlcCgpCiAgICB3aXRoIHRvcmNoLm5vX2dyYWQoKToKICAgICAgICBwcmludCh0b3JjaC5tZWFuKGNyb3NzX25ldCkpCiAgICAgICAgZ2VuX2Zvcm1hdCA9IGdlbmVyYXRlZC5jcHUoKS5udW1weSgpCiAgICAgICAgZ2VuZXJhdGVkID0gbnAuY29uY2F0ZW5hdGUoKGdlbl9mb3JtYXQsIG5wLm9uZXMobGVuKGdlbl9mb3JtYXQpKS5yZXNoYXBlKC0xLDEpKSwgYXhpcz0xKQogICAgICAgIG1hdGNoID0gbnAud2hlcmUoY3Jvc3NfbmV0LmNwdSgpLm51bXB5KCkucmVzaGFwZSgtMSkgPiAwLjUsIDEsIDApID09IDEKICAgICAgICAjIHByaW50KGNyb3NzX25ldC5jcHUoKS5udW1weSgpKQogICAgICAgIHByaW50KHN0cihucC5tZWFuKG1hdGNoKSoxMDApKyclIGdhbicpCgo=</text>
+        <text encoding="base64">ICAgIHkgPSB5LmRldGFjaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIHkucmVxdWlyZXNfZ3JhZD1GYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdhbl9vcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIHgucmVxdWlyZV9ncmFkPUZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/d/g/g</text>
       </register>
     </registers>
     <search>
-      <last-search>zeros</last-search>
+      <last-search>d</last-search>
       <last-offset />
-      <last-pattern>zeros</last-pattern>
-      <last-replace>v_</last-replace>
-      <last-substitute>t_</last-substitute>
+      <last-pattern>d</last-pattern>
+      <last-replace>g</last-replace>
+      <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>for</entry>
-        <entry>de</entry>
-        <entry>trans</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry>=</entry>
         <entry>epuch</entry>
@@ -449,10 +447,11 @@
         <entry>t_</entry>
         <entry>ones</entry>
         <entry>zeros</entry>
+        <entry>G</entry>
+        <entry>backward</entry>
+        <entry>d</entry>
       </history-search>
       <history-cmd>
-        <entry>jumps</entry>
-        <entry>%y+</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
         <entry>help s</entry>
@@ -471,6 +470,8 @@
         <entry>action EditorJoinLines</entry>
         <entry>s/t_/v_/g</entry>
         <entry>reg</entry>
+        <entry>s/G/D/g</entry>
+        <entry>s/d/g/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
