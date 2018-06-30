@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530330206514">
+      <file name="/Python Console" timestamp="1530332246486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -173,11 +173,11 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530330205632">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="20" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="53" column="20" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530332246198">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -358,13 +358,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>double</text>
+        <text>cuda</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>cuda</text>
       </register>
       <register name="/" type="4">
         <text>d</text>
