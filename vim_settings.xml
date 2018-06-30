@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530387808163">
+      <file name="/Python Console" timestamp="1530388001802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -51,9 +51,6 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/container.py" timestamp="1530052145549">
-        <mark key="'" line="27" column="35" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="23" />
@@ -83,6 +80,12 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530055981427">
         <mark key="'" line="18" column="19" />
