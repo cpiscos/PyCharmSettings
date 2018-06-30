@@ -15,7 +15,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530393291866">
+      <file name="/Python Console" timestamp="1530399883908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -94,6 +94,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="25" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
         <mark key="[" line="25" column="26" />
@@ -169,6 +175,13 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" timestamp="1530399883384">
+        <mark key="'" line="31" column="57" />
+        <mark key="[" line="537" column="69" />
+        <mark key="]" line="537" column="69" />
+        <mark key="." line="537" column="69" />
+        <mark key="^" line="537" column="69" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528477663433">
         <mark key="'" line="5" column="7" />
         <mark key="[" line="19" column="3" />
@@ -176,11 +189,11 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530392691665">
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="67" />
-        <mark key="." line="58" column="67" />
-        <mark key="^" line="58" column="67" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -189,12 +202,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530393290827">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530393720572">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/pytorch test.py" timestamp="1530218977021">
         <mark key="[" line="0" column="0" />
@@ -220,6 +233,12 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -258,25 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="19" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
-      <jump line="40" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
-      <jump line="12" column="66" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="21" column="44" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/stock.py" />
-      <jump line="53" column="17" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
-      <jump line="112" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/NN.py" />
-      <jump line="28" column="29" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="26" column="30" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="16" column="2" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="42" column="9" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="43" column="1" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="13" column="47" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="64" column="18" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="71" column="1" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="67" column="2" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
@@ -358,25 +358,44 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="8" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="63" column="40" filename="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" />
+      <jump line="56" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" />
+      <jump line="160" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="515" column="48" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="537" column="58" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="547" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="587" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="123" column="50" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="127" column="36" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="174" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="177" column="10" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="189" column="10" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="192" column="12" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="196" column="18" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="197" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="219" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="226" column="14" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="31" column="57" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eC5jdWRhKCkK</text>
+      <register name="&quot;" type="4">
+        <text>starrynight</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhcnQg</text>
+        <text>starrynight</text>
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>'Content</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMTAwMCk6CiAgICB4ID0gdG9yY2gucmFuZG4oMTAwMCwgMTAwMCwgMTAwMCwgMTAwMCkgIyBzaW1pbGFyIHRpbWluZ3MgcmVnYXJkbGVzcyBvZiB0aGUgdGVuc29yIHNpemUKICAgIHN0YXJ0ID0gdGltZS50aW1lKCkKICAgIHguY3VkYSgpCiAgICBpZiBpICUgMTAwID09IDA6CiAgICAgICAgcHJpbnQoJ2dwdScsIGksIHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">cGx0LmZpZ3VyZSgpCmltc2hvdyhzdHlsZV9pbWcsIHRpdGxlPSdzdHlsZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eC5jdWRhKCkK</text>
+        <text encoding="base64">IyBpZiB5b3Ugd2FudCB0byB1c2UgYSB3aGl0ZSBub2lzZSBpbnN0ZWFkIHVuY29tbWVudCB0aGUgYmVsb3cgbGluZToKIyBpbnB1dF9pbWcgPSB0b3JjaC5yYW5kbihjb250ZW50X2ltZy5kYXRhLnNpemUoKSwgZGV2aWNlPWRldmljZSkKCiMgYWRkIHRoZSBvcmlnaW5hbCBpbnB1dCBpbWFnZSB0byB0aGUgZmlndXJlOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -393,47 +412,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHguY3B1KCkK</text>
+        <text encoding="base64">CiAgICAjIGFzc3VtaW5nIHRoYXQgY25uIGlzIGEgbm4uU2VxdWVudGlhbCwgc28gd2UgbWFrZSBhIG5ldyBubi5TZXF1ZW50aWFsCiAgICAjIHRvIHB1dCBpbiBtb2R1bGVzIHRoYXQgYXJlIHN1cHBvc2VkIHRvIGJlIGFjdGl2YXRlZCBzZXF1ZW50aWFsbHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHguY3VkYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUaGUgaW4tcGxhY2UgdmVyc2lvbiBkb2Vzbid0IHBsYXkgdmVyeSBuaWNlbHkgd2l0aCB0aGUgQ29udGVudExvc3MKICAgICAgICAgICAgIyBhbmQgU3R5bGVMb3NzIHdlIGluc2VydCBiZWxvdy4gU28gd2UgcmVwbGFjZSB3aXRoIG91dC1vZi1wbGFjZQogICAgICAgICAgICAjIG9uZXMgaGVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhZGQgY29udGVudCBsb3NzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhZGQgc3R5bGUgbG9zczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICMgbm93IHdlIHRyaW0gb2ZmIHRoZSBsYXllcnMgYWZ0ZXIgdGhlIGxhc3QgY29udGVudCBhbmQgc3R5bGUgbG9zc2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSB0b3JjaC5yYW5kbigxMDAsIDEwMCwgMTAwLCAxMCkgIyBzaW1pbGFyIHRpbWluZ3MgcmVnYXJkbGVzcyBvZiB0aGUgdGVuc29yIHNpemUK</text>
+        <text encoding="base64">ICAgICAgICAjIG5vcm1hbGl6ZSBpbWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHggPSB0b3JjaC5yYW5kbigxMDAsIDEwMCwgMTAwLCAxMCkgIyBzaW1pbGFyIHRpbWluZ3MgcmVnYXJkbGVzcyBvZiB0aGUgdGVuc29yIHNpemUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">Y25uX25vcm1hbGl6YXRpb25fbWVhbiA9IHRvcmNoLlRlbnNvcihbXSkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>'Content</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>'Content</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
-        <entry>epuch</entry>
-        <entry>train</entry>
         <entry>op</entry>
         <entry>x_da</entry>
         <entry>x</entry>
@@ -451,6 +467,9 @@
         <entry>backward</entry>
         <entry>d</entry>
         <entry>for</entry>
+        <entry>num_steps</entry>
+        <entry>load</entry>
+        <entry>'Content</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
