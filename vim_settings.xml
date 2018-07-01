@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530419823663">
+      <file name="/Python Console" timestamp="1530421871985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -223,12 +223,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530419823325">
-        <mark key="'" line="43" column="57" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="56" column="19" />
+      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530421938674">
+        <mark key="'" line="44" column="57" />
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -381,23 +381,23 @@
       <jump line="40" column="57" filename="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXBvY2gsIGksIGxvc3MuaXRlbSgpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>self.batchnorm(input)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>torch.zeros(1, 1, 5)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhdGNobm9ybSA9IG5uLkJhdGNoTm9ybTFkKDUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnBsb3QodHJhaW5zZXQueV92YWxpZCwgY29sb3I9J29yYW5nZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXBvY2gsIGksIGxvc3MuaXRlbSgpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,28 +414,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BsaXQgPSAwLjk5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJhdGNobm9ybSA9IG5uLkJhdGNoTm9ybTFkKDUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5oaWRkZW4uZGV0YWNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3ZhbGlkYXRpb24gbG9zcycsICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">eF92YWxpZCA9IHRvcmNoLlRlbnNvcih0cmFpbnNldC54X3ZhbGlkKS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC56ZXJvX2dyYWQoKQo=</text>
+        <text encoding="base64">cGx0LnBsb3QodHJhaW5zZXQueV92YWxpZCwgY29sb3I9J29yYW5nZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC5mbG9hdAo=</text>
+        <text encoding="base64">c3BsaXQgPSAwLjk5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5oaWRkZW4uZGV0YWNoKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC56ZXJvX2dyYWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
