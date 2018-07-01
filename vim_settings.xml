@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530424368273">
+      <file name="/Python Console" timestamp="1530425591256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -223,12 +223,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530424367453">
+      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530425590642">
         <mark key="'" line="45" column="57" />
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -381,14 +381,14 @@
       <jump line="40" column="57" filename="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>model(x_valid)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
@@ -397,7 +397,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm11ID0gdG9yY2gubWVhbihpbnB1dCwgZGltPTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jID0gbnAuY29uY2F0ZW5hdGUoKHJhd1s6LTFdLCBucC53aGVyZShyYXdbMTosM10tcmF3WzotMSwzXSA+IDAsIDEsIDApWzosTm9uZV0pLCBheGlzPTEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,31 +414,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm11LCBzZWxmLnZhciA9IHNlbGYucmVzZXRfbm9ybSgpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cCA9IEYuYmF0Y2hfbm9ybShzZWxmLnVwc2FtcGxlKGlucHV0KSkK</text>
+        <text encoding="base64">cGx0LnBsb3QoYWNjdXJhY3kpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXBvY2gsIGksIGxvc3MuaXRlbSgpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhdGNobm9ybSA9IG5uLkJhdGNoTm9ybTFkKDUpCg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3ZhbGlkYXRpb24gbG9zcycsICkK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eF92YWxpZCA9IHRvcmNoLlRlbnNvcih0cmFpbnNldC54X3ZhbGlkKS50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">IyBwbHQucGxvdCh4X3ZhbGlkLmNwdSgpLm51bXB5KClbOiwwXSwgY29sb3I9J2dyZWVuJykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cGx0LnBsb3QodHJhaW5zZXQueV92YWxpZCwgY29sb3I9J29yYW5nZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3BsaXQgPSAwLjk5Cg==</text>
+        <text encoding="base64">cGx0LmlvbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -488,12 +488,12 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameElemenet</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
         <entry>s/t_/v_/g</entry>
         <entry>s/G/D/g</entry>
         <entry>s/d/g/g</entry>
         <entry>reg</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
