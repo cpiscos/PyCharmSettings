@@ -10,18 +10,18 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530466096130">
+      <file name="/Python Console" timestamp="1530469426651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530466095514">
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530469426255">
         <mark key="'" line="4" column="30" />
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="51" />
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="79" />
+        <mark key="^" line="38" column="79" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
         <mark key="[" line="0" column="0" />
@@ -389,13 +389,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
