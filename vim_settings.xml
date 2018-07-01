@@ -10,18 +10,18 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530485955132">
+      <file name="/Python Console" timestamp="1530488227488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530485954480">
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530488179831">
         <mark key="'" line="4" column="30" />
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="22" column="22" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+        <mark key="^" line="14" column="65" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
         <mark key="[" line="0" column="0" />
@@ -389,25 +389,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eCA9IHRvcmNoLmZyb21fbnVtcHkoeCkudG8oZGV2aWNlKQo=</text>
+      <register name="0" type="4">
+        <text>-5, 5.01, 0.01</text>
       </register>
-      <register name="1" type="4">
-        <text>nn.Sequential(
-    nn.LSTM(1, 15),
-    nn.Linear(15, 1)
-).to(device)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,28 +421,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVmlldyhubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgZGVmIGZvcndhcmQoc2VsZiwgKmlucHV0KToKICAgICAgICByZXR1cm4gaW5wdXQudmlldygtMSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpID09IDA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5uLkxpbmVhcigxLCA1KSwKICAgIG5uLkVMVSgpLAogICAgbm4uTGluZWFyKDUsIDUpLAogICAgbm4uRUxVKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLnV0aWxzLmRhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtdSA9IG5wLm1lYW4odGVzdCwgYXhpcz0wKQogICAgICAgIHN0ZCA9IG5wLnN0ZCh0ZXN0LCBheGlzPTApCiAgICAgICAgdGVzdCwgdmFsaWQgPSAodGVzdCAtIG11KSAvIHN0ZCwgKHZhbGlkIC0gbXUpIC8gc3RkCg==</text>
+        <text encoding="base64">aW1wb3J0IHRxZG0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>nn.Sequential(
+    nn.LSTM(1, 15),
+    nn.Linear(15, 1)
+).to(device)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXBvY2gsIGksIGxvc3MuaXRlbSgpLCB2YWxpZGF0aW9uX2xvc3MsIHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">Y2xhc3MgVmlldyhubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgZGVmIGZvcndhcmQoc2VsZiwgKmlucHV0KToKICAgICAgICByZXR1cm4gaW5wdXQudmlldygtMSwgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjdXJhY3kuYXBwZW5kKGl0ZXJfYWNjdXJhY3kpCiAgICAgICAgICAgIHZfbG9zcy5hcHBlbmQodmFsaWRhdGlvbl9sb3NzKQo=</text>
+        <text encoding="base64">ICAgIG5uLkxpbmVhcigxLCA1KSwKICAgIG5uLkVMVSgpLAogICAgbm4uTGluZWFyKDUsIDUpLAogICAgbm4uRUxVKCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
