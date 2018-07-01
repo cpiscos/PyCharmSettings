@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530415652674">
+      <file name="/Python Console" timestamp="1530417710972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -223,11 +223,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530415652362">
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="55" column="18" />
-        <mark key="." line="55" column="18" />
-        <mark key="^" line="55" column="18" />
+      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530417710579">
+        <mark key="'" line="43" column="57" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="38" />
+        <mark key="." line="65" column="38" />
+        <mark key="^" line="65" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -278,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="18" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="71" column="1" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="67" column="2" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
       <jump line="65" column="39" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
@@ -378,25 +378,26 @@
       <jump line="219" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="226" column="14" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="31" column="57" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
+      <jump line="40" column="57" filename="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testset</text>
+        <text>t</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>testset</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>'Content</text>
+        <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bXUgPSBucC5tZWFuKHRlc3QsIGF4aXM9MCkK</text>
+      <register name="0" type="4">
+        <text>torch.zeros(1, 1, 5)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC56ZXJvX2dyYWQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -413,45 +414,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC5mbG9hdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnBsb3QocmF3WzosM10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV4dF9jbG9zZSA9IG5wLmNvbmNhdGVuYXRlKChyYXdbOi0xXSwgcmF3WzE6LDNdW10pLCBheGlzPTEpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmF3ID0gcGQucmVhZAo=</text>
+        <text encoding="base64">cGx0LnBsb3QocmF3WzosM10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGZbJ25leHQgY2xvc2UnXSA9IGRmLmlsb2NbMTosM10ucmVzZXRfaW5kZXgoKQo=</text>
+        <text encoding="base64">bmV4dF9jbG9zZSA9IG5wLmNvbmNhdGVuYXRlKChyYXdbOi0xXSwgcmF3WzE6LDNdW10pLCBheGlzPTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>'Content</last-search>
+      <last-search encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</last-search>
       <last-offset />
-      <last-pattern>'Content</last-pattern>
+      <last-pattern encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>op</entry>
         <entry>x_da</entry>
         <entry>x</entry>
         <entry>plt</entry>
@@ -471,6 +471,7 @@
         <entry>num_steps</entry>
         <entry>load</entry>
         <entry>'Content</entry>
+        <entry encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
