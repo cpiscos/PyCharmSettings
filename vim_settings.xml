@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530651095032">
+      <file name="/Python Console" timestamp="1530653138367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -141,7 +141,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530651646759">
+      <file name="/Dummy.txt" timestamp="1530653138461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530329280414">
@@ -467,7 +467,7 @@
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
