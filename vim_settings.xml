@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530599594642">
+      <file name="/Python Console" timestamp="1530600631527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -66,11 +66,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530599130354">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="52" />
-        <mark key="." line="7" column="53" />
+      <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530600185558">
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
@@ -141,7 +141,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530598463293">
+      <file name="/Dummy.txt" timestamp="1530600338522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530329280414">
@@ -276,12 +276,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/time-sequence-prediction/train.py" timestamp="1530599593696">
-        <mark key="'" line="65" column="13" />
-        <mark key="[" line="90" column="17" />
-        <mark key="]" line="90" column="17" />
-        <mark key="." line="90" column="17" />
-        <mark key="^" line="90" column="17" />
+      <file name="$USER_HOME$/Documents/time-sequence-prediction/train.py" timestamp="1530600630981">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="48" />
+        <mark key="." line="86" column="48" />
+        <mark key="^" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -417,7 +417,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5oaWRkZW4xID0gc2VsZi5sc3RtMShiYXRjaCwgc2VsZi5oaWRkZW4xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZS5nLiBbMSwgMiwgM10K</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -434,28 +434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgSW5wdXQgbGVzcyB0aGUgbGFzdCB2YWx1ZSh3aGF0IHdlIHdhbnQgdG8gcHJlZGljdCBnaXZlbiB0aGUgc2VxdWVuY2UpCg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgU2FtcGxlOiBbMSwgMiwgMywgNF0K</text>
+        <text encoding="base64">ICAgICMgZS5nLiBbMSwgMiwgM10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbG9hZCBkYXRhIGFuZCBtYWtlIHRyYWluaW5nIHNldAo=</text>
+        <text encoding="base64">ICAgICMgSW5wdXQgbGVzcyB0aGUgbGFzdCB2YWx1ZSh3aGF0IHdlIHdhbnQgdG8gcHJlZGljdCBnaXZlbiB0aGUgc2VxdWVuY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm1hbnVhbF9zZWVkKDApCg==</text>
+        <text encoding="base64">ICAgICMgU2FtcGxlOiBbMSwgMiwgMywgNF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zZWVkKDApCg==</text>
+        <text encoding="base64">ICAgICMgbG9hZCBkYXRhIGFuZCBtYWtlIHRyYWluaW5nIHNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc2V0IHJhbWRvbSBzZWVkIHRvIDAK</text>
+        <text encoding="base64">ICAgIHRvcmNoLm1hbnVhbF9zZWVkKDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zZWVkKDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJlZ2luIHRvIHByZWRpY3QKICAgICAgICBmdXR1cmUgPSAxMDAwCiAgICAgICAgcHJlZCA9IHNlcSh0ZXN0X2lucHV0LCBmdXR1cmUgPSBmdXR1cmUpCiAgICAgICAgbG9zcyA9IGNyaXRlcmlvbihwcmVkWzosIDotZnV0dXJlXSwgdGVzdF90YXJnZXQpCiAgICAgICAgcHJpbnQoJ3Rlc3QgbG9zczonLCBsb3NzLml0ZW0oKSkKICAgICAgICB5ID0gcHJlZC5kYXRhLmNwdSgpLm51bXB5KCkKICAgICAgICAjIGRyYXcgdGhlIHJlc3VsdAogICAgICAgIHBsdC5maWd1cmUoZmlnc2l6ZT0oMzAsMTApKQogICAgICAgIHBsdC50aXRsZSgnUHJlZGljdCBmdXR1cmUgdmFsdWVzIGZvciB0aW1lIHNlcXVlbmNlc1xuKERhc2hsaW5lcyBhcmUgcHJlZGljdGVkIHZhbHVlcyknLCBmb250c2l6ZT0zMCkKICAgICAgICBwbHQueGxhYmVsKCd4JywgZm9udHNpemU9MjApCiAgICAgICAgcGx0LnlsYWJlbCgneScsIGZvbnRzaXplPTIwKQogICAgICAgIHBsdC54dGlja3MoZm9udHNpemU9MjApCiAgICAgICAgcGx0Lnl0aWNrcyhmb250c2l6ZT0yMCkKICAgICAgICBkZWYgZHJhdyh5aSwgY29sb3IpOgogICAgICAgICAgICBwbHQucGxvdChucC5hcmFuZ2UoaW5wdXQuc2l6ZSgxKSksIHlpWzppbnB1dC5zaXplKDEpXSwgY29sb3IsIGxpbmV3aWR0aCA9IDIuMCkKICAgICAgICAgICAgcGx0LnBsb3QobnAuYXJhbmdlKGlucHV0LnNpemUoMSksIGlucHV0LnNpemUoMSkgKyBmdXR1cmUpLCB5aVtpbnB1dC5zaXplKDEpOl0sIGNvbG9yICsgJzonLCBsaW5ld2lkdGggPSAyLjApCiAgICAgICAgZHJhdyh5WzBdLCAncicpCiAgICAgICAgZHJhdyh5WzFdLCAnZycpCiAgICAgICAgZHJhdyh5WzJdLCAnYicpCiAgICAgICAgcGx0LnNhdmVmaWcob3MucGF0aC5qb2luKGFyZ3Mub3V0ZiwgJ3ByZWRpY3QlZC5wbmcnJWkpKQogICAgICAgIHBsdC5jbG9zZSgpCgogICAgIyBEbyBjaGVja3BvaW50aW5nIC0gSXMgc2F2ZWQgaW4gb3V0ZgogICAgdG9yY2guc2F2ZShzZXEuc3RhdGVfZGljdCgpLCAnJXMvc2luZV93YXZlc19sc3RtX21vZGVsXyVkX2Vwb2Nocy5wdGgnICUgKGFyZ3Mub3V0ZiwgYXJncy5lcG9jaHMpKQo=</text>
+        <text encoding="base64">ICAgICMgc2V0IHJhbWRvbSBzZWVkIHRvIDAK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
