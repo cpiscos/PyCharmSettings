@@ -10,11 +10,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530594357550">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/Python Console" timestamp="1530595871514">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530594178733">
         <mark key="'" line="4" column="30" />
@@ -204,12 +204,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530595020982">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530595599806">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/pytorch test.py" timestamp="1530218977021">
         <mark key="[" line="0" column="0" />
@@ -286,9 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="39" filename="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
-      <jump line="27" column="35" filename="$USER_HOME$/Miniconda3/envs/ai/Lib/site-packages/torch/nn/modules/container.py" />
       <jump line="4" column="13" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
       <jump line="7" column="30" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
       <jump line="18" column="19" filename="$USER_HOME$/PycharmProjects/AI/test.py" />
@@ -386,10 +383,13 @@
       <jump line="40" column="57" filename="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" />
       <jump line="4" column="30" filename="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" />
       <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="4" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="43" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(torch.zeros)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -404,7 +404,7 @@
         <text encoding="base64">eF90ID0gdG9yY2guZnJvbV9udW1weSh4KS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnJ2RkIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,25 +424,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eV90IAo=</text>
+        <text encoding="base64">ICAgICAgICAnJ2RkIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCmltcG9ydCB0aW1lCgp4ID0gdG9yY2gucmFuZG4oMTAwLCAxMDAsIDEwMCwgMTApICMgc2ltaWxhciB0aW1pbmdzIHJlZ2FyZGxlc3Mgb2YgdGhlIHRlbnNvciBzaXplCgojIHRvcmNoLmJhY2tlbmRzLmN1ZG5uLmVuYWJsZWQgPSBGYWxzZQoKeC5jdWRhKCkKc3RhcnQgPSB0aW1lLnRpbWUoKQpmb3IgaSBpbiByYW5nZSgxMDAwKToKICAgIHkgPSB4ICsgeAogICAgaWYgaSAlIDEwMCA9PSAwOgogICAgICAgIHByaW50KCdncHUnLCBpLCB0aW1lLnRpbWUoKS1zdGFydCkKCgp4LmNwdSgpCnN0YXJ0ID0gdGltZS50aW1lKCkKZm9yIGkgaW4gcmFuZ2UoMTAwMCk6CiAgICB5ID0geCArIHgKICAgIGlmIGkgJSAxMDAgPT0gMDoKICAgICAgICBwcmludCgnY3B1JywgaSwgdGltZS50aW1lKCktc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGksIHYgaW4gZW51bWVyYXRlKGxvYWRlcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">eV90IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID09IDA6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCmltcG9ydCB0aW1lCgp4ID0gdG9yY2gucmFuZG4oMTAwLCAxMDAsIDEwMCwgMTApICMgc2ltaWxhciB0aW1pbmdzIHJlZ2FyZGxlc3Mgb2YgdGhlIHRlbnNvciBzaXplCgojIHRvcmNoLmJhY2tlbmRzLmN1ZG5uLmVuYWJsZWQgPSBGYWxzZQoKeC5jdWRhKCkKc3RhcnQgPSB0aW1lLnRpbWUoKQpmb3IgaSBpbiByYW5nZSgxMDAwKToKICAgIHkgPSB4ICsgeAogICAgaWYgaSAlIDEwMCA9PSAwOgogICAgICAgIHByaW50KCdncHUnLCBpLCB0aW1lLnRpbWUoKS1zdGFydCkKCgp4LmNwdSgpCnN0YXJ0ID0gdGltZS50aW1lKCkKZm9yIGkgaW4gcmFuZ2UoMTAwMCk6CiAgICB5ID0geCArIHgKICAgIGlmIGkgJSAxMDAgPT0gMDoKICAgICAgICBwcmludCgnY3B1JywgaSwgdGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2KQo=</text>
+        <text encoding="base64">ICAgICMgZm9yIGksIHYgaW4gZW51bWVyYXRlKGxvYWRlcik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
