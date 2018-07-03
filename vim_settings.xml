@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/projects/forex/data_merge.py" timestamp="1530656057213">
+        <mark key="[" line="12" column="82" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/Resources/iris.data" timestamp="1528966959101">
         <mark key="'" line="11" column="27" />
         <mark key="[" line="66" column="0" />
@@ -10,7 +16,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530653138367">
+      <file name="/Python Console" timestamp="1530656057575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -157,7 +163,7 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="/code.py" timestamp="1530653247057">
+      <file name="/code.py" timestamp="1530655931422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="249" column="8" />
         <mark key="^" line="249" column="8" />
@@ -401,13 +407,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[None]</text>
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>[None]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ones</text>
