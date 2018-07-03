@@ -10,7 +10,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530650250806">
+      <file name="/Python Console" timestamp="1530651095032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -141,7 +141,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530650149691">
+      <file name="/Dummy.txt" timestamp="1530651646759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530329280414">
@@ -210,10 +210,10 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530650279097">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530651094405">
         <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/pytorch test.py" timestamp="1530218977021">
@@ -401,13 +401,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(torch.ones(5)</text>
+        <text>[None]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>(torch.ones(5)</text>
+        <text>[None]</text>
       </register>
       <register name="/" type="4">
         <text>ones</text>
