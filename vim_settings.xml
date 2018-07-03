@@ -10,18 +10,18 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530501480223">
+      <file name="/Python Console" timestamp="1530582976393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530501479838">
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530582975934">
         <mark key="'" line="4" column="30" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="45" column="52" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
         <mark key="[" line="0" column="0" />
@@ -135,7 +135,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530485805844">
+      <file name="/Dummy.txt" timestamp="1530581948635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/simple_gan.py" timestamp="1530329280414">
@@ -389,13 +389,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>out</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</text>
