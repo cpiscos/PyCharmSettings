@@ -281,6 +281,14 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'network'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Rerun 'network'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network'</Description>
-          <Count>5</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'stock'">
