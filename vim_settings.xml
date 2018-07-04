@@ -48,7 +48,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530701446924">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530728220803">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="12" />
@@ -162,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530701451045">
+      <file name="/Python Console" timestamp="1530728223904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -417,13 +417,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-10000</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>-10000</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>ones</text>
