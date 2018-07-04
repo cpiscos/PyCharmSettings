@@ -497,6 +497,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'network'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'network'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'stock'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
