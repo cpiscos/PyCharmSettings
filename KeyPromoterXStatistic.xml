@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -182,7 +182,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>Paste</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -190,7 +190,7 @@
           <IdeaActionID>PasteMultiple</IdeaActionID>
           <ShortCut>'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'</ShortCut>
           <Description>Paste from History...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -238,7 +238,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '13 Fibonacci'">
@@ -401,6 +401,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run File in Console">
+        <Item>
+          <IdeaActionID>PyRunFileInConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Enter'</ShortCut>
+          <Description>Run File in Console</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
@@ -471,6 +479,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'convnet'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'forex'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'forex'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'iris'">
