@@ -246,7 +246,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '13 Fibonacci'">
@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network'</Description>
-          <Count>61</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test (1)'">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateSciViewToolWindow</IdeaActionID>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>SciView</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network'</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'stock'">
