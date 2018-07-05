@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1530742432352">
+      <file name="/a.dummy" timestamp="1530787796553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530787779777">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530788256349">
         <mark key="'" line="139" column="14" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
+        <mark key="[" line="81" column="54" />
+        <mark key="]" line="81" column="55" />
+        <mark key="." line="81" column="55" />
+        <mark key="^" line="81" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -162,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530787452672">
+      <file name="/Python Console" timestamp="1530788257940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -417,13 +417,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>5</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
