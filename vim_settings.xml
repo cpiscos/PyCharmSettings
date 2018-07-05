@@ -48,11 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530764290383">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530765594182">
         <mark key="'" line="87" column="7" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="20" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -161,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530764053444">
+      <file name="/Python Console" timestamp="1530765596350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -415,14 +416,14 @@
       <jump line="71" column="7" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlci5zdGVwKCkK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>peloss</text>
