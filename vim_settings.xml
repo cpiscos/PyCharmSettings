@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530759111293">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530759831334">
         <mark key="'" line="83" column="7" />
-        <mark key="[" line="79" column="52" />
-        <mark key="]" line="79" column="52" />
-        <mark key="^" line="79" column="52" />
-        <mark key="." line="79" column="52" />
+        <mark key="[" line="36" column="110" />
+        <mark key="]" line="36" column="111" />
+        <mark key="^" line="36" column="111" />
+        <mark key="." line="36" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -162,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530758529816">
+      <file name="/Python Console" timestamp="1530759831781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -231,7 +231,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530752282392">
+      <file name="/Dummy.txt" timestamp="1530759320413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -417,13 +417,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>peloss</text>
@@ -483,7 +483,7 @@
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
