@@ -48,9 +48,9 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530767490535">
-        <mark key="'" line="87" column="7" />
-        <mark key="[" line="13" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530770657158">
+        <mark key="'" line="137" column="14" />
+        <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="9" />
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
@@ -162,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530767522275">
+      <file name="/Python Console" timestamp="1530770657609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -231,7 +231,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530767443321">
+      <file name="/Dummy.txt" timestamp="1530770609319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -314,9 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="44" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
-      <jump line="39" column="23" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
-      <jump line="56" column="33" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="73" column="117" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
@@ -414,19 +411,22 @@
       <jump line="75" column="15" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="71" column="7" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="134" column="16" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="135" column="26" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="137" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, pin_memory=True</text>
+        <text>200</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, pin_memory=True</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>peloss</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b19wbG9zcywgb19lbG9zcywgb190bG9zcywgb19hY2Mg</text>
@@ -477,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>peloss</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>peloss</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
@@ -487,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iris</entry>
         <entry>xy</entry>
         <entry>los</entry>
         <entry>.cuda</entry>
@@ -507,6 +506,7 @@
         <entry>3</entry>
         <entry>ones</entry>
         <entry>peloss</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
