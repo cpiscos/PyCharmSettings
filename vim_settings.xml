@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530837201115">
-        <mark key="'" line="151" column="14" />
-        <mark key="[" line="168" column="9" />
-        <mark key="]" line="168" column="51" />
-        <mark key="." line="168" column="51" />
-        <mark key="^" line="168" column="51" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530838995544">
+        <mark key="'" line="123" column="31" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -162,7 +162,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530836779143">
+      <file name="/Python Console" timestamp="1530838996231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -314,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="117" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
@@ -414,25 +413,26 @@
       <jump line="134" column="16" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="135" column="26" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="137" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="122" column="31" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJlID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkucmVzaGFwZSgtMSkK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>schedul</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGx0LnBsb3Qob19hY2MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJlID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkucmVzaGFwZSgtMSkK</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlci5zdGVwKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -449,45 +449,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4X3QsIHlfdCwgYyA9IHRlc3RfbG9hZGVyCiAgICAgICAgeF90LCB5X3QsIGMgPSB4X3QudG8oZGV2aWNlKSwgeV90LnRvKGRldmljZSksIGMubnVtcHkoKQogICAgICAgIHByZWRfdCA9IG5ldCh4X3QpCiAgICAgICAgbG9zc190ID0gY3JpdGVyaW9uKHByZWRfdCwgeV90LnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKQo=</text>
+        <text encoding="base64">cHJlID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkucmVzaGFwZSgtMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4X3QsIHlfdCwgYyA9IHRlc3RfbG9hZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB4X3QsIHlfdCwgYyA9IHRlc3RfbG9hZGVyCiAgICAgICAgeF90LCB5X3QsIGMgPSB4X3QudG8oZGV2aWNlKSwgeV90LnRvKGRldmljZSksIGMubnVtcHkoKQogICAgICAgIHByZWRfdCA9IG5ldCh4X3QpCiAgICAgICAgbG9zc190ID0gY3JpdGVyaW9uKHByZWRfdCwgeV90LnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVzdF9iYXRjaCBpbiB0ZXN0X2xvYWRlcjoK</text>
+        <text encoding="base64">ICAgICAgICB4X3QsIHlfdCwgYyA9IHRlc3RfbG9hZGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2F2ZSA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdGVzdF9iYXRjaCBpbiB0ZXN0X2xvYWRlcjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnRpdGxlKCdhY2N1cmFjeSBvbiBsYXN0IDEwMDAgaG91cnMnKQo=</text>
+        <text encoding="base64">c2F2ZSA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">cGx0LnRpdGxlKCdhY2N1cmFjeSBvbiBsYXN0IDEwMDAgaG91cnMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMjApOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwNSwgd2VpZ2h0X2RlY2F5PTAuMDAxKQpzY2hlZHVsZXIgPSB0b3JjaC5vcHRpbS5scl9zY2hlZHVsZXIuQ29zaW5lQW5uZWFsaW5nTFIob3B0aW1pemVyLCA3MCkK</text>
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoMjApOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>schedul</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>schedul</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xy</entry>
         <entry>los</entry>
         <entry>.cuda</entry>
         <entry>from</entry>
@@ -507,6 +506,7 @@
         <entry>ones</entry>
         <entry>peloss</entry>
         <entry>;</entry>
+        <entry>schedul</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
