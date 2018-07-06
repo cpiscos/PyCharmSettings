@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530839933473">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530846828537">
         <mark key="'" line="123" column="31" />
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="11" column="10" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -107,12 +107,12 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530846171635">
-        <mark key="'" line="131" column="15" />
-        <mark key="[" line="105" column="71" />
-        <mark key="]" line="105" column="71" />
-        <mark key="^" line="149" column="99" />
-        <mark key="." line="105" column="71" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530847847253">
+        <mark key="'" line="129" column="15" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
         <mark key="'" line="0" column="0" />
@@ -169,7 +169,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530845950559">
+      <file name="/Python Console" timestamp="1530847869461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530251536030">
@@ -424,13 +424,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>-10302 - seq_len - pred_hours</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-10302 - seq_len - pred_hours</text>
       </register>
       <register name="/" type="4">
         <text>net(</text>
