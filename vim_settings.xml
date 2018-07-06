@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530887381522">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530890533376">
         <mark key="'" line="122" column="0" />
-        <mark key="[" line="120" column="74" />
-        <mark key="]" line="120" column="74" />
-        <mark key="." line="120" column="74" />
-        <mark key="^" line="120" column="74" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -169,7 +169,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530889162119">
+      <file name="/Python Console" timestamp="1530890534747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
