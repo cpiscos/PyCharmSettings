@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network'</Description>
-          <Count>102</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
@@ -441,14 +441,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="SciView">
-        <Item>
-          <IdeaActionID>ActivateSciViewToolWindow</IdeaActionID>
-          <ShortCut>'Alt+S'</ShortCut>
-          <Description>SciView</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -534,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network'</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">
@@ -615,6 +607,16 @@
           <ShortCut>'⌃-' or '⌃-'</ShortCut>
           <Description>Zoom Out</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="SciView">
+        <Item>
+          <IdeaActionID>ActivateSciViewToolWindow</IdeaActionID>
+          <ShortCut>'Alt+S'</ShortCut>
+          <Description>SciView</Description>
+          <Count>22</Count>
         </Item>
       </Statistic>
     </option>
