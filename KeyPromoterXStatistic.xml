@@ -534,7 +534,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network'</Description>
-          <Count>168</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">
