@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network'</Description>
-          <Count>122</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network'</Description>
-          <Count>181</Count>
+          <Count>191</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">
@@ -566,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">

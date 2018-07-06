@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530866720877">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530868431601">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+        <mark key="[" line="142" column="30" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="31" />
+        <mark key="^" line="142" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -169,10 +169,10 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530866722072">
+      <file name="/Python Console" timestamp="1530868433095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1530251536030">
+      <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
@@ -424,13 +424,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IHByZWQ=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IHByZWQ=</text>
       </register>
       <register name="/" type="4">
         <text>tacc</text>
@@ -439,7 +439,7 @@
         <text>-8302 - seq_len - pred_hours</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSAK</text>
+        <text encoding="base64">ICAgIHByZWQsIGEgPSBwcmVkWy0zMDA6XSwgcHJlZFstMzAwOl0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,28 +456,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgYSA9IHByZWRbLTMwMDpdLCBwcmVkWy0zMDA6XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQucmVxdWlyZXNfZ3JhZCA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSB5Lm1heChkaW09MilbMV0ucmVzaGFwZSgtMSkubG9uZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X3QgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBhYyA9IFtpIGZvciBpIGluIG5wLndoZXJlKGFjY3VyYWN5IDwgMC41LCAtMSwgMSldCiMgcGx0LnBsb3QoW25wLnN1bShhY1s6aV0pIGZvciBpIGluIG5wLmFyYW5nZShsZW4oYWMpKSsxXSkKIyBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQucmVxdWlyZXNfZ3JhZCA9IEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhY2MuYXBwZW5kKHByb2ZpdChwcmVkLCBhKSkK</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSB5Lm1heChkaW09MilbMV0ucmVzaGFwZSgtMSkubG9uZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjdXJhY3kgPSBucC53aGVyZShwcmVkX3QuY3B1KCkuZGV0YWNoKCkubnVtcHkoKSA+IDAuNSwgMSwgMCkgXAogICAgICAgICAgICAgICAgICAgICAgID09IHlfdC5jcHUoKS5kZXRhY2goKS5udW1weSgpCg==</text>
+        <text encoding="base64">IyBhYyA9IFtpIGZvciBpIGluIG5wLndoZXJlKGFjY3VyYWN5IDwgMC41LCAtMSwgMSldCiMgcGx0LnBsb3QoW25wLnN1bShhY1s6aV0pIGZvciBpIGluIG5wLmFyYW5nZShsZW4oYWMpKSsxXSkKIyBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXZnX2FjY3VyYWN5ID0gbnAubWVhbihhY2N1cmFjeSkK</text>
+        <text encoding="base64">ICAgIHRhY2MuYXBwZW5kKHByb2ZpdChwcmVkLCBhKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2FjY3VyYWN5ID0gbnAud2hlcmUocHJlZC5jcHUoKS5kZXRhY2goKS5udW1weSgpID4gMC41LCAxLCAwKSBcCiAgICAgICAgICAgICAgID09IHkuY3B1KCkuZGV0YWNoKCkubnVtcHkoKQogICAgYXZnX3RyYWluX2FjY3VyYWN5ID0gbnAubWVhbih0cmFpbl9hY2N1cmFjeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjdXJhY3kgPSBucC53aGVyZShwcmVkX3QuY3B1KCkuZGV0YWNoKCkubnVtcHkoKSA+IDAuNSwgMSwgMCkgXAogICAgICAgICAgICAgICAgICAgICAgID09IHlfdC5jcHUoKS5kZXRhY2goKS5udW1weSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
