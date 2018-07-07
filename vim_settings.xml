@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530963828019">
-        <mark key="e" line="137" column="77" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530996803858">
+        <mark key="e" line="138" column="77" />
         <mark key="'" line="33" column="26" />
-        <mark key="[" line="123" column="12" />
-        <mark key="]" line="123" column="18" />
-        <mark key="." line="123" column="18" />
-        <mark key="^" line="123" column="18" />
+        <mark key="[" line="156" column="100" />
+        <mark key="]" line="156" column="100" />
+        <mark key="." line="156" column="100" />
+        <mark key="^" line="137" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -426,13 +426,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">ICsgMC4wNCplKQ==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICsgMC4wNCplKQ==</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
