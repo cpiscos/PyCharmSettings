@@ -48,12 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530919689407">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-        <mark key="^" line="24" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530928478871">
+        <mark key="'" line="94" column="25" />
+        <mark key="[" line="103" column="31" />
+        <mark key="]" line="103" column="31" />
+        <mark key="." line="103" column="31" />
+        <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -169,7 +169,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530890534747">
+      <file name="/Python Console" timestamp="1530928479709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -323,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="51" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="59" column="17" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="60" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" />
@@ -423,19 +422,20 @@
       <jump line="130" column="15" filename="$USER_HOME$/PycharmProjects/forex/network_reg.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="94" column="25" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICdUZXN0IGFjY3VyYWN5JzogW2F2Z19hY2N1cmFjeV0sCiAgICAgICAgICAgICAgICAgICAgIyAnVHJhaW4gYWNjdXJhY3knOiBbYXZnX3RyYWluX2FjY3VyYWN5XSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYgc2F2ZQ==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ICYgc2F2ZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>tacc</text>
+        <text>merged</text>
       </register>
       <register name="0" type="4">
         <text>-8302 - seq_len - pred_hours</text>
@@ -486,17 +486,16 @@
       </register>
     </registers>
     <search>
-      <last-search>tacc</last-search>
+      <last-search>merged</last-search>
       <last-offset />
-      <last-pattern>tacc</last-pattern>
+      <last-pattern>merged</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
         <entry>num</entry>
         <entry>t_</entry>
         <entry>zeros</entry>
@@ -516,6 +515,7 @@
         <entry>schedul</entry>
         <entry>net(</entry>
         <entry>tacc</entry>
+        <entry>merged</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
