@@ -294,7 +294,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network'</Description>
-          <Count>131</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
