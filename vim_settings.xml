@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530949207878">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530960725624">
         <mark key="e" line="134" column="77" />
         <mark key="'" line="32" column="26" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="134" column="95" />
+        <mark key="[" line="120" column="67" />
+        <mark key="]" line="120" column="68" />
+        <mark key="." line="120" column="68" />
+        <mark key="^" line="120" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -171,7 +171,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530949210894">
+      <file name="/Python Console" timestamp="1530960728235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -240,7 +240,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530949201886">
+      <file name="/Dummy.txt" timestamp="1530959315795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -426,19 +426,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
       </register>
       <register name="0" type="4">
-        <text>pred[-370:], a[-370:]</text>
+        <text>torch.mean((pred * convert).t() * (2*(torch.nn.functional.sigmoid(d)-0.5) + 0.1*d)) * 3 + torch.mean(pred[:,2]) * 0.01</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
