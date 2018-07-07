@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531001950027">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531003267292">
         <mark key="e" line="140" column="77" />
         <mark key="'" line="33" column="26" />
-        <mark key="[" line="205" column="32" />
-        <mark key="]" line="205" column="50" />
-        <mark key="." line="205" column="50" />
-        <mark key="^" line="205" column="50" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
         <mark key="[" line="26" column="17" />
@@ -177,7 +177,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531001953712">
+      <file name="/Python Console" timestamp="1531002142712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -432,13 +432,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG5ldHdvcmtfZmlsZQ==</text>
+        <text>'saves/network_Qv1'</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldHdvcmtfZmlsZQ==</text>
+        <text>'saves/network_Qv1'</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
@@ -447,7 +447,7 @@
         <text>torch.mean((pred * convert).t() * (2*(torch.nn.functional.sigmoid(d)-0.5) + 0.1*d)) * 3 + torch.mean(pred[:,2]) * 0.01</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLndoZXJlKG5lZCA9PSAyLCB6ZXJvLCBuZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbG9zcy5hcHBlbmQobnAubWVhbihwZWxvc3MpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -464,28 +464,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQsIGEgPSBwcmVkWy0zNzA6XSwgYVstMzcwOl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgYSA9IHByZWRbLTM3MDpdLCBhWy0zNzA6XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3RkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IGxvc3MgKiA1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXUgPSBhLm1lYW4oKQo=</text>
+        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLndoZXJlKG5lZCA9PSAyLCB6ZXJvLCBuZWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwLmNwdSgpLm51bXB5KCkpKjEwMDAwCg==</text>
+        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLmNhdCgodG9yY2gud2hlcmUobmVkID09IDAsIDEpLCB0b3JjaC53aGVyZShuZWQgPT0gMSwgLTIpLCB0b3JjaCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwaXAgPSBwaXAubnVtcHkoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3RkOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5lZFs6LCAwXSwgbmVkWzosIDFdLCBuZWRbOiwgMl0gPSB0b3JjaC53aGVyZShwcmVkWzosIDBdID49IDAuNSwgb25lLCB6ZXJvKSwgdG9yY2gud2hlcmUocHJlZFs6LCAxXSA+PSAwLjUsIC1vbmUsIHplcm8pLCB0b3JjaC53aGVyZShwcmVkWzosIDJdID49IDAuNSwgemVybywgemVybykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXUgPSBhLm1lYW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
