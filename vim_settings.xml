@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530962522765">
-        <mark key="e" line="134" column="77" />
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="134" column="124" />
-        <mark key="]" line="134" column="125" />
-        <mark key="." line="134" column="125" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530963615656">
+        <mark key="e" line="136" column="77" />
+        <mark key="'" line="33" column="26" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -171,7 +171,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530962524204">
+      <file name="/Python Console" timestamp="1530963660210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -425,14 +425,14 @@
       <jump line="36" column="26" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMC4wNCpk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMC4wNCpk</text>
+        <text encoding="base64">IDE1</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
@@ -441,7 +441,7 @@
         <text>torch.mean((pred * convert).t() * (2*(torch.nn.functional.sigmoid(d)-0.5) + 0.1*d)) * 3 + torch.mean(pred[:,2]) * 0.01</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -458,28 +458,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3RkOgo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXUgPSBhLm1lYW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3RkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwLmNwdSgpLm51bXB5KCkpKjEwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXUgPSBhLm1lYW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLmNhdCgodG9yY2gud2hlcmUobmVkID09IDAsIDEpLCB0b3JjaC53aGVyZShuZWQgPT0gMSwgLTIpLCB0b3JjaCkpCg==</text>
+        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwLmNwdSgpLm51bXB5KCkpKjEwMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwaXAgPSBwaXAubnVtcHkoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLmNhdCgodG9yY2gud2hlcmUobmVkID09IDAsIDEpLCB0b3JjaC53aGVyZShuZWQgPT0gMSwgLTIpLCB0b3JjaCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5lZFs6LCAwXSwgbmVkWzosIDFdLCBuZWRbOiwgMl0gPSB0b3JjaC53aGVyZShwcmVkWzosIDBdID49IDAuNSwgb25lLCB6ZXJvKSwgdG9yY2gud2hlcmUocHJlZFs6LCAxXSA+PSAwLjUsIC1vbmUsIHplcm8pLCB0b3JjaC53aGVyZShwcmVkWzosIDJdID49IDAuNSwgemVybywgemVybykK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwaXAgPSBwaXAubnVtcHkoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkLCBhID0gcHJlZFstMzcwOl0sIGFbLTM3MDpdCg==</text>
+        <text encoding="base64">ICAgIG5lZFs6LCAwXSwgbmVkWzosIDFdLCBuZWRbOiwgMl0gPSB0b3JjaC53aGVyZShwcmVkWzosIDBdID49IDAuNSwgb25lLCB6ZXJvKSwgdG9yY2gud2hlcmUocHJlZFs6LCAxXSA+PSAwLjUsIC1vbmUsIHplcm8pLCB0b3JjaC53aGVyZShwcmVkWzosIDJdID49IDAuNSwgemVybywgemVybykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ID0gdG9yY2guRG91YmxlVGVuc29yKFsxLCAtMSwgMF0pLnRvKGRldmljZSkKICAgICAgICBjb252ZXJ0LnJlcXVpcmVzX2dyYWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkLCBhID0gcHJlZFstMzcwOl0sIGFbLTM3MDpdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
