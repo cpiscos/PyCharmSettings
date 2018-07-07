@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530963615656">
-        <mark key="e" line="136" column="77" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530963828019">
+        <mark key="e" line="137" column="77" />
         <mark key="'" line="33" column="26" />
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="17" column="10" />
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="18" />
+        <mark key="." line="123" column="18" />
+        <mark key="^" line="123" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -171,7 +171,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530963660210">
+      <file name="/Python Console" timestamp="1530963829275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -425,14 +425,14 @@
       <jump line="36" column="26" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDE1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
