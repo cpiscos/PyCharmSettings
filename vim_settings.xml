@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530947091254">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530949207878">
         <mark key="e" line="134" column="77" />
         <mark key="'" line="32" column="26" />
-        <mark key="[" line="85" column="40" />
-        <mark key="]" line="85" column="40" />
-        <mark key="." line="85" column="40" />
-        <mark key="^" line="85" column="38" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="134" column="95" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -171,7 +171,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530947092764">
+      <file name="/Python Console" timestamp="1530949210894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -240,7 +240,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530830485624">
+      <file name="/Dummy.txt" timestamp="1530949201886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -426,13 +426,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dim=1</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>dim=1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
@@ -492,7 +492,7 @@
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
