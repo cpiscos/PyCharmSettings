@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network_Q'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network_Q'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">
