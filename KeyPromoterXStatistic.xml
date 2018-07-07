@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -182,7 +182,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>Paste</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -190,7 +190,7 @@
           <IdeaActionID>PasteMultiple</IdeaActionID>
           <ShortCut>'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'</ShortCut>
           <Description>Paste from History...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network_Q'</Description>
-          <Count>9</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network_Q'</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">

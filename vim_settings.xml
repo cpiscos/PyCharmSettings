@@ -142,13 +142,13 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530942802003">
-        <mark key="e" line="136" column="77" />
-        <mark key="'" line="101" column="20" />
-        <mark key="[" line="138" column="19" />
-        <mark key="]" line="138" column="19" />
-        <mark key="^" line="138" column="19" />
-        <mark key="." line="138" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1530947091254">
+        <mark key="e" line="134" column="77" />
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="85" column="40" />
+        <mark key="]" line="85" column="40" />
+        <mark key="." line="85" column="40" />
+        <mark key="^" line="85" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
@@ -171,10 +171,8 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530942851008">
+      <file name="/Python Console" timestamp="1530947092764">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -325,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="17" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="87" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="79" column="25" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
@@ -425,16 +422,17 @@
       <jump line="136" column="53" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
       <jump line="90" column="19" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
       <jump line="101" column="20" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
+      <jump line="36" column="26" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>su</text>
+        <text>dim=1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>su</text>
+        <text>dim=1</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
@@ -443,7 +441,7 @@
         <text>pred[-370:], a[-370:]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkLCBhID0gcHJlZFstMzcwOl0sIGFbLTM3MDpdCg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -460,28 +458,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJ0ID0gdG9yY2guRG91YmxlVGVuc29yKFsxLCAtMSwgMF0pLnRvKGRldmljZSkKICAgICAgICBjb252ZXJ0LnJlcXVpcmVzX2dyYWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3RkOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zc190ID0gY3JpdGVyaW9uKHByZWRfdC5yZXNoYXBlKC0xLCAzKSwgeV90LnJlc2hhcGUoLTEpLmxvbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXUgPSBhLm1lYW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvcmNoLm5uLnV0aWxzLmNsaXBfZ3JhZF9ub3JtXyhuZXQucGFyYW1ldGVycygpLCAxMCkK</text>
+        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwLmNwdSgpLm51bXB5KCkpKjEwMDAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSBjcml0ZXJpb24ocHJlZFs6LDBdLnJlc2hhcGUoLTEsIDEpLCB5X2xvbmcucmVzaGFwZSgtMSwgMSkuZG91YmxlKCkpICsgY3JpdGVyaW9uMShwcmVkWzosMV0ucmVzaGFwZSgtMSwgMSksIHlfc2hvcnQucmVzaGFwZSgtMSwgMSkuZG91YmxlKCkpCg==</text>
+        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLmNhdCgodG9yY2gud2hlcmUobmVkID09IDAsIDEpLCB0b3JjaC53aGVyZShuZWQgPT0gMSwgLTIpLCB0b3JjaCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nID0gbnAud2hlcmUoYV9kaWZmID49IDAuMDAwNSwgMSwgMCkKICAgICAgICBzaG9ydCA9IG5wLndoZXJlKGFfZGlmZiA8PSAtMC4wMDA1LCAxLCAwKQogICAgICAgIG5vdGhpbmcgPSBucC53aGVyZShucC5sb2dpY2FsX2FuZCgwLjAwMDUgPiBhX2RpZmYsIGFfZGlmZiA+IC0wLjAwMDUpLCAxLCAwKQo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwaXAgPSBwaXAubnVtcHkoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICdUZXN0IGFjY3VyYWN5JzogW2F2Z19hY2N1cmFjeV0sCiAgICAgICAgICAgICAgICAgICAgIyAnVHJhaW4gYWNjdXJhY3knOiBbYXZnX3RyYWluX2FjY3VyYWN5XSwK</text>
+        <text encoding="base64">ICAgIG5lZFs6LCAwXSwgbmVkWzosIDFdLCBuZWRbOiwgMl0gPSB0b3JjaC53aGVyZShwcmVkWzosIDBdID49IDAuNSwgb25lLCB6ZXJvKSwgdG9yY2gud2hlcmUocHJlZFs6LCAxXSA+PSAwLjUsIC1vbmUsIHplcm8pLCB0b3JjaC53aGVyZShwcmVkWzosIDJdID49IDAuNSwgemVybywgemVybykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWQsIGEgPSBwcmVkWy0zMDA6XSwgcHJlZFstMzAwOl0K</text>
+        <text encoding="base64">ICAgICAgICBwcmVkLCBhID0gcHJlZFstMzcwOl0sIGFbLTM3MDpdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgYSA9IHByZWRbLTMwMDpdLCBwcmVkWy0zMDA6XQo=</text>
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ID0gdG9yY2guRG91YmxlVGVuc29yKFsxLCAtMSwgMF0pLnRvKGRldmljZSkKICAgICAgICBjb252ZXJ0LnJlcXVpcmVzX2dyYWQgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
