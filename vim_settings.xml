@@ -181,7 +181,13 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531028392085">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531029701737">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="/Python Console" timestamp="1531029702422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -436,13 +442,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
