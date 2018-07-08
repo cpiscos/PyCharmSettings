@@ -48,18 +48,18 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531028391036">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531079194430">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530937573863">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531079417008">
         <mark key="'" line="95" column="25" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -148,11 +148,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531025206384">
-        <mark key="[" line="124" column="78" />
-        <mark key="]" line="124" column="78" />
-        <mark key="." line="124" column="78" />
-        <mark key="^" line="124" column="78" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531081017761">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
         <mark key="[" line="26" column="17" />
@@ -181,15 +181,18 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531036529063">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531077770602">
+        <mark key="'" line="112" column="54" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="123" column="116" />
       </file>
-      <file name="/Python Console" timestamp="1531036529616">
+      <file name="/Python Console" timestamp="1531082032399">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -257,7 +260,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530999726182">
+      <file name="/Dummy.txt" timestamp="1531076619132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -340,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="25" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
@@ -440,25 +442,26 @@
       <jump line="101" column="20" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
       <jump line="36" column="26" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
       <jump line="18" column="12" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
+      <jump line="115" column="54" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHByZWQuYXJnbWF4KDEpLmRldGFjaCgpCiAgICBuZWQgPSB0b3JjaC53aGVyZShuZWQgPT0gMSwgLW9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDAsIG9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDIsIHplcm8sIG5lZCkK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>sigmoid</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCiAgICAgICAgICAgICAgICAgICAgICAgICdUcmFpbiBnYWluJzogW3JvdW5kKGVsb3NzWy0xXSwgNCldLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFfZGlmZiA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHByZWQuYXJnbWF4KDEpLmRldGFjaCgpCiAgICBuZWQgPSB0b3JjaC53aGVyZShuZWQgPT0gMSwgLW9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDAsIG9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDIsIHplcm8sIG5lZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RkID0gYS5zdGQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -475,28 +478,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHByZWQuYXJnbWF4KDEpLmRldGFjaCgpCiAgICBuZWQgPSB0b3JjaC53aGVyZShuZWQgPT0gMSwgLW9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDAsIG9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDIsIHplcm8sIG5lZCkK</text>
+        <text encoding="base64">ICAgICAgICBlbG9zcy5hcHBlbmQobnAubWVhbihwZWxvc3MpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbG9zcy5hcHBlbmQobnAubWVhbihwZWxvc3MpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSBubi5MaW5lYXIoMywgMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgcHJvZml0JzogW2Yne3JvdW5kKHByb2ZpdChwcmVkX3QsIGMpLCAyKX0gcGlwcyddLAogICAgICAgICAgICAgICAgICAgICAgICAnVHJhaW4gcHJvZml0JzogW2Yne3JvdW5kKHByb2ZpdChwcmVkLCBhKSwgMil9IHBpcHMnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCiAgICAgICAgICAgICAgICAgICAgICAgICdUcmFpbiBnYWluJzogW3JvdW5kKGxvc3MuaXRlbSgpLCA0KV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0F2ZyB0ZXN0IGdhaW4nOiBbcm91bmQobG9zc190Lml0ZW0oKSwgNCldLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
+        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsncGFyYW1zJzogbmV0LmxpbmVhci5wYXJhbWV0ZXJzKCksICd3ZWlnaHRfZGVjYXknOiAwLjAxfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbmVhciA9IG5uLkxpbmVhcig2NSwgMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW0gaW4gc2VsZi5sc3RtLnBhcmFtZXRlcnMoKToKICAgICAgICAgICAgdG9yY2gubm4uaW5pdC54YXZpZXJfbm9ybWFsXyhwYXJhbSkK</text>
+        <text encoding="base64">ICAgIG5lZCA9IHByZWQuYXJnbWF4KDEpLmRldGFjaCgpCiAgICBuZWQgPSB0b3JjaC53aGVyZShuZWQgPT0gMSwgLW9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDAsIG9uZSwgbmVkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
@@ -509,7 +512,7 @@
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

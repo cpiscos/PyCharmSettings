@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -182,7 +182,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>Paste</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network_Q'</Description>
-          <Count>54</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_Q1'">
@@ -326,7 +326,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'network_Qgate'</Description>
-          <Count>13</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'network_reg'">
@@ -462,7 +462,7 @@
           <IdeaActionID>PyRunFileInConsole</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Enter'</ShortCut>
           <Description>Run File in Console</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -566,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network_Q'</Description>
-          <Count>78</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_Q1'">
@@ -590,7 +590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'network_Qgate'</Description>
-          <Count>18</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'network_reg'">
