@@ -48,11 +48,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531010292543">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="124" column="64" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531010672469">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530937573863">
         <mark key="'" line="95" column="25" />
@@ -181,7 +181,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531010294121">
+      <file name="/Python Console" timestamp="1531011046617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -436,13 +436,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>10</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
