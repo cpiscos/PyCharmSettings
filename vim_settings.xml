@@ -181,12 +181,15 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531031402753">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531032996480">
         <mark key="'" line="18" column="12" />
-        <mark key="[" line="97" column="80" />
-        <mark key="]" line="99" column="53" />
-        <mark key="." line="99" column="53" />
-        <mark key="^" line="99" column="53" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1531032997089">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -440,13 +443,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
@@ -455,7 +458,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCiAgICAgICAgICAgICAgICAgICAgICAgICdUcmFpbiBnYWluJzogW3JvdW5kKGVsb3NzWy0xXSwgNCldLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -472,28 +475,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgKz0gMC4xICogc2VsZi5jb25maWRlbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUucmVxdWlyZV9ncmFkPVRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmF0Y2hfcHJvZml0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2gubm4udXRpbHMuY2xpcF9ncmFkX25vcm1fKG5ldC5wYXJhbWV0ZXJzKCksIDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW0gaW4gc2VsZi5sc3RtLnBhcmFtZXRlcnMoKToKICAgICAgICAgICAgdG9yY2gubm4uaW5pdC54YXZpZXJfbm9ybWFsXyhwYXJhbSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cSAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgKz0gMC4xICogc2VsZi5jb25maWRlbmNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUucmVxdWlyZV9ncmFkPVRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTFdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUKZGVmIGdhaW4ocHJlZCwgcGlwKToKICAgIHJldHVybiB0b3JjaC5tZWFuKChwcmVkWzosOjJdICogY29udmVydCkudCgpICogKDIqKHRvcmNoLm5uLmZ1bmN0aW9uYWwuc2lnbW9pZChwaXApLTAuNSkpICsgMC41KnBpcCkgKiAyICsgdG9yY2gubWVhbihwcmVkWzosMl0pICogMC4wMDAxCg==</text>
+        <text encoding="base64">YmF0Y2hfcHJvZml0ID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
