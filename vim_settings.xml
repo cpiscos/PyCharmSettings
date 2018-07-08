@@ -181,14 +181,14 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531036167829">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531036529063">
         <mark key="'" line="18" column="12" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="9" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1531036169351">
+      <file name="/Python Console" timestamp="1531036529616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -449,7 +449,7 @@
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>sigmoid</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
@@ -475,28 +475,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5lZCA9IHByZWQuYXJnbWF4KDEpLmRldGFjaCgpCiAgICBuZWQgPSB0b3JjaC53aGVyZShuZWQgPT0gMSwgLW9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDAsIG9uZSwgbmVkKQogICAgbmVkID0gdG9yY2gud2hlcmUobmVkID09IDIsIHplcm8sIG5lZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSBubi5MaW5lYXIoMywgMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSBubi5MaW5lYXIoMywgMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW0gaW4gc2VsZi5sc3RtLnBhcmFtZXRlcnMoKToKICAgICAgICAgICAgdG9yY2gubm4uaW5pdC54YXZpZXJfbm9ybWFsXyhwYXJhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhdGUgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW0gaW4gc2VsZi5sc3RtLnBhcmFtZXRlcnMoKToKICAgICAgICAgICAgdG9yY2gubm4uaW5pdC54YXZpZXJfbm9ybWFsXyhwYXJhbSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
