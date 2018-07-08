@@ -48,11 +48,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531017620857">
-        <mark key="[" line="206" column="11" />
-        <mark key="]" line="206" column="15" />
-        <mark key="." line="206" column="15" />
-        <mark key="^" line="206" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531027140853">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="139" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530937573863">
         <mark key="'" line="95" column="25" />
@@ -148,11 +148,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531006865324">
-        <mark key="[" line="155" column="147" />
-        <mark key="]" line="155" column="148" />
-        <mark key="." line="155" column="148" />
-        <mark key="^" line="155" column="148" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531025206384">
+        <mark key="[" line="124" column="78" />
+        <mark key="]" line="124" column="78" />
+        <mark key="." line="124" column="78" />
+        <mark key="^" line="124" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
         <mark key="[" line="26" column="17" />
@@ -181,7 +181,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531017198022">
+      <file name="/Python Console" timestamp="1531027143293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -436,13 +436,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bG9zcyA=</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9zcyA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
