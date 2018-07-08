@@ -48,6 +48,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531008349150">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1530937573863">
         <mark key="'" line="95" column="25" />
         <mark key="[" line="11" column="12" />
@@ -175,7 +181,7 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531006865833">
+      <file name="/Python Console" timestamp="1531008350399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -429,23 +435,23 @@
       <jump line="36" column="26" filename="$USER_HOME$/PycharmProjects/forex/network_Q.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sigm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ1Rlc3QgZ2Fpbic6IFtyb3VuZChsb3NzX3QuaXRlbSgpLCA0KV0sCiAgICAgICAgICAgICAgICAgICAgICAgICdUcmFpbiBnYWluJzogW3JvdW5kKGVsb3NzWy0xXSwgNCldLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -462,28 +468,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
+        <text encoding="base64">cSAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbG9zcy5hcHBlbmQobnAubWVhbihwZWxvc3MpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQsIGEgPSBwcmVkWy0zNzA6XSwgYVstMzcwOl0K</text>
+        <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTFdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUKZGVmIGdhaW4ocHJlZCwgcGlwKToKICAgIHJldHVybiB0b3JjaC5tZWFuKChwcmVkWzosOjJdICogY29udmVydCkudCgpICogKDIqKHRvcmNoLm5uLmZ1bmN0aW9uYWwuc2lnbW9pZChwaXApLTAuNSkpICsgMC41KnBpcCkgKiAyICsgdG9yY2gubWVhbihwcmVkWzosMl0pICogMC4wMDAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgYSA9IHByZWRbLTM3MDpdLCBhWy0zNzA6XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IGxvc3MgKiA1Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5lZCA9IHRvcmNoLndoZXJlKG5lZCA9PSAyLCB6ZXJvLCBuZWQpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Y29udmVydCA9IHRvcmNoLkRvdWJsZVRlbnNvcihbMSwgLTEsIDBdKS50byhkZXZpY2UpCmNvbnZlcnQucmVxdWlyZXNfZ3JhZCA9IFRydWUK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbG9zcy5hcHBlbmQobnAubWVhbihwZWxvc3MpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQsIGEgPSBwcmVkWy0zNzA6XSwgYVstMzcwOl0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgYSA9IHByZWRbLTM3MDpdLCBhWy0zNzA6XQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
