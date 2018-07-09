@@ -148,11 +148,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531150065606">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531179208837">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="221" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
         <mark key="[" line="26" column="17" />
@@ -188,7 +188,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="123" column="116" />
       </file>
-      <file name="/Python Console" timestamp="1531178112299">
+      <file name="/Python Console" timestamp="1531179210063">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -447,13 +447,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
