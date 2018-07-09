@@ -54,12 +54,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531079417008">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531178111553">
         <mark key="'" line="95" column="25" />
         <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -148,11 +148,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531112547866">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="36" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531150065606">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
         <mark key="[" line="26" column="17" />
@@ -188,7 +188,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="123" column="116" />
       </file>
-      <file name="/Python Console" timestamp="1531112549888">
+      <file name="/Python Console" timestamp="1531178112299">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -261,7 +261,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531112467808">
+      <file name="/Dummy.txt" timestamp="1531150059308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
@@ -458,8 +458,8 @@
       <register name="/" type="4">
         <text>optimi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZWQsIGEgPSBwcmVkWy0zNzA6XSwgYVstMzcwOl0K</text>
+      <register name="0" type="4">
+        <text>-8302 - seq_len - pred_hours</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXYgPSBbcHJlZCwgYV0K</text>
