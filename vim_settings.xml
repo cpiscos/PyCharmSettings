@@ -54,12 +54,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531241873578">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531253466592">
         <mark key="'" line="129" column="14" />
-        <mark key="[" line="124" column="20" />
-        <mark key="]" line="124" column="20" />
-        <mark key="." line="124" column="20" />
-        <mark key="^" line="124" column="24" />
+        <mark key="[" line="187" column="31" />
+        <mark key="]" line="188" column="9" />
+        <mark key="." line="188" column="9" />
+        <mark key="^" line="188" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -446,8 +446,8 @@
       <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx0LnBsb3Qob19hY2MsIGNvbG9yPSdvcmFuZ2UnKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -458,8 +458,8 @@
       <register name="/" type="4">
         <text>scheduler</text>
       </register>
-      <register name="0" type="4">
-        <text>-8302 - seq_len - pred_hours</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGx0LnBsb3Qob19hY2MsIGNvbG9yPSdvcmFuZ2UnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDAwMSkKc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
