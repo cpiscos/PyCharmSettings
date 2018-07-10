@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1530787796553">
+      <file name="/a.dummy" timestamp="1531265626077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
@@ -231,6 +231,12 @@
         <mark key="]" line="113" column="19" />
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531265983669">
+        <mark key="[" line="86" column="25" />
+        <mark key="]" line="86" column="33" />
+        <mark key="^" line="86" column="33" />
+        <mark key="." line="86" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -446,14 +452,14 @@
       <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGx0LnBsb3Qob19hY2MsIGNvbG9yPSdvcmFuZ2UnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>LSTM(65, 65, num_layers=2, batch_first=True, dropout=0.1)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>LSTM(65, 65, num_layers=2, batch_first=True, dropout=0.1)</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
