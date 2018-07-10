@@ -54,12 +54,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531179284506">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531184709184">
         <mark key="'" line="95" column="25" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+        <mark key="[" line="122" column="56" />
+        <mark key="]" line="122" column="57" />
+        <mark key="." line="122" column="57" />
+        <mark key="^" line="122" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -148,10 +148,10 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531180031279">
-        <mark key="[" line="156" column="28" />
-        <mark key="]" line="157" column="63" />
-        <mark key="." line="157" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531180103245">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
         <mark key="^" line="157" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
@@ -181,14 +181,14 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531077770602">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="123" column="116" />
+        <mark key="[" line="137" column="33" />
+        <mark key="]" line="137" column="48" />
+        <mark key="." line="137" column="48" />
+        <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531180046821">
+      <file name="/Python Console" timestamp="1531184710590">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -447,13 +447,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, weight_decay=0.001</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, weight_decay=0.001</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
