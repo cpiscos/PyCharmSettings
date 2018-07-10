@@ -54,12 +54,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531184709184">
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531208324731">
         <mark key="'" line="95" column="25" />
-        <mark key="[" line="122" column="56" />
-        <mark key="]" line="122" column="57" />
-        <mark key="." line="122" column="57" />
-        <mark key="^" line="122" column="56" />
+        <mark key="[" line="122" column="53" />
+        <mark key="]" line="122" column="53" />
+        <mark key="." line="122" column="53" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -188,7 +188,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531207449496">
+      <file name="/Python Console" timestamp="1531208326894">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -447,13 +447,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, weight_decay=0.001</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, weight_decay=0.001</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>optimi</text>
