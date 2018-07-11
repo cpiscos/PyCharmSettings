@@ -188,7 +188,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531259981084">
+      <file name="/Python Console" timestamp="1531269403039">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -232,11 +232,11 @@
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531265983669">
-        <mark key="[" line="86" column="25" />
-        <mark key="]" line="86" column="33" />
-        <mark key="^" line="86" column="33" />
-        <mark key="." line="86" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531269344440">
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="88" column="54" />
+        <mark key="." line="88" column="54" />
+        <mark key="^" line="88" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -452,23 +452,23 @@
       <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LSTM(65, 65, num_layers=2, batch_first=True, dropout=0.1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi51dGlscy5jbGlwX2dyYWRfbm9ybV8oc2VsZi5saW5lYXIucGFyYW1ldGVycygpLCApCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>LSTM(65, 65, num_layers=2, batch_first=True, dropout=0.1)</text>
+        <text>, weight_decay=0.0001</text>
       </register>
       <register name="/" type="4">
-        <text>scheduler</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnBsb3Qob19hY2MsIGNvbG9yPSdvcmFuZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbmVhciA9IG5uLkxpbmVhcig3ODAwLCA1MDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDAwMSkKc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi51dGlscy5jbGlwX2dyYWRfbm9ybV8oc2VsZi5saW5lYXIucGFyYW1ldGVycygpLCApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -485,45 +485,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvX3Bsb3NzID0gb19wbG9zcyArIHBsb3NzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGxvc3MgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBhcmFtIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxvc3MuYXBwZW5kKGxvc3MuaXRlbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVwb2NoID09IGVwb2Nocy0xOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnBsb3Qob19wbG9zcykKcGx0LnRpdGxlKCdsb3NzIHBlciB1cGRhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQgPSBvdXRbOiwgLTEsIDpdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnBsb3Qob19wbG9zcykKcGx0LnRpdGxlKCdsb3NzIHBlciB1cGRhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQsIHNlbGYuaGlkZGVuID0gc2VsZi5sc3RtKHNlbGYuY29udihpbnB1dCksIHNlbGYuaGlkZGVuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9zcy5pdGVtKCkgIT0gbG9zcy5pdGVtKCk6CiAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfaGlkZGVuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxzdG0gPSBubi5MU1RNKDEzLCAxMywgbnVtX2xheWVycz0yLCBkcm9wb3V0PTAuMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXYgPSBbcHJlZCwgYV0K</text>
+        <text encoding="base64">ICAgICAgICBjb252ID0gdG9yY2guY2F0KChzZWxmLmNvbnYxKGlucHV0KS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpLCBzZWxmLmNvbnYyKGlucHV0KS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpKSwgZGltPTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>scheduler</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern>scheduler</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>backward</entry>
         <entry>for</entry>
         <entry>num_steps</entry>
         <entry>'Content</entry>
@@ -543,6 +542,7 @@
         <entry>sigm</entry>
         <entry>optimi</entry>
         <entry>scheduler</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
