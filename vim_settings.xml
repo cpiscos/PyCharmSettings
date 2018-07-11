@@ -188,7 +188,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531269403039">
+      <file name="/Python Console" timestamp="1531269742399">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -232,11 +232,12 @@
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531269344440">
-        <mark key="[" line="87" column="40" />
-        <mark key="]" line="88" column="54" />
-        <mark key="." line="88" column="54" />
-        <mark key="^" line="88" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531270127725">
+        <mark key="'" line="130" column="28" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -350,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="1" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="7" column="40" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
@@ -450,19 +450,20 @@
       <jump line="18" column="12" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
       <jump line="115" column="54" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
       <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
+      <jump line="130" column="28" filename="$USER_HOME$/PycharmProjects/forex/network_conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi51dGlscy5jbGlwX2dyYWRfbm9ybV8oc2VsZi5saW5lYXIucGFyYW1ldGVycygpLCApCg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, weight_decay=0.0001</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>peloss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxpbmVhciA9IG5uLkxpbmVhcig3ODAwLCA1MDAwKQo=</text>
@@ -513,12 +514,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>peloss</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>peloss</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -531,7 +532,6 @@
         <entry>loss.data</entry>
         <entry>3</entry>
         <entry>ones</entry>
-        <entry>peloss</entry>
         <entry>;</entry>
         <entry>schedul</entry>
         <entry>net(</entry>
@@ -543,6 +543,7 @@
         <entry>optimi</entry>
         <entry>scheduler</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>peloss</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
