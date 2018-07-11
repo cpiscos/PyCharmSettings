@@ -188,7 +188,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531269742399">
+      <file name="/Python Console" timestamp="1531271131225">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -232,12 +232,12 @@
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531270127725">
+      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531271129296">
         <mark key="'" line="130" column="28" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-        <mark key="^" line="27" column="21" />
+        <mark key="[" line="72" column="39" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -454,13 +454,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>peloss</text>
