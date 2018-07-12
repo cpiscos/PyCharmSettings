@@ -114,11 +114,12 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531420799695">
-        <mark key="'" line="47" column="18" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531422851607">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="59" column="52" />
+        <mark key="]" line="59" column="62" />
+        <mark key="." line="59" column="62" />
+        <mark key="^" line="59" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -160,7 +161,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531420757908">
+      <file name="/Python Console" timestamp="1531422851888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -469,13 +470,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtID0gaXRlbSArIDUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>from_numpy</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
@@ -484,7 +485,7 @@
         <text>np.sum([i[1] for i in open_trades.values()])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtID0gaXRlbSArIDUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,28 +502,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV0LmluaXRfemVyb3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0ZXN0Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9hZGVyID0gRGF0YUxvYWRlcihkYXRhc2V0PXNpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi54ID0gbnAuYXJhbmdlKDk5MCwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJhdGNoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhd19kYXRhID0gbnAuc2luKHNlbGYueCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldC5pbml0X3plcm9zKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
+        <text encoding="base64">ICAgIHgsIHkgPSB0b3JjaC50ZW5zb3IoeCkuZG91YmxlKCkudmlldygtMSwgNSwgMSksIHRvcmNoLnRlbnNvcih5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9hZGVyID0gRGF0YUxvYWRlcihkYXRhc2V0PXNpbmUsIGJhdGNoX3NpemU9NSkKCmZvciBpLCBiYXRjaCBpbiBlbnVtZXJhdGUobG9hZGVyKToKICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtID0gaXRlbSArIDUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV0LmluaXRfemVyb3MoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdsb2wnKQo=</text>
+        <text encoding="base64">bG9hZGVyID0gRGF0YUxvYWRlcihkYXRhc2V0PXNpbmUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>

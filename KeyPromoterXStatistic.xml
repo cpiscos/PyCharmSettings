@@ -278,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Rerun 'Sine_Fitting'</Description>
-          <Count>10</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'adaline'">
