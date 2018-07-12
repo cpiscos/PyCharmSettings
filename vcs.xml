@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/cpiscos/PracticePython.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cpiscos/AI_Projects.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Chris\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
   </component>
 </application>
