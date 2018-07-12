@@ -281,6 +281,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'basic_example'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'basic_example'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ch02'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
