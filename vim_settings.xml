@@ -94,11 +94,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531321843491">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531362192940">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris.py" timestamp="1530233281481">
         <mark key="[" line="40" column="54" />
@@ -194,7 +194,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531345529621">
+      <file name="/Python Console" timestamp="1531362194220">
         <mark key="e" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -460,13 +460,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>2</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>peloss</text>
