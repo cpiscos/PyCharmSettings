@@ -180,12 +180,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531366071144">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531368304465">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -200,6 +200,9 @@
         <mark key="]" line="137" column="48" />
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
+      </file>
+      <file name="/Python Console" timestamp="1531368202536">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -357,9 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="34" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
-      <jump line="60" column="6" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="3" column="17" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="10" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
@@ -456,26 +456,29 @@
       <jump line="6" column="10" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="16" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="18" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
-      <jump line="21" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="31" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="21" column="10" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>states</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>states</text>
+        <text>np.sum([i[1] for i in open_trades.values()])</text>
       </register>
       <register name="/" type="4">
-        <text>upd</text>
+        <text>open</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
+      <register name="0" type="4">
+        <text>np.sum([i[1] for i in open_trades.values()])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,37 +495,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
+        <text encoding="base64">ICAgIGVxdWl0eSA9IG5wLnN1bShbaVsxXSBmb3IgaSBpbiBvcGVuX3RyYWRlcy52YWx1ZXMoKV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGVxdWl0eSA8PSAwOgogICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIG9wZW5fdHJhZGVzID0gdXBkYXRlX29wZW4ob3Blbl90cmFkZXMsIHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3Blbl90cmFkZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIG9wZW5fdHJhZGVzID0gdXBkYXRlX29wZW4ob3Blbl90cmFkZXMsIHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3RhdGUgPSBbXQpvcGVuX3RyYWRlcyA9IHt9CmJhbGFuY2UgPSAxMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxpdmUgPSBUcnVlCndoaWxlIGFsaXZlOgo=</text>
+        <text encoding="base64">ICAgIG9wZW5fdHJhZGVzID0gdXBkYXRlX29wZW4ob3Blbl90cmFkZXMsIHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG9wZW5fdHJhZGVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBsb3NzID0gY3JpdGVyaW9uKHByZWRbOiwwXS5yZXNoYXBlKC0xLCAxKSwgeV9sb25nLnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKSArIGNyaXRlcmlvbjEocHJlZFs6LDFdLnJlc2hhcGUoLTEsIDEpLCB5X3Nob3J0LnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKQo=</text>
+        <text encoding="base64">ICAgIG9wZW5fdHJhZGVzID0gdXBkYXRlX29wZW4ob3Blbl90cmFkZXMsIHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>upd</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>upd</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>-1</last-dir>
@@ -530,9 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'Content</entry>
-        <entry encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</entry>
-        <entry>load</entry>
         <entry>loss.data</entry>
         <entry>3</entry>
         <entry>ones</entry>
@@ -550,6 +550,9 @@
         <entry>peloss</entry>
         <entry>states</entry>
         <entry>upd</entry>
+        <entry encoding="base64">XDxucFw+</entry>
+        <entry>np</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
