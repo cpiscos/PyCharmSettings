@@ -180,11 +180,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531364811252">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531366071144">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -199,13 +200,6 @@
         <mark key="]" line="137" column="48" />
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
-      </file>
-      <file name="/Python Console" timestamp="1531364267605">
-        <mark key="e" line="0" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -363,10 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
-      <jump line="7" column="40" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="42" column="34" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="60" column="6" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" />
@@ -463,25 +453,29 @@
       <jump line="115" column="54" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
       <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="130" column="28" filename="$USER_HOME$/PycharmProjects/forex/network_conv.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="16" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="21" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWxpdmUgPSBUcnVlCndoaWxlIGFsaXZlOgo=</text>
+      <register name="&quot;" type="4">
+        <text>states</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>states</text>
       </register>
       <register name="/" type="4">
-        <text>peloss</text>
+        <text>upd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnQmF0Y2ggcHJvZml0JzogW25wLndoZXJlKG5wLmFycmF5KGJhdGNoX3Byb2ZpdCkgPiAwLCAxLCAwKS5tZWFuKCldLAo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxpdmUgPSBUcnVlCndoaWxlIGFsaXZlOgo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,46 +492,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcy5hcHBlbmQoMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBsb3NzID0gY3JpdGVyaW9uKHByZWRbOiwwXS5yZXNoYXBlKC0xLCAxKSwgeV9sb25nLnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKSArIGNyaXRlcmlvbjEocHJlZFs6LDFdLnJlc2hhcGUoLTEsIDEpLCB5X3Nob3J0LnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0b3JjaC5ubi51dGlscy5jbGlwX2dyYWRfbm9ybV8obmV0LnBhcmFtZXRlcnMoKSwgMTApCg==</text>
+        <text encoding="base64">ICAgICAgICBvcGVuX3RyYWRlcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVwb2NoID09IGVwb2Nocy0xOgo=</text>
+        <text encoding="base64">b3Blbl90cmFkZXMgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwKS5yZXNoYXBlKC0xKSoxMDAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwID0gbnAuc3VtKGFwLmNwdSgpLm51bXB5KCksIGF4aXM9MSkucmVzaGFwZSgtMSkqMTAwMDAK</text>
+        <text encoding="base64">YWxpdmUgPSBUcnVlCndoaWxlIGFsaXZlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b25lID0gdG9yY2gub25lcygxKS50byhkZXZpY2UpCnplcm8gPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBsb3NzID0gY3JpdGVyaW9uKHByZWRbOiwwXS5yZXNoYXBlKC0xLCAxKSwgeV9sb25nLnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKSArIGNyaXRlcmlvbjEocHJlZFs6LDFdLnJlc2hhcGUoLTEsIDEpLCB5X3Nob3J0LnJlc2hhcGUoLTEsIDEpLmRvdWJsZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>peloss</last-search>
+      <last-search>upd</last-search>
       <last-offset />
-      <last-pattern>peloss</last-pattern>
+      <last-pattern>upd</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>for</entry>
-        <entry>num_steps</entry>
         <entry>'Content</entry>
         <entry encoding="base64">XDxyZXRhaW5fZ3JhcGhcPg==</entry>
         <entry>load</entry>
@@ -556,6 +548,8 @@
         <entry>scheduler</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>peloss</entry>
+        <entry>states</entry>
+        <entry>upd</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
