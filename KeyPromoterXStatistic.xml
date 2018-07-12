@@ -278,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Rerun 'Sine_Fitting'</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'adaline'">
@@ -551,6 +551,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'PythonMachineLearning'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Sine_Fitting'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SungKim (1)'">
