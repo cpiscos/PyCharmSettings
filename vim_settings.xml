@@ -201,7 +201,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531435297192">
+      <file name="/Python Console" timestamp="1531436847702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -248,11 +248,11 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531435296884">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531436847280">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -468,20 +468,20 @@
       <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGx0LnBsb3QodGVzdF9wcmVkaWN0aW9ucykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCBzdGVwX3Qg</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">LCBzdGVwX3Qg</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RfcHJlZGljdGlvbnMgPSBucC5hcnJheShbXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZWRpY3QgPSBubi5MaW5lYXIoMTIwLCA2MCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGx0LnBsb3QodGVzdF9wcmVkaWN0aW9ucykK</text>
