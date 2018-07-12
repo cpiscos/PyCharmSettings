@@ -201,7 +201,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531427748585">
+      <file name="/Python Console" timestamp="1531427875601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -248,11 +248,11 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531427746464">
-        <mark key="[" line="67" column="32" />
-        <mark key="]" line="67" column="6" />
-        <mark key="^" line="67" column="6" />
-        <mark key="." line="67" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531427874431">
+        <mark key="[" line="71" column="3" />
+        <mark key="]" line="71" column="2" />
+        <mark key="^" line="71" column="2" />
+        <mark key="." line="71" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -469,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4LCB5ID0geC50byhkZXZpY2UpLCB5LnRvKGRldmljZSkK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -484,7 +484,7 @@
         <text encoding="base64">ICAgICAgICB4LCB5ID0geC50byhkZXZpY2UpLCB5LnRvKGRldmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29wZW4gdHJhZGVzJzogW29wZW5fdHJhZGVzXSwK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,28 +501,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHQpCiAgICBwcmludChvcGVuX3RyYWRlcykKICAgIHByaW50KGVxdWl0eSkKICAgIHByaW50KGJhbGFuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29wZW4gdHJhZGVzJzogW29wZW5fdHJhZGVzXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHQpCiAgICBwcmludChvcGVuX3RyYWRlcykKICAgIHByaW50KGVxdWl0eSkKICAgIHByaW50KGJhbGFuY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbiA9IGludChpbnB1dCgnYWN0aW9uJykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFjdGlvbiA9IGludChpbnB1dCgnYWN0aW9uJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5uLkxTVE0oMSwgMSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYWxhbmNlIC09IDEK</text>
+        <text encoding="base64">ICAgIG5uLkxTVE0oMSwgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWxhbmNlIC09IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLmFwcGVuZChlcXVpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
