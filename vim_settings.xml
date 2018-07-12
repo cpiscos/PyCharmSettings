@@ -180,12 +180,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531370971697">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531373601862">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
@@ -201,7 +201,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531370988406">
+      <file name="/Python Console" timestamp="1531373244117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="2" column="33" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
       <jump line="35" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
@@ -456,20 +455,21 @@
       <jump line="18" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="31" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="27" column="8" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
-      <jump line="25" column="8" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="21" column="10" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="24" column="29" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pred</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pred</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
