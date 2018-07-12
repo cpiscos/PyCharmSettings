@@ -273,6 +273,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'Sine_Fitting'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'adaline'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
