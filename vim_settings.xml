@@ -42,11 +42,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531452975197">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531455202333">
+        <mark key="[" line="94" column="34" />
+        <mark key="]" line="94" column="37" />
+        <mark key="." line="94" column="37" />
+        <mark key="^" line="94" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -207,7 +207,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531452975555">
+      <file name="/Python Console" timestamp="1531455202602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -475,22 +475,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LnJlc2hhcGUoLTEpIA==</text>
+        <text>std</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnJlc2hhcGUoLTEpIA==</text>
+        <text>std</text>
       </register>
       <register name="/" type="4">
-        <text>net</text>
+        <text>reshape</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGx0LnBsb3QodHJhaW5fbG9zcywgY29sb3I9J2JsdWUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgIHN0ZCA9IFtdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,45 +507,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcV9sZW4gPSBzZXFfbGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
+        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcV9sZW4gPSBzZXFfbGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFbJ2xvc3MnXS5hcHBlbmQobG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">cHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCBsb3NzLml0ZW0oKSkK</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldC5jcHUoKQo=</text>
+        <text encoding="base64">ICAgIGRhdGFbJ2xvc3MnXS5hcHBlbmQobG9zcy5pdGVtKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2U9ZGV2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCBsb3NzLml0ZW0oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldC5jcHUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>net</last-search>
+      <last-search>reshape</last-search>
       <last-offset />
-      <last-pattern>net</last-pattern>
+      <last-pattern>reshape</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>ones</entry>
         <entry>;</entry>
         <entry>schedul</entry>
@@ -565,6 +564,7 @@
         <entry>np</entry>
         <entry>open</entry>
         <entry>net</entry>
+        <entry>reshape</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
