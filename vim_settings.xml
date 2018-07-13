@@ -42,7 +42,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531443241780">
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531445809440">
         <mark key="[" line="60" column="53" />
         <mark key="]" line="60" column="53" />
         <mark key="." line="60" column="53" />
@@ -207,7 +207,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531443196231">
+      <file name="/Python Console" timestamp="1531445811117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -475,13 +475,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y_t</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>y_t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
