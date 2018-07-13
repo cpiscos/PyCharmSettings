@@ -42,11 +42,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531456409009">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="71" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531458481591">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -207,7 +207,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531456410965">
+      <file name="/Python Console" timestamp="1531458482019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -474,23 +474,23 @@
       <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>t=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnBsb3QodHJhaW5fbG9zcywgY29sb3I9J2JsdWUnKQo=</text>
+        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,28 +507,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKCkK</text>
+        <text encoding="base64">YXRkID0gW2lbTm9uZV0gZm9yIGkgaW4gc3RkXQpwaWNrbGUuZHVtcCgodG9yY2guY2F0KGF0ZCwgZGltPTApLm1lYW4oMCksIG5wLm1lYW4oeV9zdGQpKSwgb3Blbignc3RkLnBrbCcsICd3YicpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKHguc3RkKDApKQogICAgICAgIHlfc3RkLmFwcGVuZCh5LnN0ZCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcV9sZW4gPSBzZXFfbGVuCg==</text>
+        <text encoding="base64">c3RkID0gW10KeV9zdGQgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY29udjEgPSBubi5Db252MWQoMTAsIDIwLCAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFbJ2xvc3MnXS5hcHBlbmQobG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">ICAgIHN0ZCA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCBsb3NzLml0ZW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldC5jcHUoKQo=</text>
+        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
