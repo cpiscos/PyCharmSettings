@@ -42,11 +42,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531455202333">
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="37" />
-        <mark key="." line="94" column="37" />
-        <mark key="^" line="94" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531456409009">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="71" />
+        <mark key="." line="39" column="71" />
+        <mark key="^" line="39" column="71" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -207,7 +207,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531455202602">
+      <file name="/Python Console" timestamp="1531456410965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -475,13 +475,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>std</text>
+        <text>t=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>std</text>
+        <text>t=</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
