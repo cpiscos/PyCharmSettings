@@ -42,11 +42,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531437794861">
-        <mark key="[" line="22" column="82" />
-        <mark key="]" line="22" column="80" />
-        <mark key="." line="22" column="80" />
-        <mark key="^" line="22" column="80" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531440218689">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
+        <mark key="^" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -207,7 +207,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531437218869">
+      <file name="/Python Console" timestamp="1531440219046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -475,13 +475,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
@@ -490,7 +490,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnByZWRpY3QgPSBubi5MaW5lYXIoMTIwLCA2MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgc2VxX2xlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,28 +507,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfaGlkZGVuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IHBkLnJlYWRfZmVhdGhlcignbWVyZ2VkLmZlYXRoZXInKS52YWx1ZXNbOiwxOl0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfaGlkZGVuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXN0Ogo=</text>
+        <text encoding="base64">ICAgIG5ldC5pbml0X2hpZGRlbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfaGlkZGVuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnBsb3QodGVzdF9wcmVkaWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LmZsb2F0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZyYW1lID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGdsb2JhbCBzZXFfbGVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
