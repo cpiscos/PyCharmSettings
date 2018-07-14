@@ -42,11 +42,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531533722616">
-        <mark key="[" line="120" column="45" />
-        <mark key="]" line="120" column="45" />
-        <mark key="." line="120" column="45" />
-        <mark key="^" line="120" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531540381876">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="3" />
+        <mark key="." line="84" column="3" />
+        <mark key="^" line="84" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -372,8 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="33" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
       <jump line="35" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
@@ -472,16 +471,18 @@
       <jump line="24" column="29" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="43" column="62" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3ljbGUg</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>3500</text>
+        <text encoding="base64">Y3ljbGUg</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
@@ -660,6 +661,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
