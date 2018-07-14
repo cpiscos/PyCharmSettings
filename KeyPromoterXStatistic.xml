@@ -273,6 +273,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'Sine_Fitting'</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'adaline'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -543,6 +551,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'PythonMachineLearning'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Sine_Fitting'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SungKim (1)'">
