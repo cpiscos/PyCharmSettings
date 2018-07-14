@@ -45,12 +45,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531551540423">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="84" />
-        <mark key="]" line="55" column="93" />
-        <mark key="." line="55" column="93" />
-        <mark key="^" line="55" column="93" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531555211150">
+        <mark key="'" line="86" column="4" />
+        <mark key="[" line="81" column="79" />
+        <mark key="]" line="81" column="80" />
+        <mark key="." line="81" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -211,7 +210,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531551504411">
+      <file name="/Python Console" timestamp="1531555212337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -376,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="4" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
@@ -476,16 +474,17 @@
       <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="43" column="62" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
+      <jump line="81" column="4" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>520</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>520</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
@@ -494,7 +493,7 @@
         <text>nn.MaxPool1d(13))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -511,28 +510,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDEpCnNjaGVkdWxlciA9IHRvcmNoLm9wdGltLmxyX3NjaGVkdWxlci5Db3NpbmVBbm5lYWxpbmdMUihvcHRpbWl6ZXIsIGVwb2NocykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDEpCnNjaGVkdWxlciA9IHRvcmNoLm9wdGltLmxyX3NjaGVkdWxlci5Db3NpbmVBbm5lYWxpbmdMUihvcHRpbWl6ZXIsIGVwb2NocykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YXRkID0gW2lbTm9uZV0gZm9yIGkgaW4gc3RkXQpwaWNrbGUuZHVtcCgodG9yY2guY2F0KGF0ZCwgZGltPTApLm1lYW4oMCksIG5wLm1lYW4oeV9zdGQpKSwgb3Blbignc3RkLnBrbCcsICd3YicpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKHguc3RkKDApKQogICAgICAgIHlfc3RkLmFwcGVuZCh5LnN0ZCgpKQo=</text>
+        <text encoding="base64">YXRkID0gW2lbTm9uZV0gZm9yIGkgaW4gc3RkXQpwaWNrbGUuZHVtcCgodG9yY2guY2F0KGF0ZCwgZGltPTApLm1lYW4oMCksIG5wLm1lYW4oeV9zdGQpKSwgb3Blbignc3RkLnBrbCcsICd3YicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RkID0gW10KeV9zdGQgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKHguc3RkKDApKQogICAgICAgIHlfc3RkLmFwcGVuZCh5LnN0ZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
