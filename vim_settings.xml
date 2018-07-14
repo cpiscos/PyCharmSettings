@@ -45,12 +45,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531550276360">
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531551540423">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+        <mark key="[" line="55" column="84" />
+        <mark key="]" line="55" column="93" />
+        <mark key="." line="55" column="93" />
+        <mark key="^" line="55" column="93" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -211,7 +211,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1531550513097">
+      <file name="/Python Console" timestamp="1531551504411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -478,20 +478,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+      <register name="&quot;" type="4">
+        <text>520</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>520</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb252MiA9IHNlbGYuY29udjIoaW5wdXRbOiwtMTA6LCA6XSkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+      <register name="0" type="4">
+        <text>nn.MaxPool1d(13))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
