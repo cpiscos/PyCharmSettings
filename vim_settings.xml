@@ -42,12 +42,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531540381876">
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531546985110">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="3" />
-        <mark key="." line="84" column="3" />
-        <mark key="^" line="84" column="3" />
+        <mark key="[" line="54" column="72" />
+        <mark key="]" line="54" column="72" />
+        <mark key="." line="54" column="75" />
+        <mark key="^" line="51" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -476,19 +476,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y3ljbGUg</text>
+        <text encoding="base64">IDIwMA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3ljbGUg</text>
+        <text encoding="base64">IDIwMA==</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
+        <text encoding="base64">ICAgICAgICBjb252MiA9IHNlbGYuY29udjIoaW5wdXRbOiwtMTA6LCA6XSkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
