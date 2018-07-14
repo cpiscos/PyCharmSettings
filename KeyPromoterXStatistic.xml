@@ -305,6 +305,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'importer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'importer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'iris'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>

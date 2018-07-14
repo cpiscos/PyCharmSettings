@@ -170,7 +170,7 @@
       <file name="vim_settings.xml" timestamp="1531484109701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531532893627">
+      <file name="/Python Console" timestamp="1531586378837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -254,6 +254,12 @@
         <mark key="]" line="30" column="11" />
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ubuntu/test123.py" timestamp="1531586027559">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -485,13 +491,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text encoding="base64">IG5w</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IG5w</text>
       </register>
       <register name="/" type="4">
         <text>net</text>
