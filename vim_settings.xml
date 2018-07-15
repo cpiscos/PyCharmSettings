@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
-        <mark key="'" line="65" column="39" />
-        <mark key="[" line="68" column="14" />
-        <mark key="]" line="68" column="14" />
-        <mark key="." line="68" column="14" />
-        <mark key="^" line="71" column="1" />
+      <file name="/start_script.py" timestamp="1531548076072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/forex/data_merge.py" timestamp="1530656588521">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/Resources/iris.data" timestamp="1528966959101">
         <mark key="'" line="11" column="27" />
@@ -17,264 +19,21 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1531532883756">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
-        <mark key="'" line="128" column="15" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ubuntu/importer.py" timestamp="1531532281849">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531374033751">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
-        <mark key="'" line="4" column="22" />
-        <mark key="[" line="104" column="5" />
-        <mark key="]" line="104" column="5" />
-        <mark key="^" line="90" column="41" />
-        <mark key="." line="104" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
-        <mark key="'" line="45" column="57" />
-        <mark key="[" line="32" column="56" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/time-sequence-prediction/train.py" timestamp="1530600630981">
-        <mark key="'" line="63" column="13" />
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="86" column="48" />
-        <mark key="." line="86" column="48" />
-        <mark key="^" line="86" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="98" column="11" />
-        <mark key="." line="98" column="11" />
-        <mark key="^" line="98" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530222084502">
-        <mark key="'" line="18" column="28" />
-        <mark key="[" line="28" column="84" />
-        <mark key="]" line="28" column="85" />
-        <mark key="." line="28" column="85" />
-        <mark key="^" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
-        <mark key="'" line="19" column="52" />
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530600185558">
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
-        <mark key="'" line="112" column="54" />
-        <mark key="[" line="137" column="33" />
-        <mark key="]" line="137" column="48" />
-        <mark key="." line="137" column="48" />
-        <mark key="^" line="137" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
-        <mark key="'" line="82" column="8" />
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="27" />
-        <mark key="." line="25" column="27" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530594178733">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531436847280">
-        <mark key="'" line="57" column="18" />
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="26" column="18" />
-        <mark key="^" line="126" column="70" />
-        <mark key="." line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" timestamp="1530399883384">
-        <mark key="'" line="31" column="57" />
-        <mark key="[" line="537" column="69" />
-        <mark key="]" line="537" column="69" />
-        <mark key="." line="537" column="69" />
-        <mark key="^" line="537" column="69" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531345506283">
-        <mark key="'" line="129" column="14" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1531484109701">
+      <file name="/a.dummy" timestamp="1531271679598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531586378837">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1530867744206">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531362192940">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531275809374">
-        <mark key="'" line="130" column="28" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="88" />
-        <mark key="." line="72" column="40" />
-        <mark key="^" line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530249450685">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="9" />
-        <mark key="." line="38" column="13" />
-        <mark key="^" line="38" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris.py" timestamp="1530233281481">
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="54" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
-        <mark key="'" line="112" column="18" />
-        <mark key="[" line="113" column="15" />
-        <mark key="]" line="113" column="19" />
-        <mark key="^" line="113" column="19" />
-        <mark key="." line="113" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528477663433">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531079194430">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="16" column="9" />
-      </file>
-      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
-        <mark key="'" line="160" column="14" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="198" column="15" />
-        <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/torchim.py" timestamp="1530088479487">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="72" column="63" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ubuntu/test.py" timestamp="1531532180436">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531180103245">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="157" column="63" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="18" column="93" />
-        <mark key="^" line="18" column="93" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ubuntu/test123.py" timestamp="1531586027559">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1531427581834">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1530664309835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="249" column="8" />
-        <mark key="^" line="249" column="8" />
-        <mark key="." line="249" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
+        <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
         <mark key="'" line="131" column="11" />
@@ -283,24 +42,56 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/forex/data_merge.py" timestamp="1530656588521">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528346518087">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" timestamp="1531597991530">
+        <mark key="'" line="86" column="4" />
+        <mark key="[" line="96" column="58" />
+        <mark key="]" line="96" column="59" />
+        <mark key="." line="96" column="59" />
+        <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531079194430">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network.py" timestamp="1531345506283">
+        <mark key="'" line="129" column="14" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris2.py" timestamp="1530228050227">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529221569184">
         <mark key="'" line="11" column="7" />
@@ -309,17 +100,172 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528346518087">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531362192940">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris.py" timestamp="1530233281481">
+        <mark key="[" line="40" column="54" />
+        <mark key="]" line="40" column="54" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530249450685">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="9" />
+        <mark key="." line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
+        <mark key="'" line="128" column="15" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stock.py" timestamp="1529728259704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="18" column="93" />
+        <mark key="^" line="18" column="93" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/99 Bottles of Beer on the Wall.py" timestamp="1528477663433">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/pytorch test.py" timestamp="1530218977021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="9" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" timestamp="1528478163581">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
+        <mark key="'" line="45" column="57" />
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="54" />
+        <mark key="^" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q.py" timestamp="1531180103245">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="157" column="63" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Q2.py" timestamp="1531000731199">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="126" column="70" />
+        <mark key="." line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
+        <mark key="'" line="65" column="39" />
+        <mark key="[" line="68" column="14" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="14" />
+        <mark key="^" line="71" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+        <mark key="^" line="98" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531374033751">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
+        <mark key="'" line="160" column="14" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="198" column="15" />
+        <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
+        <mark key="'" line="112" column="54" />
+        <mark key="[" line="137" column="33" />
+        <mark key="]" line="137" column="48" />
+        <mark key="." line="137" column="48" />
+        <mark key="^" line="137" column="48" />
+      </file>
+      <file name="/Python Console" timestamp="1531597935123">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1530867744206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/torchim.py" timestamp="1530088479487">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="72" column="63" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530600185558">
+        <mark key="[" line="22" column="77" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
+        <mark key="'" line="112" column="18" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_conv.py" timestamp="1531275809374">
+        <mark key="'" line="130" column="28" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="88" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531436847280">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -328,12 +274,14 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/test.py" timestamp="1530055981427">
         <mark key="'" line="18" column="19" />
@@ -348,17 +296,53 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1531616159743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/1528419511.json" timestamp="1528425552416">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="104" column="5" />
+        <mark key="]" line="104" column="5" />
+        <mark key="^" line="90" column="41" />
+        <mark key="." line="104" column="5" />
+      </file>
+      <file name="/code.py" timestamp="1530664309835">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="249" column="8" />
+        <mark key="^" line="249" column="8" />
+        <mark key="." line="249" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" timestamp="1530399883384">
+        <mark key="'" line="31" column="57" />
+        <mark key="[" line="537" column="69" />
+        <mark key="]" line="537" column="69" />
+        <mark key="." line="537" column="69" />
+        <mark key="^" line="537" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530651094405">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="17" />
-        <mark key="^" line="48" column="17" />
-        <mark key="." line="48" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -366,31 +350,35 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris2.py" timestamp="1530228050227">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+        <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" timestamp="1528478163581">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
+        <mark key="'" line="19" column="52" />
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="52" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530594178733">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
+      <file name="$USER_HOME$/Documents/time-sequence-prediction/train.py" timestamp="1530600630981">
+        <mark key="'" line="63" column="13" />
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="48" />
+        <mark key="." line="86" column="48" />
+        <mark key="^" line="86" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530222084502">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="28" column="84" />
+        <mark key="]" line="28" column="85" />
+        <mark key="." line="28" column="85" />
+        <mark key="^" line="7" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="33" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/test.py" />
-      <jump line="35" column="7" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
       <jump line="4" column="30" filename="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" />
@@ -488,25 +476,28 @@
       <jump line="24" column="29" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
+      <jump line="43" column="62" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
+      <jump line="81" column="4" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG5w</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5w</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>net</text>
+        <text>reshape</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZWRpY3QgPSBubi5MaW5lYXIoMTIwLCA2MCkK</text>
+      <register name="0" type="4">
+        <text>nn.MaxPool1d(13))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnBsb3QodGVzdF9wcmVkaWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -523,45 +514,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZyYW1lID0gMAo=</text>
+        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBmcmFtZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHVwZGF0ZShpKToK</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDEpCnNjaGVkdWxlciA9IHRvcmNoLm9wdGltLmxyX3NjaGVkdWxlci5Db3NpbmVBbm5lYWxpbmdMUihvcHRpbWl6ZXIsIGVwb2NocykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF4LmNsZWFyKCkKICAgIGF4LnBsb3QodGVzdF9wcmVkaWN0aW9ucykKICAgIGF4LnBsb3Qoc2luZS5yYXdfZGF0YVs1Ol0sIHpvcmRlcj0xKQogICAgZnJhbWUgKz0gMQogICAgcHJpbnQoZnJhbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBpbml0KCk6CiAgICB0ZXN0X3ByZWRpY3Rpb25zID0gbnAuYXJyYXkoW10pCiAgICBmb3IgdGVzdF9iYXRjaCBpbiB0ZXN0X2xvYWRlcjoKICAgICAgICB4X3QsIHlfdCwgc3RlcF90ID0gdGVzdF9iYXRjaAogICAgICAgIHhfdCwgeV90ID0geF90LnRvKGRldmljZSksIHlfdC50byhkZXZpY2UpCiAgICAgICAgcHJlZF90ID0gbmV0KHhfdC5mbG9hdCgpKQogICAgICAgIHRlc3RfcHJlZGljdGlvbnMgPSBucC5hcHBlbmQodGVzdF9wcmVkaWN0aW9ucywgcHJlZF90LmRldGFjaCgpLmNwdSgpLm51bXB5KCkpCiAgICBheC5wbG90KHRlc3RfcHJlZGljdGlvbnMpCiAgICBheC5wbG90KHNpbmUucmF3X2RhdGFbNTpdLCB6b3JkZXI9MSkKICAgIHByaW50KCdpbml0JykKICAgIHRpbWUuc2xlZXAoNSkK</text>
+        <text encoding="base64">YXRkID0gW2lbTm9uZV0gZm9yIGkgaW4gc3RkXQpwaWNrbGUuZHVtcCgodG9yY2guY2F0KGF0ZCwgZGltPTApLm1lYW4oMCksIG5wLm1lYW4oeV9zdGQpKSwgb3Blbignc3RkLnBrbCcsICd3YicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZpZywgYXggPSBwbHQuc3VicGxvdHMoKQphbmkgPSBhbmltYXRpb24uRnVuY0FuaW1hdGlvbihmaWcsIHVwZGF0ZSwgZnJhbWVzPTEwMCwgcmVwZWF0PUZhbHNlKQphbmkuc2F2ZSgnYW5pLm1wNCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKHguc3RkKDApKQogICAgICAgIHlfc3RkLmFwcGVuZCh5LnN0ZCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>net</last-search>
+      <last-search>reshape</last-search>
       <last-offset />
-      <last-pattern>net</last-pattern>
+      <last-pattern>reshape</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>ones</entry>
         <entry>;</entry>
         <entry>schedul</entry>
@@ -581,6 +571,7 @@
         <entry>np</entry>
         <entry>open</entry>
         <entry>net</entry>
+        <entry>reshape</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
@@ -676,6 +667,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
