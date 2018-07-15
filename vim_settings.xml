@@ -162,6 +162,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/network.py" timestamp="1531672805732">
+        <mark key="[" line="107" column="59" />
+        <mark key="]" line="107" column="47" />
+        <mark key="." line="107" column="47" />
+        <mark key="^" line="107" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" timestamp="1530399883384">
         <mark key="'" line="31" column="57" />
         <mark key="[" line="537" column="69" />
@@ -176,7 +182,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531620027417">
+      <file name="/Python Console" timestamp="1531672987425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -263,6 +269,12 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/remotetest.py" timestamp="1531622184694">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1531619604460">
         <mark key="[" line="0" column="0" />
@@ -488,13 +500,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>cuda</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>cuda</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
@@ -503,7 +515,7 @@
         <text>nn.MaxPool1d(13))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0dUS0FnZycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -520,28 +532,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+        <text encoding="base64">cHJpbnQgIlRlbnNvcmZsb3cgSW1wb3J0ZWQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJlZF90ID0gcHJlZF90LmNwdSgpLmRldGFjaCgpLm51bXB5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDEpCnNjaGVkdWxlciA9IHRvcmNoLm9wdGltLmxyX3NjaGVkdWxlci5Db3NpbmVBbm5lYWxpbmdMUihvcHRpbWl6ZXIsIGVwb2NocykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">YXRkID0gW2lbTm9uZV0gZm9yIGkgaW4gc3RkXQpwaWNrbGUuZHVtcCgodG9yY2guY2F0KGF0ZCwgZGltPTApLm1lYW4oMCksIG5wLm1lYW4oeV9zdGQpKSwgb3Blbignc3RkLnBrbCcsICd3YicpKQo=</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj0wLjAwMSwgd2VpZ2h0X2RlY2F5PTAuMDEpCnNjaGVkdWxlciA9IHRvcmNoLm9wdGltLmxyX3NjaGVkdWxlci5Db3NpbmVBbm5lYWxpbmdMUihvcHRpbWl6ZXIsIGVwb2NocykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQuYXBwZW5kKHguc3RkKDApKQogICAgICAgIHlfc3RkLmFwcGVuZCh5LnN0ZCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
