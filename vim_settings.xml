@@ -95,6 +95,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531689773404">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="22" column="99" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="25" />
@@ -181,8 +187,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531678723661">
+      <file name="/Python Console" timestamp="1531689774634">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
@@ -498,23 +507,23 @@
       <jump line="81" column="4" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>cuda</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="4">
-        <text>nn.MaxPool1d(13))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHhfdHJhaW4sIHlfdHJhaW4gPSB0cmFpbl9iYXRjaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwID0gc2VsZi51cHNjYWxlKGlucHV0KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -531,28 +540,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfemVyb3MoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0dUS0FnZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgIlRlbnNvcmZsb3cgSW1wb3J0ZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X2Nsb3NlID0gc2VsZi5kYXRhW2l0ZW0rc2VxX2xlbl0gLSBzZWxmLmRhdGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYxID0gc2VsZi5jb252MShpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
