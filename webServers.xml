@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4eb714d8-9314-4700-ac5d-19987312f60a" name="chris@25.5.244.247:22" url="http:///">
-        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris" accessType="SFTP" keyPair="true">
+        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris/PycharmProjects" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>

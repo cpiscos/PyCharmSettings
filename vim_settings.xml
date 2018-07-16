@@ -95,12 +95,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531718143885">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531720809413">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="92" column="30" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="32" />
+        <mark key="^" line="92" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -189,7 +189,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531720523596">
+      <file name="/Python Console" timestamp="1531721357036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -509,20 +509,20 @@
       <jump line="67" column="20" filename="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
+      <register name="&quot;" type="4">
+        <text>train</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>GTK</text>
+        <text>train</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHhfdHJhaW4sIHlfdHJhaW4gPSB0cmFpbl9iYXRjaAo=</text>
+        <text encoding="base64">cGx0LnBsb3QoYmxvc3NfdHJhaW4sIGNvbG9yPSdiJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
