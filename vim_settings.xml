@@ -95,12 +95,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531946447626">
-        <mark key="'" line="83" column="20" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
-        <mark key="^" line="38" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531952012715">
+        <mark key="'" line="85" column="20" />
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -189,7 +189,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531946450406">
+      <file name="/Python Console" timestamp="1531952016193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -283,7 +283,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531944696001">
+      <file name="/Dummy.txt" timestamp="1531947513929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1530664309835">
@@ -513,19 +513,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text>, weight_decay=0.002</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>, weight_decay=0.002</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXgxID0gZmlnLmFkZF9zdWJwbG90KDEsMiwxKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">dG9yY2gubWVhbigodG9yY2gud2hlcmUocHJlZD4wLjUsIG9uZXMsIHplcm9zKSA9PSB5X3RyYWluKS5mbG9hdCgpKS5kYXRh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnVwc2NhbGUgPSBubi5MaW5lYXIoOTUsIDMwKQo=</text>
