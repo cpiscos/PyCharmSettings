@@ -95,12 +95,12 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531944307758">
-        <mark key="'" line="84" column="20" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531946447626">
+        <mark key="'" line="83" column="20" />
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/nerual_style_transfer.py" timestamp="1530399151219">
         <mark key="[" line="13" column="23" />
@@ -189,7 +189,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1531944513658">
+      <file name="/Python Console" timestamp="1531946450406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -283,7 +283,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531944533950">
+      <file name="/Dummy.txt" timestamp="1531944696001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1530664309835">
@@ -513,13 +513,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data/AMD_Daily</text>
+        <text>30</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>data/AMD_Daily</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
@@ -528,7 +528,7 @@
         <text encoding="base64">YXgxID0gZmlnLmFkZF9zdWJwbG90KDEsMiwxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwc2NhbGUgPSBubi5MaW5lYXIoOTUsIDMwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -545,28 +545,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IHBkLnJlYWRfZmVhdGhlcignZGF0YS8nK2ZpbGVuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IHBkLnJlYWRfZmVhdGhlcignZGF0YS8nK2ZpbGVuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoMSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmaWxlbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZhbHVlLCBsb25nLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHZhbHVlLCBsb25nLnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvbmcudmlldygtMSkpCiAgICBwcmludCh5X3Rlc3Quc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIAogICAgcmV0dXJuIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYWNjdXJhY3kgPSAodG9yY2gud2hlcmUocHJlZCA+IDAuNSwgb25lcywgemVyb3MpID09IHlfdHJhaW4pLmRhdGFbMF0veV90cmFpbi5zaGFwZVswXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxvbmcudmlldygtMSkpCiAgICBwcmludCh5X3Rlc3Quc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYWNjdXJhY3lfdGVzdCA9IHRvcmNoLndoZXJlKCkK</text>
+        <text encoding="base64">ICAgICMgYWNjdXJhY3kgPSAodG9yY2gud2hlcmUocHJlZCA+IDAuNSwgb25lcywgemVyb3MpID09IHlfdHJhaW4pLmRhdGFbMF0veV90cmFpbi5zaGFwZVswXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
