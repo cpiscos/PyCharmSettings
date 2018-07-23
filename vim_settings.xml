@@ -169,11 +169,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532369998804">
-        <mark key="[" line="77" column="22" />
-        <mark key="]" line="77" column="38" />
-        <mark key="." line="77" column="38" />
-        <mark key="^" line="77" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532376604495">
+        <mark key="'" line="24" column="54" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -221,7 +222,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532370004060">
+      <file name="/Python Console" timestamp="1532374881467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -458,9 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="58" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="547" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="587" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="123" column="50" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="127" column="36" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="174" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
@@ -558,25 +556,28 @@
       <jump line="10" column="29" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="32" column="13" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="95" column="35" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="4" column="30" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="9" column="39" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="24" column="54" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl90YWtlX2hvbWUgPSB0YWtlX2hvbWUK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>counter-550</text>
+        <text encoding="base64">IHJhbmdl</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGkgaW4gbnAuYXJnd2hlcmUoZGYgPT0gMCk6CiAgICBhLCBiID0gaQogICAgZGZbYSwgYl0gPSBkZlthIC0gMSwgYl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl90YWtlX2hvbWUgPSB0YWtlX2hvbWUK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -593,37 +594,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICMgaWYgcmV3YXJkcy5zdGQoKSA9PSAwOgogICAgIyAgICAgc3RkID0gMQogICAgIyBlbHNlOgogICAgc3RkID0gbnAuc3RkKG1vZGVsLmFsbF9yZXdhcmRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFrZV9ob21lICs9IDI1Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb3VudGVyICUgNTAgPT0gMDoKICAgICAgICAgICAgYmFsYW5jZSAtPSAyNQogICAgICAgICAgICB0YWtlX2hvbWUgKz0gMjUK</text>
+        <text encoding="base64">ICAgIHRsb3NzID0gLXJld2FyZHMuc3VtKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlcXVpdHkgPiAwOiBwb3NfZXEgPSAxCiAgICAgICAgZWxzZTogcG9zX2VxID0gLTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb3VudGVyKzEgJSA1MCA9PSAwOgogICAgICAgICAgICBiYWxhbmNlIC09IDI1CiAgICAgICAgICAgIHRha2VfaG9tZSArPSAyNQogICAgICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFsbF9yZXdhcmRzPW5wLmNvbmNhdGVuYXRlKChtb2RlbC5hbGxfcmV3YXJkcyxyZXdhcmRzLnRvbGlzdCgpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldl90YWtlX2hvbWUgPSB0YWtlX2hvbWUK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upd</entry>
         <entry encoding="base64">XDxucFw+</entry>
         <entry>np</entry>
         <entry>open</entry>
@@ -651,6 +651,7 @@
         <entry>999</entry>
         <entry>reward</entry>
         <entry>update</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
