@@ -169,10 +169,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532223120046">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532314595951">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="114" column="30" />
+        <mark key="]" line="114" column="30" />
+        <mark key="." line="114" column="30" />
+        <mark key="^" line="114" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -220,7 +222,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532223159174">
+      <file name="/Python Console" timestamp="1532314596308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -457,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="40" filename="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" />
       <jump line="56" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" />
       <jump line="160" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="515" column="48" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
@@ -557,25 +558,26 @@
       <jump line="33" column="27" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
       <jump line="55" column="60" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
       <jump line="85" column="50" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+      <register name="&quot;" type="4">
+        <text>balance</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>balance</text>
       </register>
       <register name="/" type="4">
-        <text>eps</text>
+        <text>999</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBucC5hcmd3aGVyZShzZWxmLmRmID09IDApOgogICAgICAgICAgICBhLCBiID0gaQogICAgICAgICAgICBzZWxmLmRmW2EsIGJdID0gc2VsZi5kZlthIC0gMSwgYl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -592,37 +594,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ICAgIGlmIGxlbihtb2RlbC5yZXdhcmRzKSAhPSAwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb25fc2NvcmVzKQo=</text>
+        <text encoding="base64">b3Blbl90cmFkZXMgPSB7fQpiYWxhbmNlID0gMjAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBvbGljeV9sb3NzZXMsIHZhbHVlX2xvc3NlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBzZWxlY3RfYWN0aW9uKHN0YXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZS5zaGFwZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb25fc2NvcmVzKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSwgaW50ZXJuYWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>eps</last-search>
+      <last-search>999</last-search>
       <last-offset />
-      <last-pattern>eps</last-pattern>
+      <last-pattern>999</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>peloss</entry>
         <entry>states</entry>
         <entry>upd</entry>
@@ -650,6 +651,7 @@
         <entry encoding="base64">XDxTYXZlZEFjdGlvblw+</entry>
         <entry>state</entry>
         <entry>eps</entry>
+        <entry>999</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
