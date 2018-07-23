@@ -169,12 +169,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532316363966">
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532362570017">
         <mark key="'" line="32" column="13" />
-        <mark key="[" line="114" column="30" />
-        <mark key="]" line="114" column="30" />
-        <mark key="." line="114" column="30" />
-        <mark key="^" line="114" column="30" />
+        <mark key="[" line="118" column="25" />
+        <mark key="]" line="118" column="23" />
+        <mark key="^" line="118" column="23" />
+        <mark key="." line="118" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -222,7 +222,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532314596308">
+      <file name="/Python Console" timestamp="1532362570490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -561,14 +561,14 @@
       <jump line="32" column="13" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>balance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudGVyICs9IDEK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>balance</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>reward</text>
@@ -577,7 +577,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBucC5hcmd3aGVyZShzZWxmLmRmID09IDApOgogICAgICAgICAgICBhLCBiID0gaQogICAgICAgICAgICBzZWxmLmRmW2EsIGJdID0gc2VsZi5kZlthIC0gMSwgYl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyICs9IDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -594,28 +594,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihtb2RlbC5yZXdhcmRzKSAhPSAwOgo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3Blbl90cmFkZXMgPSB7fQpiYWxhbmNlID0gMjAwCg==</text>
+        <text encoding="base64">ICAgIG5wLnJhbmRvbS51bmlmb3JtKDEwMCwgbGVuKGRmKS0xMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBvbGljeV9sb3NzZXMsIHZhbHVlX2xvc3NlcykK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBzZWxlY3RfYWN0aW9uKHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihtb2RlbC5yZXdhcmRzKSAhPSAwOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+        <text encoding="base64">b3Blbl90cmFkZXMgPSB7fQpiYWxhbmNlID0gMjAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHBvbGljeV9sb3NzZXMsIHZhbHVlX2xvc3NlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb25fc2NvcmVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBzZWxlY3RfYWN0aW9uKHN0YXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
@@ -628,7 +628,7 @@
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
