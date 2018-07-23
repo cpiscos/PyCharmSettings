@@ -169,8 +169,8 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532314595951">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532316363966">
+        <mark key="'" line="32" column="13" />
         <mark key="[" line="114" column="30" />
         <mark key="]" line="114" column="30" />
         <mark key="." line="114" column="30" />
@@ -459,8 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" />
-      <jump line="160" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="515" column="48" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="537" column="58" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="547" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
@@ -559,6 +557,8 @@
       <jump line="55" column="60" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
       <jump line="85" column="50" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
       <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="10" column="29" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="32" column="13" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +571,7 @@
         <text>balance</text>
       </register>
       <register name="/" type="4">
-        <text>999</text>
+        <text>reward</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgaSBpbiBucC5hcmd3aGVyZShzZWxmLmRmID09IDApOgogICAgICAgICAgICBhLCBiID0gaQogICAgICAgICAgICBzZWxmLmRmW2EsIGJdID0gc2VsZi5kZlthIC0gMSwgYl0K</text>
@@ -622,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>999</last-search>
+      <last-search>reward</last-search>
       <last-offset />
-      <last-pattern>999</last-pattern>
+      <last-pattern>reward</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
@@ -632,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>peloss</entry>
         <entry>states</entry>
         <entry>upd</entry>
         <entry encoding="base64">XDxucFw+</entry>
@@ -652,6 +651,7 @@
         <entry>state</entry>
         <entry>eps</entry>
         <entry>999</entry>
+        <entry>reward</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
