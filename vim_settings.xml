@@ -169,12 +169,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532376604495">
-        <mark key="'" line="24" column="54" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="95" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532400143285">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="83" column="33" />
+        <mark key="." line="83" column="33" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -222,7 +222,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532374881467">
+      <file name="/Python Console" timestamp="1532399835047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -459,8 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="50" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="127" column="36" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="174" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="177" column="10" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="184" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
@@ -559,19 +557,21 @@
       <jump line="4" column="30" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="9" column="39" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="24" column="54" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="38" column="24" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="7" column="26" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJhbmdl</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>total r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGkgaW4gbnAuYXJnd2hlcmUoZGYgPT0gMCk6CiAgICBhLCBiID0gaQogICAgZGZbYSwgYl0gPSBkZlthIC0gMSwgYl0K</text>
@@ -622,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>total r</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>total r</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d</last-substitute>
       <last-dir>1</last-dir>
@@ -632,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxucFw+</entry>
         <entry>np</entry>
         <entry>open</entry>
         <entry>net</entry>
@@ -652,6 +651,7 @@
         <entry>reward</entry>
         <entry>update</entry>
         <entry>value</entry>
+        <entry>total r</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>

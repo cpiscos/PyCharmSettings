@@ -97,6 +97,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
   <action id="PyExecuteCellAction" />
   <action id="PyRunFileInConsole">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
