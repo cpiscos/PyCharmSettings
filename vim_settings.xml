@@ -153,11 +153,11 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1531720434119">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532556151268">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="30" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -240,7 +240,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532552739565">
+      <file name="/Python Console" timestamp="1532555723455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -344,8 +344,12 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532552768909">
+      <file name="/Dummy.txt" timestamp="1532555207102">
+        <mark key="a" line="0" column="0" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1530664309835">
         <mark key="[" line="0" column="0" />
@@ -477,7 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="28" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="177" column="10" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="184" column="0" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
       <jump line="189" column="10" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
@@ -577,16 +580,17 @@
       <jump line="24" column="54" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="38" column="24" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="7" column="26" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>˜</text>
+        <text>cpu</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>˜</text>
+        <text>cpu</text>
       </register>
       <register name="/" type="4">
         <text>total r</text>
@@ -595,7 +599,7 @@
         <text encoding="base64">Zm9yIGkgaW4gbnAuYXJnd2hlcmUoZGYgPT0gMCk6CiAgICBhLCBiID0gaQogICAgZGZbYSwgYl0gPSBkZlthIC0gMSwgYl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+        <text encoding="base64">ICAgICAgICBjb252MSA9IHNlbGYuY29udjEoaW5wdXRbOiwgLTEyMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjIgPSBzZWxmLmNvbnYyKGlucHV0WzosIC01MDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjMgPSBzZWxmLmNvbnYzKGlucHV0WzosIC0xMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -612,28 +616,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaWYgcmV3YXJkcy5zdGQoKSA9PSAwOgogICAgIyAgICAgc3RkID0gMQogICAgIyBlbHNlOgogICAgc3RkID0gbnAuc3RkKG1vZGVsLmFsbF9yZXdhcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxID0gbm4uU2VxdWVudGlhbChubi5Db252MWQoMTIwLCAxNTAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjIgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg1MCwgODAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjMgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCgxMCwgNDAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRsb3NzID0gLXJld2FyZHMuc3VtKCkK</text>
+        <text encoding="base64">ICAgICMgaWYgcmV3YXJkcy5zdGQoKSA9PSAwOgogICAgIyAgICAgc3RkID0gMQogICAgIyBlbHNlOgogICAgc3RkID0gbnAuc3RkKG1vZGVsLmFsbF9yZXdhcmRzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcXVpdHkgPiAwOiBwb3NfZXEgPSAxCiAgICAgICAgZWxzZTogcG9zX2VxID0gLTEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFsbF9yZXdhcmRzPW5wLmNvbmNhdGVuYXRlKChtb2RlbC5hbGxfcmV3YXJkcyxyZXdhcmRzLnRvbGlzdCgpKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRsb3NzID0gLXJld2FyZHMuc3VtKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBlcXVpdHkgPiAwOiBwb3NfZXEgPSAxCiAgICAgICAgZWxzZTogcG9zX2VxID0gLTEK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1vZGVsLmFsbF9yZXdhcmRzPW5wLmNvbmNhdGVuYXRlKChtb2RlbC5hbGxfcmV3YXJkcyxyZXdhcmRzLnRvbGlzdCgpKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldl90YWtlX2hvbWUgPSB0YWtlX2hvbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
