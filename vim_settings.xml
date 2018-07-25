@@ -34,7 +34,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1531271679598">
+      <file name="/a.dummy" timestamp="1532556630095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
@@ -153,11 +153,11 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532556151268">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="30" />
-        <mark key="^" line="48" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532556393221">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -240,7 +240,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532555723455">
+      <file name="/Python Console" timestamp="1532556468732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -344,7 +344,7 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532555207102">
+      <file name="/Dummy.txt" timestamp="1532556468747">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -583,8 +583,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cpu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -599,7 +599,7 @@
         <text encoding="base64">Zm9yIGkgaW4gbnAuYXJnd2hlcmUoZGYgPT0gMCk6CiAgICBhLCBiID0gaQogICAgZGZbYSwgYl0gPSBkZlthIC0gMSwgYl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb252MSA9IHNlbGYuY29udjEoaW5wdXRbOiwgLTEyMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjIgPSBzZWxmLmNvbnYyKGlucHV0WzosIC01MDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjMgPSBzZWxmLmNvbnYzKGlucHV0WzosIC0xMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi51c2UoJ1RrQWdnJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -616,31 +616,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxID0gbm4uU2VxdWVudGlhbChubi5Db252MWQoMTIwLCAxNTAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjIgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg1MCwgODAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjMgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCgxMCwgNDAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb252MSA9IHNlbGYuY29udjEoaW5wdXRbOiwgLTEyMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjIgPSBzZWxmLmNvbnYyKGlucHV0WzosIC01MDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCiAgICAgICAgY29udjMgPSBzZWxmLmNvbnYzKGlucHV0WzosIC0xMDosIDpdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgLTEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxID0gbm4uU2VxdWVudGlhbChubi5Db252MWQoMTIwLCAxNTAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjIgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg1MCwgODAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQogICAgICAgIHNlbGYuY29udjMgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCgxMCwgNDAsIDUsIDUpLCBubi5NYXhQb29sMWQoMTMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaWYgcmV3YXJkcy5zdGQoKSA9PSAwOgogICAgIyAgICAgc3RkID0gMQogICAgIyBlbHNlOgogICAgc3RkID0gbnAuc3RkKG1vZGVsLmFsbF9yZXdhcmRzKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIKbWF0cGxvdGxpYi5zZXQoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICMgaWYgcmV3YXJkcy5zdGQoKSA9PSAwOgogICAgIyAgICAgc3RkID0gMQogICAgIyBlbHNlOgogICAgc3RkID0gbnAuc3RkKG1vZGVsLmFsbF9yZXdhcmRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRsb3NzID0gLXJld2FyZHMuc3VtKCkK</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcXVpdHkgPiAwOiBwb3NfZXEgPSAxCiAgICAgICAgZWxzZTogcG9zX2VxID0gLTEK</text>
+        <text encoding="base64">ICAgIHRsb3NzID0gLXJld2FyZHMuc3VtKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmFsbF9yZXdhcmRzPW5wLmNvbmNhdGVuYXRlKChtb2RlbC5hbGxfcmV3YXJkcyxyZXdhcmRzLnRvbGlzdCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBlcXVpdHkgPiAwOiBwb3NfZXEgPSAxCiAgICAgICAgZWxzZTogcG9zX2VxID0gLTEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmFsbF9yZXdhcmRzPW5wLmNvbmNhdGVuYXRlKChtb2RlbC5hbGxfcmV3YXJkcyxyZXdhcmRzLnRvbGlzdCgpKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -687,15 +687,15 @@
         <entry>%s/head/tail/g</entry>
         <entry>noh</entry>
         <entry>s/x/y/g</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameElemenet</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>s/t_/v_/g</entry>
         <entry>s/G/D/g</entry>
         <entry>s/d/g/g</entry>
-        <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
