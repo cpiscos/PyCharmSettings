@@ -78,6 +78,7 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable" />
   <action id="Jdbc.RunSqlScript" />
@@ -122,7 +123,7 @@
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="TypeHierarchy" />
   <action id="Vcs.QuickListPopupAction">
