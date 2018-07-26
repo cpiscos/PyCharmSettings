@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532631366761">
-        <mark key="'" line="14" column="60" />
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="19" />
-        <mark key="." line="40" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532635334623">
+        <mark key="'" line="14" column="63" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532631319853">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532635168557">
         <mark key="'" line="82" column="25" />
-        <mark key="[" line="69" column="76" />
-        <mark key="]" line="69" column="77" />
-        <mark key="." line="69" column="77" />
-        <mark key="^" line="51" column="47" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532631408317">
+      <file name="/Python Console" timestamp="1532635341745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -358,7 +358,7 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532570666024">
+      <file name="/Dummy.txt" timestamp="1532633427423">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -594,81 +594,69 @@
       <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="82" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="13" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
-      <jump line="14" column="60" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
+      <jump line="14" column="63" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>elu</text>
+        <text>]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>elu</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>ELU</text>
+        <text>ReLU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmZvciByb290LCBkaXIsIGZpbGUgaW4gb3Mud2FsaygnLicpOgogICAgcHJpbnQocm9vdCwgZGlyLCBmaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlLCBlbWJZZWFyLnNoYXBlKQo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="99" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="53" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXAgPSBucC53aGVyZShhcD4wLjUsMSwtMSkK</text>
+        <text encoding="base64">aW1wb3J0IG9zCmZvciByb290LCBkaXIsIGZpbGUgaW4gb3Mud2FsaygnLicpOgogICAgcHJpbnQocm9vdCwgZGlyLCBmaWxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
+        <text encoding="base64">YXAgPSBucC53aGVyZShhcD4wLjUsMSwtMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
+        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhdCA9IHNlbGYubm9ybShGLmVsdSh0b3JjaC5jYXQoKGxzdG0sIGNvbnYpLCBkaW09MSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ELU/ReLU/g</text>
+        <text>%s/ReLU/ELU/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ELU</last-search>
+      <last-search>ReLU</last-search>
       <last-offset />
-      <last-pattern>ELU</last-pattern>
-      <last-replace>ReLU</last-replace>
-      <last-substitute>ELU</last-substitute>
+      <last-pattern>ReLU</last-pattern>
+      <last-replace>ELU</last-replace>
+      <last-substitute>ReLU</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>saved</entry>
         <entry encoding="base64">XDxTYXZlZEFjdGlvblw+</entry>
         <entry>state</entry>
         <entry>eps</entry>
@@ -688,9 +676,9 @@
         <entry>intern</entry>
         <entry>LeakyReLU</entry>
         <entry>ELU</entry>
+        <entry>ReLU</entry>
       </history-search>
       <history-cmd>
-        <entry>help v_s</entry>
         <entry>s/errors_/cost_</entry>
         <entry>s/0/j/g</entry>
         <entry>s/hyp/log_func/g</entry>
@@ -710,6 +698,7 @@
         <entry>%s/LeakyReLU/ELU/g</entry>
         <entry>action RenameElement</entry>
         <entry>%s/ELU/ReLU/g</entry>
+        <entry>%s/ReLU/ELU/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
