@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532623516854">
-        <mark key="'" line="13" column="46" />
-        <mark key="[" line="40" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532631366761">
+        <mark key="'" line="14" column="60" />
+        <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="18" />
+        <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532625074112">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532631319853">
         <mark key="'" line="82" column="25" />
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="51" column="48" />
-        <mark key="." line="51" column="48" />
-        <mark key="^" line="51" column="48" />
+        <mark key="[" line="69" column="76" />
+        <mark key="]" line="69" column="77" />
+        <mark key="." line="69" column="77" />
+        <mark key="^" line="51" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532625602581">
+      <file name="/Python Console" timestamp="1532631408317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -495,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="25" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="65" column="13" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="20" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="26" column="43" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -595,19 +594,20 @@
       <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="82" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="13" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
+      <jump line="14" column="60" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmZvciByb290LCBkaXIsIGZpbGUgaW4gb3Mud2FsaygnLicpOgogICAgcHJpbnQocm9vdCwgZGlyLCBmaWxlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>elu</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>elu</text>
       </register>
       <register name="/" type="4">
-        <text>LeakyReLU</text>
+        <text>ELU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
@@ -654,21 +654,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/LeakyReLU/ELU/g</text>
+        <text>%s/ELU/ReLU/g</text>
       </register>
     </registers>
     <search>
-      <last-search>LeakyReLU</last-search>
+      <last-search>ELU</last-search>
       <last-offset />
-      <last-pattern>LeakyReLU</last-pattern>
-      <last-replace>ELU</last-replace>
-      <last-substitute>LeakyReLU</last-substitute>
+      <last-pattern>ELU</last-pattern>
+      <last-replace>ReLU</last-replace>
+      <last-substitute>ELU</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXdhcmRzXD4=</entry>
         <entry>saved</entry>
         <entry encoding="base64">XDxTYXZlZEFjdGlvblw+</entry>
         <entry>state</entry>
@@ -688,9 +687,9 @@
         <entry>to(device)</entry>
         <entry>intern</entry>
         <entry>LeakyReLU</entry>
+        <entry>ELU</entry>
       </history-search>
       <history-cmd>
-        <entry>help s</entry>
         <entry>help v_s</entry>
         <entry>s/errors_/cost_</entry>
         <entry>s/0/j/g</entry>
@@ -708,8 +707,9 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action EditorJoinLines</entry>
         <entry>s/pred_t_/conf_t_/g</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/LeakyReLU/ELU/g</entry>
+        <entry>action RenameElement</entry>
+        <entry>%s/ELU/ReLU/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
