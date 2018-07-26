@@ -37,11 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532596677175">
-        <mark key="[" line="37" column="65" />
-        <mark key="]" line="37" column="55" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532623516854">
+        <mark key="'" line="13" column="46" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532598606449">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532624178824">
         <mark key="'" line="82" column="25" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="16" column="10" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -214,6 +215,12 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1532624482435">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="23" />
@@ -247,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532598561778">
+      <file name="/Python Console" timestamp="1532624485383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -488,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="105" column="25" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="65" column="13" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="20" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -588,19 +594,20 @@
       <jump line="59" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="82" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="13" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>intern</text>
+        <text>LeakyReLU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
@@ -647,21 +654,20 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/pred_t_/conf_t_/g</text>
+        <text>%s/LeakyReLU/ELU/g</text>
       </register>
     </registers>
     <search>
-      <last-search>intern</last-search>
+      <last-search>LeakyReLU</last-search>
       <last-offset />
-      <last-pattern>intern</last-pattern>
-      <last-replace>conf_t_</last-replace>
-      <last-substitute>pred_t_</last-substitute>
+      <last-pattern>LeakyReLU</last-pattern>
+      <last-replace>ELU</last-replace>
+      <last-substitute>LeakyReLU</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9ic1w+</entry>
         <entry encoding="base64">XDxyZXdhcmRzXD4=</entry>
         <entry>saved</entry>
         <entry encoding="base64">XDxTYXZlZEFjdGlvblw+</entry>
@@ -681,9 +687,9 @@
         <entry>to.device</entry>
         <entry>to(device)</entry>
         <entry>intern</entry>
+        <entry>LeakyReLU</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5yZWc=</entry>
         <entry>help s</entry>
         <entry>help v_s</entry>
         <entry>s/errors_/cost_</entry>
@@ -700,9 +706,10 @@
         <entry>reg</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
         <entry>s/pred_t_/conf_t_/g</entry>
+        <entry>action RenameElement</entry>
+        <entry>%s/LeakyReLU/ELU/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
