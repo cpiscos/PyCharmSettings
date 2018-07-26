@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532595031818">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="14" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532596677175">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,12 +159,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532595102891">
-        <mark key="'" line="103" column="57" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="49" column="48" />
-        <mark key="." line="49" column="48" />
-        <mark key="^" line="12" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532597785512">
+        <mark key="'" line="82" column="25" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -247,7 +247,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532595109422">
+      <file name="/Python Console" timestamp="1532597648383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -488,16 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="20" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="219" column="2" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="226" column="14" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="31" column="57" filename="$USER_HOME$/Documents/projects/pytorch_projects/neural_style_tutorial.py" />
-      <jump line="40" column="57" filename="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" />
-      <jump line="4" column="30" filename="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="2" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="4" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-      <jump line="43" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="21" column="19" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="105" column="25" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
       <jump line="65" column="13" filename="$USER_HOME$/Documents/time-sequence-prediction/train.py" />
@@ -588,25 +578,35 @@
       <jump line="33" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="17" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="103" column="57" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="14" column="9" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="65" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="73" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="87" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="52" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="59" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="82" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, num_workers=8</text>
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, num_workers=8</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>pred_t_</text>
+        <text>intern</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
+        <text encoding="base64">YXAgPSBucC53aGVyZShhcD4wLjUsMSwtMSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -623,48 +623,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhdCA9IHNlbGYubm9ybShGLmVsdSh0b3JjaC5jYXQoKGxzdG0sIGNvbnYpLCBkaW09MSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhdCA9IHNlbGYubm9ybShGLmVsdSh0b3JjaC5jYXQoKGxzdG0sIGNvbnYpLCBkaW09MSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZl9sLmJhY2t3YXJkKCkK</text>
+        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/pred_t_/conf_t_/g</text>
       </register>
     </registers>
     <search>
-      <last-search>pred_t_</last-search>
+      <last-search>intern</last-search>
       <last-offset />
-      <last-pattern>pred_t_</last-pattern>
+      <last-pattern>intern</last-pattern>
       <last-replace>conf_t_</last-replace>
       <last-substitute>pred_t_</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>env.spec</entry>
-        <entry>env</entry>
-        <entry>reset</entry>
-        <entry>gamma</entry>
         <entry encoding="base64">XDxwcm9ic1w+</entry>
         <entry encoding="base64">XDxyZXdhcmRzXD4=</entry>
         <entry>saved</entry>
@@ -681,6 +677,10 @@
         <entry encoding="base64">XDwxMDAwMFw+</entry>
         <entry encoding="base64">XDx5X3N0ZFw+</entry>
         <entry>pred_t_</entry>
+        <entry>to</entry>
+        <entry>to.device</entry>
+        <entry>to(device)</entry>
+        <entry>intern</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
