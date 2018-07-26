@@ -159,12 +159,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532597785512">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532598606449">
         <mark key="'" line="82" column="25" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -247,7 +247,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532597648383">
+      <file name="/Python Console" timestamp="1532598561778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -590,14 +590,14 @@
       <jump line="82" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>intern</text>
@@ -606,7 +606,7 @@
         <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXAgPSBucC53aGVyZShhcD4wLjUsMSwtMSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -623,28 +623,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
+        <text encoding="base64">YXAgPSBucC53aGVyZShhcD4wLjUsMSwtMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubm9ybSA9IG5uLkJhdGNoTm9ybTFkKDEyODApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">cHJlZF9tb2RlID0gcHJlZF90LmRldGFjaCgpLmNwdSgpLnZpZXcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhdCA9IHNlbGYubm9ybShGLmVsdSh0b3JjaC5jYXQoKGxzdG0sIGNvbnYpLCBkaW09MSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mPU5vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhdCA9IHNlbGYubm9ybShGLmVsdSh0b3JjaC5jYXQoKGxzdG0sIGNvbnYpLCBkaW09MSkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHh0ZCA9IFtpW05vbmVdIGZvciBpIGluIHhfc3RkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/pred_t_/conf_t_/g</text>
