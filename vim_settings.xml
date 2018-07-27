@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532723370810">
-        <mark key="[" line="18" column="91" />
-        <mark key="]" line="18" column="76" />
-        <mark key="." line="18" column="76" />
-        <mark key="^" line="18" column="76" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532724330554">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,11 +159,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532723681149">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532724947654">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="104" column="25" />
+        <mark key="." line="104" column="25" />
+        <mark key="^" line="104" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -252,7 +253,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532723458958">
+      <file name="/Python Console" timestamp="1532724334825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -493,8 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="54" filename="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" />
-      <jump line="127" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="130" column="28" filename="$USER_HOME$/PycharmProjects/forex/network_conv.py" />
       <jump line="6" column="10" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
       <jump line="16" column="18" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
@@ -593,61 +592,63 @@
       <jump line="16" column="11" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="103" column="100" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="102" column="71" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="97" column="42" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>torc</text>
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>torc</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>item</text>
+        <text>120</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeSA9IHlbOiwgLTFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIGVtYk1vbnRoKSwgZGltPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IHByZWRbOiwgLTFdCiAgICAgICAgICAgIHByaW50KHByZWQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZGlmZi5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXN0ID0gaXRlbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaWNlX2RpZmYgPSBucC53aGVyZShwcmljZV9kaWZmID4gMCwgMSwgLTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXN0ID0gc2VsZi4K</text>
+        <text encoding="base64">ICAgICAgICBwYXN0X2RpZmYgPSBzZWxmLmRhdGFbcGFzdCArIDE6cGFzdCArIHNlcV9sZW4gKyAxLCAtMzpdIC0gc2VsZi5kYXRhW3Bhc3Q6cGFzdCArIHNlcV9sZW4sIC0zOl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsc3RtLCBzZWxmLmhpZGRlbiA9IHNlbGYubHN0bShzZWxmLnVwc2NhbGUoaW5wdXQpLCBzZWxmLmhpZGRlbikK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIGVtYk1vbnRoKSwgZGltPTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZC5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IHByZWRbOiwgLTFdCiAgICAgICAgICAgIHByaW50KHByZWQuc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/item/past/g</text>
       </register>
     </registers>
     <search>
-      <last-search>item</last-search>
+      <last-search>120</last-search>
       <last-offset />
-      <last-pattern>item</last-pattern>
+      <last-pattern>120</last-pattern>
       <last-replace>past</last-replace>
       <last-substitute>item</last-substitute>
       <last-dir>1</last-dir>
@@ -655,7 +656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pred_t_</entry>
         <entry>to</entry>
         <entry>to.device</entry>
         <entry>to(device)</entry>
@@ -675,6 +675,7 @@
         <entry>multiplier</entry>
         <entry>stop</entry>
         <entry>item</entry>
+        <entry>120</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
