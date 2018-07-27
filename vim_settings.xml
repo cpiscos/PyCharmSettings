@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532725184591">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532727903915">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,12 +159,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532727176964">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532727657687">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="106" column="40" />
-        <mark key="]" line="107" column="20" />
-        <mark key="." line="107" column="20" />
-        <mark key="^" line="107" column="20" />
+        <mark key="[" line="104" column="37" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="105" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -253,7 +253,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532727180965">
+      <file name="/Python Console" timestamp="1532727861542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -596,8 +596,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>np.concatenate((date, np.array(ema)[None]), axis=1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjbG9zZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -612,34 +612,34 @@
         <text encoding="base64">ICAgICAgICAgICAgeSA9IHlbOiwgLTFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRlLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbG9zZSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBucC5zdGFjawo=</text>
+        <text encoding="base64">ICAgICAgICBlbWEgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZVswXS5zaGFwZSwgZGF0ZVsxXS5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZW1hKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
+        <text encoding="base64">ICAgICAgICBucC5jb25jYXRlbmF0ZSgoZGF0ZSwgbnAuYXJyYXkoZW1hKVtOb25lXSksIGF4aXM9MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRlLnNoYXBlLCBucC5hcnJheShlbWEpLnNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRlLnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXN0ID0gaXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICBucC5zdGFjawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaWNlX2RpZmYgPSBucC53aGVyZShwcmljZV9kaWZmID4gMCwgMSwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZVswXS5zaGFwZSwgZGF0ZVsxXS5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXN0X2RpZmYgPSBzZWxmLmRhdGFbcGFzdCArIDE6cGFzdCArIHNlcV9sZW4gKyAxLCAtMzpdIC0gc2VsZi5kYXRhW3Bhc3Q6cGFzdCArIHNlcV9sZW4sIC0zOl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAK</text>
       </register>
       <register name=":" type="4">
         <text>s/item/past/g</text>
