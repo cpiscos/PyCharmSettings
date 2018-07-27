@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532675517464">
-        <mark key="'" line="14" column="63" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="45" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="19" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532677461789">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532676845250">
+      <file name="/Python Console" timestamp="1532677463648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -495,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="14" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
-      <jump line="122" column="31" filename="$USER_HOME$/PycharmProjects/forex/network.py" />
       <jump line="170" column="44" filename="$USER_HOME$/PycharmProjects/forex/network_reg.py" />
       <jump line="147" column="21" filename="$USER_HOME$/PycharmProjects/forex/network_reg.py" />
       <jump line="130" column="15" filename="$USER_HOME$/PycharmProjects/forex/network_reg.py" />
@@ -595,19 +593,21 @@
       <jump line="169" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="138" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="152" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="7" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
+      <jump line="8" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgY29uZl9sb3NzKGNvbmZfdC52aWV3KC0xKSwgeV90X2NvbmYpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, nn.ELU(), nn.Linear(16, 16), nn.ELU(), nn.Linear(16, 1))</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyArIA==</text>
+        <text>, nn.ELU(), nn.Linear(16, 16), nn.ELU(), nn.Linear(16, 1))</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>ReLU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeCwgeSwgZGF0ZSA9IHgudG8oZGV2aWNlKS5mbG9hdCgpLCB5LnRvKGRldmljZSkuZmxvYXQoKSwgZGF0ZS50byhkZXZpY2UpLmxvbmcoKQo=</text>
@@ -643,13 +643,13 @@
         <text encoding="base64">Y2xvc2UuaW5zZXJ0KDAsIDY2KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/ReLU/ELU/g</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>ReLU</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>ReLU</last-pattern>
       <last-replace>ELU</last-replace>
       <last-substitute>ReLU</last-substitute>
       <last-dir>1</last-dir>
@@ -670,13 +670,13 @@
         <entry>to(device)</entry>
         <entry>intern</entry>
         <entry>LeakyReLU</entry>
-        <entry>ELU</entry>
-        <entry>ReLU</entry>
         <entry>except</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>exit</entry>
         <entry>lr</entry>
         <entry>conf</entry>
+        <entry>ELU</entry>
+        <entry>ReLU</entry>
       </history-search>
       <history-cmd>
         <entry>s/0/j/g</entry>
@@ -694,11 +694,11 @@
         <entry>s/pred_t_/conf_t_/g</entry>
         <entry>%s/LeakyReLU/ELU/g</entry>
         <entry>action RenameElement</entry>
-        <entry>%s/ELU/ReLU/g</entry>
-        <entry>%s/ReLU/ELU/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry>%s/ELU/ReLU/g</entry>
+        <entry>%s/ReLU/ELU/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
