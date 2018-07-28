@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532736561982">
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532740390140">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="21" column="74" />
+        <mark key="." line="21" column="74" />
+        <mark key="^" line="21" column="74" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,11 +159,11 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532736943744">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532739306018">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
@@ -253,7 +253,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532736912505">
+      <file name="/Python Console" timestamp="1532740685890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -494,9 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/PycharmProjects/forex/game.py" />
-      <jump line="43" column="62" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
       <jump line="81" column="4" filename="$USER_HOME$/PycharmProjects/forex/lstm+conv.py" />
       <jump line="67" column="20" filename="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" />
       <jump line="39" column="50" filename="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" />
@@ -557,7 +554,6 @@
       <jump line="14" column="63" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="84" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="110" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="118" column="9" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="11" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="150" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -594,69 +590,98 @@
       <jump line="57" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="120" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="13" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="118" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="166" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="193" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="0" column="11" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>shuff</text>
+        <text>loa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbWJNb250aCA9IHNlbGYuTW9udGhbZGF0ZVs6LCAwXS5sb25nKCldCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmljZV9kaWZmID0gc2VsZi5kaWZmW2l0ZW06aXRlbSArIHNlcV9sZW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjdWRhJykK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIHBhc3QpLCBkaW09MSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpLmRvdWJsZSgpCm9uZXMgPSB0b3JjaC5vbmVzKDEpLnRvKGRldmljZSkuZG91YmxlKCkK</text>
+      <register name="2" type="4">
+        <text>class Fnet(nn.Module):
+    def __init__(self, device, seq_len):
+        super().__init__()
+        self.device = device
+        # self.Month = torch.eye(12).to(device).double()
+        self.DayWeek = torch.eye(7).to(device).double()
+        # self.embYear = nn.Embedding(15, 3)
+        # self.embMonth = nn.Embedding(12, 3)
+        # self.embWeek = nn.Embedding(53, 4)
+        # self.embDay = nn.Embedding(31, 3)
+        # self.embDayWeek = nn.Embedding(7, 3)
+        # self.embDayYear = nn.Embedding(366, 10)
+        # self.upscale = nn.Sequential(nn.Linear(96, 256), nn.ELU())
+        # self.lstm = nn.LSTM(256, 256, batch_first=True, num_layers=2)
+        self.conv = nn.Sequential(nn.Conv1d(seq_len, 4*seq_len, 1), nn.ELU(), nn.Conv1d(4*seq_len, 8*seq_len, 3, 3), nn.ELU())
+        self.brain = nn.Sequential(nn.Linear(8*seq_len, 16*seq_len), nn.ELU(),
+                                   nn.Linear(16*seq_len, 8*seq_len), nn.ELU())
+        # self.date = nn.Sequential(nn.Linear(8, 1))
+        # self.linear = nn.Linear(128, 1)
+        self.past = nn.Sequential(nn.Linear(8*seq_len, 1), nn.Tanh())
+        self.conf = nn.Sequential(nn.Linear(8*seq_len+1, 1), nn.Sigmoid())
+        # self.fin = nn.Sequential(nn.Linear(8, 64), nn.ELU(), nn.Linear(64, 64), nn.ELU(),
+        #                          nn.Linear(64, 1), nn.Sigmoid())
+    #
+    # def init_hidden(self):
+    #     init = torch.zeros(2, self.batch_size, 256).to(self.device).float()
+    #     self.hidden = (init, init)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLk1vbnRoID0gdG9yY2guZXllKDEyKS50byhkZXZpY2UpCiAgICAgICAgc2VsZi5EYXlXZWVrID0gdG9yY2guZXllKDcpLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmljZV9kaWZmLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCwgeSA9IHggLyB4X3N0ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmID0gc2VsZi5kYXRhW2l0ZW0gKyBzZXFfbGVuICsgMV0gLSBzZWxmLmRhdGFbaXRlbSArIHNlcV9sZW5dCg==</text>
+        <text encoding="base64">ZGV2aWNlID0gdG9yY2guZGV2aWNlKCdjdWRhJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmID0gc2VsZi5kYXRhW2l0ZW0gKyBzZXFfbGVuICsgMV0gLSBzZWxmLmRhdGFbaXRlbSArIHNlcV9sZW5dCg==</text>
+        <text encoding="base64">emVyb3MgPSB0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpLmRvdWJsZSgpCm9uZXMgPSB0b3JjaC5vbmVzKDEpLnRvKGRldmljZSkuZG91YmxlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFfc3RhcnQgPSBpdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLk1vbnRoID0gdG9yY2guZXllKDEyKS50byhkZXZpY2UpCiAgICAgICAgc2VsZi5EYXlXZWVrID0gdG9yY2guZXllKDcpLnRvKGRldmljZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>s/item/prev/g</text>
       </register>
     </registers>
     <search>
-      <last-search>shuff</last-search>
+      <last-search>loa</last-search>
       <last-offset />
-      <last-pattern>shuff</last-pattern>
-      <last-replace>past</last-replace>
+      <last-pattern>loa</last-pattern>
+      <last-replace>prev</last-replace>
       <last-substitute>item</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>intern</entry>
         <entry>LeakyReLU</entry>
         <entry>except</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
@@ -670,15 +695,15 @@
         <entry>net</entry>
         <entry>multiplier</entry>
         <entry>stop</entry>
-        <entry>item</entry>
         <entry>120</entry>
         <entry>seq</entry>
         <entry>cpu()</entry>
         <entry>ema</entry>
         <entry>shuff</entry>
+        <entry>item</entry>
+        <entry>loa</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry>s/x/y/g</entry>
         <entry>action RenameElemenet</entry>
         <entry>s/t_/v_/g</entry>
@@ -698,6 +723,7 @@
         <entry>s/item/past/g</entry>
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry>s/item/prev/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
