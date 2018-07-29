@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532788509738">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="55" />
-        <mark key="." line="18" column="55" />
-        <mark key="^" line="18" column="90" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532846602010">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -159,12 +159,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532789905210">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532845665256">
         <mark key="'" line="177" column="28" />
-        <mark key="[" line="193" column="22" />
-        <mark key="]" line="193" column="22" />
-        <mark key="." line="193" column="22" />
-        <mark key="^" line="193" column="22" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -253,7 +253,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532789587160">
+      <file name="/Python Console" timestamp="1532846605693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -596,35 +596,35 @@
       <jump line="177" column="28" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self.diff[item + seq_len, -1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>self.diff[item + seq_len, -1]</text>
+        <text encoding="base64">IGF4aXM=</text>
       </register>
       <register name="/" type="4">
         <text>reg</text>
       </register>
-      <register name="0" type="4">
-        <text>self.diff[item + seq_len, -1]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZChzZXFfbGVuLCA2NCpzZXFfbGVuLCAxKSwgbm4uRUxVKCksIG5uLkNvbnYxZCg2NCpzZXFfbGVuLCAzMipzZXFfbGVuLCAzLCAzKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaWxhdGUuc2hhcGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIHBhc3QpLCBkaW09MSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuY29udihpbnB1dCkudmlldyhzZWxmLmJhdGNoX3NpemUsIC0xKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
@@ -632,40 +632,14 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIHBhc3QpLCBkaW09MSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>class Fnet(nn.Module):
-    def __init__(self, device, seq_len):
-        super().__init__()
-        self.device = device
-        # self.Month = torch.eye(12).to(device).double()
-        self.DayWeek = torch.eye(7).to(device).double()
-        # self.embYear = nn.Embedding(15, 3)
-        # self.embMonth = nn.Embedding(12, 3)
-        # self.embWeek = nn.Embedding(53, 4)
-        # self.embDay = nn.Embedding(31, 3)
-        # self.embDayWeek = nn.Embedding(7, 3)
-        # self.embDayYear = nn.Embedding(366, 10)
-        # self.upscale = nn.Sequential(nn.Linear(96, 256), nn.ELU())
-        # self.lstm = nn.LSTM(256, 256, batch_first=True, num_layers=2)
-        self.conv = nn.Sequential(nn.Conv1d(seq_len, 4*seq_len, 1), nn.ELU(), nn.Conv1d(4*seq_len, 8*seq_len, 3, 3), nn.ELU())
-        self.brain = nn.Sequential(nn.Linear(8*seq_len, 16*seq_len), nn.ELU(),
-                                   nn.Linear(16*seq_len, 8*seq_len), nn.ELU())
-        # self.date = nn.Sequential(nn.Linear(8, 1))
-        # self.linear = nn.Linear(128, 1)
-        self.past = nn.Sequential(nn.Linear(8*seq_len, 1), nn.Tanh())
-        self.conf = nn.Sequential(nn.Linear(8*seq_len+1, 1), nn.Sigmoid())
-        # self.fin = nn.Sequential(nn.Linear(8, 64), nn.ELU(), nn.Linear(64, 64), nn.ELU(),
-        #                          nn.Linear(64, 1), nn.Sigmoid())
-    #
-    # def init_hidden(self):
-    #     init = torch.zeros(2, self.batch_size, 256).to(self.device).float()
-    #     self.hidden = (init, init)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIHBhc3QpLCBkaW09MSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
