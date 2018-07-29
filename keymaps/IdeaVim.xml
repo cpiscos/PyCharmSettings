@@ -1,4 +1,7 @@
 <keymap version="1" name="IdeaVim" parent="Default for XWin">
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>

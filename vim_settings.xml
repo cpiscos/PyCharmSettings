@@ -606,7 +606,7 @@
         <text>self.diff[item + seq_len, -1]</text>
       </register>
       <register name="/" type="4">
-        <text>cuda</text>
+        <text>reg</text>
       </register>
       <register name="0" type="4">
         <text>self.diff[item + seq_len, -1]</text>
@@ -672,17 +672,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cuda</last-search>
+      <last-search>reg</last-search>
       <last-offset />
-      <last-pattern>cuda</last-pattern>
+      <last-pattern>reg</last-pattern>
       <last-replace>prev</last-replace>
       <last-substitute>item</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lr</entry>
         <entry>conf</entry>
         <entry>ReLU</entry>
         <entry>%s</entry>
@@ -702,6 +701,7 @@
         <entry>LCE</entry>
         <entry>weight</entry>
         <entry>cuda</entry>
+        <entry>reg</entry>
       </history-search>
       <history-cmd>
         <entry>s/x/y/g</entry>
