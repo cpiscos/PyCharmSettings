@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532933464179">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532935126578">
         <mark key="'" line="17" column="30" />
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="31" column="46" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+        <mark key="[" line="81" column="44" />
+        <mark key="]" line="81" column="44" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="81" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532933748522">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="11" />
-        <mark key="." line="48" column="11" />
-        <mark key="^" line="48" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532935431607">
+        <mark key="'" line="89" column="4" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532933467196">
+      <file name="/Python Console" timestamp="1532935435128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -495,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="42" filename="$USER_HOME$/PycharmProjects/GameRL/actor_critic.py" />
-      <jump line="14" column="23" filename="$USER_HOME$/PycharmProjects/GameRL/actor_critic.py" />
       <jump line="71" column="26" filename="$USER_HOME$/PycharmProjects/GameRL/actor_critic.py" />
       <jump line="58" column="20" filename="$USER_HOME$/PycharmProjects/GameRL/actor_critic.py" />
       <jump line="57" column="4" filename="$USER_HOME$/PycharmProjects/GameRL/actor_critic.py" />
@@ -579,7 +577,6 @@
       <jump line="177" column="28" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="120" column="42" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="116" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="99" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="45" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="62" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="110" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -595,19 +592,22 @@
       <jump line="63" column="16" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="65" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="158" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="140" column="70" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="99" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>conf_loss</text>
+        <text>get_s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeCA9IHgudG8oZGV2aWNlKQo=</text>
@@ -647,17 +647,16 @@
       </register>
     </registers>
     <search>
-      <last-search>conf_loss</last-search>
+      <last-search>get_s</last-search>
       <last-offset />
-      <last-pattern>conf_loss</last-pattern>
+      <last-pattern>get_s</last-pattern>
       <last-replace>64</last-replace>
       <last-substitute>128</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>120</entry>
         <entry>seq</entry>
         <entry>cpu()</entry>
         <entry>ema</entry>
@@ -677,6 +676,7 @@
         <entry>weight</entry>
         <entry>conf</entry>
         <entry>conf_loss</entry>
+        <entry>get_s</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElemenet</entry>
