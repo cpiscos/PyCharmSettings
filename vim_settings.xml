@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532916676881">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1532917883314">
         <mark key="'" line="17" column="30" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="45" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="19" column="45" />
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="79" />
+        <mark key="." line="17" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532916752270">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1532918322063">
         <mark key="'" line="14" column="27" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="22" column="11" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="15" />
+        <mark key="." line="135" column="15" />
+        <mark key="^" line="135" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532916756837">
+      <file name="/Python Console" timestamp="1532918324317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -598,49 +598,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, dropout=0.5</text>
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, dropout=0.5</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IG5wLnJvdW5kKDIqeCkudG8oZGV2aWNlKS8yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBpbnB1dFs6LCA6LCAzXS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgMSwgLTEpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmYoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeC5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IG5wLnJvdW5kKHgpLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGltZS50aW1lKCktc3RhcnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCwgc2VsZi5oaWRkZW4yID0gc2VsZi5sc3RtMihpbnB1dCwgc2VsZi5oaWRkZW4yKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGRhdGVbOiwgMl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBhcAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmYoaW5wdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IG5wLnJvdW5kKHgpLnRvKGRldmljZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCwgc2VsZi5oaWRkZW4yID0gc2VsZi5sc3RtMihpbnB1dCwgc2VsZi5oaWRkZW4yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGl0ZW0gPSBpdGVtKzEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuYnJhaW4oaW5wdXQudmlldyhzYSkK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBhcAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/128/64/g</text>
