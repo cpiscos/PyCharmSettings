@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533059545037">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533062317831">
         <mark key="'" line="90" column="15" />
-        <mark key="[" line="17" column="64" />
-        <mark key="]" line="17" column="65" />
-        <mark key="." line="17" column="65" />
-        <mark key="^" line="17" column="32" />
+        <mark key="[" line="90" column="55" />
+        <mark key="]" line="90" column="67" />
+        <mark key="." line="90" column="55" />
+        <mark key="^" line="90" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533060251044">
+      <file name="/Python Console" timestamp="1533062321348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -598,13 +598,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2000</text>
+        <text>.view(-1, 1)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>.view(-1, 1)</text>
       </register>
       <register name="/" type="4">
         <text>weight</text>
@@ -613,34 +613,34 @@
         <text encoding="base64">ICAgIG9wdGltaXplciA9IHRvcmNoLm9wdGltLkFkYW0obmV0LnBhcmFtZXRlcnMoKSwgbHI9bHIsIHdlaWdodF9kZWNheT01ZS01KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigzMiwgMSksIG5uLlNpZ21vaWQoKSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PTVlLTYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigzMiwgMzIpLCBubi5FTFUoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZSA9IAo=</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChwcmljZS5zaGFwZSkK</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PTVlLTYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChwcmljZS5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmljZSA9IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChwcmljZS5zaGFwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChwcmljZS5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChwcmljZS5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0LCBzZWxmLmhpZGRlbiA9IHNlbGYubHN0bShpbnB1dCwgc2VsZi5oaWRkZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
