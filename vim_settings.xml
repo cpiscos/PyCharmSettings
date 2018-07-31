@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533020121720">
-        <mark key="'" line="52" column="33" />
-        <mark key="[" line="88" column="39" />
-        <mark key="]" line="88" column="49" />
-        <mark key="^" line="88" column="49" />
-        <mark key="." line="88" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533056755313">
+        <mark key="'" line="54" column="33" />
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="40" />
+        <mark key="^" line="62" column="40" />
+        <mark key="." line="62" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533021321030">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533057336842">
         <mark key="'" line="14" column="27" />
-        <mark key="[" line="50" column="11" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+        <mark key="[" line="184" column="13" />
+        <mark key="]" line="184" column="14" />
+        <mark key="." line="184" column="14" />
+        <mark key="^" line="115" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533021324043">
+      <file name="/Python Console" timestamp="1533057340287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -598,19 +598,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cpu</text>
+        <text>, std[17:]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>cpu</text>
+        <text>, std[17:]</text>
       </register>
       <register name="/" type="4">
         <text>ratio</text>
       </register>
       <register name="0" type="4">
-        <text>self.diff[item+seq_len-1, 0]</text>
+        <text>torch.mean(std[13])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
