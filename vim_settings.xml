@@ -37,12 +37,12 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533062317831">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533062732869">
         <mark key="'" line="90" column="15" />
-        <mark key="[" line="90" column="55" />
-        <mark key="]" line="90" column="67" />
-        <mark key="." line="90" column="55" />
-        <mark key="^" line="90" column="55" />
+        <mark key="[" line="61" column="67" />
+        <mark key="]" line="61" column="68" />
+        <mark key="." line="61" column="68" />
+        <mark key="^" line="61" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -160,12 +160,12 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533060679552">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533063366850">
         <mark key="'" line="16" column="20" />
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="52" column="11" />
-        <mark key="^" line="51" column="20" />
-        <mark key="." line="52" column="13" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -254,7 +254,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533062321348">
+      <file name="/Python Console" timestamp="1533063201868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
@@ -598,13 +598,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.view(-1, 1)</text>
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.view(-1, 1)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>weight</text>
