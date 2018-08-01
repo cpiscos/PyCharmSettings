@@ -21,6 +21,7 @@
   <action id="Console.TableResult.SelectRow" />
   <action id="ContextHelp" />
   <action id="Diff.FocusOppositePane" />
+  <action id="Diff.PrevChange" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -85,6 +86,9 @@
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable" />
   <action id="Jdbc.RunSqlScript" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -98,9 +102,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="ParameterInfo" />
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
+  <action id="PreviousTab" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
