@@ -183,11 +183,12 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1531436847280">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533082166886">
+        <mark key="'" line="64" column="14" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532410488236">
         <mark key="'" line="7" column="26" />
@@ -254,7 +255,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533080781841">
+      <file name="/Python Console" timestamp="1533082167404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -360,6 +361,12 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/SineLSTM.py" timestamp="1533081593710">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1533018716921">
         <mark key="a" line="0" column="0" />
@@ -498,10 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
-      <jump line="14" column="26" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
-      <jump line="43" column="31" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
-      <jump line="24" column="22" filename="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="91" column="16" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="42" column="27" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
@@ -598,61 +601,65 @@
       <jump line="53" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
+      <jump line="11" column="34" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
+      <jump line="55" column="14" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
+      <jump line="60" column="18" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
+      <jump line="64" column="14" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>savefig</text>
+        <text>step</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgeSA9IHByZWQudmlldygtMSksIHlbOiwgLTFdLnZpZXcoLTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoeSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChwcmVkX3QudmlldygtMSlbLTU6XS50b2xpc3QoKSwgNCksICdcbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChwcmVkX3QudmlldygtMSlbLTU6XS50b2xpc3QoKSwgNCksICdcbicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IHguc2hhcGVbMF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgeSA9IHByZWQudmlldyh4LCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IHguc2hhcGVbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgeSA9IHByZWQudmlldygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgeSA9IHByZWQudmlldyh4LCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCwgeSA9IHByZWQudmlldygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>savefig</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern>savefig</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-replace>64</last-replace>
       <last-substitute>128</last-substitute>
       <last-dir>1</last-dir>
@@ -660,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loa</entry>
         <entry>seen</entry>
         <entry>LCE</entry>
         <entry>cuda</entry>
@@ -680,6 +686,7 @@
         <entry>price</entry>
         <entry>weight</entry>
         <entry>savefig</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElemenet</entry>
