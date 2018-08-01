@@ -37,11 +37,11 @@
       <file name="/a.dummy" timestamp="1532556722205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533152637175">
-        <mark key="[" line="92" column="32" />
-        <mark key="]" line="93" column="18" />
-        <mark key="^" line="93" column="18" />
-        <mark key="." line="93" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533165355502">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -166,11 +166,10 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533110189724">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533166283562">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -240,11 +239,12 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533157763674">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533165733665">
+        <mark key="'" line="108" column="20" />
+        <mark key="[" line="75" column="43" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="43" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -266,7 +266,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533149745592">
+      <file name="/Python Console" timestamp="1533163543889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -385,7 +385,7 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533018716921">
+      <file name="/Dummy.txt" timestamp="1533163813098">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -475,12 +475,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533158305426">
-        <mark key="'" line="10" column="43" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="50" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533166074393">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -516,10 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
-      <jump line="14" column="63" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
-      <jump line="84" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="11" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="150" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="30" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -616,61 +612,65 @@
       <jump line="89" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="59" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="10" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="27" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="108" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
+      <jump line="28" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="15" column="28" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjYXRzLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>lin</text>
+        <text>, cats.squeeze(2)[:, 1:]</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>self.Month</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ID0gdG9yY2gudHJhbnNwb3NlKGNvbnYsIDEsIDMpCg==</text>
+      <register name="0" type="4">
+        <text>128</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjYXRzLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAsIGNhdHMuc3F1ZWV6ZSgyKVs6LCAxOl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsc3RtMiA9IEYuc2lnbW9pZChsc3RtMls6LCAtMl0tbHN0bTJbOiwgLTFdKS52aWV3KHNlbGYuYmF0Y2hfc2l6ZSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsc3RtMikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmljZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmljZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>self.Month</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>self.Month</last-pattern>
       <last-replace>mean</last-replace>
       <last-substitute>std</last-substitute>
       <last-dir>1</last-dir>
@@ -678,16 +678,12 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>128</entry>
-        <entry>conf</entry>
         <entry>conf_loss</entry>
         <entry>get_s</entry>
         <entry>get_std</entry>
         <entry>date</entry>
         <entry>ratio</entry>
         <entry>price</entry>
-        <entry>weight</entry>
         <entry>savefig</entry>
         <entry>step</entry>
         <entry>hidden</entry>
@@ -698,6 +694,10 @@
         <entry>upscale</entry>
         <entry>cats</entry>
         <entry>print</entry>
+        <entry>size</entry>
+        <entry>weight</entry>
+        <entry>lstm</entry>
+        <entry>self.Month</entry>
       </history-search>
       <history-cmd>
         <entry>s/t_/v_/g</entry>
