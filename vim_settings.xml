@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533082166886">
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533088032696">
         <mark key="'" line="64" column="14" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
+        <mark key="[" line="57" column="41" />
+        <mark key="]" line="57" column="48" />
+        <mark key="." line="57" column="48" />
+        <mark key="^" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532410488236">
         <mark key="'" line="7" column="26" />
@@ -255,7 +255,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533084431424">
+      <file name="/Python Console" timestamp="1533088032941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -608,13 +608,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>17</text>
+        <text>.float()</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>17</text>
+        <text>.float()</text>
       </register>
       <register name="/" type="4">
         <text>hidden</text>
