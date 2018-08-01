@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533088032696">
-        <mark key="'" line="64" column="14" />
-        <mark key="[" line="57" column="41" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533089030139">
+        <mark key="'" line="71" column="14" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="22" />
+        <mark key="." line="76" column="22" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532410488236">
         <mark key="'" line="7" column="26" />
@@ -255,7 +255,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533088032941">
+      <file name="/Python Console" timestamp="1533089031198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -608,13 +608,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.float()</text>
+        <text>]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.float()</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>hidden</text>
@@ -629,28 +629,28 @@
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoeSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChwcmVkX3QudmlldygtMSlbLTU6XS50b2xpc3QoKSwgNCksICdcbicpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoeSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChwcmVkX3QudmlldygtMSlbLTU6XS50b2xpc3QoKSwgNCksICdcbicpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IHguc2hhcGVbMF0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
