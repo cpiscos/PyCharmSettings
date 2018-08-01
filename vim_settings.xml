@@ -233,12 +233,11 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533111890351">
-        <mark key="'" line="15" column="21" />
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="56" column="10" />
-        <mark key="." line="56" column="10" />
-        <mark key="^" line="56" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533112592263">
+        <mark key="[" line="182" column="49" />
+        <mark key="]" line="182" column="48" />
+        <mark key="." line="182" column="48" />
+        <mark key="^" line="182" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -260,7 +259,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533111895658">
+      <file name="/Python Console" timestamp="1533112615437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -476,12 +475,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533111629202">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533112608256">
         <mark key="'" line="73" column="46" />
-        <mark key="[" line="89" column="51" />
-        <mark key="]" line="89" column="59" />
-        <mark key="." line="89" column="59" />
-        <mark key="^" line="89" column="59" />
+        <mark key="[" line="90" column="52" />
+        <mark key="]" line="90" column="52" />
+        <mark key="." line="90" column="52" />
+        <mark key="^" line="90" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -517,9 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="33" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="7" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="73" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="87" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="52" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -617,61 +613,64 @@
       <jump line="18" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="19" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="72" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="102" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
+      <jump line="122" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
+      <jump line="140" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>upscale</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeCwgeSwgY2F0cyA9IHgudG8oZGV2aWNlKS5kb3VibGUoKSwgeS50byhkZXZpY2UpLmRvdWJsZSgpLCBjYXRzLnRvKGRldmljZSkubG9uZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjYXRzLnNoYXBlKQogICAgICAgIHByaW50KGVtYldlZWsuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwMS5zaGFwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCwgeSA9IHgudG8oZGV2aWNlKS5kb3VibGUoKSwgeS50byhkZXZpY2UpLmRvdWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzb3VyY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsc3RtMi5zaGFwZSkKICAgICAgICBwcmludChsc3RtMls6LCAtMjpdLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlbWJXZWVrLnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodHJhaW4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsc3RtMi5zaGFwZSkK</text>
+        <text encoding="base64">cHJpbnQoZGYpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsc3RtMi5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>upscale</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>upscale</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>mean</last-replace>
       <last-substitute>std</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry>np.where</entry>
         <entry>round</entry>
         <entry>get</entry>
         <entry>128</entry>
@@ -699,6 +697,7 @@
         <entry>std</entry>
         <entry>image</entry>
         <entry>upscale</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>s/t_/v_/g</entry>
