@@ -240,12 +240,12 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533188081290">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533189787686">
         <mark key="'" line="144" column="22" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="32" column="11" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -620,13 +620,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>inp</text>
