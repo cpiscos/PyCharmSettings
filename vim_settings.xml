@@ -477,11 +477,11 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533197435067">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533227761187">
         <mark key="'" line="70" column="10" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="47" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="32" column="68" />
+        <mark key="]" line="32" column="84" />
+        <mark key="." line="32" column="68" />
         <mark key="^" line="53" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
@@ -620,14 +620,14 @@
       <jump line="144" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm4uRHJvcG91dDJkKCksIA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text encoding="base64">bm4uRHJvcG91dDJkKCksIA==</text>
       </register>
       <register name="/" type="4">
         <text>inp</text>
