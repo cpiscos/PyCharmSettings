@@ -475,12 +475,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533170593379">
-        <mark key="'" line="94" column="52" />
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="28" />
-        <mark key="^" line="56" column="49" />
-        <mark key="." line="56" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533172331439">
+        <mark key="'" line="95" column="52" />
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -619,13 +619,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>256</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -634,37 +634,37 @@
         <text>128</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnplcm8gPSB0b3JjaC56ZXJvcygxLCAxLCAxKS50byhkZXZpY2UpLmRvdWJsZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXQgPSB0b3JjaC56ZXJvcygyLCBzZWxmLmJhdGNoX3NpemUsIDI1NikudG8oZGV2aWNlKS5kb3VibGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAsIGNhdHMuc3F1ZWV6ZSgyKVs6LCAxOl0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRpY2VzID0gdG9yY2gudGVuc29yKFswLCA0LCA4LCAxMl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRzID0gc2VsZi5Nb250aFtbY2F0c1s6LCAwXS5sb25nKCldXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXQgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0ID0gdG9yY2guemVyb3MoMiwgc2VsZi5iYXRjaF9zaXplLCAyNTYpLnRvKHNlbGYuZGV2aWNlKS5kb3VibGUoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -716,10 +716,10 @@
         <entry>s/item/past/g</entry>
         <entry>s/item/prev/g</entry>
         <entry>%s/128/64/g</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZC9tZWFuL2c=</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
