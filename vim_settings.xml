@@ -240,13 +240,13 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533237868064">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533241360482">
         <mark key="'" line="19" column="10" />
-        <mark key="[" line="196" column="10" />
+        <mark key="[" line="18" column="5" />
         <mark key="k" line="24" column="10" />
-        <mark key="]" line="196" column="10" />
-        <mark key="." line="196" column="10" />
-        <mark key="^" line="196" column="10" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -477,12 +477,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533239473064">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533241921743">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="151" column="68" />
-        <mark key="]" line="151" column="68" />
-        <mark key="." line="151" column="68" />
-        <mark key="^" line="151" column="68" />
+        <mark key="[" line="151" column="50" />
+        <mark key="]" line="151" column="52" />
+        <mark key="." line="151" column="52" />
+        <mark key="^" line="151" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -621,13 +621,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>128</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>Fn</text>
