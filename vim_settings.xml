@@ -477,11 +477,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533238333285">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533239473064">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="48" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="151" column="68" />
+        <mark key="]" line="151" column="68" />
+        <mark key="." line="151" column="68" />
+        <mark key="^" line="151" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -619,14 +620,14 @@
       <jump line="19" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Fn</text>
@@ -665,7 +666,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -719,8 +720,8 @@
         <entry>%s/128/64/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZC9tZWFuL2c=</entry>
         <entry>action RenameElement</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
