@@ -166,7 +166,7 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533169481617">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533171060869">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
@@ -239,12 +239,12 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533169350636">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533170696011">
         <mark key="'" line="108" column="20" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
+        <mark key="[" line="182" column="50" />
+        <mark key="]" line="182" column="50" />
+        <mark key="." line="182" column="50" />
+        <mark key="^" line="182" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -475,12 +475,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533168281102">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="49" column="44" />
-        <mark key="^" line="47" column="50" />
-        <mark key="." line="49" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533170593379">
+        <mark key="'" line="94" column="52" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="28" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="56" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -516,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="150" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="30" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="126" column="55" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="169" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -616,6 +614,8 @@
       <jump line="108" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="28" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="15" column="28" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="93" column="40" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
+      <jump line="94" column="52" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,7 +628,7 @@
         <text>128</text>
       </register>
       <register name="/" type="4">
-        <text>self.Month</text>
+        <text>input</text>
       </register>
       <register name="0" type="4">
         <text>128</text>
@@ -668,17 +668,16 @@
       </register>
     </registers>
     <search>
-      <last-search>self.Month</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>self.Month</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>mean</last-replace>
       <last-substitute>std</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conf_loss</entry>
         <entry>get_s</entry>
         <entry>get_std</entry>
         <entry>date</entry>
@@ -698,6 +697,7 @@
         <entry>weight</entry>
         <entry>lstm</entry>
         <entry>self.Month</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>s/t_/v_/g</entry>
