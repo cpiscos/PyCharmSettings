@@ -477,12 +477,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533236006816">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533237025710">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="145" column="54" />
-        <mark key="]" line="145" column="54" />
+        <mark key="[" line="96" column="42" />
+        <mark key="]" line="96" column="42" />
         <mark key="^" line="145" column="51" />
-        <mark key="." line="145" column="54" />
+        <mark key="." line="96" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -621,13 +621,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(1, 4)</text>
+        <text>.view(self.batch_size, 1, self.seq_len, 16)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>(1, 4)</text>
+        <text>.view(self.batch_size, 1, self.seq_len, 16)</text>
       </register>
       <register name="/" type="4">
         <text>inp</text>
