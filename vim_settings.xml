@@ -240,12 +240,12 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533189787686">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" timestamp="1533191467347">
         <mark key="'" line="144" column="22" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="23" column="10" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="251" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -476,12 +476,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533187881833">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533191454487">
         <mark key="'" line="68" column="10" />
-        <mark key="[" line="52" column="49" />
-        <mark key="]" line="52" column="50" />
-        <mark key="." line="52" column="50" />
-        <mark key="^" line="52" column="50" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
@@ -619,50 +619,50 @@
       <jump line="144" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>, nn.Dropout()</text>
       </register>
       <register name="/" type="4">
         <text>inp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeFs6LCA6LCAtMTY6XSA9ICh4WzosIDosIC0xNjpdIC0gbWVhblstMTY6XSkgLyB4X3N0ZFstMTY6XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChpbnB1dFs6LCAxOiwgOi0xNl0uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChpbnRlcm5hbC52aWV3KC0xKS50b2xpc3QoKSwgNCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9ICh4IC0gbWVhbikgLyB4X3N0ZAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zYXZlKG5ldC5zdGF0ZV9kaWN0KCksIHNhdmVfZmlsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwMyA9IChsb3cgLSApIC8gKHJhbmdlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkKICAgICAgICBwcmludChpbnB1dFs6LCAxOiwgOi0xNl0uc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluZiA9IHRvcmNoLnRlbnNvcig5OTk5OTk5OTk5OSkudG8oc2VsZi5kZXZpY2UpLmRvdWJsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuID0gaW5wdXRbOiwgMTosIHNlbGYuaW5kaWNlc10KICAgICAgICBoaWdoID0gaW5wdXRbOiwgMTosIHNlbGYuaW5kaWNlcysxXQogICAgICAgIGxvdyA9IGlucHV0WzosIDE6LCBzZWxmLmluZGljZXMrMl0KICAgICAgICBjbG9zZSA9IGlucHV0WzosIDE6LCBzZWxmLmluZGljZXMrM10KICAgICAgICByYW5nZSA9IGhpZ2ggLSBsb3cKICAgICAgICByYW5nZSA9IHRvcmNoLndoZXJlKHJhbmdlID09IDAsIHNlbGYuaW5mLCByYW5nZSkKICAgICAgICBwMSA9IChjbG9zZSAtIG9wZW4pIC8gKHJhbmdlKQogICAgICAgIHAyID0gKGhpZ2ggLSBjbG9zZSkgLyAocmFuZ2UpCiAgICAgICAgcDMgPSAobG93IC0gY2xvc2UpIC8gKHJhbmdlKQogICAgICAgIHA0ID0gKGhpZ2ggLSBvcGVuKSAvIChyYW5nZSkKICAgICAgICBwNSA9IChsb3cgLSBvcGVuKSAvIChyYW5nZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChucC5yb3VuZChpbnRlcm5hbC52aWV3KC0xKS50b2xpc3QoKSwgNCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9ICh4IC0gbWVhbikgLyB4X3N0ZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluZGljZXMgPSB0b3JjaC50ZW5zb3IoWzAsIDQsIDgsIDEyXSkK</text>
+        <text encoding="base64">ICAgICAgICBwMyA9IChsb3cgLSApIC8gKHJhbmdlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
