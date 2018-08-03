@@ -84,12 +84,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533333427108">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533339790601">
         <mark key="'" line="139" column="18" />
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="52" column="18" />
-        <mark key="." line="52" column="18" />
-        <mark key="^" line="13" column="12" />
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -434,12 +434,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533325927975">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533339841193">
+        <mark key="'" line="57" column="38" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="63" column="35" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="14" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
       <jump line="238" column="75" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="70" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="87" column="55" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
@@ -645,63 +644,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="12" column="53" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="17" column="35" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="58" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
-        <text>EL</text>
+        <text>Drop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMTI4LCA2NCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQWxwaGFEcm9wb3V0KCksIG5uLlNFTFUoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUobW9kZWwpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5kZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJyYWluLikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY2Muc2hhcGUsIGFjY190LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjX3QgPSB0b3JjaC53aGVyZShwcmVkX3QudmlldygtMSkgPiAwLjUsIG9uZXMsIHplcm9zKSA9PSB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwLmluc2VydCgwLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZVsxXS80KjcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJyYWluLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY2Muc2hhcGUsIGFjY190LnNoYXBlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/EL/SEL/g</text>
+        <text encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>EL</last-search>
+      <last-search>Drop</last-search>
       <last-offset />
-      <last-pattern>EL</last-pattern>
-      <last-replace>SEL</last-replace>
-      <last-substitute>EL</last-substitute>
+      <last-pattern>Drop</last-pattern>
+      <last-replace>AlphaDrop</last-replace>
+      <last-substitute>Drop</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -725,11 +725,10 @@
         <entry>Alpha</entry>
         <entry>%s/SE/E/g</entry>
         <entry>SE</entry>
-        <entry>Drop</entry>
         <entry>EL</entry>
+        <entry>Drop</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ELU/LeakyReLU/g</entry>
         <entry>%s/seq_len/multiplier/g</entry>
         <entry encoding="base64">JzwsJz5zL211bHRpcGxpZXIvb3V0X2ZhY3Rvcg==</entry>
         <entry>s/item/past/g</entry>
@@ -749,6 +748,7 @@
         <entry>%s/SE/E/g</entry>
         <entry>%s/Drop/AlphaDrop/g</entry>
         <entry>%s/EL/SEL/g</entry>
+        <entry encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
