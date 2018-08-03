@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533333355274">
-        <mark key="'" line="9" column="49" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533338841146">
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -545,11 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="11" column="34" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
-      <jump line="55" column="14" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
-      <jump line="60" column="18" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
       <jump line="64" column="14" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
       <jump line="238" column="75" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="70" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
@@ -644,74 +639,74 @@
       <jump line="75" column="34" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="85" column="50" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="10" column="48" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="9" column="49" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="8" column="34" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="3" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="12" column="53" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY2Muc2hhcGUsIGFjY190LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Dropout</text>
+        <text>EL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjID0gdG9yY2gudGVuc29yKFswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY2Muc2hhcGUsIGFjY190LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksCg==</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjX3QgPSB0b3JjaC53aGVyZShwcmVkX3QudmlldygtMSkgPiAwLjUsIG9uZXMsIHplcm9zKSA9PSB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwLmluc2VydCgwLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZVsxXS80KjcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJyYWluLikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY2Muc2hhcGUsIGFjY190LnNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmV0ID0gRk5ldDQoZGV2aWNlLCBzZXFfbGVuKS5kb3VibGUoKS50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjX3QgPSB0b3JjaC53aGVyZShwcmVkX3QudmlldygtMSkgPiAwLjUsIG9uZXMsIHplcm9zKSA9PSB5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFwLmluc2VydCgwLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgJy5EU19TdCcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZVsxXS80KjcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Dropout/AlphaDropout/g</text>
+        <text>%s/EL/SEL/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Dropout</last-search>
+      <last-search>EL</last-search>
       <last-offset />
-      <last-pattern>Dropout</last-pattern>
-      <last-replace>AlphaDropout</last-replace>
-      <last-substitute>Dropout</last-substitute>
+      <last-pattern>EL</last-pattern>
+      <last-replace>SEL</last-replace>
+      <last-substitute>EL</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>weight</entry>
-        <entry>lstm</entry>
-        <entry>self.Month</entry>
-        <entry>input</entry>
-        <entry>init</entry>
         <entry>init_hidden</entry>
         <entry>inp</entry>
         <entry>fnet</entry>
@@ -727,12 +722,13 @@
         <entry>:</entry>
         <entry>ELU</entry>
         <entry>Dropout</entry>
+        <entry>Alpha</entry>
+        <entry>%s/SE/E/g</entry>
+        <entry>SE</entry>
+        <entry>Drop</entry>
+        <entry>EL</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/LeakyReLU/ELU/g</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>%s/ELU/ReLU/g</entry>
-        <entry>%s/ReLU/ELU/g</entry>
         <entry>%s/ELU/LeakyReLU/g</entry>
         <entry>%s/seq_len/multiplier/g</entry>
         <entry encoding="base64">JzwsJz5zL211bHRpcGxpZXIvb3V0X2ZhY3Rvcg==</entry>
@@ -749,6 +745,10 @@
         <entry>s/:/2:/g</entry>
         <entry>%s/ELU/SELU/g</entry>
         <entry>%s/Dropout/AlphaDropout/g</entry>
+        <entry>%s/Alpha//g</entry>
+        <entry>%s/SE/E/g</entry>
+        <entry>%s/Drop/AlphaDrop/g</entry>
+        <entry>%s/EL/SEL/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
