@@ -77,12 +77,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533273248675">
-        <mark key="'" line="83" column="24" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533274119690">
+        <mark key="'" line="136" column="18" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="51" column="20" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -531,14 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="174" column="28" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="17" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="9" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="138" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="21" column="9" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="65" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="158" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="140" column="70" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="99" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
@@ -631,69 +623,76 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="85" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="83" column="24" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="126" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="127" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="129" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="130" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="131" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="132" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="133" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="136" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ELU</text>
+        <text># * y_t.cpu().numpy()*10000 * y_std.tolist()</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ELU</text>
+        <text># * y_t.cpu().numpy()*10000 * y_std.tolist()</text>
       </register>
       <register name="/" type="4">
-        <text>diff</text>
+        <text>p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg0LCAzMiwgNCwgNCksIG5uLkVMVSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDMyLCAxMjgsIDQpKQo=</text>
+        <text encoding="base64">ICAgIHByZWRfdF8gPSBwcmVkX3RfLm51bXB5KCkK</text>
       </register>
       <register name="q" type="4">
         <text>f]dT]x</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc3RhcnQnLCB0aW1lLnRpbWUoKS1zdGFydCkKICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgIHBtb2RlID0gcHJlZF90Xy5tb2RlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VucGFjaycsIHRpbWUudGltZSgpLXN0YXJ0KQogICAgICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg0LCAzMiwgNCwgNCksIG5uLkVMVSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDMyLCAxMjgsIDQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ25ldCcsIHRpbWUudGltZSgpLXN0YXJ0KQogICAgICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnc3RhcnQnLCB0aW1lLnRpbWUoKS1zdGFydCkKICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3N0ZXAnLCB0aW1lLnRpbWUoKS1zdGFydCkKICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VucGFjaycsIHRpbWUudGltZSgpLXN0YXJ0KQogICAgICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RhdGEnLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ25ldCcsIHRpbWUudGltZSgpLXN0YXJ0KQogICAgICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaF9hY2MgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3N0ZXAnLCB0aW1lLnRpbWUoKS1zdGFydCkKICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfYWNjLmFwcGVuZChhY2MubWVhbigpLml0ZW0oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RhdGEnLCB0aW1lLnRpbWUoKS1zdGFydCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9hY2MgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>diff</last-search>
+      <last-search>p</last-search>
       <last-offset />
-      <last-pattern>diff</last-pattern>
+      <last-pattern>p</last-pattern>
       <last-replace>mean</last-replace>
       <last-substitute>std</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p.num</entry>
         <entry>std</entry>
         <entry>image</entry>
         <entry>upscale</entry>
@@ -713,6 +712,7 @@
         <entry>batch</entry>
         <entry>close</entry>
         <entry>diff</entry>
+        <entry>p</entry>
       </history-search>
       <history-cmd>
         <entry>s/t_/v_/g</entry>
