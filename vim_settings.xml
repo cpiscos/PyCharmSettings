@@ -83,12 +83,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533274119690">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533318873166">
         <mark key="'" line="136" column="18" />
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="51" column="20" />
-        <mark key="^" line="51" column="20" />
-        <mark key="." line="51" column="20" />
+        <mark key="[" line="94" column="47" />
+        <mark key="]" line="94" column="48" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="94" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -646,14 +646,14 @@
       <jump line="85" column="50" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRpZmZbOjVdLnNoYXBlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>norm</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
