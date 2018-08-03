@@ -84,11 +84,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533328486450">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533333427108">
         <mark key="'" line="139" column="18" />
-        <mark key="[" line="149" column="24" />
-        <mark key="]" line="149" column="24" />
-        <mark key="." line="149" column="24" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
         <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -648,13 +648,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Dropout</text>
