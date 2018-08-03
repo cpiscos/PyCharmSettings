@@ -6,11 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533317652191">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533333355274">
+        <mark key="'" line="9" column="49" />
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="49" />
+        <mark key="^" line="10" column="49" />
+        <mark key="." line="10" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -485,12 +486,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533332033864">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533333370674">
         <mark key="'" line="84" column="50" />
-        <mark key="[" line="56" column="58" />
-        <mark key="]" line="57" column="21" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="7" />
         <mark key="^" line="57" column="21" />
-        <mark key="." line="57" column="21" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -544,8 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="57" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
-      <jump line="53" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" />
       <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="11" column="34" filename="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" />
@@ -644,19 +643,21 @@
       <jump line="93" column="21" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="75" column="34" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="85" column="50" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
+      <jump line="10" column="48" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="9" column="49" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwLmluc2VydCgwLCAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>Dropout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgRk5ldChubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRldmljZSwgc2VxX2xlbik6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5kZXZpY2UgPSBkZXZpY2UKICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgyOCkKICAgICAgICBzZWxmLm1lbSA9IG5uLkxTVE0oMjgsIDI1NikKICAgICAgICBzZWxmLmJyYWluID0gbm4uU2VxdWVudGlhbChubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uTGluZWFyKDI1NiwgMTI4KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksIG5uLkVMVSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigxMjgsIDEpLCBubi5TaWdtb2lkKCkpCgogICAgZGVmIGZvcndhcmQoc2VsZiwgaW5wdXQpOgogICAgICAgIGlucHV0ID0gc2VsZi5ub3JtKGlucHV0LnZpZXcoLTEsIGlucHV0LnNoYXBlWy0xXSkpLnZpZXcoaW5wdXQuc2hhcGUpCiAgICAgICAgaW5wdXQsIF8gPSBzZWxmLm1lbShpbnB1dCkKICAgICAgICBpbnB1dCA9IHNlbGYuYnJhaW4oaW5wdXRbOiwgLTFdLmNvbnRpZ3VvdXMoKSkudmlldygtMSkKICAgICAgICByZXR1cm4gaW5wdXQsIGlucHV0Wy0yOl0udG9saXN0KCkgICMgY29udlstMjpdLmNwdSgpLmRldGFjaCgpLm51bXB5KCkpIywgYnJhaW5bLTI6XSkK</text>
@@ -692,22 +693,20 @@
         <text encoding="base64">ICAgICAgICBub3JtID0gaW5wdXRbOiwgOiwgMjpdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/:/2:/g</text>
+        <text>%s/Dropout/AlphaDropout/g</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>Dropout</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
-      <last-replace>2:</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>Dropout</last-pattern>
+      <last-replace>AlphaDropout</last-replace>
+      <last-substitute>Dropout</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>size</entry>
         <entry>weight</entry>
         <entry>lstm</entry>
         <entry>self.Month</entry>
@@ -726,10 +725,10 @@
         <entry>end</entry>
         <entry>high</entry>
         <entry>:</entry>
+        <entry>ELU</entry>
+        <entry>Dropout</entry>
       </history-search>
       <history-cmd>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>s/pred_t_/conf_t_/g</entry>
         <entry>%s/LeakyReLU/ELU/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>%s/ELU/ReLU/g</entry>
@@ -748,6 +747,8 @@
         <entry>s/high/low/g</entry>
         <entry>s/:/2:</entry>
         <entry>s/:/2:/g</entry>
+        <entry>%s/ELU/SELU/g</entry>
+        <entry>%s/Dropout/AlphaDropout/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
