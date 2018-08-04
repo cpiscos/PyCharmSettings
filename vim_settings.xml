@@ -84,12 +84,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533400647378">
-        <mark key="'" line="128" column="8" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533411275214">
+        <mark key="'" line="134" column="8" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -282,7 +282,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1533396684336">
+      <file name="/Python Console" timestamp="1533410604690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -648,13 +648,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>EL</text>
@@ -663,37 +663,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgxMjgpLCBubi5Ecm9wb3V0KCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbG9sJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCA9IHByZWRbOiwgLTFdLnZpZXcoLTEpCiAgICAgICAgICAgIHkgPSB5WzosIC0xXS52aWV3KC0xKQo=</text>
       </register>
       <register name="q" type="4">
         <text>^v$p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5kaWZmKS8vOCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuYnJhaW4oaW5wdXRbOiwgLTFdLmNvbnRpZ3VvdXMoKSkudmlldygtMSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbG9sJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkX3QgPSBwcmVkX3RbOiwgLTFdLnZpZXcoLTEpCiAgICAgICAgeSA9IHlbOiwgLTFdLnZpZXcoLTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuYnJhaW4oaW5wdXRbOiwgLTFdLmNvbnRpZ3VvdXMoKSkudmlldygtMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVkX3QgPSBwcmVkX3RbOiwgLTFdLnZpZXcoLTEpCiAgICAgICAgeSA9IHlbOiwgLTFdLnZpZXcoLTEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLCBubi5Ecm9wb3V0KCksIG5uLkVMVSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0VML1JlTC9n</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -746,9 +746,9 @@
         <entry>%s/Drop/AlphaDrop/g</entry>
         <entry>%s/EL/SEL/g</entry>
         <entry encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
