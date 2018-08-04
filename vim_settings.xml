@@ -7,11 +7,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533350589355">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="67" column="44" />
-        <mark key="^" line="67" column="44" />
-        <mark key="." line="67" column="44" />
+        <mark key="'" line="20" column="35" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="44" />
+        <mark key="^" line="51" column="44" />
+        <mark key="." line="51" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -692,7 +692,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -746,8 +746,8 @@
         <entry>%s/Drop/AlphaDrop/g</entry>
         <entry>%s/EL/SEL/g</entry>
         <entry encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
