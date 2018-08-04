@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533350589355">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533418717745">
         <mark key="'" line="20" column="35" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="44" />
-        <mark key="^" line="51" column="44" />
-        <mark key="." line="51" column="44" />
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="43" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="43" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -486,12 +486,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533415182872">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533418752626">
         <mark key="'" line="87" column="50" />
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -654,7 +654,7 @@
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>EL</text>
