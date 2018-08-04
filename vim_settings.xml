@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533346969686">
-        <mark key="'" line="24" column="35" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533350589355">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="67" column="36" />
+        <mark key="]" line="67" column="44" />
+        <mark key="^" line="67" column="44" />
+        <mark key="." line="67" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -485,12 +485,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533347066652">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533351015724">
         <mark key="'" line="85" column="50" />
-        <mark key="[" line="100" column="47" />
-        <mark key="]" line="100" column="48" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="100" column="48" />
+        <mark key="[" line="95" column="57" />
+        <mark key="]" line="95" column="59" />
+        <mark key="^" line="95" column="59" />
+        <mark key="." line="95" column="59" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -647,52 +647,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkX3QgPSBwcmVkX3RbOiwgLTFdLnZpZXcoLTEpCiAgICAgICAgeSA9IHlbOiwgLTFdLnZpZXcoLTEpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Drop</text>
       </register>
-      <register name="0" type="4">
-        <text>input.view(-1, input.shape[-1])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmVkID0gcHJlZFs6LCAtMV0udmlldygtMSkKICAgICAgICB5ID0geVs6LCAtMV0udmlldygtMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkX3QgPSBwcmVkX3RbOiwgLTFdLnZpZXcoLTEpCiAgICAgICAgeSA9IHlbOiwgLTFdLnZpZXcoLTEpCg==</text>
       </register>
       <register name="q" type="4">
         <text>^v$p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLCBubi5Ecm9wb3V0KCksIG5uLkVMVSgpLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgxMjgpLCBubi5Ecm9wb3V0KCksIG5uLkVMVSgpLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCg2NCksIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5CYXRjaE5vcm0xZCgyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwgbm4uRUxVKCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUobW9kZWwpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1vZGVsKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -734,7 +734,6 @@
         <entry>s/item/prev/g</entry>
         <entry>%s/128/64/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZC9tZWFuL2c=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
         <entry>s/high/low/s</entry>
         <entry>s/high/low/g</entry>
@@ -748,6 +747,7 @@
         <entry>%s/EL/SEL/g</entry>
         <entry encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
