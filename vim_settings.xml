@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533458217796">
-        <mark key="'" line="20" column="35" />
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="37" column="58" />
-        <mark key="." line="37" column="58" />
-        <mark key="^" line="37" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533495902840">
+        <mark key="'" line="46" column="58" />
+        <mark key="[" line="47" column="56" />
+        <mark key="]" line="47" column="67" />
+        <mark key="." line="47" column="67" />
+        <mark key="^" line="47" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -544,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="67" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" />
       <jump line="43" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="10" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
@@ -644,37 +643,38 @@
       <jump line="66" column="49" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="127" column="24" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="166" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="46" column="58" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2ZpbGUgPSAnc2F2ZXMvU05ldDFlLTQucHQnCg==</text>
+      <register name="&quot;" type="4">
+        <text>LayerNorm</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>LayerNorm</text>
       </register>
       <register name="/" type="4">
-        <text>BatchNorm1d</text>
+        <text>LayerNorm</text>
       </register>
       <register name="0" type="4">
         <text>nn.ELU(), nn.LayerNorm(256), nn.Dropout(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2ZpbGUgPSAnc2F2ZXMvU05ldDFlLTQucHQnCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lbTEgPSBubi5MU1RNKDEyOCwgMjU2KQo=</text>
       </register>
       <register name="q" type="4">
         <text>^v$p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhcCA9IG5uLlNlcXVlbnRpYWwobm4uRUxVKCksIG5uLkxheWVyTm9ybSgxMjgpLCBubi5Ecm9wb3V0KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpbGUgPSAnc2F2ZXMvU05ldDFlLTQucHQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
@@ -683,30 +683,29 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGVwb2NoICUgMTAgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkKaWYgYW5uZWFsOgogICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLlJlZHVjZUxST25QbGF0ZWF1KG9wdGltaXplciwgZmFjdG9yPTAuNSkK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>BatchNorm1d</last-search>
+      <last-search>LayerNorm</last-search>
       <last-offset />
-      <last-pattern>BatchNorm1d</last-pattern>
-      <last-replace>LayerNorm</last-replace>
-      <last-substitute>BatchNorm1d</last-substitute>
+      <last-pattern>LayerNorm</last-pattern>
+      <last-replace>BatchNorm1d</last-replace>
+      <last-substitute>LayerNorm</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fnet</entry>
         <entry>batch</entry>
         <entry>close</entry>
         <entry>diff</entry>
@@ -726,9 +725,9 @@
         <entry>EL</entry>
         <entry>ReL</entry>
         <entry>BatchNorm1d</entry>
+        <entry>LayerNorm</entry>
       </history-search>
       <history-cmd>
-        <entry>s/item/prev/g</entry>
         <entry>%s/128/64/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZC9tZWFuL2c=</entry>
         <entry>s/high/low/s</entry>
@@ -748,6 +747,7 @@
         <entry encoding="base64">JzwsJz5zL1JlTC9FTC9n</entry>
         <entry encoding="base64">JzwsJz5zL0JhdGNoTm9ybTFkL0xheWVyTm9ybS9n</entry>
         <entry>action EditorJoinLines</entry>
+        <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
