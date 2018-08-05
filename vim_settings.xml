@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533425583688">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533458217796">
         <mark key="'" line="20" column="35" />
-        <mark key="[" line="40" column="64" />
-        <mark key="]" line="40" column="64" />
-        <mark key="." line="40" column="64" />
-        <mark key="^" line="40" column="64" />
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="58" />
+        <mark key="." line="37" column="58" />
+        <mark key="^" line="37" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -485,12 +485,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533425330481">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533458497863">
         <mark key="'" line="87" column="50" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -647,49 +647,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scheduler.optimizer.param_groups[-1]['lr'],</text>
+        <text>256</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>scheduler.optimizer.param_groups[-1]['lr'],</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>BatchNorm1d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgyNTYpLCBubi5Ecm9wb3V0KCksCg==</text>
+      <register name="0" type="4">
+        <text>nn.ELU(), nn.LayerNorm(256), nn.Dropout(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>^v$p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGVwb2NoICUgMTAgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkKaWYgYW5uZWFsOgogICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLlJlZHVjZUxST25QbGF0ZWF1KG9wdGltaXplciwgZmFjdG9yPTAuNSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uTGF5ZXJOb3JtKDI1NiksIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkVMVSgpLCBubi5MYXllck5vcm0oMjU2KSwgbm4uRHJvcG91dCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDI1NiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlci5udW1fYmFkX2Vwb2Nocwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplci4K</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3B0aW1pemVyLnBhcmFtX2dyb3Vwcwo=</text>
+        <text encoding="base64">ICAgIGlmIGVwb2NoICUgMTAgPT0gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplciA9IHRvcmNoLm9wdGltLkFkYW0obmV0LnBhcmFtZXRlcnMoKSwgbHI9bHIsIHdlaWdodF9kZWNheT13ZWlnaHRfZGVjYXkpCiAgICBpZiBhbm5lYWw6CiAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkKaWYgYW5uZWFsOgogICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLlJlZHVjZUxST25QbGF0ZWF1KG9wdGltaXplciwgZmFjdG9yPTAuNSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uTGF5ZXJOb3JtKDI1NiksIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkVMVSgpLCBubi5MYXllck5vcm0oMjU2KSwgbm4uRHJvcG91dCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDI1NiksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
