@@ -84,11 +84,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533459163908">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533460439889">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -647,13 +647,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>BatchNorm1d</text>
