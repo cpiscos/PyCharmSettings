@@ -485,12 +485,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533484741926">
-        <mark key="'" line="87" column="50" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533485082115">
+        <mark key="'" line="86" column="50" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
         <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -646,8 +646,8 @@
       <jump line="166" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpbGUgPSAnc2F2ZXMvU05ldDFlLTQucHQnCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -662,13 +662,13 @@
         <text>nn.ELU(), nn.LayerNorm(256), nn.Dropout(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpbGUgPSAnc2F2ZXMvU05ldDFlLTQucHQnCg==</text>
       </register>
       <register name="q" type="4">
         <text>^v$p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
@@ -680,16 +680,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGVwb2NoICUgMTAgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSB0b3JjaC5vcHRpbS5BZGFtKG5ldC5wYXJhbWV0ZXJzKCksIGxyPWxyLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQogICAgICAgIGlmIGFubmVhbDoKICAgICAgICAgICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLkNvc2luZUFubmVhbGluZ0xSKG9wdGltaXplciwgZXBvY2hzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkKaWYgYW5uZWFsOgogICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLlJlZHVjZUxST25QbGF0ZWF1KG9wdGltaXplciwgZmFjdG9yPTAuNSkK</text>
+        <text encoding="base64">ICAgIGlmIGVwb2NoICUgMTAgPT0gMDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5FTFUoKSwgbm4uTGF5ZXJOb3JtKDI1NiksIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoMjU2LCAyNTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkVMVSgpLCBubi5MYXllck5vcm0oMjU2KSwgbm4uRHJvcG91dCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDI1NiksCg==</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShuZXQucGFyYW1ldGVycygpLCBscj1sciwgd2VpZ2h0X2RlY2F5PXdlaWdodF9kZWNheSkKaWYgYW5uZWFsOgogICAgc2NoZWR1bGVyID0gdG9yY2gub3B0aW0ubHJfc2NoZWR1bGVyLlJlZHVjZUxST25QbGF0ZWF1KG9wdGltaXplciwgZmFjdG9yPTAuNSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
