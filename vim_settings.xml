@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533503855850">
-        <mark key="'" line="86" column="61" />
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="65" column="32" />
-        <mark key="." line="65" column="32" />
-        <mark key="^" line="65" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533507349401">
+        <mark key="'" line="89" column="61" />
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="25" />
+        <mark key="." line="101" column="38" />
+        <mark key="^" line="97" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -651,19 +651,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, momentum=0.9</text>
+        <text>init_weights</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, momentum=0.9</text>
+        <text>init_weights</text>
       </register>
       <register name="/" type="4">
         <text>SGD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjX3QgPSB0b3JjaC53aGVyZShwcmVkLnZpZXcoLTEpID4gMC41LCBvbmVzLCB6ZXJvcykgPT0geQo=</text>
+        <text encoding="base64">ZGVmIGluaXRfd2VpZ2h0cyhtKToKICAgIGlmIHR5cGUobSkgPT0gbm4uTGluZWFyOgogICAgICAgIG5uLmluaXQua2FpbWluZ19ub3JtYWxfKG0ud2VpZ2h0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhY2NfdCA9IHlbW25wLmFyZ3doZXJlKHByZWRfdC52aWV3KC0xKS5jcHUoKS5kZXRhY2goKS5udW1weSgpID4gMC41KV1dCg==</text>
