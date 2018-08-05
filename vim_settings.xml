@@ -489,12 +489,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533504167845">
-        <mark key="'" line="86" column="50" />
-        <mark key="[" line="153" column="32" />
-        <mark key="]" line="153" column="33" />
-        <mark key="^" line="153" column="33" />
-        <mark key="." line="153" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533506436181">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="124" column="95" />
+        <mark key="]" line="124" column="96" />
+        <mark key="^" line="124" column="96" />
+        <mark key="." line="124" column="96" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -548,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="87" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="88" column="16" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
@@ -648,19 +647,20 @@
       <jump line="77" column="50" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="81" column="35" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="86" column="61" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="21" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NfdCA9IHlbW25wLmFyZ3doZXJlKHByZWRfdC52aWV3KC0xKS5jcHUoKS5kZXRhY2goKS5udW1weSgpID4gMC41KV1dCg==</text>
+      <register name="&quot;" type="4">
+        <text>, momentum=0.9</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>, momentum=0.9</text>
       </register>
       <register name="/" type="4">
-        <text>128</text>
+        <text>SGD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWNjX3QgPSB0b3JjaC53aGVyZShwcmVkLnZpZXcoLTEpID4gMC41LCBvbmVzLCB6ZXJvcykgPT0geQo=</text>
@@ -700,9 +700,9 @@
       </register>
     </registers>
     <search>
-      <last-search>128</last-search>
+      <last-search>SGD</last-search>
       <last-offset />
-      <last-pattern>128</last-pattern>
+      <last-pattern>SGD</last-pattern>
       <last-replace>64</last-replace>
       <last-substitute>128</last-substitute>
       <last-dir>1</last-dir>
@@ -710,8 +710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diff</entry>
-        <entry>p</entry>
         <entry>date</entry>
         <entry>end</entry>
         <entry>high</entry>
@@ -730,6 +728,8 @@
         <entry>LayerNorm</entry>
         <entry>256</entry>
         <entry>128</entry>
+        <entry>adam</entry>
+        <entry>SGD</entry>
       </history-search>
       <history-cmd>
         <entry>s/high/low/s</entry>
