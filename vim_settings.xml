@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533511000591">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533514880760">
         <mark key="'" line="94" column="61" />
-        <mark key="[" line="126" column="45" />
-        <mark key="]" line="126" column="48" />
-        <mark key="." line="126" column="48" />
-        <mark key="^" line="126" column="48" />
+        <mark key="[" line="95" column="45" />
+        <mark key="]" line="95" column="64" />
+        <mark key="." line="95" column="64" />
+        <mark key="^" line="95" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -489,12 +489,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533511018900">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533514834178">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="11" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="19" />
         <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
@@ -651,13 +651,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>init_weights</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>init_weights</text>
       </register>
       <register name="/" type="4">
         <text>SGD</text>
