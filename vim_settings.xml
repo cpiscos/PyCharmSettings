@@ -498,12 +498,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533525319861">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1533529799534">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="19" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
         <mark key="^" line="166" column="41" />
-        <mark key="." line="14" column="19" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
