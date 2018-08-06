@@ -6,8 +6,11 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533524774828">
-        <mark key="^" line="164" column="76" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533526857291">
+        <mark key="[" line="223" column="30" />
+        <mark key="]" line="223" column="31" />
+        <mark key="^" line="203" column="30" />
+        <mark key="." line="223" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -657,19 +660,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhcCA9IG5uLkxTVE0oNjQsIDY0KSAjLCBudW1fbGF5ZXJzPTEsIGRyb3BvdXQ9MC41KQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYucmVzaWRub3JtMShpbnB1dCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Truee</text>
+        <text encoding="base64">IG5uLkJhdGNoTm9ybTFkKDY0KSw=</text>
       </register>
       <register name="/" type="4">
         <text>SGD</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dG9yY2gud2hlcmUocHJlZF90LnZpZXcoLTEpID4gMC41LCBvbmVzLCB6ZXJvcyk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYucmVzaWRub3JtMShpbnB1dCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmdhcCA9IG5uLkxTVE0oNjQsIDY0KSAjLCBudW1fbGF5ZXJzPTEsIGRyb3BvdXQ9MC41KQo=</text>
