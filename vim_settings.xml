@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1531548076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533540269300">
-        <mark key="'" line="24" column="17" />
-        <mark key="[" line="301" column="38" />
-        <mark key="]" line="301" column="38" />
-        <mark key="^" line="302" column="29" />
-        <mark key="." line="301" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1533541454621">
+        <mark key="'" line="257" column="22" />
+        <mark key="[" line="257" column="53" />
+        <mark key="]" line="256" column="62" />
+        <mark key="." line="257" column="62" />
+        <mark key="^" line="256" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="122" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="140" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="65" column="32" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
@@ -658,25 +657,26 @@
       <jump line="302" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="306" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="24" column="17" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="257" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgaW5wdXQgPSBpbnB1dC52aWV3KHNoYXBlWzBdLCBzaGFwZVsxXSwgLTEpCiAgICAgICAgaW5wdXQxLCBfID0gc2VsZi5nYXAxKGlucHV0KQogICAgICAgIGlucHV0MiwgXyA9IHNlbGYuZ2FwMihpbnB1dCkKICAgICAgICBpbnB1dCwgXyA9IHNlbGYuZ2FwKGlucHV0KQogICAgICAgIGlucHV0ID0gaW5wdXQgKyBpbnB1dDEgKyBpbnB1dDIKICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoLTEsIGlucHV0LnNoYXBlWy0xXSkKICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTMoaW5wdXQpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>norm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHhhdmllcl91bmlmb3JtKG0pOgogICAgaWYgdHlwZShtKSA9PSBubi5MaW5lYXI6CiAgICAgICAgbm4uaW5pdC54YXZpZXJfdW5pZm9ybV8obS53ZWlnaHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0yID0gbm4uQmF0Y2hOb3JtMWQoNjQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaW5wdXQgPSBpbnB1dC52aWV3KHNoYXBlWzBdLCBzaGFwZVsxXSwgLTEpCiAgICAgICAgaW5wdXQxLCBfID0gc2VsZi5nYXAxKGlucHV0KQogICAgICAgIGlucHV0MiwgXyA9IHNlbGYuZ2FwMihpbnB1dCkKICAgICAgICBpbnB1dCwgXyA9IHNlbGYuZ2FwKGlucHV0KQogICAgICAgIGlucHV0ID0gaW5wdXQgKyBpbnB1dDEgKyBpbnB1dDIKICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoLTEsIGlucHV0LnNoYXBlWy0xXSkKICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTMoaW5wdXQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -702,31 +702,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGVbMF0sIHNoYXBlWzFdLCAtMSkKICAgICAgICBpbnB1dDEsIF8gPSBzZWxmLmdhcDEoaW5wdXQpCiAgICAgICAgaW5wdXQyLCBfID0gc2VsZi5nYXAyKGlucHV0KQogICAgICAgIGlucHV0LCBfID0gc2VsZi5nYXAoaW5wdXQpCiAgICAgICAgaW5wdXQgPSBpbnB1dCArIGlucHV0MSArIGlucHV0MgogICAgICAgIGlucHV0ID0gaW5wdXQudmlldygtMSwgaW5wdXQuc2hhcGVbLTFdKQogICAgICAgIGlucHV0ID0gc2VsZi5ub3JtMyhpbnB1dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhcGEgPSBubi5MU1RNKDY0LCA2NCkgICMgLCBudW1fbGF5ZXJzPTEsIGRyb3BvdXQ9MC41KQogICAgICAgIHNlbGYuZ2FwYTEgPSBubi5MU1RNKDY0LCA2NCkKICAgICAgICBzZWxmLmdhcGEyID0gbm4uTFNUTSg2NCwgNjQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dDMsIF8gPSBzZWxmLmdhcDMoaW5wdXQpCiAgICAgICAgaW5wdXQ0LCBfID0gc2VsZi5nYXA0KGlucHV0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dDIsIF8gPSBzZWxmLmdhcDIoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dDMsIF8gPSBzZWxmLmdhcDMoaW5wdXQpCiAgICAgICAgaW5wdXQ0LCBfID0gc2VsZi5nYXA0KGlucHV0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGluaXRfeGF2aWVyKG0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhcDMgPSBubi5MU1RNKDEyOCwgNjQpCiAgICAgICAgc2VsZi5nYXA0ID0gbm4uTFNUTSgxMjgsIDY0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -780,8 +780,8 @@
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
-        <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
