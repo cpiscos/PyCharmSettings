@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533666593971">
-        <mark key="'" line="142" column="47" />
-        <mark key="[" line="141" column="27" />
-        <mark key="]" line="141" column="28" />
-        <mark key="." line="141" column="28" />
-        <mark key="^" line="138" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533679914325">
+        <mark key="'" line="141" column="47" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533664013870">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533679456465">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="365" column="102" />
-        <mark key="]" line="365" column="102" />
-        <mark key="." line="365" column="102" />
-        <mark key="^" line="365" column="102" />
+        <mark key="[" line="370" column="43" />
+        <mark key="]" line="370" column="45" />
+        <mark key="." line="370" column="45" />
+        <mark key="^" line="370" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -673,13 +673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yID0gMQo=</text>
+        <text encoding="base64">ZmFjdG9yID0gMQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>/factor</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg3LCAxNiwgMiwgMiksIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgxNiksIG5uLkRyb3BvdXQyZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDE2LCAzMiwgMiwgMiksIG5uLkVMVSgpLCBubi5Ecm9wb3V0MmQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yID0gMQo=</text>
+        <text encoding="base64">ZmFjdG9yID0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -714,28 +714,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZmFjdG9yID0gZmFjdG9yKjMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyYXRpb24rPTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXygpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVyYXRpb24rPTEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXygpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</text>
@@ -748,7 +748,7 @@
       <last-replace>100</last-replace>
       <last-substitute>200</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
