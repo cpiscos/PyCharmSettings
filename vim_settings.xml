@@ -90,11 +90,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533618595747">
-        <mark key="[" line="143" column="31" />
-        <mark key="]" line="145" column="28" />
-        <mark key="." line="145" column="28" />
-        <mark key="^" line="145" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533620802424">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -451,12 +451,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533617566314">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533620783044">
         <mark key="'" line="83" column="47" />
-        <mark key="[" line="83" column="62" />
-        <mark key="]" line="75" column="77" />
-        <mark key="." line="83" column="76" />
-        <mark key="^" line="75" column="77" />
+        <mark key="[" line="280" column="13" />
+        <mark key="]" line="280" column="15" />
+        <mark key="." line="280" column="15" />
+        <mark key="^" line="280" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -669,19 +669,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0aW9uID0gKGN5Y2xlLTEpKjEwICsgZXBvY2gK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoLTEsIGlucHV0LnNoYXBlWy0xXSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>upscale</text>
       </register>
       <register name="/" type="4">
         <text>LayerNorm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1zIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6CiAgICAgICAgICAgIGl0ZXJhdGlvbiA9IChjeWNsZS0xKSoxMCArIGVwb2NoCiAgICAgICAgICAgIGxyID0gcGFyYW1zWydsciddCiAgICAgICAgICAgIGlmIGl0ZXJhdGlvbiA8PSAyMDA6CiAgICAgICAgICAgICAgICBsciA9IDFlLTIgKyAoKDEuNS0oMWUtMikpLzIwMCkqaXRlcmF0aW9uCiAgICAgICAgICAgICAgICBtb21lbnR1bSA9IDAuOSAtICgoMC45LTAuMSkvMjAwKSppdGVyYXRpb24KICAgICAgICAgICAgZWxpZiBpdGVyYXRpb24gPD0gNDAwOgogICAgICAgICAgICAgICAgbHIgPSAxLjUgLSAoKDEuNS0oMWUtMikpLzIwMCkqKGl0ZXJhdGlvbi0yMDApCiAgICAgICAgICAgICAgICBtb21lbnR1bSA9IDAuMSArICgoMC45LTAuMSkvMjAwKSooaXRlcmF0aW9uLTIwMCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxyID0gbHIgKiAwLjkKICAgICAgICAgICAgICAgIG1vbWVudHVtID0gMC45NQogICAgICAgICAgICBwYXJhbXNbJ2xyJ10gPSBscgogICAgICAgICAgICBwYXJhbXNbJ21vbWVudHVtJ10gPSBtb21lbnR1bQogICAgICAgICAgICBwcmludCgnJykKICAgICAgICAgICAgcHJpbnQoaXRlcmF0aW9uLCBwYXJhbXNbJ2xyJ10sIHBhcmFtc1snbW9tZW50dW0nXSwgbWF4X3Byb2ZpdCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoLTEsIGlucHV0LnNoYXBlWy0xXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0aW9uID0gKGN5Y2xlLTEpKjEwICsgZXBvY2gK</text>
