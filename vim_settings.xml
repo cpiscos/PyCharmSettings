@@ -90,10 +90,10 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533625022943">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533625632292">
+        <mark key="[" line="129" column="56" />
+        <mark key="]" line="129" column="56" />
+        <mark key="." line="129" column="56" />
         <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -451,11 +451,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533624958496">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533625725068">
         <mark key="'" line="88" column="47" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+        <mark key="[" line="341" column="42" />
+        <mark key="]" line="341" column="42" />
+        <mark key="." line="341" column="42" />
         <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
@@ -668,14 +668,14 @@
       <jump line="83" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGhlKG0pOgogICAgaWYgdHlwZShtKSA9PSBubi5MaW5lYXI6CiAgICAgICAgbm4uaW5pdC5rYWltaW5nX25vcm1hbF8obS53ZWlnaHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5uLkRyb3BvdXQoKSw=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>kaiming_uniform_</text>
+        <text encoding="base64">IG5uLkRyb3BvdXQoKSw=</text>
       </register>
       <register name="/" type="4">
         <text>LayerNorm</text>
