@@ -90,10 +90,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533628841419">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533629686249">
+        <mark key="'" line="142" column="47" />
+        <mark key="[" line="142" column="43" />
+        <mark key="]" line="142" column="43" />
+        <mark key="." line="142" column="43" />
         <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -569,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="68" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="143" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="144" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
@@ -669,19 +669,20 @@
       <jump line="14" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/Old/networks.py" />
       <jump line="369" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>5</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>transpose</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg3LCAxNiwgMiwgMiksIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgxNiksIG5uLkRyb3BvdXQyZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDE2LCAzMiwgMiwgMiksIG5uLkVMVSgpLCBubi5Ecm9wb3V0MmQoKSwK</text>
@@ -737,21 +738,20 @@
         <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0aW9uID0gKGN5Y2xlLTEpKjEwICsgZXBvY2gK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>transpose</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>transpose</last-pattern>
-      <last-replace>BatchNorm1d</last-replace>
-      <last-substitute>LayerNorm</last-substitute>
+      <last-pattern>200</last-pattern>
+      <last-replace>100</last-replace>
+      <last-substitute>200</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sched</entry>
         <entry>-1</entry>
         <entry>EL</entry>
         <entry>ReL</entry>
@@ -771,9 +771,9 @@
         <entry>ELU</entry>
         <entry>LayerNorm</entry>
         <entry>transpose</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
-        <entry>s/:/2:/g</entry>
         <entry>%s/ELU/SELU/g</entry>
         <entry>%s/Dropout/AlphaDropout/g</entry>
         <entry>%s/Alpha//g</entry>
@@ -793,6 +793,7 @@
         <entry encoding="base64">JzwsJz5zL0VMVS9SZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry>action EditorJoinLines</entry>
+        <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
