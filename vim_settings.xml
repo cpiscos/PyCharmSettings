@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533630401408">
-        <mark key="'" line="142" column="47" />
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="141" column="23" />
-        <mark key="." line="141" column="23" />
-        <mark key="^" line="141" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533631576096">
+        <mark key="'" line="141" column="47" />
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="48" />
+        <mark key="." line="106" column="48" />
+        <mark key="^" line="106" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -672,14 +672,14 @@
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg3LCAxNiwgMiwgMiksIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgxNiksIG5uLkRyb3BvdXQyZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDE2LCAzMiwgMiwgMiksIG5uLkVMVSgpLCBubi5Ecm9wb3V0MmQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -714,28 +714,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVyYXRpb24rPTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZW5ndGggPSBpbnQoc2hhcGVbMV0vNCo3KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0aW9uID0gKGN5Y2xlLTEpKjEwICsgZXBvY2gK</text>
+        <text encoding="base64">ICAgICAgICBsZW5ndGggPSBpbnQoc2hhcGVbMV0vNCo3KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</text>
