@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533660913103">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533663885119">
         <mark key="'" line="141" column="47" />
-        <mark key="[" line="140" column="33" />
-        <mark key="]" line="140" column="34" />
-        <mark key="." line="140" column="34" />
-        <mark key="^" line="137" column="30" />
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="32" />
+        <mark key="." line="140" column="32" />
+        <mark key="^" line="140" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533627927001">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533664013870">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="368" column="86" />
-        <mark key="]" line="364" column="98" />
-        <mark key="." line="368" column="99" />
-        <mark key="^" line="364" column="98" />
+        <mark key="[" line="365" column="102" />
+        <mark key="]" line="365" column="102" />
+        <mark key="." line="365" column="102" />
+        <mark key="^" line="365" column="102" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -672,14 +672,14 @@
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
