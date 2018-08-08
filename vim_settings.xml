@@ -90,7 +90,7 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533686856878">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533696148734">
         <mark key="'" line="141" column="47" />
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="12" />
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533688206352">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533698710092">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="419" column="0" />
-        <mark key="^" line="418" column="26" />
-        <mark key="." line="419" column="0" />
+        <mark key="[" line="452" column="0" />
+        <mark key="]" line="452" column="0" />
+        <mark key="." line="452" column="0" />
+        <mark key="^" line="451" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -673,13 +673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>cat</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgICAgICBnYXRlID0gc2VsZi5hdHQoaW5wdXRbOiwgOiwgMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,28 +708,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnYXRlMQogICAgICAgIGdhdGUyCiAgICAgICAgZ2F0ZTMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgYXR0ZW50aW9uLnNoYXBlKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgYXR0ZW50aW9uLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLnRyYW5zcG9zZShpbnB1dCwgMSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLnRyYW5zcG9zZShpbnB1dCwgMSwgMikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBnYXRlMQogICAgICAgIGdhdGUyCiAgICAgICAgZ2F0ZTMK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
