@@ -90,11 +90,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533763037935">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533768329013">
         <mark key="'" line="133" column="8" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="13" />
-        <mark key="." line="170" column="0" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
         <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -300,7 +300,7 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1533767599880">
+      <file name="/Python Console" timestamp="1533768278802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
