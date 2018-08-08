@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533696148734">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533701392784">
         <mark key="'" line="141" column="47" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="137" column="32" />
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533698710092">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533700662190">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="452" column="0" />
-        <mark key="]" line="452" column="0" />
-        <mark key="." line="452" column="0" />
-        <mark key="^" line="451" column="40" />
+        <mark key="[" line="339" column="49" />
+        <mark key="]" line="338" column="66" />
+        <mark key="." line="339" column="66" />
+        <mark key="^" line="338" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -672,14 +672,14 @@
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgICAgICBnYXRlID0gc2VsZi5hdHQoaW5wdXRbOiwgOiwgMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBhdHRlbnRpb24gPSBzZWxmLmF0dChpbnB1dCkudW5zcXVlZXplKDIpCiAgICAgICAgaW5wdXQgPSBpbnB1dC52aWV3KHNoYXBlWzBdLCBzaGFwZVsxXSwgLTEpCiAgICAgICAgaW5wdXQgPSBpbnB1dCphdHRlbnRpb24KICAgICAgICBpbnB1dCA9IGlucHV0LnN1bSgxKQogICAgICAgIGlucHV0ID0gc2VsZi5icmFpbihpbnB1dCkudmlldygtMSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,31 +708,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgYXR0ZW50aW9uLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgYXR0ZW50aW9uLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgYXR0ZW50aW9uLnNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnYXRlMQogICAgICAgIGdhdGUyCiAgICAgICAgZ2F0ZTMK</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -786,8 +786,8 @@
         <entry encoding="base64">JzwsJz5zL0VMVS9SZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
