@@ -41,7 +41,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533518917955">
+      <file name="/a.dummy" timestamp="1533762578566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533740444586">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533763037935">
         <mark key="'" line="133" column="8" />
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="109" column="19" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="13" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -300,7 +300,7 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1533599096833">
+      <file name="/Python Console" timestamp="1533764063736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -452,12 +452,18 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533760535044">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533761132464">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="472" column="27" />
-        <mark key="]" line="472" column="43" />
-        <mark key="." line="472" column="43" />
-        <mark key="^" line="472" column="43" />
+        <mark key="[" line="531" column="71" />
+        <mark key="]" line="531" column="7" />
+        <mark key="." line="531" column="7" />
+        <mark key="^" line="531" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1533763575365">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -673,13 +679,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyb3I6CiAgICAgICAgcHJpbnQoZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>batch_loss</text>
@@ -688,7 +694,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyb3I6CiAgICAgICAgcHJpbnQoZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,28 +714,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzb3VyY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF90cmFpbiA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfdHJhaW4gKz0geC5zaGFwZVswXQogICAgICAgIHByaW50KHRvdGFsX3RyYWluKQo=</text>
+        <text encoding="base64">aWYgbG9hZDoK</text>
       </register>
-      <register name="5" type="4">
-        <text>ap.sum()</text>
+      <register name="5" type="2">
+        <text encoding="base64">bG9hZCA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFjY190KQo=</text>
+        <text encoding="base64">c2F2ZSA9IEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByZWRfdF8gPSBwcmVkLmRldGFjaCgpLmNwdSgpLnZpZXcoLTEpLm51bXB5KCkKICAgIHByZWRfZGlyID0gbnAud2hlcmUocHJlZF90XyA+IDAuNSwgMSwgLTEpCiAgICBhcCA9IHByZWRfZGlyICogcC5udW1weSgpICogMTAwMDAK</text>
+        <text encoding="base64">ICAgIGlmIHNhdmU6CiAgICAgICAgdG9yY2guc2F2ZShuZXQuc3RhdGVfZGljdCgpLCBzYXZlX2ZpbGUpCiAgICAgICAgcHJpbnQoJ3NhdmVkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnN0YXJ0ID0gdGltZS50aW1lKCkKdHJhaW5fbG9zcyA9IFtdCnRlc3RfbG9zcyA9IFtdCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpZy50Cg==</text>
+        <text encoding="base64">bWF4X2FjYyA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
