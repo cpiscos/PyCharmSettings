@@ -90,11 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533709498369">
-        <mark key="[" line="165" column="12" />
-        <mark key="]" line="165" column="23" />
-        <mark key="." line="165" column="23" />
-        <mark key="^" line="165" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533716813128">
+        <mark key="'" line="136" column="8" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="12" />
+        <mark key="." line="174" column="12" />
+        <mark key="^" line="172" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -451,11 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533709481546">
-        <mark key="'" line="342" column="8" />
-        <mark key="[" line="481" column="0" />
-        <mark key="]" line="481" column="51" />
-        <mark key="." line="481" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533715835358">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="435" column="68" />
+        <mark key="]" line="435" column="77" />
+        <mark key="." line="435" column="77" />
+        <mark key="^" line="435" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -568,9 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
-      <jump line="144" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="19" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
@@ -605,7 +604,6 @@
       <jump line="130" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="132" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="133" column="21" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="136" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="61" column="15" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="40" column="4" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="84" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
@@ -665,28 +663,32 @@
       <jump line="370" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="14" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/Old/networks.py" />
       <jump line="369" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="339" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="500" column="51" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="506" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="134" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="136" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW1zWydsciddLCBwYXJhbXNbJ21vbWVudHVtJ10pCg==</text>
+        <text encoding="base64">ICAgIGVuZCgpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>train_loss</text>
       </register>
       <register name="/" type="4">
-        <text>7</text>
+        <text>batch_loss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9tb21lbnR1bSA9IG1heF9tb21lbnR1bQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGFyYW1zWydsciddLCBwYXJhbXNbJ21vbWVudHVtJ10pCg==</text>
+        <text encoding="base64">ICAgIGVuZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -706,37 +708,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3B0aW1pemVyLnBhcmFtX2dyb3Vwc1stMV1bJ21vbWVudHVtJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5icmVha2NvdW50ICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5icmVha2NvdW50ID4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgQ3ljbGljYWwgTGVhcm5pbmcgUmF0ZS4KICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5icmVha2NvdW50ID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdsbycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tYXhfbHIgLSBucC5hYnMoKHNlbGYubWF4X2xyIC0gc2VsZi5taW5fbHIpL3NlbGYuc3RlcHNpemUgKiAoc2VsZi5pdGVyYXRpb24gLSBzZWxmLnN0ZXBzaXplKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>7</last-search>
+      <last-search>batch_loss</last-search>
       <last-offset />
-      <last-pattern>7</last-pattern>
+      <last-pattern>batch_loss</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>7</last-substitute>
       <last-dir>1</last-dir>
@@ -744,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EL</entry>
         <entry>ReL</entry>
         <entry>BatchNorm1d</entry>
         <entry>256</entry>
@@ -764,6 +765,7 @@
         <entry>transpose</entry>
         <entry>200</entry>
         <entry>7</entry>
+        <entry>batch_loss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Dropout/AlphaDropout/g</entry>
@@ -783,8 +785,8 @@
         <entry encoding="base64">JzwsJz5zL0VMVS9SZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
-        <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zLzcvMS9n</entry>
+        <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
