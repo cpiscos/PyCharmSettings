@@ -90,11 +90,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533685923017">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533686856878">
         <mark key="'" line="141" column="47" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
         <mark key="^" line="137" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533679456465">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533688206352">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="370" column="43" />
-        <mark key="]" line="370" column="45" />
-        <mark key="." line="370" column="45" />
-        <mark key="^" line="370" column="45" />
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="0" />
+        <mark key="^" line="418" column="26" />
+        <mark key="." line="419" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -672,73 +672,67 @@
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>cat</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYgPSBubi5TZXF1ZW50aWFsKG5uLkNvbnYxZCg3LCAxNiwgMiwgMiksIG5uLkVMVSgpLCBubi5CYXRjaE5vcm0xZCgxNiksIG5uLkRyb3BvdXQyZCgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uQ29udjFkKDE2LCAzMiwgMiwgMiksIG5uLkVMVSgpLCBubi5Ecm9wb3V0MmQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBnYXRlID0gc2VsZi5hdHQoaW5wdXRbOiwgOiwgMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmFjdG9yID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zdGFjawo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="41" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
           <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZmFjdG9yID0gZmFjdG9yKjMK</text>
+        <text encoding="base64">ICAgICAgICBnYXRlMQogICAgICAgIGdhdGUyCiAgICAgICAgZ2F0ZTMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVyYXRpb24rPTEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLnRyYW5zcG9zZShpbnB1dCwgMSwgMikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLnRyYW5zcG9zZShpbnB1dCwgMSwgMikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -748,7 +742,7 @@
       <last-replace>100</last-replace>
       <last-substitute>200</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -787,13 +781,13 @@
         <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5zLyppdC8pKml0L2c=</entry>
         <entry encoding="base64">JzwsJz5FTFUvUmVMVS9n</entry>
         <entry encoding="base64">JzwsJz5zL0VMVS9SZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
-        <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
