@@ -90,12 +90,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533716813128">
-        <mark key="'" line="136" column="8" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="12" />
-        <mark key="." line="174" column="12" />
-        <mark key="^" line="172" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533720317172">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="4" />
+        <mark key="." line="113" column="4" />
+        <mark key="^" line="109" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -673,13 +673,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyb3I6CiAgICAgICAgcHJpbnQoZXJyb3IpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>train_loss</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>batch_loss</text>
@@ -688,7 +688,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyb3I6CiAgICAgICAgcHJpbnQoZXJyb3IpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,28 +708,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5icmVha2NvdW50ICs9IDEK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5icmVha2NvdW50ID4gCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF90cmFpbiA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5icmVha2NvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxfdHJhaW4gKz0geC5zaGFwZVswXQogICAgICAgIHByaW50KHRvdGFsX3RyYWluKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>ap.sum()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIHByaW50KGFjY190KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
+        <text encoding="base64">ICAgIHByZWRfdF8gPSBwcmVkLmRldGFjaCgpLmNwdSgpLnZpZXcoLTEpLm51bXB5KCkKICAgIHByZWRfZGlyID0gbnAud2hlcmUocHJlZF90XyA+IDAuNSwgMSwgLTEpCiAgICBhcCA9IHByZWRfZGlyICogcC5udW1weSgpICogMTAwMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpZy50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
