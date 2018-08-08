@@ -90,12 +90,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533702465100">
-        <mark key="'" line="142" column="47" />
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="87" column="36" />
-        <mark key="." line="87" column="36" />
-        <mark key="^" line="87" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533707457705">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="12" />
+        <mark key="." line="164" column="12" />
+        <mark key="^" line="148" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -452,12 +451,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533702420254">
-        <mark key="'" line="339" column="8" />
-        <mark key="[" line="347" column="26" />
-        <mark key="]" line="347" column="26" />
-        <mark key="." line="347" column="26" />
-        <mark key="^" line="347" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533707594644">
+        <mark key="'" line="341" column="8" />
+        <mark key="[" line="467" column="30" />
+        <mark key="]" line="466" column="22" />
+        <mark key="^" line="466" column="22" />
+        <mark key="." line="466" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -673,22 +672,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p1, p2, p3, p4, p5, d</text>
+        <text>optimizer, max_lr, min_lr, stepsize, cooldown_factor, cooldown_step</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>p1, p2, p3, p4, p5, d</text>
+        <text>optimizer, max_lr, min_lr, stepsize, cooldown_factor, cooldown_step</text>
       </register>
       <register name="/" type="4">
         <text>7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRpZmYgPSBucC5jb25jYXRlbmF0ZSgocDEsIHAyLCBwMywgcDQsIHA1LCBkaWZmLCByYW5nZSwgc2VsZi5kaWZmWzosIC0xOl0pLCBheGlzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubm9ybShpbnB1dC52aWV3KC0xLCBzaGFwZVstMV0pKS52aWV3KHNoYXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpdGVyYXRpb24rPTEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,31 +707,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFyYW1zIGluIG9wdGltaXplci5wYXJhbV9ncm91cHM6CiAgICAgICAgICAgIGxyID0gcGFyYW1zWydsciddCiAgICAgICAgICAgIGlmIGl0ZXJhdGlvbiA8PSAxNTA6CiAgICAgICAgICAgICAgICBsciA9IDFlLTIgKyAoKDMtKDFlLTIpKS8xNTApKml0ZXJhdGlvbgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSAwLjk1IC0gKCgwLjk1LTAuODUpLzE1MCkqaXRlcmF0aW9uCiAgICAgICAgICAgIGVsaWYgaXRlcmF0aW9uIDw9IDMwMDoKICAgICAgICAgICAgICAgIGxyID0gMyAtICgoMy0oMWUtMikpLzE1MCkqKGl0ZXJhdGlvbi0xNTApCiAgICAgICAgICAgICAgICBtb21lbnR1bSA9IDAuODUgKyAoKDAuOTUtMC44NSkvMTUwKSooaXRlcmF0aW9uLTE1MCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGxyID0gMWUtNCAqIDAuOTkgKiogaXRlcmF0aW9uCiAgICAgICAgICAgICAgICBtb21lbnR1bSA9IDAuOTUKICAgICAgICAgICAgaWYgaXRlcmF0aW9uID49IDQwMDoKICAgICAgICAgICAgICAgIGl0ZXJhdGlvbiA9IDAKICAgICAgICAgICAgcGFyYW1zWydsciddID0gbHIKICAgICAgICAgICAgcGFyYW1zWydtb21lbnR1bSddID0gbW9tZW50dW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycpCiAgICAgICAgICAgIHByaW50KGl0ZXJhdGlvbiwgcGFyYW1zWydsciddLCBwYXJhbXNbJ21vbWVudHVtJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYudXBzY2FsZShpbnB1dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzcvMS9n</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -785,9 +784,9 @@
         <entry encoding="base64">JzwsJz5zL0VMVS9SZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zLzcvMS9n</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
