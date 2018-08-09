@@ -90,8 +90,8 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533768329013">
-        <mark key="'" line="133" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1533771315410">
+        <mark key="'" line="184" column="8" />
         <mark key="[" line="24" column="7" />
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
@@ -300,7 +300,7 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1533768278802">
+      <file name="/Python Console" timestamp="1533771501370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -452,12 +452,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533761132464">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1533771024932">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="531" column="71" />
-        <mark key="]" line="531" column="7" />
-        <mark key="." line="531" column="7" />
-        <mark key="^" line="531" column="7" />
+        <mark key="[" line="456" column="29" />
+        <mark key="]" line="456" column="35" />
+        <mark key="." line="456" column="35" />
+        <mark key="^" line="456" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1533767504152">
         <mark key="[" line="18" column="24" />
@@ -576,8 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
-      <jump line="19" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="29" column="24" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
       <jump line="7" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv1.py" />
@@ -676,6 +674,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="134" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="136" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="184" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
