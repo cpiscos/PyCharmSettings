@@ -300,7 +300,7 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1533788833480">
+      <file name="/Python Console" timestamp="1533860773970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -459,11 +459,11 @@
         <mark key="." line="457" column="35" />
         <mark key="^" line="457" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1533767504152">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1533859955779">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -678,14 +678,14 @@
       <jump line="184" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>batch_loss</text>

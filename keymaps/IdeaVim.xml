@@ -10,7 +10,7 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="CheckinProject" />
   <action id="CloseActiveTab">
