@@ -96,12 +96,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534009620744">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534011739447">
         <mark key="'" line="155" column="14" />
         <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="17" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -116,12 +116,6 @@
         <mark key="]" line="86" column="48" />
         <mark key="." line="86" column="48" />
         <mark key="^" line="86" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/game.py" timestamp="1532219358744">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
         <mark key="'" line="2" column="13" />
@@ -306,7 +300,13 @@
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="70" />
       </file>
-      <file name="/Python Console" timestamp="1534009345691">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn-pytorch-master/addition_test.py" timestamp="1534012304432">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="/Python Console" timestamp="1534012345445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -319,12 +319,12 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="50" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010520174">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
         <mark key="'" line="10" column="35" />
         <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="17" />
-        <mark key="^" line="14" column="69" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
@@ -465,12 +465,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534010441064">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534011785774">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="481" column="46" />
-        <mark key="]" line="481" column="46" />
-        <mark key="^" line="479" column="78" />
-        <mark key="." line="481" column="46" />
+        <mark key="[" line="481" column="33" />
+        <mark key="]" line="481" column="33" />
+        <mark key="^" line="481" column="32" />
+        <mark key="." line="481" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1533865472405">
         <mark key="[" line="21" column="13" />
@@ -549,12 +549,6 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533267446025">
-        <mark key="'" line="108" column="44" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="21" />
@@ -589,9 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
-      <jump line="103" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
-      <jump line="104" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="105" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="106" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
       <jump line="107" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" />
@@ -670,7 +661,6 @@
       <jump line="136" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="184" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="132" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="153" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="146" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -689,19 +679,23 @@
       <jump line="57" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" />
       <jump line="59" column="23" filename="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" />
       <jump line="10" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="132" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="147" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="155" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>torch.zeros(self.hidden_size)</text>
+        <text>.</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>torch.zeros(self.hidden_size)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>hidden_init</text>
+        <text>sch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxyID0gc2VsZi5zdGFydF9scgogICAgICAgICAgICAgICAgbW9tZW50dW0gPSBzZWxmLm1heF9tb21lbnR1bQo=</text>
@@ -755,9 +749,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidden_init</last-search>
+      <last-search>sch</last-search>
       <last-offset />
-      <last-pattern>hidden_init</last-pattern>
+      <last-pattern>sch</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>7</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>norm</entry>
         <entry>ams</entry>
         <entry>*it</entry>
         <entry>gapa</entry>
@@ -785,6 +778,7 @@
         <entry>weight_ih</entry>
         <entry encoding="base64">XDxoaWRkZW5fbWF4X2Fic1w+</entry>
         <entry>hidden_init</entry>
+        <entry>sch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Dropout/AlphaDropout/g</entry>
