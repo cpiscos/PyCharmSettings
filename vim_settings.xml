@@ -271,6 +271,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks1.py" timestamp="1533267446025">
+        <mark key="'" line="108" column="44" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris2.py" timestamp="1530228050227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -325,12 +331,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534022083034">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534023531791">
         <mark key="'" line="160" column="14" />
         <mark key="[" line="37" column="28" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="178" column="17" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -345,6 +351,12 @@
         <mark key="]" line="86" column="48" />
         <mark key="." line="86" column="48" />
         <mark key="^" line="86" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/game.py" timestamp="1532219358744">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
         <mark key="'" line="25" column="0" />
@@ -505,12 +517,11 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534022191023">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="499" column="44" />
-        <mark key="]" line="499" column="12" />
-        <mark key="^" line="499" column="12" />
-        <mark key="." line="499" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534024168975">
+        <mark key="'" line="496" column="53" />
+        <mark key="[" line="467" column="0" />
+        <mark key="]" line="467" column="48" />
+        <mark key="." line="467" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -652,7 +663,6 @@
       <jump line="369" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="339" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="500" column="51" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="506" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="134" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -694,25 +704,26 @@
       <jump line="52" column="23" filename="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/addition_test.py" />
       <jump line="58" column="12" filename="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/addition_test.py" />
       <jump line="129" column="19" filename="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/indrnn.py" />
+      <jump line="500" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpbi5iaWFzLmRhdGEuZmlsbF8oMCkKICAgICAgICBzZWxmLmxpbi53ZWlnaHQuZGF0YS5ub3JtYWxfKDAsIC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5sc3RtKGlucHV0LCBoaWRkZW4pCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>num_directions</text>
+        <text>FNet11</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICogZmFjdG9y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpbi5iaWFzLmRhdGEuZmlsbF8oMCkKICAgICAgICBzZWxmLmxpbi53ZWlnaHQuZGF0YS5ub3JtYWxfKDAsIC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5sc3RtKGlucHV0LCBoaWRkZW4pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -732,37 +743,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRlc3QgPT0gRmFsc2U6CiAgICAgICAgICAgIGZhY3RvciA9IDEgaWYgbnAucmFuZG9tLnJhbmRuKCkgPiAwIGVsc2UgLTEK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dDEsIGhpZGRlbiA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChfWzBdLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgZm9yd2FyZChzZWxmLCB4LCBoaWRkZW49Tm9uZSk6CiAgICAgICAgeSwgXyA9IHNlbGYuaW5kcm5uKHgsIGhpZGRlbikKICAgICAgICByZXR1cm4gc2VsZi5saW4oeVstMV0pLnNxdWVlemUoMSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gaW5wdXQudmlldyhzaGFwZVswXSwgLTEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubmV0KGlucHV0KS5zcXVlZXplKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGlucHV0LnNoYXBlKQogICAgICAgICMgcHJpbnQoX1swXS5zaGFwZSwgX1sxXS5zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UkVDVVJSRU5UX01BWCA9IHBvdygyLCAxIC8gYXJncy50aW1lX3N0ZXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0WzosIDosIC0yOl0uc3F1ZWV6ZSgpCiAgICAgICAgc2hhcGUgPSBpbnB1dC5zaGFwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVDVVJSRU5UX01BWCA9IHBvdygyLCAxIC8gYXJncy50aW1lX3N0ZXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbi5iaWFzLmRhdGEuZmlsbF8oMCkKICAgICAgICBzZWxmLmxpbi53ZWlnaHQuZGF0YS5ub3JtYWxfKDAsIC4wMSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>num_directions</last-search>
+      <last-search>FNet11</last-search>
       <last-offset />
-      <last-pattern>num_directions</last-pattern>
+      <last-pattern>FNet11</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>7</last-substitute>
       <last-dir>1</last-dir>
@@ -770,7 +781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dropout</entry>
         <entry>BatchNorm</entry>
         <entry>ELU</entry>
         <entry>LayerNorm</entry>
@@ -790,6 +800,7 @@
         <entry>hidden</entry>
         <entry>input</entry>
         <entry>num_directions</entry>
+        <entry>FNet11</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Dropout/AlphaDropout/g</entry>
