@@ -559,12 +559,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534127690634">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534195970776">
         <mark key="'" line="156" column="21" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
         <mark key="^" line="180" column="31" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
