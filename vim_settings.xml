@@ -559,12 +559,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534091354145">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534122048727">
         <mark key="'" line="157" column="21" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="14" column="19" />
+        <mark key="[" line="179" column="24" />
+        <mark key="]" line="179" column="24" />
+        <mark key="^" line="181" column="31" />
+        <mark key="." line="179" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
@@ -703,13 +703,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>tensor</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>tensor</text>
       </register>
       <register name="/" type="4">
         <text>lrs</text>
