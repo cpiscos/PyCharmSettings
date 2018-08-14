@@ -559,9 +559,9 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534255674652">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534280722407">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="32" column="62" />
+        <mark key="[" line="32" column="64" />
         <mark key="]" line="32" column="64" />
         <mark key="." line="32" column="64" />
         <mark key="^" line="32" column="64" />
@@ -702,14 +702,14 @@
       <jump line="67" column="8" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>600</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
