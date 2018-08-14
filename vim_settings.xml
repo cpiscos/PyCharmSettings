@@ -559,12 +559,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534206515148">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534216466894">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="12" />
-        <mark key="." line="166" column="12" />
-        <mark key="^" line="165" column="60" />
+        <mark key="[" line="166" column="66" />
+        <mark key="]" line="167" column="19" />
+        <mark key="." line="167" column="19" />
+        <mark key="^" line="167" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
@@ -703,7 +703,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGVfbGVuOgogICAgICAgICAgICAgICAgZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -718,7 +718,7 @@
         <text>2 * self.stepsize + self.cooldown_step</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGVfbGVuOgogICAgICAgICAgICAgICAgZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -738,28 +738,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA+PSBzY2hlZHVsZXIuY3ljbGVfbGVuLTEwMDoKICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGVfbGVuOgogICAgICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
+        <text encoding="base64">ICAgIGVuZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplciA9IHRvcmNoLm9wdGltLlNHRChuZXQucGFyYW1ldGVycygpLCBscj1scikjLCB3ZWlnaHRfZGVjYXk9d2VpZ2h0X2RlY2F5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</text>
