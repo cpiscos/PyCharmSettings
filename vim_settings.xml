@@ -285,8 +285,8 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534275710354">
-        <mark key="'" line="278" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534281584733">
+        <mark key="'" line="442" column="11" />
         <mark key="[" line="431" column="38" />
         <mark key="]" line="432" column="33" />
         <mark key="." line="432" column="33" />
@@ -600,12 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="17" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="257" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="139" column="48" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
-      <jump line="209" column="33" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="211" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="212" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="213" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="238" column="52" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="239" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -700,6 +694,12 @@
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="20" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="67" column="8" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
+      <jump line="408" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="412" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="415" column="15" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="430" column="33" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="431" column="16" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="442" column="11" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,7 +712,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>self.breakdown</text>
       </register>
       <register name="0" type="4">
         <text>2 * self.stepsize + self.cooldown_step</text>
@@ -766,9 +766,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>self.breakdown</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>self.breakdown</last-pattern>
       <last-replace>LeakyReL</last-replace>
       <last-substitute>EL</last-substitute>
       <last-dir>1</last-dir>
@@ -776,7 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sch</entry>
         <entry>recurrent</entry>
         <entry>hidden</entry>
         <entry>input</entry>
@@ -796,6 +795,7 @@
         <entry>end</entry>
         <entry>lrs</entry>
         <entry>save</entry>
+        <entry>self.breakdown</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Alpha//g</entry>
