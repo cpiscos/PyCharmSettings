@@ -326,6 +326,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534285055278">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
         <mark key="'" line="132" column="12" />
         <mark key="[" line="132" column="39" />
@@ -484,13 +490,6 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533518984467">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1530664309835">
         <mark key="[" line="0" column="0" />
@@ -702,8 +701,8 @@
       <jump line="442" column="11" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmlmIHNraXAgIT0gMDoKICAgIHNraXAgPSBzb3J0ZWQoWy0xIC0gc2tpcCAqIGkgZm9yIGkgaW4gbnAuYXJhbmdlKG5wLmZsb29yKGxlbihkZikgLyBza2lwKSkuYXN0eXBlKGludCldKQogICAgZGYgPSBkZltza2lwXQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -718,7 +717,7 @@
         <text>2 * self.stepsize + self.cooldown_step</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIHNraXAgIT0gMDoKICAgIHNraXAgPSBzb3J0ZWQoWy0xIC0gc2tpcCAqIGkgZm9yIGkgaW4gbnAuYXJhbmdlKG5wLmZsb29yKGxlbihkZikgLyBza2lwKSkuYXN0eXBlKGludCldKQogICAgZGYgPSBkZltza2lwXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -738,25 +737,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA+PSBzY2hlZHVsZXIuY3ljbGVfbGVuLTEwMDoKICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGVfbGVuOgogICAgICAgICAgICAgICAgZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA+PSBzY2hlZHVsZXIuY3ljbGVfbGVuLTEwMDoKICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGVfbGVuOgogICAgICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgIGVuZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
