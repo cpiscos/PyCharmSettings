@@ -155,7 +155,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534355160244">
+      <file name="/Python Console" timestamp="1534356949182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -191,11 +191,11 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" timestamp="1534355156639">
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" timestamp="1534356945916">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/nalu.py" timestamp="1534289829049">
         <mark key="[" line="37" column="0" />
@@ -254,11 +254,11 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/models/nac.py" timestamp="1534348706393">
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="53" />
-        <mark key="^" line="32" column="53" />
-        <mark key="." line="32" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/models/nac.py" timestamp="1534356722048">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -707,22 +707,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, weight_decay=1e-5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, weight_decay=1e-5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLk1faGF0LCBhPW1hdGguc3FydCg1KSkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLldbLTFdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -742,28 +742,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciB4IGluIFg6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNjaCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ampqamoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh5Wy0zOl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh5Wy0zOl0pCg==</text>
+        <text encoding="base64">ICAgIGZvciB4IGluIFg6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdLm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0yID0gQmF0Y2hOb3JtMWRMYXN0KDEyOCwgbW9tZW50dW09MC45KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh5Wy0zOl0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
