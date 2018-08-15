@@ -203,6 +203,11 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/models/nalu.py" timestamp="1534289829049">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
         <mark key="[" line="113" column="15" />
@@ -255,6 +260,12 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/models/nac.py" timestamp="1534293169505">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="37" column="13" />
+        <mark key="^" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
         <mark key="[" line="35" column="0" />
@@ -285,12 +296,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534289364862">
-        <mark key="'" line="459" column="11" />
-        <mark key="[" line="384" column="32" />
-        <mark key="]" line="384" column="32" />
-        <mark key="." line="384" column="32" />
-        <mark key="^" line="384" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534295058441">
+        <mark key="[" line="387" column="33" />
+        <mark key="]" line="328" column="31" />
+        <mark key="." line="328" column="31" />
+        <mark key="^" line="328" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -326,10 +336,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534288986221">
-        <mark key="[" line="75" column="35" />
-        <mark key="]" line="75" column="36" />
-        <mark key="." line="75" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534291956789">
+        <mark key="[" line="169" column="58" />
+        <mark key="]" line="169" column="59" />
+        <mark key="." line="169" column="59" />
+        <mark key="^" line="166" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
         <mark key="'" line="132" column="12" />
@@ -441,10 +452,10 @@
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNetworks.py" timestamp="1534050111889">
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNetworks.py" timestamp="1534290325887">
         <mark key="'" line="506" column="9" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="571" column="70" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/conv.py" timestamp="1532215449720">
         <mark key="[" line="53" column="44" />
@@ -557,12 +568,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534280722407">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534296157454">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="32" column="64" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="32" column="64" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
@@ -598,11 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="238" column="52" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="239" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="240" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="241" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="242" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="271" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="83" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -698,25 +704,30 @@
       <jump line="430" column="33" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="431" column="16" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="442" column="11" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="388" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="390" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="391" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="392" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
+      <jump line="393" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>16</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>self.breakdown</text>
+        <text>=</text>
       </register>
-      <register name="0" type="4">
-        <text>2 * self.stepsize + self.cooldown_step</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLk1faGF0LCBhPW1hdGguc3FydCg1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -736,45 +747,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGRkcmVkKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeSlkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBuYWx1LmxheWVycyBpbXBvcnQgTmFsdUxheWVyCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTIoaW5wdXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>self.breakdown</last-search>
+      <last-search>=</last-search>
       <last-offset />
-      <last-pattern>self.breakdown</last-pattern>
+      <last-pattern>=</last-pattern>
       <last-replace>LeakyReL</last-replace>
       <last-substitute>EL</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recurrent</entry>
         <entry>hidden</entry>
         <entry>input</entry>
         <entry>num_directions</entry>
@@ -794,6 +804,7 @@
         <entry>lrs</entry>
         <entry>save</entry>
         <entry>self.breakdown</entry>
+        <entry>=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Alpha//g</entry>
@@ -813,9 +824,9 @@
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzcvMS9n</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
