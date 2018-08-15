@@ -296,11 +296,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534295058441">
-        <mark key="[" line="387" column="33" />
-        <mark key="]" line="328" column="31" />
-        <mark key="." line="328" column="31" />
-        <mark key="^" line="328" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534298376371">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="327" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -568,12 +568,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534296911502">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="34" />
-        <mark key="." line="44" column="34" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534298303116">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
@@ -711,8 +711,8 @@
       <jump line="393" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0gMTAw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -727,7 +727,7 @@
         <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLk1faGF0LCBhPW1hdGguc3FydCg1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -747,22 +747,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeSlkZAo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeSlkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTIoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTIoaW5wdXQpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
