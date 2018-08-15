@@ -128,10 +128,6 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks1.py" timestamp="1533519052484">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="139" column="104" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532410488236">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="147" column="40" />
@@ -159,11 +155,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1533504119062">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="70" />
-      </file>
-      <file name="/Python Console" timestamp="1534256296055">
+      <file name="/Python Console" timestamp="1534299674123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -171,10 +163,6 @@
       </file>
       <file name="/fragment.py" timestamp="1530867744206">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/network_wholelstm.py" timestamp="1532222364598">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="50" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
         <mark key="'" line="10" column="35" />
@@ -273,10 +261,6 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/SNet.py" timestamp="1533615572011">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="154" column="73" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/merge_data.py" timestamp="1533317090621">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="53" />
@@ -296,11 +280,10 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534298376371">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534300860673">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="327" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -321,6 +304,12 @@
         <mark key="]" line="28" column="47" />
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/31917887/-1320542576/nalu/core/nac_cell.py" timestamp="1534299773970">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_reg.py" timestamp="1530848121108">
         <mark key="'" line="128" column="15" />
@@ -396,10 +385,6 @@
         <mark key="." line="76" column="22" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/SNetworks.py" timestamp="1533542570544">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="26" column="32" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
@@ -442,6 +427,12 @@
         <mark key="]" line="537" column="69" />
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
+      </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn-pytorch-master/addition_test.py" timestamp="1534012304432">
         <mark key="[" line="6" column="6" />
@@ -712,13 +703,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IG5hbHUK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gMTAw</text>
+        <text>kaiming_uniform_</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
@@ -727,7 +718,7 @@
         <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLk1faGF0LCBhPW1hdGguc3FydCg1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IG5hbHUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -747,28 +738,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlcgPSBQYXJhbWV0ZXIoRi50YW5oKHNlbGYuV19oYXQpICogRi5zaWdtb2lkKHNlbGYuTV9oYXQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
+        <text encoding="base64">ZnJvbSBuYWx1LmNvcmUgaW1wb3J0IE5hbHVDZWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeSlkZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlcgPSBQYXJhbWV0ZXIodGFuaChzZWxmLldfKSAqIHNpZ21vaWQoc2VsZi5NXykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IAo=</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYubm9ybTIoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCwgYT1tYXRoLnNxcnQoNSkpCiAgICAgICAgaW5pdC5rYWltaW5nX3VuaWZvcm1fKHNlbGYuTV9oYXQsIGE9bWF0aC5zcXJ0KDUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
