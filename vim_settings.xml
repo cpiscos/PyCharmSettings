@@ -155,7 +155,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534299674123">
+      <file name="/Python Console" timestamp="1534350971208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -190,6 +190,12 @@
         <mark key="]" line="79" column="9" />
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" timestamp="1534351014621">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/nalu.py" timestamp="1534289829049">
         <mark key="[" line="37" column="0" />
@@ -280,10 +286,10 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534309886404">
-        <mark key="[" line="384" column="33" />
-        <mark key="]" line="384" column="49" />
-        <mark key="." line="384" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534349693596">
+        <mark key="[" line="394" column="31" />
+        <mark key="]" line="394" column="31" />
+        <mark key="." line="394" column="31" />
         <mark key="^" line="384" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
@@ -326,12 +332,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534310094919">
-        <mark key="'" line="152" column="12" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534350080178">
+        <mark key="'" line="83" column="22" />
+        <mark key="[" line="193" column="66" />
+        <mark key="]" line="194" column="27" />
+        <mark key="." line="194" column="27" />
+        <mark key="^" line="194" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
         <mark key="'" line="132" column="12" />
@@ -526,9 +532,6 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/Old/networks.py" timestamp="1533626471064">
-        <mark key="'" line="14" column="44" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/CourseraMachineLearning/Week 3.py" timestamp="1529221569184">
         <mark key="'" line="11" column="7" />
         <mark key="[" line="12" column="31" />
@@ -561,12 +564,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534298303116">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534349936103">
         <mark key="'" line="68" column="8" />
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="]" line="191" column="26" />
+        <mark key="." line="191" column="26" />
+        <mark key="^" line="191" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
         <mark key="[" line="48" column="17" />
@@ -602,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="339" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="506" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -702,25 +703,26 @@
       <jump line="171" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="152" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="83" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>]</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>scheduler</text>
+        <text>diff</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLk1faGF0LCBhPW1hdGguc3FydCg1KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdLm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,45 +742,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMK</text>
+        <text encoding="base64">ICAgIGZvciB4IGluIFg6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0yID0gQmF0Y2hOb3JtMWRMYXN0KDEyOCwgbW9tZW50dW09MC45KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh5Wy0zOl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IG5hbHUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh5Wy0zOl0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLlcgPSBQYXJhbWV0ZXIoRi50YW5oKHNlbGYuV19oYXQpICogRi5zaWdtb2lkKHNlbGYuTV9oYXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdLm1lYW4oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBuYWx1LmNvcmUgaW1wb3J0IE5hbHVDZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0yID0gQmF0Y2hOb3JtMWRMYXN0KDEyOCwgbW9tZW50dW09MC45KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5zL2RpZmYvZGF0YS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>scheduler</last-search>
+      <last-search>diff</last-search>
       <last-offset />
-      <last-pattern>scheduler</last-pattern>
-      <last-replace>LeakyReL</last-replace>
-      <last-substitute>EL</last-substitute>
+      <last-pattern>diff</last-pattern>
+      <last-replace>data</last-replace>
+      <last-substitute>diff</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry>input</entry>
         <entry>num_directions</entry>
         <entry>FNet11</entry>
@@ -798,9 +799,9 @@
         <entry>self.breakdown</entry>
         <entry>=</entry>
         <entry>scheduler</entry>
+        <entry>diff</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Alpha//g</entry>
         <entry>%s/SE/E/g</entry>
         <entry>%s/Drop/AlphaDrop/g</entry>
         <entry>%s/EL/SEL/g</entry>
@@ -816,10 +817,11 @@
         <entry encoding="base64">JzwsJz5zL0xheWVyTm9ybS9CYXRjaE5vcm0xZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIwMC8xMDAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzcvMS9n</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZmYvZGF0YS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
