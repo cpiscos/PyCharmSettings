@@ -280,11 +280,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534303451960">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534309886404">
         <mark key="[" line="384" column="33" />
-        <mark key="]" line="384" column="33" />
-        <mark key="." line="384" column="33" />
-        <mark key="^" line="383" column="29" />
+        <mark key="]" line="384" column="49" />
+        <mark key="." line="384" column="49" />
+        <mark key="^" line="384" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -326,11 +326,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534309474922">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534310094919">
         <mark key="'" line="152" column="12" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
@@ -705,13 +705,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
