@@ -287,11 +287,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534349693596">
-        <mark key="[" line="394" column="31" />
-        <mark key="]" line="394" column="31" />
-        <mark key="." line="394" column="31" />
-        <mark key="^" line="384" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534366970297">
+        <mark key="[" line="385" column="49" />
+        <mark key="]" line="384" column="77" />
+        <mark key="." line="384" column="77" />
+        <mark key="^" line="384" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -333,12 +333,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534350080178">
-        <mark key="'" line="83" column="22" />
-        <mark key="[" line="193" column="66" />
-        <mark key="]" line="194" column="27" />
-        <mark key="." line="194" column="27" />
-        <mark key="^" line="194" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534366942507">
+        <mark key="'" line="148" column="27" />
+        <mark key="[" line="166" column="21" />
+        <mark key="]" line="166" column="21" />
+        <mark key="." line="166" column="25" />
+        <mark key="^" line="148" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
         <mark key="'" line="132" column="12" />
@@ -605,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="134" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="136" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -705,19 +704,20 @@
       <jump line="83" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="13" column="24" filename="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" />
       <jump line="25" column="10" filename="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" />
+      <jump line="148" column="27" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[i]</text>
+        <text>lin_loss</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>[i]</text>
+        <text>lin_loss</text>
       </register>
       <register name="/" type="4">
-        <text>lr=</text>
+        <text>lin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5XX2hhdCkK</text>
@@ -771,17 +771,16 @@
       </register>
     </registers>
     <search>
-      <last-search>lr=</last-search>
+      <last-search>lin</last-search>
       <last-offset />
-      <last-pattern>lr=</last-pattern>
+      <last-pattern>lin</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>diff</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FNet11</entry>
         <entry>crit</entry>
         <entry>loss</entry>
         <entry>print</entry>
@@ -801,6 +800,7 @@
         <entry>diff</entry>
         <entry>sched</entry>
         <entry>lr=</entry>
+        <entry>lin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SE/E/g</entry>
