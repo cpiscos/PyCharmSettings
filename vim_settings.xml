@@ -155,7 +155,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534350971208">
+      <file name="/Python Console" timestamp="1534352517364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -191,11 +191,11 @@
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" timestamp="1534351014621">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" timestamp="1534351131265">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/nalu.py" timestamp="1534289829049">
         <mark key="[" line="37" column="0" />
@@ -707,13 +707,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>diff</text>
