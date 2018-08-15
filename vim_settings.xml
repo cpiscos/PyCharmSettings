@@ -287,11 +287,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534366970297">
-        <mark key="[" line="385" column="49" />
-        <mark key="]" line="384" column="77" />
-        <mark key="." line="384" column="77" />
-        <mark key="^" line="384" column="77" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534367360473">
+        <mark key="[" line="385" column="45" />
+        <mark key="]" line="385" column="43" />
+        <mark key="." line="385" column="43" />
+        <mark key="^" line="385" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -333,7 +333,7 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534366942507">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534368743219">
         <mark key="'" line="148" column="27" />
         <mark key="[" line="166" column="21" />
         <mark key="]" line="166" column="21" />
@@ -708,13 +708,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lin_loss</text>
+        <text encoding="base64">bi5Ecm9wb3V0KDAuOCksIA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>lin_loss</text>
+        <text encoding="base64">bi5Ecm9wb3V0KDAuOCksIA==</text>
       </register>
       <register name="/" type="4">
         <text>lin</text>
