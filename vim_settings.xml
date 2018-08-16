@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531548076072">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
         <mark key="'" line="65" column="39" />
         <mark key="[" line="68" column="14" />
@@ -19,9 +16,6 @@
         <mark key="]" line="96" column="59" />
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
-      </file>
-      <file name="/a.dummy" timestamp="1534008554527">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
         <mark key="[" line="124" column="95" />
@@ -76,9 +70,6 @@
         <mark key="." line="28" column="85" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
         <mark key="[" line="20" column="42" />
@@ -125,9 +116,6 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
-        <mark key="[" line="0" column="46" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1532410488236">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="147" column="40" />
@@ -160,9 +148,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="/fragment.py" timestamp="1530867744206">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
         <mark key="'" line="10" column="35" />
@@ -287,12 +272,12 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534382194987">
-        <mark key="'" line="381" column="17" />
-        <mark key="[" line="384" column="43" />
-        <mark key="]" line="384" column="45" />
-        <mark key="." line="384" column="45" />
-        <mark key="^" line="384" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534390481234">
+        <mark key="'" line="382" column="17" />
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="0" />
+        <mark key="^" line="401" column="8" />
+        <mark key="." line="413" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -395,6 +380,18 @@
         <mark key="." line="76" column="22" />
         <mark key="^" line="16" column="39" />
       </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/__init__.py" timestamp="1534390237856">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/models/__init__.py" timestamp="1534390269321">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
@@ -449,9 +446,6 @@
         <mark key="]" line="6" column="6" />
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
-        <mark key="[" line="0" column="11" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNetworks.py" timestamp="1534290325887">
         <mark key="'" line="506" column="9" />
@@ -709,14 +703,14 @@
       <jump line="32" column="31" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbiA9IG5uLkxpbmVhcihoaWRkZW5fc2l6ZSwgMTApCiAgICAgICAgc2VsZi5saW4uYmlhcy5kYXRhLmZpbGxfKC4xKQogICAgICAgIHNlbGYubGluLndlaWdodC5kYXRhLm5vcm1hbF8oMCwgLjAxKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>Net, self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -726,7 +720,7 @@
                                  nn.Dropout(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpbiA9IG5uLkxpbmVhcihoaWRkZW5fc2l6ZSwgMTApCiAgICAgICAgc2VsZi5saW4uYmlhcy5kYXRhLmZpbGxfKC4xKQogICAgICAgIHNlbGYubGluLndlaWdodC5kYXRhLm5vcm1hbF8oMCwgLjAxKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -746,31 +740,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhZGllbnRfY2xpcD01Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[{'params': net.nalu.parameters()},
-                             {'params': net.norm.parameters()},
-                             {'params': net.rnn.parameters()},
-                             {'params': net.out.parameters(), 'weight_decay': 1e-4}]</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2gubm4udXRpbHMuY2xpcF9ncmFkX25vcm1fKG5ldC5ybm4ucGFyYW1ldGVycygpLCApCg==</text>
+        <text encoding="base64">Y3VkYSA9IHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5ub3JtKGlucHV0LnZpZXcoLTEsIDEpKS52aWV3KHNoYXBlKQo=</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IEluZFJOTkNlbGwsIEluZFJOTgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2gubm4udXRpbHMuY2xpcF9ncmFkX25vcm1fKG5ldC5ybm4ucCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
