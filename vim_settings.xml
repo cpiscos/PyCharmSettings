@@ -334,12 +334,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534383015630">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534383211584">
         <mark key="'" line="151" column="27" />
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="7" />
         <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="11" />
+        <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
         <mark key="'" line="132" column="12" />
@@ -710,13 +710,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
