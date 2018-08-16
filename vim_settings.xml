@@ -155,7 +155,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534358487518">
+      <file name="/Python Console" timestamp="1534382001884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -287,11 +287,12 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534377378260">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534382194987">
         <mark key="'" line="381" column="17" />
-        <mark key="[" line="384" column="0" />
-        <mark key="]" line="384" column="0" />
-        <mark key="." line="384" column="0" />
+        <mark key="[" line="384" column="43" />
+        <mark key="]" line="384" column="45" />
+        <mark key="." line="384" column="45" />
+        <mark key="^" line="384" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/actor_critic.py" timestamp="1532221669924">
         <mark key="'" line="86" column="50" />
@@ -333,11 +334,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534377526771">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534379535982">
         <mark key="'" line="151" column="27" />
-        <mark key="[" line="34" column="81" />
-        <mark key="]" line="34" column="82" />
-        <mark key="." line="34" column="82" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
         <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
@@ -565,11 +566,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534375555335">
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNet.py" timestamp="1534379512165">
         <mark key="'" line="32" column="31" />
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="34" />
         <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/cnn-benchmarks/run_cnn_benchmarks.py" timestamp="1530387999482">
@@ -708,14 +709,14 @@
       <jump line="32" column="31" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>128</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>nn.Linear(256, 256), nn.LeakyReLU(),</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
