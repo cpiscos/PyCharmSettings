@@ -162,7 +162,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534476780022">
+      <file name="/Python Console" timestamp="1534478009456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -348,12 +348,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534477001643">
-        <mark key="'" line="155" column="13" />
-        <mark key="[" line="134" column="43" />
-        <mark key="]" line="135" column="20" />
-        <mark key="." line="135" column="20" />
-        <mark key="^" line="135" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534478006343">
+        <mark key="'" line="154" column="13" />
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="98" column="50" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -740,14 +740,14 @@
       <jump line="66" column="33" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>x.shape, y.shape, p.shape, close.shape</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sigmoid</text>
@@ -756,7 +756,7 @@
         <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IEluZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ZW5kX3N0YXRlID0gRmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -776,31 +776,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIHRlc3RfYmF0Y2hdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIGJhdGNoXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIGJhdGNoXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbmRybm4gaW1wb3J0IEluZFJOTgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/F.sigmoid/torch.sigmoid/g</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -854,8 +854,8 @@
         <entry encoding="base64">JzwsJz5zL2RpZmYvZGF0YS9n</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/F.sigmoid/torch.sigmoid/g</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
