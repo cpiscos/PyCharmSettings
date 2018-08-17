@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1531548076072">
+      <file name="/start_script.py" timestamp="1534479128673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
@@ -162,7 +162,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534478009456">
+      <file name="/Python Console" timestamp="1534478849675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -348,12 +348,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534478006343">
-        <mark key="'" line="154" column="13" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="98" column="50" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534478898172">
+        <mark key="'" line="152" column="13" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="21" />
+        <mark key="^" line="132" column="52" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -401,6 +401,12 @@
         <mark key="]" line="76" column="22" />
         <mark key="." line="76" column="22" />
         <mark key="^" line="16" column="39" />
+      </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/SNetworks.py" timestamp="1534478586277">
+        <mark key="[" line="489" column="34" />
+        <mark key="]" line="489" column="38" />
+        <mark key="^" line="489" column="38" />
+        <mark key="." line="489" column="38" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/__init__.py" timestamp="1534390237856">
         <mark key="[" line="3" column="0" />
@@ -553,11 +559,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534476178830">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534478621607">
         <mark key="'" line="451" column="60" />
-        <mark key="[" line="514" column="0" />
-        <mark key="]" line="514" column="0" />
-        <mark key="." line="514" column="0" />
+        <mark key="[" line="591" column="34" />
+        <mark key="]" line="591" column="38" />
+        <mark key="." line="591" column="38" />
+        <mark key="^" line="591" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -740,23 +747,23 @@
       <jump line="66" column="33" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb2ZpdCA9IGFwLnN1bSgpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, stop_count</text>
       </register>
       <register name="/" type="4">
         <text>sigmoid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IEluZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmN5Y2xlX2xlbiA9IDIgKiBzZWxmLnN0ZXBzaXplICsgc2VsZi5jb29sZG93bl9zdGVwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5kX3N0YXRlID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHByb2ZpdCA9IGFwLnN1bSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -776,28 +783,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIHRlc3RfYmF0Y2hdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByb2ZpdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgIHN0b3BfY291bnQgKz0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">c3RvcF9jb3VudCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIGlmIHN0b3BfY291bnQgPj0gMTAwMDA6CiAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCgpCg==</text>
+        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShlcG9jaHMpOiAgIyByYW5nZShlcG9jaHMpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIGJhdGNoXSkK</text>
+        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShlcG9jaHMpOiAgIyByYW5nZShlcG9jaHMpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluCg==</text>
+        <text encoding="base64">ZW5kX3N0YXRlID0gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKltpLnNoYXBlIGZvciBpIGluIHRlc3RfYmF0Y2hdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
