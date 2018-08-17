@@ -319,11 +319,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534459718002">
-        <mark key="'" line="151" column="27" />
-        <mark key="[" line="34" column="81" />
-        <mark key="]" line="34" column="82" />
-        <mark key="." line="34" column="82" />
+      <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534462300464">
+        <mark key="'" line="194" column="8" />
+        <mark key="[" line="118" column="48" />
+        <mark key="]" line="118" column="48" />
+        <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534048316451">
@@ -601,11 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="153" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="146" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="36" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="131" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="154" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" />
@@ -691,7 +686,6 @@
       <jump line="32" column="2" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="33" column="2" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="168" column="13" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
-      <jump line="171" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="152" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="83" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
@@ -701,19 +695,25 @@
       <jump line="385" column="33" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="381" column="17" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="32" column="31" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
+      <jump line="36" column="18" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="157" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="170" column="13" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="171" column="40" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="174" column="40" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
+      <jump line="194" column="8" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbXNcPg==</text>
+        <text>schedu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgU05ldDUobm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLm5hbHUgPSBOQUxVKDIsIDQsIDEyOCwgMjU2KQogICAgICAgIHNlbGYubm9ybSA9IEJhdGNoTm9ybTFkTGFzdCgyNTYsIG1vbWVudHVtPTAuOSkKICAgICAgICBzZWxmLnJubiA9IG5uLkxTVE0oMjU2LCAyNTYsIGJhdGNoX2ZpcnN0PVRydWUsIG51bV9sYXllcnM9MikKICAgICAgICBzZWxmLm91dCA9IG5uLlNlcXVlbnRpYWwoIyBubi5MaW5lYXIoMjU2LCAxMjgpLCBubi5MZWFreVJlTFUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uTGluZWFyKDI1NiwgMSksIG5uLlNpZ21vaWQoKSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCk6CiAgICAgICAgIyBubi51dGlscy5jbGlwX2dyYWRfbm9ybV8oc2VsZi5ybm4ucGFyYW1ldGVycygpLCA1MCkKICAgICAgICBzaGFwZSA9IGlucHV0LnNoYXBlCiAgICAgICAgIyBpbnB1dCA9IHNlbGYubm9ybShpbnB1dC52aWV3KC0xLCAxKSkudmlldyhzaGFwZSkKICAgICAgICBpbnB1dCA9IHNlbGYubmFsdShpbnB1dC52aWV3KC0xLCBzaGFwZVstMV0pKS52aWV3KCpzaGFwZVs6LTFdLCAtMSkKICAgICAgICBpbnB1dCA9IHNlbGYubm9ybShpbnB1dCkKICAgICAgICBpbnB1dCwgXyA9IHNlbGYucm5uKGlucHV0KQogICAgICAgIGlucHV0ID0gc2VsZi5vdXQoaW5wdXQpLnNxdWVlemUoKQogICAgICAgIHJldHVybiBpbnB1dCwgaW5wdXRbLTM6LCAtMV0udmlldygtMSkudG9saXN0KCkK</text>
@@ -767,9 +767,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
+      <last-search>schedu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
+      <last-pattern>schedu</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>diff</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ap</entry>
         <entry>EL</entry>
         <entry>n_layer</entry>
         <entry>bns</entry>
@@ -797,6 +796,7 @@
         <entry encoding="base64">XDxublw+</entry>
         <entry>norm1</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry>schedu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SE/E/g</entry>
