@@ -162,7 +162,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534558430673">
+      <file name="/Python Console" timestamp="1534559733697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -204,11 +204,6 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/models/nalu.py" timestamp="1534289829049">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
@@ -348,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534556137184">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534559713729">
         <mark key="'" line="156" column="13" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="25" />
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="12" />
         <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -439,16 +434,17 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/addition_test.py" timestamp="1534017789824">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="70" column="40" />
-        <mark key="." line="52" column="14" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/network.py" timestamp="1531672805732">
         <mark key="[" line="107" column="59" />
         <mark key="]" line="107" column="47" />
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/__init__.py" timestamp="1534558914759">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -469,12 +465,11 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534558510922">
-        <mark key="'" line="20" column="56" />
-        <mark key="[" line="287" column="46" />
-        <mark key="]" line="287" column="44" />
-        <mark key="." line="287" column="44" />
-        <mark key="^" line="287" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534559771484">
+        <mark key="'" line="287" column="7" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="." line="292" column="0" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -559,11 +554,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534556746481">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534561341786">
         <mark key="'" line="451" column="60" />
-        <mark key="]" line="523" column="0" />
-        <mark key="." line="523" column="0" />
-        <mark key="^" line="523" column="0" />
+        <mark key="[" line="534" column="0" />
+        <mark key="]" line="534" column="0" />
+        <mark key="." line="534" column="0" />
+        <mark key="^" line="528" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -644,9 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
-      <jump line="20" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="408" column="26" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="412" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
       <jump line="415" column="15" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
@@ -744,25 +737,28 @@
       <jump line="230" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="20" column="56" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="292" column="24" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="286" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>bias</text>
+        <text>att</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW5kKDEyOCwgMTI4LCA4LCAxLCBGYWxzZSksIG5uLkRyb3BvdXQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBzZWxmLnJubjIoaGlkZGVuKQogICAgICAgIGluX2hpZGRlbiA9IHNlbGYuYXR0ZW4yKGlucHV0LCBoaWRkZW4pCiAgICAgICAgaW5wdXQgPSBzZWxmLnJubjIoaW5wdXQsIGluX2hpZGRlbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -782,45 +778,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW5kQXR0ZW50aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNoYXBlID0gaW5wdXQuc2hhcGUKICAgICAgICAjIGlucHV0ID0gc2VsZi5uYWx1KGlucHV0LnZpZXcoLTEsIDQpKS52aWV3KCpzaGFwZVs6LTFdLCAtMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgaGlkZGVuID0gc2VsZi5ybm4xKGhpZGRlbikKICAgICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMShpbnB1dCwgaGlkZGVuKQogICAgICAgIGlucHV0ID0gc2VsZi5ybm4xKGlucHV0LCBpbl9oaWRkZW4pCgogICAgICAgIGhpZGRlbiA9IHNlbGYucm5uMihoaWRkZW4pCiAgICAgICAgaW5faGlkZGVuID0gc2VsZi5hdHRlbjIoaW5wdXQsIGhpZGRlbikKICAgICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dCwgaW5faGlkZGVuKQoKICAgICAgICBoaWRkZW4gPSBzZWxmLnJubjMoaGlkZGVuKQogICAgICAgIGluX2hpZGRlbiA9IHNlbGYuYXR0ZW4zKGlucHV0LCBoaWRkZW4pCiAgICAgICAgaW5wdXQgPSBzZWxmLnJubjMoaW5wdXQsIGluX2hpZGRlbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmF0dGVuID0gSW5kQXR0ZW50aW9uKDQ0LCA4KQogICAgICAgIHNlbGYucm5uMSA9IEluZCgxMjgsIDEyOCwgOCwgMSwgRmFsc2UpCiAgICAgICAgc2VsZi5hdHRlbjEgPSBJbmRBdHRlbnRpb24oMTI4LCA4KQogICAgICAgIHNlbGYucm5uMiA9IEluZCgxMjgsIDEyOCwgOCwgMSwgRmFsc2UpCiAgICAgICAgc2VsZi5hdHRlbjIgPSBJbmRBdHRlbnRpb24oMTI4LCA4KQogICAgICAgIHNlbGYucm5uMyA9IEluZCgxMjgsIDEyOCwgOCwgMSwgRmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmgwKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0WzosIC0xOl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmgwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmF0dGVuMSA9IEluZEF0dGVudGlvbig0NCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>bias</last-search>
+      <last-search>att</last-search>
       <last-offset />
-      <last-pattern>bias</last-pattern>
-      <last-replace>torch.sigmoid</last-replace>
-      <last-substitute>F.sigmoid</last-substitute>
+      <last-pattern>att</last-pattern>
+      <last-replace>self.att</last-replace>
+      <last-substitute>att</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lrs</entry>
         <entry>save</entry>
         <entry>self.breakdown</entry>
         <entry>=</entry>
@@ -840,9 +835,9 @@
         <entry>self.cells</entry>
         <entry>self.h0</entry>
         <entry>bias</entry>
+        <entry>att</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Drop/AlphaDrop/g</entry>
         <entry>%s/EL/SEL/g</entry>
         <entry encoding="base64">JzwsJz5zL0Ryb3AvQWxwaGFEcm9wL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
@@ -859,9 +854,10 @@
         <entry encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmYvZGF0YS9n</entry>
         <entry>%s/F.sigmoid/torch.sigmoid/g</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zL2F0dC9zZWxmLmF0dC9n</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
