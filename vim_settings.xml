@@ -162,7 +162,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534481575485">
+      <file name="/Python Console" timestamp="1534556078972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -469,12 +469,12 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534552760634">
-        <mark key="'" line="66" column="33" />
-        <mark key="[" line="248" column="43" />
-        <mark key="]" line="248" column="42" />
-        <mark key="." line="248" column="42" />
-        <mark key="^" line="248" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534556069374">
+        <mark key="'" line="231" column="17" />
+        <mark key="[" line="227" column="55" />
+        <mark key="]" line="228" column="20" />
+        <mark key="." line="228" column="20" />
+        <mark key="^" line="228" column="20" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -644,9 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="21" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
-      <jump line="156" column="21" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
-      <jump line="155" column="45" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="175" column="43" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="176" column="37" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNet.py" />
@@ -744,6 +741,9 @@
       <jump line="15" column="58" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="22" column="49" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="66" column="33" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="226" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="105" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="230" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -756,7 +756,7 @@
         <text>RECURRENT_MAX</text>
       </register>
       <register name="/" type="4">
-        <text>sigmoid</text>
+        <text>self.h0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW5kKDEyOCwgMTI4LCA4LCAxLCBGYWxzZSksIG5uLkRyb3BvdXQoKSwK</text>
@@ -810,9 +810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sigmoid</last-search>
+      <last-search>self.h0</last-search>
       <last-offset />
-      <last-pattern>sigmoid</last-pattern>
+      <last-pattern>self.h0</last-pattern>
       <last-replace>torch.sigmoid</last-replace>
       <last-substitute>F.sigmoid</last-substitute>
       <last-dir>1</last-dir>
@@ -820,8 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scheduler.step</entry>
-        <entry>optimizer</entry>
         <entry>end</entry>
         <entry>lrs</entry>
         <entry>save</entry>
@@ -840,6 +838,8 @@
         <entry>F.sigmoid</entry>
         <entry>tanh</entry>
         <entry>sigmoid</entry>
+        <entry>self.cells</entry>
+        <entry>self.h0</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Drop/AlphaDrop/g</entry>
