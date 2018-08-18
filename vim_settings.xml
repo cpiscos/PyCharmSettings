@@ -554,12 +554,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534561341786">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534562672025">
         <mark key="'" line="451" column="60" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="534" column="0" />
-        <mark key="^" line="528" column="7" />
+        <mark key="[" line="530" column="45" />
+        <mark key="]" line="530" column="44" />
+        <mark key="." line="530" column="44" />
+        <mark key="^" line="530" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -802,7 +802,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmF0dGVuMSA9IEluZEF0dGVudGlvbig0NCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -854,10 +854,10 @@
         <entry encoding="base64">JzwsJz5zL0VML0xlYWt5UmVML2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RpZmYvZGF0YS9n</entry>
         <entry>%s/F.sigmoid/torch.sigmoid/g</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL2F0dC9zZWxmLmF0dC9n</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
