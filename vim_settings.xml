@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534630249148">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534644166842">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="12" column="6" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -465,12 +465,12 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534618115595">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534643380669">
         <mark key="'" line="286" column="7" />
-        <mark key="[" line="181" column="76" />
-        <mark key="]" line="181" column="75" />
-        <mark key="." line="181" column="75" />
-        <mark key="^" line="181" column="75" />
+        <mark key="[" line="287" column="38" />
+        <mark key="]" line="287" column="40" />
+        <mark key="." line="287" column="40" />
+        <mark key="^" line="287" column="40" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534616641928">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534644260915">
         <mark key="'" line="529" column="37" />
-        <mark key="[" line="529" column="39" />
-        <mark key="]" line="529" column="39" />
-        <mark key="." line="529" column="42" />
-        <mark key="^" line="521" column="45" />
+        <mark key="[" line="531" column="8" />
+        <mark key="]" line="531" column="8" />
+        <mark key="." line="531" column="8" />
+        <mark key="^" line="567" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -738,25 +738,25 @@
       <jump line="159" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="530" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="525" column="46" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="528" column="40" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="525" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="528" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="529" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDg=</text>
+        <text>#</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDg=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>8</text>
+        <text>128</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcG91dDEoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBzZWxmLnJubjIoaGlkZGVuKQogICAgICAgIGF0dGVuX2hpZGRlbiA9IHNlbGYucm5uMihpbnB1dCkKICAgICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMihhdHRlbl9oaWRkZW4sIGhpZGRlbikKICAgICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dCwgaW5faGlkZGVuKQogICAgICAgIGlucHV0ID0gc2VsZi5kcm9wb3V0MihpbnB1dCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gRi5kcm9wb3V0KGlucHV0KQo=</text>
@@ -807,9 +807,9 @@
       </register>
     </registers>
     <search>
-      <last-search>8</last-search>
+      <last-search>128</last-search>
       <last-offset />
-      <last-pattern>8</last-pattern>
+      <last-pattern>128</last-pattern>
       <last-replace>seq_len</last-replace>
       <last-substitute>8</last-substitute>
       <last-dir>1</last-dir>
@@ -817,7 +817,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.breakdown</entry>
         <entry>=</entry>
         <entry>diff</entry>
         <entry>sched</entry>
@@ -837,6 +836,7 @@
         <entry>att</entry>
         <entry>scheduler</entry>
         <entry>8</entry>
+        <entry>128</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
