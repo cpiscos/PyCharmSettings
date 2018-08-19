@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534644166842">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534644762109">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="27" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="31" />
         <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="27" />
+        <mark key="." line="95" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534644260915">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534644616175">
         <mark key="'" line="529" column="37" />
-        <mark key="[" line="531" column="8" />
-        <mark key="]" line="531" column="8" />
-        <mark key="." line="531" column="8" />
-        <mark key="^" line="567" column="7" />
+        <mark key="[" line="537" column="43" />
+        <mark key="]" line="537" column="43" />
+        <mark key="." line="537" column="44" />
+        <mark key="^" line="536" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -744,13 +744,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
