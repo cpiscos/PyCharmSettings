@@ -465,12 +465,12 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534736490566">
-        <mark key="'" line="287" column="7" />
-        <mark key="[" line="288" column="41" />
-        <mark key="]" line="288" column="44" />
-        <mark key="." line="288" column="44" />
-        <mark key="^" line="288" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534740041366">
+        <mark key="'" line="64" column="27" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="65" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="269" column="15" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -641,14 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="392" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="393" column="14" filename="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" />
-      <jump line="31" column="27" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
-      <jump line="32" column="2" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
-      <jump line="33" column="2" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
-      <jump line="168" column="13" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="152" column="12" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="83" column="22" filename="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" />
       <jump line="13" column="24" filename="$USER_HOME$/PycharmProjects/StockAI/nalu_test.py" />
@@ -741,22 +733,30 @@
       <jump line="525" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="528" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="529" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="23" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="24" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="28" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="53" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="55" column="45" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="57" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="64" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>179</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVjdXJyZW50X2luaXRzID0gW2xhbWJkYSB3OiBubi5pbml0LmNvbnN0YW50Xyh3LCBhKV0K</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>179</text>
+        <text>, 0, 0.01</text>
       </register>
       <register name="/" type="4">
-        <text>128</text>
+        <text>hidden_init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgcmVzaWR1YWxfaCA9IGhpZGRlbgogICAgICAgIGhpZGRlbiA9IHNlbGYucm5uMShoaWRkZW4pCiAgICAgICAgYXR0ZW5faGlkZGVuID0gc2VsZi5ybm4xKGlucHV0KQogICAgICAgIGluX2hpZGRlbiA9IHNlbGYuYXR0ZW4xKGF0dGVuX2hpZGRlbiwgaGlkZGVuKQogICAgICAgIGlucHV0ID0gc2VsZi5ybm4xKGlucHV0LCBpbl9oaWRkZW4pCiAgICAgICAgaW5wdXQgPSBpbnB1dCArIHJlc2lkdWFsCiAgICAgICAgaGlkZGVuID0gaGlkZGVuICsgcmVzaWR1YWxfaAogICAgICAgIGlucHV0ID0gc2VsZi5kcm9wb3V0MShpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjdXJyZW50X2luaXRzID0gW2xhbWJkYSB3OiBubi5pbml0LmNvbnN0YW50Xyh3LCBhKV0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0KToKICAgICMgICAgIGlucHV0ID0gc2VsZi5ub3JtKGlucHV0KQogICAgIwogICAgIyAgICAgaGlkZGVuID0gc2VsZi5ybm4oaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuKGhpZGRlbls6LCAtMTpdLCBoaWRkZW5bOiwgOi0xXSkKICAgICMgICAgIGlucHV0ID0gc2VsZi5ybm4oaW5wdXRbOiwgLTE6XSwgaW5faGlkZGVuKQogICAgIyAgICAgaW5wdXQgPSB0b3JjaC5jYXQoKGhpZGRlbls6LCA6LTFdLCBpbnB1dCksIGRpbT0xKQogICAgIyAgICAgaW5wdXQgPSBzZWxmLmRyb3BvdXQoaW5wdXQpCiAgICAjCiAgICAjICAgICBoaWRkZW4gPSBzZWxmLnJubjEoaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMShoaWRkZW5bOiwgLTE6XSwgaGlkZGVuWzosIDotMV0pCiAgICAjICAgICBpbnB1dCA9IHNlbGYucm5uMShpbnB1dFs6LCAtMTpdLCBpbl9oaWRkZW4pCiAgICAjICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaGlkZGVuWzosIDotMV0sIGlucHV0KSwgZGltPTEpCiAgICAjICAgICBpbnB1dCA9IHNlbGYuZHJvcG91dDEoaW5wdXQpCiAgICAjCiAgICAjICAgICBoaWRkZW4gPSBzZWxmLnJubjIoaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMihoaWRkZW5bOiwgLTE6XSwgaGlkZGVuWzosIDotMV0pCiAgICAjICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dFs6LCAtMTpdLCBpbl9oaWRkZW4pCiAgICAjICAgICBpbnB1dCA9IHNlbGYuZHJvcG91dDIoaW5wdXQpCiAgICAjCiAgICAjICAgICBpbnB1dCA9IHNlbGYub3V0KGlucHV0KS5zcXVlZXplKCkKICAgICMgICAgIHJldHVybiBpbnB1dCwgaW5wdXRbLTM6XS50b2xpc3QoKQo=</text>
@@ -807,18 +807,16 @@
       </register>
     </registers>
     <search>
-      <last-search>128</last-search>
+      <last-search>hidden_init</last-search>
       <last-offset />
-      <last-pattern>128</last-pattern>
+      <last-pattern>hidden_init</last-pattern>
       <last-replace>seq_len</last-replace>
       <last-substitute>8</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
-        <entry>diff</entry>
         <entry>sched</entry>
         <entry>lr=</entry>
         <entry>lin</entry>
@@ -837,6 +835,8 @@
         <entry>scheduler</entry>
         <entry>8</entry>
         <entry>128</entry>
+        <entry>init</entry>
+        <entry>hidden_init</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
