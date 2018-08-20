@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534724798969">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534727874166">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="21" column="12" />
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="35" column="52" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="35" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534723783309">
-        <mark key="'" line="529" column="37" />
-        <mark key="[" line="587" column="31" />
-        <mark key="]" line="583" column="47" />
-        <mark key="^" line="583" column="47" />
-        <mark key="." line="583" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534727721868">
+        <mark key="'" line="533" column="37" />
+        <mark key="[" line="537" column="43" />
+        <mark key="]" line="537" column="43" />
+        <mark key="^" line="592" column="7" />
+        <mark key="." line="537" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -744,22 +744,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>256</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlucHV0ID0gc2VsZi5vdXQoaW5wdXQpLnNxdWVlemUoKQogICAgIyAgICAgcmV0dXJuIGlucHV0LCBpbnB1dFstMzpdLnRvbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgcmVzaWR1YWxfaCA9IGhpZGRlbgogICAgICAgIGhpZGRlbiA9IHNlbGYucm5uMShoaWRkZW4pCiAgICAgICAgYXR0ZW5faGlkZGVuID0gc2VsZi5ybm4xKGlucHV0KQogICAgICAgIGluX2hpZGRlbiA9IHNlbGYuYXR0ZW4xKGF0dGVuX2hpZGRlbiwgaGlkZGVuKQogICAgICAgIGlucHV0ID0gc2VsZi5ybm4xKGlucHV0LCBpbl9oaWRkZW4pCiAgICAgICAgaW5wdXQgPSBpbnB1dCArIHJlc2lkdWFsCiAgICAgICAgaGlkZGVuID0gaGlkZGVuICsgcmVzaWR1YWxfaAogICAgICAgIGlucHV0ID0gc2VsZi5kcm9wb3V0MShpbnB1dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -779,28 +779,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaGlkZGVuWzosIDotMV0sIGlucHV0KSwgZGltPTEpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gaW5wdXRbOiwgLTE6XQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZHJvcG91dDMgPSBubi5Ecm9wb3V0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhpZGRlbiA9IGlucHV0WzosIDotMV0K</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXR0ZW4zID0gSW5kQXR0ZW50aW9uKDI1Niwgc2VxX2xlbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuKGhpZGRlbls6LCAtMTpdLCBoaWRkZW5bOiwgOi0xXSkKICAgICAgICBpbnB1dCA9IHNlbGYucm5uKGlucHV0WzosIC0xOl0sIGluX2hpZGRlbikKICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaGlkZGVuWzosIDotMV0sIGlucHV0KSwgZGltPTEpCiAgICAgICAgaW5wdXQgPSBzZWxmLmRyb3BvdXQoaW5wdXQpCgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucm5uMyA9IEluZCgyNTYsIDI1Niwgc2VxX2xlbiwgMSwgRmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChoaWRkZW5bOiwgOi0xXS5zaGFwZSwgaW5wdXQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaGlkZGVuWzosIDotMV0sIGlucHV0KSwgZGltPTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF0dGVuX2hpZGRlbiA9IHNlbGYucm5uKGlucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gaW5wdXRbOiwgLTE6XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBzZWxmLnJubjIoaW5wdXQudmlldygtMSwgMSwgaW5wdXQuc2hhcGVbLTFdKSkudmlldygqc2hhcGVbOi0xXSwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGhpZGRlbiA9IGlucHV0WzosIDotMV0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
