@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534799252463">
-        <mark key="'" line="111" column="4" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534801821073">
+        <mark key="'" line="140" column="36" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="166" column="20" />
+        <mark key="." line="166" column="20" />
+        <mark key="^" line="166" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534792133618">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534801103940">
         <mark key="'" line="10" column="18" />
-        <mark key="[" line="589" column="41" />
-        <mark key="]" line="589" column="7" />
-        <mark key="^" line="589" column="7" />
-        <mark key="." line="589" column="7" />
+        <mark key="[" line="641" column="82" />
+        <mark key="]" line="641" column="81" />
+        <mark key="^" line="641" column="81" />
+        <mark key="." line="641" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -641,11 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="51" column="52" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="52" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="57" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="62" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="64" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -676,7 +671,6 @@
       <jump line="137" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="138" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="141" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="143" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="144" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="146" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="147" column="32" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -704,7 +698,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="286" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="34" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="139" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="159" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="530" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -741,19 +734,26 @@
       <jump line="114" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="115" column="64" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="117" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
+      <jump line="121" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="163" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="162" column="6" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="107" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="139" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="140" column="36" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgOiwgLTFdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, 1</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>self.weight_hh</text>
+        <text>scheduler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVjdXJyZW50X2luaXRzID0gW2xhbWJkYSB3OiBubi5pbml0LnVuaWZvcm1fKHcsIC1yZWN1cnJlbnRfbWF4LCByZWN1cnJlbnRfbWF4KV0K</text>
@@ -807,9 +807,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.weight_hh</last-search>
+      <last-search>scheduler</last-search>
       <last-offset />
-      <last-pattern>self.weight_hh</last-pattern>
+      <last-pattern>scheduler</last-pattern>
       <last-replace>seq_len</last-replace>
       <last-substitute>8</last-substitute>
       <last-dir>1</last-dir>
@@ -826,7 +826,6 @@
         <entry>self.h0</entry>
         <entry>bias</entry>
         <entry>att</entry>
-        <entry>scheduler</entry>
         <entry>8</entry>
         <entry>128</entry>
         <entry>hidden_init</entry>
@@ -837,6 +836,7 @@
         <entry>norm</entry>
         <entry>leaky</entry>
         <entry>self.weight_hh</entry>
+        <entry>scheduler</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
