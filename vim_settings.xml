@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534736055666">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534737895797">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+        <mark key="[" line="84" column="75" />
+        <mark key="]" line="84" column="89" />
+        <mark key="." line="84" column="89" />
+        <mark key="^" line="84" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -465,12 +465,12 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534736176538">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534736490566">
         <mark key="'" line="287" column="7" />
         <mark key="[" line="288" column="41" />
-        <mark key="]" line="288" column="39" />
-        <mark key="." line="288" column="39" />
-        <mark key="^" line="288" column="39" />
+        <mark key="]" line="288" column="44" />
+        <mark key="." line="288" column="44" />
+        <mark key="^" line="288" column="44" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534733984539">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534737929778">
         <mark key="'" line="532" column="37" />
-        <mark key="[" line="529" column="35" />
-        <mark key="]" line="529" column="35" />
-        <mark key="^" line="517" column="38" />
-        <mark key="." line="529" column="35" />
+        <mark key="[" line="517" column="36" />
+        <mark key="]" line="517" column="36" />
+        <mark key="^" line="519" column="24" />
+        <mark key="." line="517" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -744,13 +744,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.35</text>
+        <text>179</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0.35</text>
+        <text>179</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
