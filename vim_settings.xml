@@ -343,11 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534791992404">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534799252463">
         <mark key="'" line="111" column="4" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="153" column="29" />
-        <mark key="." line="152" column="0" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -464,12 +465,12 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534797956372">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" timestamp="1534798384505">
         <mark key="'" line="117" column="34" />
-        <mark key="[" line="272" column="71" />
-        <mark key="]" line="270" column="49" />
-        <mark key="." line="270" column="49" />
-        <mark key="^" line="270" column="49" />
+        <mark key="[" line="217" column="70" />
+        <mark key="]" line="217" column="83" />
+        <mark key="." line="217" column="83" />
+        <mark key="^" line="217" column="83" />
       </file>
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/StockAI/models/nac.py" timestamp="1534300823774">
         <mark key="[" line="28" column="31" />
@@ -743,7 +744,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjdXJyZW50X2luaXRzID0gW2xhbWJkYSB3OiBubi5pbml0LnVuaWZvcm1fKHcsIC1yZWN1cnJlbnRfbWF4LCByZWN1cnJlbnRfbWF4KV0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgOiwgLTFdKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -758,7 +759,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVjdXJyZW50X2luaXRzID0gW2xhbWJkYSB3OiBubi5pbml0LnVuaWZvcm1fKHcsIC1yZWN1cnJlbnRfbWF4LCByZWN1cnJlbnRfbWF4KV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgOiwgLTFdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -778,19 +779,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVkID0gcHJlZFs6LCAtMV0udmlldygtMSkKICAgICAgICB5ID0geVs6LCAtMV0udmlldygtMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmVkLnNoYXBlKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmVkID0gcHJlZFs6LCAtMV0udmlldygtMSkKICAgICAgICB5ID0geVs6LCAtMV0udmlldygtMSkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwcmVkLnNoYXBlKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gY29uZl9sb3NzKHByZWQsIHkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkID0gcHJlZFs6LCAtMV0udmlldygtMSkKICAgICAgICB5ID0geVs6LCAtMV0udmlldygtMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBoaWRkZW4udmlldygtMSwgMSwgc2hhcGVbLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gY29uZl9sb3NzKHByZWQsIHkpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBoaWRkZW4udmlldygtMSwgMSwgc2hhcGVbLTFdKQo=</text>
@@ -799,7 +800,7 @@
         <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBoaWRkZW4udmlldygtMSwgMSwgc2hhcGVbLTFdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSAK</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBoaWRkZW4udmlldygtMSwgMSwgc2hhcGVbLTFdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
