@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534732450461">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534733984539">
         <mark key="'" line="532" column="37" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+        <mark key="[" line="529" column="35" />
+        <mark key="]" line="529" column="35" />
         <mark key="^" line="517" column="38" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="529" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -743,14 +743,14 @@
       <jump line="529" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0.35</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0.35</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
@@ -759,7 +759,7 @@
         <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgcmVzaWR1YWxfaCA9IGhpZGRlbgogICAgICAgIGhpZGRlbiA9IHNlbGYucm5uMShoaWRkZW4pCiAgICAgICAgYXR0ZW5faGlkZGVuID0gc2VsZi5ybm4xKGlucHV0KQogICAgICAgIGluX2hpZGRlbiA9IHNlbGYuYXR0ZW4xKGF0dGVuX2hpZGRlbiwgaGlkZGVuKQogICAgICAgIGlucHV0ID0gc2VsZi5ybm4xKGlucHV0LCBpbl9oaWRkZW4pCiAgICAgICAgaW5wdXQgPSBpbnB1dCArIHJlc2lkdWFsCiAgICAgICAgaGlkZGVuID0gaGlkZGVuICsgcmVzaWR1YWxfaAogICAgICAgIGlucHV0ID0gc2VsZi5kcm9wb3V0MShpbnB1dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0KToKICAgICMgICAgIGlucHV0ID0gc2VsZi5ub3JtKGlucHV0KQogICAgIwogICAgIyAgICAgaGlkZGVuID0gc2VsZi5ybm4oaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuKGhpZGRlbls6LCAtMTpdLCBoaWRkZW5bOiwgOi0xXSkKICAgICMgICAgIGlucHV0ID0gc2VsZi5ybm4oaW5wdXRbOiwgLTE6XSwgaW5faGlkZGVuKQogICAgIyAgICAgaW5wdXQgPSB0b3JjaC5jYXQoKGhpZGRlbls6LCA6LTFdLCBpbnB1dCksIGRpbT0xKQogICAgIyAgICAgaW5wdXQgPSBzZWxmLmRyb3BvdXQoaW5wdXQpCiAgICAjCiAgICAjICAgICBoaWRkZW4gPSBzZWxmLnJubjEoaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMShoaWRkZW5bOiwgLTE6XSwgaGlkZGVuWzosIDotMV0pCiAgICAjICAgICBpbnB1dCA9IHNlbGYucm5uMShpbnB1dFs6LCAtMTpdLCBpbl9oaWRkZW4pCiAgICAjICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaGlkZGVuWzosIDotMV0sIGlucHV0KSwgZGltPTEpCiAgICAjICAgICBpbnB1dCA9IHNlbGYuZHJvcG91dDEoaW5wdXQpCiAgICAjCiAgICAjICAgICBoaWRkZW4gPSBzZWxmLnJubjIoaW5wdXQpCiAgICAjICAgICBpbl9oaWRkZW4gPSBzZWxmLmF0dGVuMihoaWRkZW5bOiwgLTE6XSwgaGlkZGVuWzosIDotMV0pCiAgICAjICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dFs6LCAtMTpdLCBpbl9oaWRkZW4pCiAgICAjICAgICBpbnB1dCA9IHNlbGYuZHJvcG91dDIoaW5wdXQpCiAgICAjCiAgICAjICAgICBpbnB1dCA9IHNlbGYub3V0KGlucHV0KS5zcXVlZXplKCkKICAgICMgICAgIHJldHVybiBpbnB1dCwgaW5wdXRbLTM6XS50b2xpc3QoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -782,25 +782,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IE5BTFUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZHJvcG91dDMgPSBubi5Ecm9wb3V0KCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXR0ZW4zID0gSW5kQXR0ZW50aW9uKDI1Niwgc2VxX2xlbikK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZHJvcG91dDMgPSBubi5Ecm9wb3V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
