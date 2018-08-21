@@ -343,12 +343,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534801821073">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534815006313">
         <mark key="'" line="140" column="36" />
         <mark key="[" line="17" column="7" />
-        <mark key="]" line="166" column="20" />
-        <mark key="." line="166" column="20" />
-        <mark key="^" line="166" column="20" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -555,12 +555,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534801103940">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534814931920">
         <mark key="'" line="10" column="18" />
-        <mark key="[" line="641" column="82" />
-        <mark key="]" line="641" column="81" />
-        <mark key="^" line="641" column="81" />
-        <mark key="." line="641" column="81" />
+        <mark key="[" line="519" column="23" />
+        <mark key="]" line="519" column="23" />
+        <mark key="^" line="517" column="37" />
+        <mark key="." line="519" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -744,13 +744,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
