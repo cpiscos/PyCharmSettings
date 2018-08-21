@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534830470179">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534832117229">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-        <mark key="^" line="51" column="7" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -750,13 +750,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>torch.matmul(input, )</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>torch.matmul(input, )</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
@@ -765,7 +765,7 @@
         <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi53ZWlnaHRfaGcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRlbmlvbl9tYXNrID0gdG9yY2guY2F0KChoaWRkZW4sIGlucHV0KSwgKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -785,28 +785,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIEluZEF0dGVudGlvbihubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGlucHV0X3NpemUsIGhpZGRlbl9sZW4pOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuYXR0ZW5fbGVuID0gaGlkZGVuX2xlbiAtIDEKICAgICAgICBzZWxmLmF0dGVuX3cgPSBQYXJhbWV0ZXIodG9yY2guVGVuc29yKHNlbGYuYXR0ZW5fbGVuLCBpbnB1dF9zaXplKSkKICAgICAgICBzZWxmLmJpYXMgPSBQYXJhbWV0ZXIodG9yY2guVGVuc29yKHNlbGYuYXR0ZW5fbGVuLCBpbnB1dF9zaXplKSkKICAgICAgICBubi5pbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5hdHRlbl93KQogICAgICAgIG5uLmluaXQuY29uc3RhbnRfKHNlbGYuYmlhcywgMCkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgaGlkZGVuKToKICAgICAgICBpbnB1dCA9IEYuc29mdG1heChpbnB1dCAqIHNlbGYuYXR0ZW5fdyArIHNlbGYuYmlhcywgMSkKICAgICAgICBpbnB1dCA9IGlucHV0ICogaGlkZGVuCiAgICAgICAgaGlkZGVuID0gdG9yY2guc3VtKGlucHV0LCAxKS51bnNxdWVlemUoMSkKICAgICAgICByZXR1cm4gaGlkZGVuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgSW5kQXR0ZW50aW9uKG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5wdXRfc2l6ZSwgaGlkZGVuX2xlbik6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5hdHRlbl9sZW4gPSBoaWRkZW5fbGVuIC0gMQogICAgICAgIHNlbGYuYXR0ZW5fdyA9IFBhcmFtZXRlcih0b3JjaC5UZW5zb3Ioc2VsZi5hdHRlbl9sZW4sIGlucHV0X3NpemUpKQogICAgICAgIHNlbGYuYmlhcyA9IFBhcmFtZXRlcih0b3JjaC5UZW5zb3Ioc2VsZi5hdHRlbl9sZW4sIGlucHV0X3NpemUpKQogICAgICAgIG5uLmluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLmF0dGVuX3cpCiAgICAgICAgbm4uaW5pdC5jb25zdGFudF8oc2VsZi5iaWFzLCAwKQoKICAgIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0LCBoaWRkZW4pOgogICAgICAgIGlucHV0ID0gRi5zb2Z0bWF4KGlucHV0ICogc2VsZi5hdHRlbl93ICsgc2VsZi5iaWFzLCAxKQogICAgICAgIGlucHV0ID0gaW5wdXQgKiBoaWRkZW4KICAgICAgICBoaWRkZW4gPSB0b3JjaC5zdW0oaW5wdXQsIDEpLnVuc3F1ZWV6ZSgxKQogICAgICAgIHJldHVybiBoaWRkZW4K</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW4gPSBGLmxpbmVhcihoaWRkZW4sIHNlbGYud2VpZ2h0X2loLCBzZWxmLmJpYXNfaWgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMucmVjdSBpbXBvcnQgQmF0Y2hOb3JtMWRMYXN0CgoK</text>
+        <text encoding="base64">CmNsYXNzIEluZEF0dGVudGlvbihubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGlucHV0X3NpemUsIGhpZGRlbl9sZW4pOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuYXR0ZW5fbGVuID0gaGlkZGVuX2xlbiAtIDEKICAgICAgICBzZWxmLmF0dGVuX3cgPSBQYXJhbWV0ZXIodG9yY2guVGVuc29yKHNlbGYuYXR0ZW5fbGVuLCBpbnB1dF9zaXplKSkKICAgICAgICBzZWxmLmJpYXMgPSBQYXJhbWV0ZXIodG9yY2guVGVuc29yKHNlbGYuYXR0ZW5fbGVuLCBpbnB1dF9zaXplKSkKICAgICAgICBubi5pbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi5hdHRlbl93KQogICAgICAgIG5uLmluaXQuY29uc3RhbnRfKHNlbGYuYmlhcywgMCkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgaGlkZGVuKToKICAgICAgICBpbnB1dCA9IEYuc29mdG1heChpbnB1dCAqIHNlbGYuYXR0ZW5fdyArIHNlbGYuYmlhcywgMSkKICAgICAgICBpbnB1dCA9IGlucHV0ICogaGlkZGVuCiAgICAgICAgaGlkZGVuID0gdG9yY2guc3VtKGlucHV0LCAxKS51bnNxdWVlemUoMSkKICAgICAgICByZXR1cm4gaGlkZGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmthCg==</text>
+        <text encoding="base64">Y2xhc3MgSW5kQXR0ZW50aW9uKG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgaW5wdXRfc2l6ZSwgaGlkZGVuX2xlbik6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygpCiAgICAgICAgc2VsZi5hdHRlbl9sZW4gPSBoaWRkZW5fbGVuIC0gMQogICAgICAgIHNlbGYuYXR0ZW5fdyA9IFBhcmFtZXRlcih0b3JjaC5UZW5zb3Ioc2VsZi5hdHRlbl9sZW4sIGlucHV0X3NpemUpKQogICAgICAgIHNlbGYuYmlhcyA9IFBhcmFtZXRlcih0b3JjaC5UZW5zb3Ioc2VsZi5hdHRlbl9sZW4sIGlucHV0X3NpemUpKQogICAgICAgIG5uLmluaXQua2FpbWluZ191bmlmb3JtXyhzZWxmLmF0dGVuX3cpCiAgICAgICAgbm4uaW5pdC5jb25zdGFudF8oc2VsZi5iaWFzLCAwKQoKICAgIGRlZiBmb3J3YXJkKHNlbGYsIGlucHV0LCBoaWRkZW4pOgogICAgICAgIGlucHV0ID0gRi5zb2Z0bWF4KGlucHV0ICogc2VsZi5hdHRlbl93ICsgc2VsZi5iaWFzLCAxKQogICAgICAgIGlucHV0ID0gaW5wdXQgKiBoaWRkZW4KICAgICAgICBoaWRkZW4gPSB0b3JjaC5zdW0oaW5wdXQsIDEpLnVuc3F1ZWV6ZSgxKQogICAgICAgIHJldHVybiBoaWRkZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lYXI6Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMucmVjdSBpbXBvcnQgQmF0Y2hOb3JtMWRMYXN0CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuID0gc2VsZi53ZWlnaHRfaGgubgo=</text>
+        <text encoding="base64">ICAgICAgICBubi5pbml0LmthCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
