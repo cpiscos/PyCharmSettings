@@ -20,7 +20,7 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1534548887916">
+      <file name="/a.dummy" timestamp="1534829531392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534824574214">
-        <mark key="'" line="23" column="20" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534830470179">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -350,11 +350,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534815006313">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534829616649">
         <mark key="'" line="140" column="36" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
         <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -447,10 +447,10 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/__init__.py" timestamp="1534822454912">
-        <mark key="[" line="4" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/__init__.py" timestamp="1534829596826">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="15" />
+        <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
@@ -531,6 +531,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534830039542">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="46" />
@@ -559,7 +565,7 @@
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" timestamp="1534824081395">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
-        <mark key="^" line="473" column="37" />
+        <mark key="^" line="474" column="37" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
@@ -743,20 +749,20 @@
       <jump line="24" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1e-4</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmNvbnN0YW50XyhzZWxmLmJpYXNfaGgsIDFlLTQpCg==</text>
+        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfdW5pZm9ybV8oc2VsZi53ZWlnaHRfaGcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -803,7 +809,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaGlkZGVuID0gc2VsZi53ZWlnaHRfaGgubgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -857,8 +863,8 @@
         <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zLzgvc2VxX2xlbi9n</entry>
         <entry encoding="base64">JzwsJz4gOCwvIHNlcV9sZW4sL2c=</entry>
-        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
