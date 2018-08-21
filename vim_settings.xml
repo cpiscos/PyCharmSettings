@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534838140549">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534860320598">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="62" column="43" />
-        <mark key="]" line="62" column="51" />
-        <mark key="^" line="62" column="51" />
-        <mark key="." line="62" column="51" />
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="49" />
+        <mark key="^" line="61" column="49" />
+        <mark key="." line="61" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534857110187">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534858955680">
         <mark key="'" line="141" column="36" />
-        <mark key="[" line="67" column="25" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="16" />
+        <mark key="[" line="108" column="33" />
+        <mark key="]" line="108" column="34" />
+        <mark key="." line="108" column="34" />
+        <mark key="^" line="108" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -756,13 +756,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>kaiming_normal_</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>kaiming_normal_</text>
       </register>
       <register name="/" type="4">
         <text>scheduler</text>
