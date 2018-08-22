@@ -354,12 +354,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534966316774">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1534968599606">
         <mark key="'" line="142" column="36" />
-        <mark key="[" line="108" column="30" />
-        <mark key="]" line="108" column="31" />
-        <mark key="." line="108" column="31" />
-        <mark key="^" line="108" column="30" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -753,14 +753,14 @@
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYucHJlZHJvcChpbnB1dCkK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, nn.Dropout()</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
