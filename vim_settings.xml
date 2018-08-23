@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534989646055">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="19" />
-        <mark key="^" line="64" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534991733868">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="63" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -536,11 +536,11 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534990525870">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="60" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="49" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534991138713">
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="30" column="101" />
+        <mark key="." line="36" column="78" />
+        <mark key="^" line="30" column="101" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -754,14 +754,14 @@
       <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uniform_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>uniform_</text>
+        <text>, momentum=0.9</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
@@ -770,7 +770,7 @@
         <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwKICAgICAgICBpbnB1dCA9IHNlbGYuZG93bnNjYWxlKGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0WzosIC0xOl0KICAgICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dClbOiwgLTE6XQogICAgICAgIGlucHV0ID0gaW5wdXQgKyByZXNpZHVhbAoK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -789,32 +789,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucm5uMiA9IG5uLlNlcXVlbnRpYWwoSW5kQXR0KDMyLCAzMiwgc2VxdWVuY2VfbGVuZ3RoKSwgbm4uTGluZWFyKDMyLCAzMiksIG5uLlJlTFUoKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgQmF0Y2hOb3JtMWRMYXN0KDMyKSkKCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm91dCA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKDMyLCAxKSwgbm4uU2lnbW9pZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0WzosIC0xOl0KICAgICAgICBpbnB1dCA9IHNlbGYucm5uMihpbnB1dClbOiwgLTE6XQogICAgICAgIGlucHV0ID0gaW5wdXQgKyByZXNpZHVhbAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubi5TZXF1ZW50aWFsKG5uLkxpbmVhcig2NCwgMzIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucm5uMiA9IG5uLlNlcXVlbnRpYWwoSW5kQXR0KDMyLCAzMiwgc2VxdWVuY2VfbGVuZ3RoKSwgbm4uTGluZWFyKDMyLCAzMiksIG5uLlJlTFUoKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgQmF0Y2hOb3JtMWRMYXN0KDMyKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZSA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKDEyOCwgNjQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm91dCA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKDMyLCAxKSwgbm4uU2lnbW9pZCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9zdCA9IEJhdGNoTm9ybTFkTGFzdCgxMjgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubi5TZXF1ZW50aWFsKG5uLkxpbmVhcig2NCwgMzIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZSA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKDEyOCwgNjQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9zdCA9IEJhdGNoTm9ybTFkTGFzdCgxMjgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzY0LzMyL2c=</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -867,9 +867,9 @@
         <entry encoding="base64">JzwsJz5zLzgvc2VxX2xlbi9n</entry>
         <entry encoding="base64">JzwsJz4gOCwvIHNlcV9sZW4sL2c=</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
-        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
