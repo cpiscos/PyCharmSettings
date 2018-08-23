@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534991733868">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534992712326">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="63" column="32" />
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -536,7 +536,8 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534991138713">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534992728655">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="36" column="65" />
         <mark key="]" line="30" column="101" />
         <mark key="." line="36" column="78" />
@@ -652,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="79" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="93" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -752,19 +752,20 @@
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text>relu</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, momentum=0.9</text>
+        <text>relu</text>
       </register>
       <register name="/" type="4">
-        <text>64</text>
+        <text>ReLU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwKICAgICAgICBpbnB1dCA9IHNlbGYuZG93bnNjYWxlKGlucHV0KQo=</text>
@@ -814,21 +815,20 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>64</last-search>
+      <last-search>ReLU</last-search>
       <last-offset />
-      <last-pattern>64</last-pattern>
-      <last-replace>32</last-replace>
-      <last-substitute>64</last-substitute>
+      <last-pattern>ReLU</last-pattern>
+      <last-replace>LeakyReLU</last-replace>
+      <last-substitute>ReLU</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>F.sigmoid</entry>
         <entry>tanh</entry>
         <entry>sigmoid</entry>
         <entry>self.cells</entry>
@@ -848,9 +848,9 @@
         <entry>scheduler</entry>
         <entry>start</entry>
         <entry>64</entry>
+        <entry>ReLU</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1JlTC9FTC9n</entry>
         <entry encoding="base64">JzwsJz5zL0JhdGNoTm9ybTFkL0xheWVyTm9ybS9n</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
@@ -870,6 +870,7 @@
         <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
