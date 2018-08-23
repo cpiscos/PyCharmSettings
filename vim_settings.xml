@@ -535,11 +535,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534973026232">
-        <mark key="[" line="34" column="136" />
-        <mark key="]" line="34" column="137" />
-        <mark key="." line="34" column="137" />
-        <mark key="^" line="32" column="136" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1534981896571">
+        <mark key="'" line="41" column="53" />
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+        <mark key="^" line="43" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -651,7 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="78" column="19" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="79" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -751,25 +751,26 @@
       <jump line="83" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
+      <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>128</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>64</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwK</text>
+        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwKICAgICAgICBpbnB1dCA9IHNlbGYuZG93bnNjYWxlKGlucHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9zdCA9IEJhdGNoTm9ybTFkTGFzdCgxMjgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -789,45 +790,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRvd25zY2FsZTEgPSBubgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9zdCA9IEJhdGNoTm9ybTFkTGFzdCgxMjgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYucHJlZHJvcChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcDEoaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucG9zdCA9IEJhdGNoTm9ybTFkTGFzdCgxMjgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByZWRyb3AgPSBubi5Ecm9wb3V0KCkKICAgICAgICBzZWxmLmRyb3AgPSBubi5Ecm9wb3V0KCkKICAgICAgICBzZWxmLmRyb3AxID0gbm4uRHJvcG91dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYucHJlZHJvcChpbnB1dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnMScsIHRpbWUudGltZSgpLXN0YXJ0KQogICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcDEoaW5wdXQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text encoding="base64">JzwsJz5zLzY0LzMyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>64</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
-      <last-replace>seq_len</last-replace>
-      <last-substitute>8</last-substitute>
+      <last-pattern>64</last-pattern>
+      <last-replace>32</last-replace>
+      <last-substitute>64</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
         <entry>F.sigmoid</entry>
         <entry>tanh</entry>
         <entry>sigmoid</entry>
@@ -847,9 +847,9 @@
         <entry>self.weight_hh</entry>
         <entry>scheduler</entry>
         <entry>start</entry>
+        <entry>64</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0VML1JlTC9n</entry>
         <entry encoding="base64">JzwsJz5zL1JlTC9FTC9n</entry>
         <entry encoding="base64">JzwsJz5zL0JhdGNoTm9ybTFkL0xheWVyTm9ybS9n</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
@@ -869,6 +869,7 @@
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
