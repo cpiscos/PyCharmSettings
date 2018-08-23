@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1534996920397">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="62" column="16" />
-        <mark key="]" line="62" column="16" />
-        <mark key="." line="62" column="18" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1535035564322">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535027751998">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535035501696">
         <mark key="'" line="148" column="36" />
         <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="10" />
+        <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535000963102">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="55" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535035553532">
+        <mark key="'" line="42" column="48" />
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="48" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -653,8 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="80" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="93" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="104" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -753,19 +751,21 @@
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
+      <jump line="42" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
+      <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>leaky_relu</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>leaky_relu</text>
       </register>
       <register name="/" type="4">
-        <text>ReLU</text>
+        <text>leaky</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwK</text>
@@ -815,21 +815,20 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnJykKICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdLnRvbGlzdCgpKQogICAgICAgIHByaW50KGdhdGVbLTM6LCAwLCAtMV0udG9saXN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5zL0xlYWt5Ly9n</text>
       </register>
     </registers>
     <search>
-      <last-search>ReLU</last-search>
+      <last-search>leaky</last-search>
       <last-offset />
-      <last-pattern>ReLU</last-pattern>
-      <last-replace>LeakyReLU</last-replace>
-      <last-substitute>ReLU</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>leaky</last-pattern>
+      <last-replace />
+      <last-substitute>Leaky</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tanh</entry>
         <entry>sigmoid</entry>
         <entry>self.cells</entry>
         <entry>self.h0</entry>
@@ -843,15 +842,15 @@
         <entry>batch_norm</entry>
         <entry>print</entry>
         <entry>norm</entry>
-        <entry>leaky</entry>
         <entry>self.weight_hh</entry>
         <entry>scheduler</entry>
         <entry>start</entry>
         <entry>64</entry>
         <entry>ReLU</entry>
+        <entry>Leaky</entry>
+        <entry>leaky</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0JhdGNoTm9ybTFkL0xheWVyTm9ybS9n</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
         <entry encoding="base64">JzwsJz5zLyppdC8pKml0L2c=</entry>
@@ -871,6 +870,7 @@
         <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</entry>
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
