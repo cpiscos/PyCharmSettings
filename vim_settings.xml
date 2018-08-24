@@ -355,11 +355,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535145723914">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535147941724">
         <mark key="'" line="193" column="8" />
-        <mark key="[" line="118" column="23" />
-        <mark key="]" line="118" column="34" />
-        <mark key="." line="118" column="34" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
         <mark key="^" line="118" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535147584952">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535147935834">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="22" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -756,13 +756,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reduction='none'</text>
+        <text>, He</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>reduction='none'</text>
+        <text>, He</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
@@ -825,7 +825,7 @@
       <last-replace>bottleneck_units</last-replace>
       <last-substitute>64</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
