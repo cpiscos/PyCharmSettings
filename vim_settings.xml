@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535083580181">
-        <mark key="'" line="44" column="38" />
-        <mark key="[" line="42" column="86" />
-        <mark key="]" line="42" column="86" />
-        <mark key="." line="42" column="86" />
-        <mark key="^" line="30" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535084406076">
+        <mark key="'" line="45" column="38" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="63" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -756,13 +756,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>relu</text>
+        <text encoding="base64">bi5Ecm9wb3V0KCksIA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>relu</text>
+        <text encoding="base64">bi5Ecm9wb3V0KCksIA==</text>
       </register>
       <register name="/" type="4">
         <text>ReLU</text>
