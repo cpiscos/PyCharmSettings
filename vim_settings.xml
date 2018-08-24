@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535071703239">
-        <mark key="'" line="148" column="36" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="24" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535075692842">
+        <mark key="'" line="179" column="8" />
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="77" column="40" />
+        <mark key="^" line="77" column="40" />
+        <mark key="." line="77" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535067455614">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535074683202">
         <mark key="'" line="42" column="48" />
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="48" />
-        <mark key="^" line="29" column="37" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -653,9 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="22" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="112" column="3" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="120" column="42" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="124" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -663,7 +660,6 @@
       <jump line="127" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="128" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="130" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="131" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="132" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="135" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="137" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -753,25 +749,29 @@
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="42" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
+      <jump line="136" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>26</text>
+        <text>double</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>26</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
-        <text>leaky</text>
+        <text>double</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gMWUtOCwgMCwgcmFuZ2UpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,45 +791,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUxKGlucHV0KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUoaW5wdXQpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUxKGlucHV0KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUoaW5wdXQpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gOWUzMSwgMCwgcmFuZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID09IDAsIDllMzIsIHJhbmdlKQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gOWUzMSwgMCwgcmFuZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID09IDAsIDllMzIsIHJhbmdlKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJykKICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdLnRvbGlzdCgpKQogICAgICAgIHByaW50KGdhdGVbLTM6LCAwLCAtMV0udG9saXN0KCkpCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0xlYWt5Ly9n</text>
+        <text encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdA==</text>
       </register>
     </registers>
     <search>
-      <last-search>leaky</last-search>
+      <last-search>double</last-search>
       <last-offset />
-      <last-pattern>leaky</last-pattern>
-      <last-replace />
-      <last-substitute>Leaky</last-substitute>
+      <last-pattern>double</last-pattern>
+      <last-replace>float</last-replace>
+      <last-substitute>double</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sigmoid</entry>
         <entry>self.cells</entry>
         <entry>self.h0</entry>
         <entry>bias</entry>
@@ -849,9 +848,9 @@
         <entry>ReLU</entry>
         <entry>Leaky</entry>
         <entry>leaky</entry>
+        <entry>double</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzI1Ni8xMjgvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
         <entry encoding="base64">JzwsJz5zLyppdC8pKml0L2c=</entry>
         <entry encoding="base64">JzwsJz5FTFUvUmVMVS9n</entry>
@@ -871,6 +870,7 @@
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
