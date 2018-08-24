@@ -452,11 +452,11 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/__init__.py" timestamp="1534829596826">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/__init__.py" timestamp="1535149538138">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
@@ -755,8 +755,8 @@
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, He</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBmcm9tIC5yZWMgaW1wb3J0Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -771,7 +771,7 @@
         <text>nn.Linear(64, 64), nn.LeakyReLU(), BatchNorm1dLast(64),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGluX2xvc3MgPSBubi5NU0VMb3NzKCkK</text>
+        <text encoding="base64">IyBmcm9tIC5yZWMgaW1wb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,28 +791,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW5fdW5pdHMgPSAyNTYK</text>
+        <text encoding="base64">bGluX2xvc3MgPSBubi5NU0VMb3NzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUmVzQmxvY2sobm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBoaWRkZW5fc2l6ZSwgc2VxdWVuY2VfbGVuZ3RoKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLnJubiA9IEluZEF0dChoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUsIHNlcXVlbmNlX2xlbmd0aCkKICAgICAgICBzZWxmLmxpbmVhciA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKGhpZGRlbl9zaXplLCBoaWRkZW5fc2l6ZSksIG5uLlJlTFUoKSkKICAgICAgICBzZWxmLm5vcm0gPSBCYXRjaE5vcm0xZExhc3QoaGlkZGVuX3NpemUpCgogICAgICAgIHNlbGYucm5uMSA9IEluZEF0dChoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUsIHNlcXVlbmNlX2xlbmd0aCkKICAgICAgICBzZWxmLmxpbmVhcjEgPSBubi5TZXF1ZW50aWFsKG5uLkxpbmVhcihoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUpLCBubi5SZUxVKCkpCiAgICAgICAgc2VsZi5ub3JtMSA9IEJhdGNoTm9ybTFkTGFzdChoaWRkZW5fc2l6ZSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgaGlkZGVuKToKICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5ybm4oaW5wdXQsIGhpZGRlbikKICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5saW5lYXIoaW5wdXQpLCBzZWxmLmxpbmVhcihoaWRkZW4pCiAgICAgICAgIyBpbnB1dCwgaGlkZGVuID0gc2VsZi5ub3JtKGlucHV0KSwgc2VsZi5ub3JtKGhpZGRlbikKCiAgICAgICAgaW5wdXQsIGhpZGRlbiA9IHNlbGYucm5uMShpbnB1dCwgaGlkZGVuKQogICAgICAgIGlucHV0LCBoaWRkZW4gPSBzZWxmLmxpbmVhcjEoaW5wdXQpLCBzZWxmLmxpbmVhcjEoaGlkZGVuKQogICAgICAgICMgaW5wdXQsIGhpZGRlbiA9IHNlbGYubm9ybTEoaW5wdXQpLCBzZWxmLm5vcm0xKGhpZGRlbikKICAgICAgICByZXR1cm4gaW5wdXQsIGhpZGRlbgoKCg==</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW5fdW5pdHMgPSAyNTYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgUmVzQmxvY2sobm4uTW9kdWxlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBoaWRkZW5fc2l6ZSwgc2VxdWVuY2VfbGVuZ3RoKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLnJubiA9IEluZEF0dChoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUsIHNlcXVlbmNlX2xlbmd0aCkKICAgICAgICBzZWxmLmxpbmVhciA9IG5uLlNlcXVlbnRpYWwobm4uTGluZWFyKGhpZGRlbl9zaXplLCBoaWRkZW5fc2l6ZSksIG5uLlJlTFUoKSkKICAgICAgICBzZWxmLm5vcm0gPSBCYXRjaE5vcm0xZExhc3QoaGlkZGVuX3NpemUpCgogICAgICAgIHNlbGYucm5uMSA9IEluZEF0dChoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUsIHNlcXVlbmNlX2xlbmd0aCkKICAgICAgICBzZWxmLmxpbmVhcjEgPSBubi5TZXF1ZW50aWFsKG5uLkxpbmVhcihoaWRkZW5fc2l6ZSwgaGlkZGVuX3NpemUpLCBubi5SZUxVKCkpCiAgICAgICAgc2VsZi5ub3JtMSA9IEJhdGNoTm9ybTFkTGFzdChoaWRkZW5fc2l6ZSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCwgaGlkZGVuKToKICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5ybm4oaW5wdXQsIGhpZGRlbikKICAgICAgICBpbnB1dCwgaGlkZGVuID0gc2VsZi5saW5lYXIoaW5wdXQpLCBzZWxmLmxpbmVhcihoaWRkZW4pCiAgICAgICAgIyBpbnB1dCwgaGlkZGVuID0gc2VsZi5ub3JtKGlucHV0KSwgc2VsZi5ub3JtKGhpZGRlbikKCiAgICAgICAgaW5wdXQsIGhpZGRlbiA9IHNlbGYucm5uMShpbnB1dCwgaGlkZGVuKQogICAgICAgIGlucHV0LCBoaWRkZW4gPSBzZWxmLmxpbmVhcjEoaW5wdXQpLCBzZWxmLmxpbmVhcjEoaGlkZGVuKQogICAgICAgICMgaW5wdXQsIGhpZGRlbiA9IHNlbGYubm9ybTEoaW5wdXQpLCBzZWxmLm5vcm0xKGhpZGRlbikKICAgICAgICByZXR1cm4gaW5wdXQsIGhpZGRlbgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0ID0gaW5wdXQgKyByZXNpZHVhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoNjQsIDY0KSwgbm4uTGVha3lSZUxVKCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0ID0gaW5wdXQgKyByZXNpZHVhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxheWVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5MaW5lYXIoNjQsIDY0KSwgbm4uTGVha3lSZUxVKCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxheWVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhJykKICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxheWVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
