@@ -355,12 +355,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535082196365">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535086286721">
         <mark key="'" line="179" column="8" />
-        <mark key="[" line="113" column="27" />
-        <mark key="]" line="113" column="28" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="113" column="28" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -755,8 +754,8 @@
       <jump line="44" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bi5Ecm9wb3V0KCksIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChuZXQudHJhaW5pbmcpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -771,7 +770,7 @@
         <text>, nn.Dropout()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gMWUtOCwgMCwgcmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXQudHJhaW5pbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,28 +790,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXQudHJhaW5pbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUxKGlucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gMWUtOCwgMCwgcmFuZ2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUoaW5wdXQpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUxKGlucHV0KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gOWUzMSwgMCwgcmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlucHV0ID0gc2VsZi5kb3duc2NhbGUoaW5wdXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID09IDAsIDllMzIsIHJhbmdlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gOWUzMSwgMCwgcmFuZ2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID09IDAsIDllMzIsIHJhbmdlKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxV</text>
