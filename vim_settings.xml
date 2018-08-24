@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535090426121">
-        <mark key="'" line="179" column="8" />
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="39" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535122880826">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -653,8 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="42" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="124" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="126" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="127" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="128" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -753,6 +751,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="44" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
+      <jump line="7" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +765,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>ReLU</text>
+        <text>torch.save</text>
       </register>
       <register name="0" type="4">
         <text>, nn.Dropout()</text>
@@ -819,9 +819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ReLU</last-search>
+      <last-search>torch.save</last-search>
       <last-offset />
-      <last-pattern>ReLU</last-pattern>
+      <last-pattern>torch.save</last-pattern>
       <last-replace>LeakyReLU</last-replace>
       <last-substitute>ReLU</last-substitute>
       <last-dir>1</last-dir>
@@ -829,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.cells</entry>
         <entry>self.h0</entry>
         <entry>bias</entry>
         <entry>att</entry>
@@ -849,6 +848,7 @@
         <entry>leaky</entry>
         <entry>double</entry>
         <entry>ReLU</entry>
+        <entry>torch.save</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyppdC8pKml0L2c=</entry>
