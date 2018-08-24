@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535144568558">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535145723914">
         <mark key="'" line="193" column="8" />
         <mark key="[" line="118" column="23" />
-        <mark key="]" line="118" column="23" />
-        <mark key="." line="118" column="23" />
-        <mark key="^" line="118" column="26" />
+        <mark key="]" line="118" column="34" />
+        <mark key="." line="118" column="34" />
+        <mark key="^" line="118" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
