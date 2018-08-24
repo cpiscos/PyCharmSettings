@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535075692842">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535079623353">
         <mark key="'" line="179" column="8" />
-        <mark key="[" line="77" column="42" />
-        <mark key="]" line="77" column="40" />
-        <mark key="^" line="77" column="40" />
-        <mark key="." line="77" column="40" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535074683202">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535079602383">
         <mark key="'" line="42" column="48" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="42" column="100" />
+        <mark key="." line="42" column="86" />
+        <mark key="^" line="42" column="86" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -756,19 +756,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>double</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpZHVhbCA9IGlucHV0CiAgICAgICAgaW5wdXQgPSBzZWxmLnJubihpbnB1dCkKICAgICAgICBpbnB1dCA9IGlucHV0ICsgcmVzaWR1YWwK</text>
+      <register name="0" type="4">
+        <text>, nn.Dropout()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYW5nZSA9IG5wLndoZXJlKHJhbmdlID4gMWUtOCwgMCwgcmFuZ2UpCg==</text>
