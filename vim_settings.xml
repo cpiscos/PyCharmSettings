@@ -20,7 +20,7 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1534829531392">
+      <file name="/a.dummy" timestamp="1535233129558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
@@ -335,10 +335,11 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" timestamp="1534839093983">
-        <mark key="[" line="117" column="43" />
-        <mark key="]" line="117" column="43" />
-        <mark key="." line="117" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" timestamp="1535232491108">
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="67" />
+        <mark key="." line="58" column="67" />
+        <mark key="^" line="58" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531374033751">
         <mark key="'" line="14" column="6" />
@@ -535,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535232165154">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535233062422">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="23" column="68" />
+        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -755,19 +756,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LayerNorm</text>
+        <text>, momentum=0.01</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>LayerNorm</text>
+        <text>, momentum=0.01</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRlLnNoYXBlKQo=</text>
+        <text encoding="base64">Y2xhc3MgQmF0Y2hOb3JtMWRMYXN0KG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgc2l6ZSwgbW9tZW50dW09MC4xKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJhdGNoX25vcm0gPSBubi5CYXRjaE5vcm0xZChzaXplLCBtb21lbnR1bSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCk6CiAgICAgICAgc2hhcGUgPSBpbnB1dC5zaGFwZQogICAgICAgIGlucHV0ID0gc2VsZi5iYXRjaF9ub3JtKGlucHV0LmNvbnRpZ3VvdXMoKS52aWV3KC0xLCBzaGFwZVstMV0pKS52aWV3KHNoYXBlKQogICAgICAgIHJldHVybiBpbnB1dAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
@@ -814,7 +815,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChkYXRlLnNoYXBlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -852,7 +853,6 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzgvc2VxX2xlbi9n</entry>
         <entry encoding="base64">JzwsJz4gOCwvIHNlcV9sZW4sL2c=</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
@@ -868,8 +868,9 @@
         <entry encoding="base64">JzwsJz5zLzI1Ni9oaWRkZW5fdW5pdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzY0L2JvdHRsZW5lY2tfdW5pdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovMTovZw==</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
