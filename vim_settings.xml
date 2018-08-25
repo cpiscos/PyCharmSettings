@@ -354,12 +354,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535158309097">
-        <mark key="'" line="193" column="8" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="89" column="76" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535159325970">
+        <mark key="'" line="194" column="8" />
+        <mark key="[" line="89" column="51" />
+        <mark key="]" line="89" column="43" />
+        <mark key="." line="89" column="43" />
+        <mark key="^" line="89" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -535,12 +535,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535158126532">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535159334785">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="8" column="23" />
+        <mark key="[" line="10" column="47" />
         <mark key="]" line="10" column="48" />
         <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="48" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -755,13 +755,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>#</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
@@ -770,7 +770,7 @@
         <text>nn.Linear(64, 64), nn.LeakyReLU(), BatchNorm1dLast(64),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -790,28 +790,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3AgPSBubi5Ecm9wZGRvdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIEluZEF0dCg2NCwgNjQsIHNlcXVlbmNlX2xlbmd0aCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3AgPSBubi5Ecm9wZGRvdXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
