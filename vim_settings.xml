@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535209809211">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535221753983">
         <mark key="'" line="158" column="11" />
-        <mark key="[" line="116" column="30" />
-        <mark key="]" line="116" column="31" />
-        <mark key="." line="116" column="31" />
-        <mark key="^" line="116" column="29" />
+        <mark key="[" line="116" column="70" />
+        <mark key="]" line="116" column="71" />
+        <mark key="." line="116" column="71" />
+        <mark key="^" line="92" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535209741893">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535221524322">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="10" column="52" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -756,13 +756,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sched</text>
@@ -815,7 +815,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzovMTovZw==</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -865,12 +865,12 @@
         <entry encoding="base64">JzwsJz5zL2hhbGYvZmxvYXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzY0LzI1Ni9n</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni82NC9n</entry>
-        <entry>action ReformatCode</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLzI1Ni9oaWRkZW5fdW5pdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzY0L2JvdHRsZW5lY2tfdW5pdHMvZw==</entry>
-        <entry>action EditorJoinLines</entry>
         <entry encoding="base64">JzwsJz5zLzovMTovZw==</entry>
+        <entry>action EditorJoinLines</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
