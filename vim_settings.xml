@@ -335,12 +335,12 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" timestamp="1535235937056">
-        <mark key="'" line="109" column="41" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="127" column="71" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" timestamp="1535238460059">
+        <mark key="'" line="107" column="41" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531374033751">
         <mark key="'" line="14" column="6" />
@@ -356,11 +356,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535237741018">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535238693477">
         <mark key="'" line="163" column="36" />
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
         <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -537,12 +537,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535237789732">
-        <mark key="'" line="18" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535238661838">
+        <mark key="'" line="31" column="27" />
         <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="30" column="20" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -654,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="530" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="525" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="528" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -754,6 +753,7 @@
       <jump line="121" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="162" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="163" column="36" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="31" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -766,13 +766,13 @@
         <text>BatchNorm1dLast</text>
       </register>
       <register name="/" type="4">
-        <text>sched</text>
+        <text>nn.LayerNorm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQmF0Y2hOb3JtMWRMYXN0KG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgc2l6ZSwgbW9tZW50dW09MC4xKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJhdGNoX25vcm0gPSBubi5CYXRjaE5vcm0xZChzaXplLCBtb21lbnR1bSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCk6CiAgICAgICAgc2hhcGUgPSBpbnB1dC5zaGFwZQogICAgICAgIGlucHV0ID0gc2VsZi5iYXRjaF9ub3JtKGlucHV0LmNvbnRpZ3VvdXMoKS52aWV3KC0xLCBzaGFwZVstMV0pKS52aWV3KHNoYXBlKQogICAgICAgIHJldHVybiBpbnB1dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIudmVyYm9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5wdXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -792,45 +792,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYubHJfZmFjdG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5wdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGl0ZXJfcmF0aW8pCg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlZHVsZXIudmVyYm9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN0ZXBzaXplKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYubHJfZmFjdG9yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlci52ZXJib3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGl0ZXJfcmF0aW8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN0ZXBzaXplKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlci52ZXJib3NlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+      </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</text>
       </register>
     </registers>
     <search>
-      <last-search>sched</last-search>
+      <last-search>nn.LayerNorm</last-search>
       <last-offset />
-      <last-pattern>sched</last-pattern>
-      <last-replace>1:</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>nn.LayerNorm</last-pattern>
+      <last-replace>BatchNorm1dLast</last-replace>
+      <last-substitute>nn.LayerNorm</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>batchnorm</entry>
         <entry>batch_norm</entry>
         <entry>norm</entry>
         <entry>self.weight_hh</entry>
@@ -850,9 +849,9 @@
         <entry>print</entry>
         <entry>lr_factor</entry>
         <entry>sched</entry>
+        <entry>nn.LayerNorm</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzgvc2VxX2xlbi9n</entry>
         <entry encoding="base64">JzwsJz4gOCwvIHNlcV9sZW4sL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzY0LzMyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</entry>
@@ -872,6 +871,7 @@
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
