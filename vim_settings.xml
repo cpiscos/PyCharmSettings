@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535189493696">
-        <mark key="'" line="157" column="20" />
-        <mark key="[" line="112" column="67" />
-        <mark key="]" line="112" column="67" />
-        <mark key="." line="112" column="67" />
-        <mark key="^" line="18" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535209809211">
+        <mark key="'" line="158" column="11" />
+        <mark key="[" line="116" column="30" />
+        <mark key="]" line="116" column="31" />
+        <mark key="." line="116" column="31" />
+        <mark key="^" line="116" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,12 +536,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535172960870">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535209741893">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="48" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -653,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="134" column="15" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="139" column="68" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="145" column="90" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -745,14 +744,15 @@
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="93" column="47" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="42" column="32" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="155" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="8" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="161" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="185" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="158" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="116" column="82" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="155" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="157" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="157" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="158" column="11" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +765,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGVwXD4=</text>
+        <text>sched</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3IgPSAocC9zdGQpLmFicygpKzEK</text>
@@ -819,9 +819,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGVwXD4=</last-search>
+      <last-search>sched</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGVwXD4=</last-pattern>
+      <last-pattern>sched</last-pattern>
       <last-replace>1:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -829,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hidden_init</entry>
         <entry>init</entry>
         <entry>batchnorm</entry>
         <entry>batch_norm</entry>
@@ -849,6 +848,7 @@
         <entry>:</entry>
         <entry>scheduler</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
+        <entry>sched</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzgvc2VxX2xlbi9n</entry>
