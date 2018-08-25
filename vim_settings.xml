@@ -354,11 +354,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535156559450">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535158309097">
         <mark key="'" line="193" column="8" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
         <mark key="^" line="89" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
@@ -535,12 +535,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535155307632">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535158126532">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="10" column="48" />
         <mark key="." line="10" column="48" />
-        <mark key="^" line="9" column="37" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -754,14 +754,14 @@
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>128</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.shape</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
