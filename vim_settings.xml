@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535164673486">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535168262266">
         <mark key="'" line="116" column="60" />
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="32" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="169" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -755,23 +755,23 @@
       <jump line="116" column="60" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0b3IgPSAoKHAtbWVhbikvc3RkKS5hYnMoKSsxCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>nn.Linear(64, 64), nn.LeakyReLU(), BatchNorm1dLast(64),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmYWN0b3IgPSAocC9zdGQpLmFicygpKzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3IgPSAoKHAtbWVhbikvc3RkKS5hYnMoKSsxCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,28 +791,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+        <text encoding="base64">bWVhbiA9IHRvcmNoLnN0YWNrKG1lYW4pLm1lYW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
+        <text encoding="base64">ICAgIG1lYW4uYXBwZW5kKHAubWVhbigpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
+        <text encoding="base64">bWVhbiA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
