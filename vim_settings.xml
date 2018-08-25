@@ -79,11 +79,11 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1535154928293">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1535155544909">
         <mark key="'" line="6" column="25" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/adaline.py" timestamp="1528856475060">
         <mark key="'" line="19" column="52" />
@@ -354,12 +354,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535155101701">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535156559450">
         <mark key="'" line="193" column="8" />
-        <mark key="[" line="89" column="87" />
-        <mark key="]" line="89" column="88" />
-        <mark key="." line="89" column="88" />
-        <mark key="^" line="89" column="88" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="89" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -535,12 +535,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535154124358">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535155307632">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="14" column="109" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -754,14 +754,14 @@
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.shape</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
@@ -770,7 +770,7 @@
         <text>nn.Linear(64, 64), nn.LeakyReLU(), BatchNorm1dLast(64),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlWy0xLCAwLCAtMzpdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -790,28 +790,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYXRlW10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3AgPSBubi5Ecm9wZGRvdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmJpYXNfZ1stMzpdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIEluZEF0dCg2NCwgNjQsIHNlcXVlbmNlX2xlbmd0aCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IEYucmVsdShpbnB1dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIC5yZWMgaW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHNlbGYuZHJvcChpbnB1dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGluX2xvc3MgPSBubi5NU0VMb3NzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyb3AgPSBubi5Ecm9wZGRvdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRkZW5fdW5pdHMgPSAyNTYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAjIEluZEF0dCg2NCwgNjQsIHNlcXVlbmNlX2xlbmd0aCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
