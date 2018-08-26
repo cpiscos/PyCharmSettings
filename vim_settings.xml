@@ -355,12 +355,12 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535243009699">
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535247386982">
         <mark key="'" line="27" column="14" />
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="14" column="11" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -536,11 +536,10 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535245517703">
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="63" />
-        <mark key="^" line="29" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535247670032">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
@@ -754,14 +753,14 @@
       <jump line="52" column="16" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ELU</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTEsIC01Ol0pCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ELU</text>
+        <text>F.relu(input)</text>
       </register>
       <register name="/" type="4">
         <text>residual</text>
@@ -770,7 +769,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRvcmNoLnN0YWNrKChpbnB1dC5tZWFuKCksIGlucHV0Lm1heCgpLCBpbnB1dC5taW4oKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTEsIC01Ol0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -790,28 +789,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHRvcmNoLnN0YWNrKChyZXNpZHVhbC5tZWFuKCksIHJlc2lkdWFsLm1heCgpLCByZXNpZHVhbC5taW4oKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGlucHV0Lm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dFstMSwgLTFdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhdGNoTm9ybUV4cGFuZCgxMjgsIHNlcXVlbmNlX2xlbmd0aCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LCBzZXF1ZW5jZV9sZW5ndGgpKQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigxMjgsIDEyOCksIG5uLlJlTFUoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGlucHV0Lm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRvcmNoLnN0YWNrKChpbnB1dC5tZWFuKCksIGlucHV0Lm1heCgpLCBpbnB1dC5taW4oKSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHRvcmNoLnN0YWNrKChyZXNpZHVhbC5tZWFuKCksIHJlc2lkdWFsLm1heCgpLCByZXNpZHVhbC5taW4oKSkpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGlucHV0Lm1lYW4oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhdGNoTm9ybUV4cGFuZCgxMjgsIHNlcXVlbmNlX2xlbmd0aCksCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</text>
