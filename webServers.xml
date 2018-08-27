@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4eb714d8-9314-4700-ac5d-19987312f60a" name="chris@25.5.244.247:22" url="http:///">
+        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris/PycharmProjects" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="99878ca4-fc16-41b5-90ee-5b22f6ab9894" name="thoas" url="http://thoas.feralhosting.com">
+        <fileTransfer host="thoas.feralhosting.com" port="22" rootFolder="/media/sdx1/cpiscos" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b47189af-841a-48a8-8322-586f6d8cd69b" name="chris" url="http:///">
+        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
