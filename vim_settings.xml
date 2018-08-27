@@ -35,12 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535407770011">
-        <mark key="'" line="133" column="2" />
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="19" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535409602817">
+        <mark key="'" line="135" column="2" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -73,12 +73,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535407273196">
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535409338523">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="71" />
-        <mark key="." line="22" column="71" />
-        <mark key="^" line="22" column="71" />
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="25" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -203,7 +203,7 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1535407637397">
+      <file name="/Python Console" timestamp="1535409604094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -773,22 +773,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>sched</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0ID0gc2VsZi5kcm9wW2xheWVyXShpbnB1dCkK</text>
+        <text encoding="base64">dGVzdCA9IGRmLmlsb2NbLWJvdW5kYXJ5IC0gc2VxX2xlbiAtIDE6XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlLCBpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -814,28 +814,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udlstMV0uc2hhcGUpCg==</text>
+        <text encoding="base64">cHJpbnQodGVzdC5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
+        <text encoding="base64">Ym91bmRhcnkgPSBib3VuZGFyeSBpZiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlLCBpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29udlstMV0uc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYgPSBzZWxmLmNvbnYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgbm4uTGluZWFyKDY0LCA2NCksIEJhdGNoTm9ybTFkTGFzdCg2NCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm4uU2VxdWVudGlhbChubi5Ecm9wb3V0KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgTFNUTVNlcSg2NCwgNjQpLAogICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSkgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5sYXllcnMpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0MSA9IHNlbGYuYmxvY2sxW2xheWVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYgPSBzZWxmLmNvbnYK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
