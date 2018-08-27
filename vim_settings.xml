@@ -35,11 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535329658331">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="39" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535392436327">
+        <mark key="'" line="170" column="10" />
+        <mark key="[" line="98" column="46" />
+        <mark key="]" line="94" column="50" />
+        <mark key="." line="94" column="50" />
+        <mark key="^" line="94" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -72,11 +73,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535329770692">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="30" column="55" />
-        <mark key="." line="30" column="55" />
-        <mark key="^" line="30" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535392508335">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="25" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -201,7 +202,7 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1535329774157">
+      <file name="/Python Console" timestamp="1535392419787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -668,14 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="20" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="230" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="20" column="56" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="292" column="24" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="286" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="34" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="159" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="530" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="525" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -768,75 +761,89 @@
       <jump line="190" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="194" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="153" column="21" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="198" column="4" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="170" column="36" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="197" column="6" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="129" column="2" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="169" column="10" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>256</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24xID0gbm4uRW1iZWRkaW5nKDMsIDMpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>scheduler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQmF0Y2hOb3JtMWRMYXN0KG5uLk1vZHVsZSk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgc2l6ZSwgbW9tZW50dW09MC4xKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJhdGNoX25vcm0gPSBubi5CYXRjaE5vcm0xZChzaXplLCBtb21lbnR1bSkKCiAgICBkZWYgZm9yd2FyZChzZWxmLCBpbnB1dCk6CiAgICAgICAgc2hhcGUgPSBpbnB1dC5zaGFwZQogICAgICAgIGlucHV0ID0gc2VsZi5iYXRjaF9ub3JtKGlucHV0LmNvbnRpZ3VvdXMoKS52aWV3KC0xLCBzaGFwZVstMV0pKS52aWV3KHNoYXBlKQogICAgICAgIHJldHVybiBpbnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24xID0gbm4uRW1iZWRkaW5nKDMsIDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykKICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
           <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuc2lnbihwcmV2KSsxLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOiwgMF0ubWF4KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyYW5nZS5tYXgoKSwgcmFuZ2UubWluKCkpCiAgICAgICAgcHJpbnQoZGlmZi5tYXgoKSwgZGlmZi5taW4oKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoZGF0ZSwgaW5wdXQpLCBkaW09MikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0WzosIDosIDE6XQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoZGF0ZSwgaW5wdXRbOiwgOiwgMTpdKSwgZGltPTIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>scheduler</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>scheduler</last-pattern>
       <last-replace>1:</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -854,7 +861,6 @@
         <entry>soft</entry>
         <entry>sigm</entry>
         <entry>optimi</entry>
-        <entry>scheduler</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>peloss</entry>
         <entry>states</entry>
@@ -864,6 +870,7 @@
         <entry>open</entry>
         <entry>net</entry>
         <entry>reshape</entry>
+        <entry>scheduler</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
