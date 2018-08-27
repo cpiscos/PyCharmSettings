@@ -35,12 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535405701137">
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535407770011">
         <mark key="'" line="133" column="2" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="19" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="39" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -73,12 +73,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535406154586">
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535407273196">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="69" />
-        <mark key="]" line="22" column="89" />
-        <mark key="." line="22" column="89" />
-        <mark key="^" line="22" column="89" />
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+        <mark key="^" line="22" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -203,7 +203,7 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1535406163306">
+      <file name="/Python Console" timestamp="1535407637397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -772,14 +772,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb252LnNoYXBlLCBpbnB1dC5zaGFwZSkK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sched</text>
