@@ -35,12 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535394542174">
-        <mark key="'" line="170" column="10" />
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535396233901">
+        <mark key="'" line="126" column="6" />
+        <mark key="[" line="130" column="30" />
+        <mark key="]" line="130" column="31" />
+        <mark key="." line="130" column="31" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -73,11 +73,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535393001169">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535396579140">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="56" />
+        <mark key="^" line="21" column="56" />
+        <mark key="." line="21" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -202,7 +202,7 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1535394546057">
+      <file name="/Python Console" timestamp="1535396236607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -669,15 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="530" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="525" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="528" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="529" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
-      <jump line="3" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="23" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="24" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="28" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="53" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="55" column="45" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="57" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -761,33 +752,42 @@
       <jump line="190" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="194" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="153" column="21" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="198" column="4" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
-      <jump line="170" column="36" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="197" column="6" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="129" column="2" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
       <jump line="169" column="10" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="130" column="2" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="170" column="10" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="171" column="36" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="199" column="4" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="157" column="36" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="146" column="19" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="133" column="8" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="132" column="3" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="127" column="5" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
+      <jump line="126" column="6" filename="$USER_HOME$/PycharmProjects/Forex/FNet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGVtYnMgPSBpbnB1dFs6LCA6LCA6LTJdLmxvbmcoKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>56</text>
       </register>
       <register name="/" type="4">
-        <text>scheduler</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24xID0gbm4uRW1iZWRkaW5nKDMsIDMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnAxID0gbm4uRW1iZWRkaW5nKDExLCAzKQogICAgICAgIHNlbGYucDIgPSBubi5FbWJlZGRpbmcoMTEsIDMpCiAgICAgICAgc2VsZi5wNSA9IG5uLkVtYmVkZGluZygxMSwgMykKICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykKICAgICAgICBzZWxmLnNpZ24xID0gbm4uRW1iZWRkaW5nKDMsIDMpCiAgICAgICAgc2VsZi5zaWduMiA9IG5uLkVtYmVkZGluZygzLCAzKQogICAgICAgIHNlbGYuc2lnbjMgPSBubi5FbWJlZGRpbmcoMywgMykK</text>
+        <text encoding="base64">ICAgICAgICAjIGVtYnMgPSBpbnB1dFs6LCA6LCA6LTJdLmxvbmcoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -813,45 +813,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykKICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykK</text>
+        <text encoding="base64">ICAgICAgICAjIGVtYnMgPSBbZW1iZWRkaW5nKGVtYnNbOiwgOiwgaV0pIGZvciBpLCBlbWJlZGRpbmcgaW4gZW51bWVyYXRlKHNlbGYuZW1icyldCgogICAgICAgICMgaW5wdXQgPSBpbnB1dFs6LCA6LCAtMjpdCiAgICAgICAgIyBpbnB1dCA9IHNlbGYuaW5pdChpbnB1dCkKCiAgICAgICAgIyBpbnB1dCA9IHRvcmNoLmNhdCgoKmVtYnMsIGlucHV0KSwgZGltPTIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuc2lnbihwcmV2KSsxLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnAxID0gbm4uRW1iZWRkaW5nKDExLCAzKQogICAgICAgIHNlbGYucDIgPSBubi5FbWJlZGRpbmcoMTEsIDMpCiAgICAgICAgc2VsZi5wNSA9IG5uLkVtYmVkZGluZygxMSwgMykKICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykKICAgICAgICBzZWxmLnNpZ24xID0gbm4uRW1iZWRkaW5nKDMsIDMpCiAgICAgICAgc2VsZi5zaWduMiA9IG5uLkVtYmVkZGluZygzLCAzKQogICAgICAgIHNlbGYuc2lnbjMgPSBubi5FbWJlZGRpbmcoMywgMykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOiwgMF0ubWF4KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykKICAgICAgICBzZWxmLnNpZ24gPSBubi5FbWJlZGRpbmcoMywgMykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAuc2lnbihwcmV2KSsxLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyYW5nZS5tYXgoKSwgcmFuZ2UubWluKCkpCiAgICAgICAgcHJpbnQoZGlmZi5tYXgoKSwgZGlmZi5taW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOiwgMF0ubWF4KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyYW5nZS5tYXgoKSwgcmFuZ2UubWluKCkpCiAgICAgICAgcHJpbnQoZGlmZi5tYXgoKSwgZGlmZi5taW4oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>scheduler</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>scheduler</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>1:</last-replace>
       <last-substitute>:</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ones</entry>
         <entry>;</entry>
         <entry>schedul</entry>
         <entry>net(</entry>
@@ -871,6 +870,7 @@
         <entry>net</entry>
         <entry>reshape</entry>
         <entry>scheduler</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
