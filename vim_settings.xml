@@ -358,11 +358,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535420368822">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535421263030">
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
@@ -755,8 +755,8 @@
       <jump line="30" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -771,7 +771,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSg0KToKICAgICAgICAgICAgY29udi5hcHBlbmQoc2VsZi5jb252KGlucHV0WzosIC04K2k6LTQraV0pKQogICAgICAgIGNvbnYgPSB0b3JjaC5jYXQoY29udiwgZGltPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,28 +791,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIGNvbnYpLCBkaW09MikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb252ID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSg0KToKICAgICAgICAgICAgY29udi5hcHBlbmQoc2VsZi5jb252KGlucHV0WzosIC04K2k6LTQraV0pKQogICAgICAgIGNvbnYgPSB0b3JjaC5jYXQoY29udiwgZGltPTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIGNvbnYpLCBkaW09MikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOjVdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4Wy0xLCAtMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOjVdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
