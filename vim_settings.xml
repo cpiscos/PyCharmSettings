@@ -171,7 +171,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535500394794">
+      <file name="/Python Console" timestamp="1535503897177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -377,6 +377,12 @@
         <mark key="." line="86" column="48" />
         <mark key="^" line="86" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/game.py" timestamp="1535503896334">
+        <mark key="[" line="25" column="76" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="98" column="11" />
@@ -537,7 +543,6 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535502292098" />
       <file name="$USER_HOME$/PycharmProjects/forex/merge_data.py" timestamp="1530730794242">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="46" />
