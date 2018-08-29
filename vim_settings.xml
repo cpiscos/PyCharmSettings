@@ -358,7 +358,11 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535498806977" />
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535501003987">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/stocks/stockLSTM.py" timestamp="1530426379174">
         <mark key="'" line="45" column="57" />
         <mark key="[" line="32" column="56" />
@@ -746,7 +750,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZhY3RvciA9IChwIC8gc3RkKS5hYnMoKSArIDEKICAgICAgICAjIGZhY3RvciA9IGZhY3Rvci50byhkZXZpY2UpLmZsb2F0KCkKICAgICAgICAjIGZhY3RvciA9IDEK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -761,7 +765,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZhY3RvciA9IChwIC8gc3RkKS5hYnMoKSArIDEKICAgICAgICAjIGZhY3RvciA9IGZhY3Rvci50byhkZXZpY2UpLmZsb2F0KCkKICAgICAgICAjIGZhY3RvciA9IDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -781,28 +785,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSBjb25mX2xvc3MocHJlZFs6LCAtMV0sIHlbOiwgLTFdKSArIDAuMSpjb25mX2xvc3MocHJlZFs6LCA6LTFdLCB5WzosIDotMV0pCiAgICAgICAgIyBsb3NzID0gKGNvbmZfbG9zcyhwcmVkLCB5KSAqIGZhY3RvcikubWVhbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ID0gW10KICAgICAgICBmb3IgaSBpbiByYW5nZSg0KToKICAgICAgICAgICAgY29udi5hcHBlbmQoc2VsZi5jb252KGlucHV0WzosIC04K2k6LTQraV0pKQogICAgICAgIGNvbnYgPSB0b3JjaC5jYXQoY29udiwgZGltPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNjaGVkdWxlci5zdGVwKGxvc3MuaXRlbSgpKQogICAgICAgICMgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGU6CiAgICAgICAgIyAgICAgZW5kX3N0YXRlID0gVHJ1ZQogICAgICAgICMgICAgIGJyZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IHRvcmNoLmNhdCgoaW5wdXQsIGNvbnYpLCBkaW09MikK</text>
+        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSAoY29uZl9sb3NzKHByZWQsIHkpICogZmFjdG9yKS5tZWFuKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSBjb25mX2xvc3MocHJlZFs6LCAtMV0sIHlbOiwgLTFdKSArIDAuMSpjb25mX2xvc3MocHJlZFs6LCA6LTFdLCB5WzosIDotMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZhY3RvciA9IGZhY3Rvci50byhkZXZpY2UpLmZsb2F0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBubi5Ecm9wb3V0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZhY3RvciA9IChwIC8gc3RkKS5hYnMoKSArIDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGFbOjVdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUubWF4KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
