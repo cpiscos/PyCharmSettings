@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/.gitignore" timestamp="1528683021474">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1535507561770">
-        <mark key="'" line="47" column="37" />
-        <mark key="[" line="30" column="111" />
-        <mark key="]" line="30" column="111" />
-        <mark key="." line="30" column="113" />
-        <mark key="^" line="30" column="83" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1535513728964">
+        <mark key="'" line="120" column="37" />
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/cifar10_tutorial.py" timestamp="1530397406009">
         <mark key="[" line="22" column="23" />
@@ -653,10 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="45" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="57" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="64" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="9" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="104" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="110" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -753,25 +749,29 @@
       <jump line="41" column="58" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="30" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="48" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="123" column="17" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="106" column="16" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ELU</text>
+        <text>.to(device)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ELU</text>
+        <text>.to(device)</text>
       </register>
       <register name="/" type="4">
-        <text>init_hid</text>
+        <text>double</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5ub3JtKHgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,37 +791,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBhZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgzMzMwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbiA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmluaXRfaGlkZGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfemVyb3MoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0X2hpZGRlbihzZWxmKToKICAgICAgICBpbml0ID0gdG9yY2guemVyb3MoMSwgMSwgNjQpLmRvdWJsZSgpCiAgICAgICAgc2VsZi5oaWRkZW4gPSAoaW5pdCwgaW5pdCkKCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5ub3JtKHgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZhY3RvciA9IChwIC8gc3RkKS5hYnMoKSArIDEKICAgICAgICAjIGZhY3RvciA9IGZhY3Rvci50byhkZXZpY2UpLmZsb2F0KCkKICAgICAgICAjIGZhY3RvciA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSBjb25mX2xvc3MocHJlZFs6LCAtMV0sIHlbOiwgLTFdKSArIDAuMSpjb25mX2xvc3MocHJlZFs6LCA6LTFdLCB5WzosIDotMV0pCiAgICAgICAgIyBsb3NzID0gKGNvbmZfbG9zcyhwcmVkLCB5KSAqIGZhY3RvcikubWVhbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgzMzMwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNjaGVkdWxlci5zdGVwKGxvc3MuaXRlbSgpKQogICAgICAgICMgaWYgc2NoZWR1bGVyLml0ZXJhdGlvbiA9PSBzY2hlZHVsZXIuY3ljbGU6CiAgICAgICAgIyAgICAgZW5kX3N0YXRlID0gVHJ1ZQogICAgICAgICMgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmluaXRfaGlkZGVuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvc3MgPSAoY29uZl9sb3NzKHByZWQsIHkpICogZmFjdG9yKS5tZWFuKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0X2hpZGRlbihzZWxmKToKICAgICAgICBpbml0ID0gdG9yY2guemVyb3MoMSwgMSwgNjQpLmRvdWJsZSgpCiAgICAgICAgc2VsZi5oaWRkZW4gPSAoaW5pdCwgaW5pdCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>init_hid</last-search>
+      <last-search>double</last-search>
       <last-offset />
-      <last-pattern>init_hid</last-pattern>
+      <last-pattern>double</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -829,12 +829,9 @@
     </search>
     <history>
       <history-search>
-        <entry>leaky</entry>
-        <entry>ReLU</entry>
         <entry>torch.save</entry>
         <entry>float</entry>
         <entry>start</entry>
-        <entry>double</entry>
         <entry>half</entry>
         <entry>256</entry>
         <entry>64</entry>
@@ -849,9 +846,11 @@
         <entry>scheduler</entry>
         <entry encoding="base64">IA==</entry>
         <entry>init_hid</entry>
+        <entry>cuda</entry>
+        <entry encoding="base64">XDxzZWxlY3RfYWN0aW9uXD4=</entry>
+        <entry>double</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxVL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdA==</entry>
         <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxV</entry>
@@ -871,6 +870,7 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>double</entry>
       </history-cmd>
       <history-expr />
       <history-input />
