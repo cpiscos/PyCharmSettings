@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535507567734">
+      <file name="/Python Console" timestamp="1535662115824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -322,6 +322,12 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535662114691">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -784,13 +790,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.to(device)</text>
+        <text>empty</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
@@ -799,7 +805,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -819,28 +825,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkW3Bvc2l0aW9uLCBlbXB0eV0gPSAtMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwb3NpdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlbXB0eSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfemVyb3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5ub3JtKHgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlbXB0eSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgzMzMwKQo=</text>
+        <text encoding="base64">cHJpbnQoZ2FtZS5ib2FyZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmluaXRfaGlkZGVuKCkK</text>
+        <text encoding="base64">cHJpbnQodG9yY2guemVyb3MoNiwgNykubnVtcHkoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
