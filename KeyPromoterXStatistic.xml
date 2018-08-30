@@ -254,7 +254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '13 Fibonacci'">
@@ -273,11 +273,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'Sine_Fitting'</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'adaline'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Alt+R'</ShortCut>
           <Description>Rerun 'adaline'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'basic_example'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'basic_example'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -287,6 +303,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ch02'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'importer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⇧⏎'</ShortCut>
+          <Description>Rerun 'importer'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'iris'">
@@ -398,7 +422,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FaceLandmarks'">
@@ -537,6 +561,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Sine_Fitting'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Sine_Fitting'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SungKim (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -662,7 +694,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
