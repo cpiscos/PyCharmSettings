@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535662115824">
+      <file name="/Python Console" timestamp="1535664467849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -323,10 +323,10 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535662114691">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535664445572">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
         <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
@@ -789,23 +789,23 @@
       <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+      <register name="&quot;" type="4">
+        <text>player</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>player</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmJ1BsYXllciB7cGxheWVyfSB3aW5zIScpCiAgICAgICAgICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgIHBsYXllciA9IChpLTEpICUgMiArIDEK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -825,28 +825,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkW3Bvc2l0aW9uLCBlbXB0eV0gPSAtMQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnR1cm4gKz0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwb3NpdGlvbikK</text>
+        <text encoding="base64">ICAgIGVycm9yID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlbXB0eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQogICAgZ2FtZS5wbGF5ZXJfdHVybigyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlbXB0eSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZ2FtZS5ib2FyZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQodG9yY2guemVyb3MoNiwgNykubnVtcHkoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
