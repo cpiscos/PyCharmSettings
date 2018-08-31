@@ -323,10 +323,11 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535711352041">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535727099697">
+        <mark key="[" line="98" column="25" />
+        <mark key="]" line="99" column="27" />
+        <mark key="." line="99" column="27" />
+        <mark key="^" line="99" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -352,7 +353,7 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535726416366">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535727370630">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="10" />
         <mark key="^" line="6" column="10" />
@@ -810,7 +811,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2x1bW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdzYXZpbmcnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -830,28 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvbHVtbikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb2x1bW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNvbHVtbikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBoaXN0b3J5IGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnJld2FyZHMgPSBoaXN0b3J5WzBdCiAgICAgICAgICAgIHNlbGYuYWN0aW9ucyA9IGhpc3RvcnlbMV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBoaXN0b3J5IGlzIE5vbmU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBlbGlmIGdhbWUuZG9uZSA+PSAxOgogICAgICAgICMgICAgIGdhbWUuZG9uZSAtPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLnJld2FyZHMgPSBoaXN0b3J5WzBdCiAgICAgICAgICAgIHNlbGYuYWN0aW9ucyA9IGhpc3RvcnlbMV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2FtZS5pbnZhbGlkID09IDE6CiAgICAgICAgICAgICAgICBnYW1lLmludmFsaWQgPSAxCiAgICAgICAgICAgICAgICBnYW1lLmRvbmUgPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBlbGlmIGdhbWUuZG9uZSA+PSAxOgogICAgICAgICMgICAgIGdhbWUuZG9uZSAtPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9yY2guc2F2ZShhaS5wb2xpY3kuc3RhdGVfZGljdCgpLCAnYWkud2VpZ2h0cycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2FtZS5pbnZhbGlkID09IDE6CiAgICAgICAgICAgICAgICBnYW1lLmludmFsaWQgPSAxCiAgICAgICAgICAgICAgICBnYW1lLmRvbmUgPSAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
