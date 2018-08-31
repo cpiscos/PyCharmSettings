@@ -323,11 +323,11 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535730431088">
-        <mark key="[" line="101" column="18" />
-        <mark key="]" line="101" column="18" />
-        <mark key="." line="101" column="18" />
-        <mark key="^" line="101" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535741979619">
+        <mark key="[" line="92" column="24" />
+        <mark key="]" line="92" column="24" />
+        <mark key="." line="92" column="24" />
+        <mark key="^" line="92" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -795,14 +795,14 @@
       <jump line="33" column="39" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFJc1sxXS51cGRhdGVfcG9saWN5KCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>update_policy</text>
       </register>
       <register name="/" type="4">
         <text>policy_his</text>
@@ -811,7 +811,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFJc1sxXS51cGRhdGVfcG9saWN5KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -831,28 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFpIGluIEFJczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9hZCA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBhaSBpbiBBSXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFJc1swXS5zYXZlKGkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgneWVzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBpICUgMiA9PSAwOgogICAgICAgICAgICAjICAgICBwcmludCgndXBkYXRlJykKICAgICAgICAgICAgIyAgICAgQUlzWzBdLnVwZGF0ZV9iYXRjaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYuYXBwbHkobm4uaW5pdC5rYWltaW5nX25vcm1hbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uRHJvcG91dCgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2FtZS5ib2FyZCkK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGxheWVyKzEpCg==</text>
+        <text encoding="base64">bG9hZCA9IEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgcGxheWVyIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
