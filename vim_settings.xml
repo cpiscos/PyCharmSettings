@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535683461537">
+      <file name="/Python Console" timestamp="1535700575187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -323,12 +323,11 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535683081955">
-        <mark key="'" line="31" column="39" />
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="8" />
-        <mark key="^" line="61" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535700200333">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="8" />
+        <mark key="^" line="66" column="10" />
+        <mark key="." line="67" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -354,11 +353,10 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535699534452">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="44" column="18" />
-        <mark key="^" line="44" column="18" />
-        <mark key="." line="44" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535700587809">
+        <mark key="[" line="44" column="63" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -796,23 +794,23 @@
       <jump line="33" column="39" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>policy_history</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>policy_history</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>policy_his</text>
       </register>
-      <register name="0" type="4">
-        <text>ai.rewards.append</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhaVswXS51cGRhdGVfcG9saWN5KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -832,28 +830,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvbGljeV9oaXN0b3J5ID0gZGVxdWUoW10pCiAgICAgICAgc2VsZi5yZXdhcmRfaGlzdG9yeSA9IGRlcXVlKFtdKQogICAgICAgIHNlbGYubG9zc19oaXN0b3J5ID0gZGVxdWUoW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWkgPSBBSSgpLCBBSSgpXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhaSBpbXBvcnQgQUkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMuc2hhcGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQUkoKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaXN0KHNlbGYucmV3YXJkcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkKICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5hcmFuZ2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
