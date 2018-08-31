@@ -112,6 +112,11 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535684892283">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/lstm+conv.py" timestamp="1533231665516">
         <mark key="[" line="20" column="10" />
         <mark key="]" line="20" column="11" />
@@ -171,7 +176,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535684299393">
+      <file name="/Python Console" timestamp="1535687422395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -587,6 +592,13 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535687155771">
+        <mark key="'" line="64" column="7" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/pytorch test.py" timestamp="1530218977021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="9" />
@@ -653,7 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="104" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="110" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="150" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -753,25 +764,26 @@
       <jump line="123" column="17" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="106" column="16" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="43" column="7" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.to(device)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53aW5uZXIgPSAwCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.to(device)</text>
+        <text>[player]</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkID0gbnAuemVyb3MoKDYsIDcpKS5hc3R5cGUoaW50KQogICAgICAgIHNlbGYuZG9uZSA9IEZhbHNlCiAgICAgICAgc2VsZi53aW5uZXIgPSAwCiAgICAgICAgc2VsZi50dXJuID0gMQogICAgICAgIHNlbGYucGxheWVyID0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53aW5uZXIgPSAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,31 +803,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkID0gbnAuemVyb3NfbGlrZShzZWxmLmJvYXJkKQogICAgICAgIHNlbGYuZG9uZSA9IEZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfemVyb3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5ub3JtKHgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgzMzMwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2FtZS5ib2FyZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmluaXRfaGlkZGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1lLmJvYXJkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0X2hpZGRlbihzZWxmKToKICAgICAgICBpbml0ID0gdG9yY2guemVyb3MoMSwgMSwgNjQpLmRvdWJsZSgpCiAgICAgICAgc2VsZi5oaWRkZW4gPSAoaW5pdCwgaW5pdCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZ2FtZS5ib2FyZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -866,11 +878,11 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
         <entry>double</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
