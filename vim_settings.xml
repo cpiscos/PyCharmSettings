@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535711861042">
+      <file name="/Python Console" timestamp="1535726286165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -352,11 +352,11 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535711859427">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535726416366">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -794,8 +794,8 @@
       <jump line="33" column="39" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb2x1bW4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -864,7 +864,7 @@
       <last-replace>self.player</last-replace>
       <last-substitute>player</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
