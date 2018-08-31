@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535678099800">
+      <file name="/Python Console" timestamp="1535679002553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -323,12 +323,12 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535677903095">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535679001528">
         <mark key="'" line="32" column="39" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="24" />
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -796,23 +796,23 @@
       <jump line="33" column="39" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+      <register name="&quot;" type="4">
+        <text>self</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>nn.BatchNorm1d(128),</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>player</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lLnBsYXllcl90dXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICBnYW1lLnBsYXllcl90dXJuKGFpLnNlbGVjdF9hY3Rpb24oZ2FtZS5ib2FyZCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5ib2FyZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -832,28 +832,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lLnBsYXllcl90dXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdhbWUucGxheWVyX3R1cm4oYWkuc2VsZWN0X2FjdGlvbihnYW1lLmJvYXJkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHVybikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllciA9IChzZWxmLnR1cm4gLSAxKSAlIDIgKyAxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllciA9IChzZWxmLnR1cm4gLSAxKSAlIDIgKyAxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnBsYXllcikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGdhbWUucGxheWVyKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rpb24pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0dXJuKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGdhbWUucGxheWVyKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXIgPSBzZWxmLnBsYXllcgo=</text>
+        <text encoding="base64">ICAgICAgICBnYW1lLnBsYXllcl90dXJuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
