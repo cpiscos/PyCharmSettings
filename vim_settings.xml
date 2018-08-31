@@ -202,7 +202,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535666442761">
+      <file name="/Python Console" timestamp="1535675465608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -323,10 +323,11 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535666023662">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535675255614">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -351,6 +352,12 @@
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535676774473">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -788,20 +795,20 @@
       <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKHNlbGYuYm9hcmQgPT0gcGxheWVyKS5hc3R5cGUoaW50KSkK</text>
+      <register name="&quot;" type="4">
+        <text>class</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChmJ1BsYXllciB7cGxheWVyfSB3aW5zIScpCiAgICAgICAgICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm4uTGluZWFyKDUxMiwgMjU2KSwgbm4uUmVMVSgpLCBubi5CYXRjaE5vcm0xZCgxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKHNlbGYuYm9hcmQgPT0gcGxheWVyKS5hc3R5cGUoaW50KSkK</text>
