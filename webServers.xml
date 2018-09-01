@@ -14,7 +14,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="b47189af-841a-48a8-8322-586f6d8cd69b" name="chris" url="http:///">
+      <webServer id="b47189af-841a-48a8-8322-586f6d8cd69b" name="chris-server" url="http:///">
         <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
