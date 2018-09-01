@@ -90,6 +90,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/tf_test.py" timestamp="1535814782849">
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="70" />
+        <mark key="." line="40" column="70" />
+        <mark key="^" line="40" column="70" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/Pythagorean Triples Checker.py" timestamp="1528346518087">
         <mark key="'" line="10" column="8" />
         <mark key="[" line="13" column="13" />
@@ -202,7 +208,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535783740344">
+      <file name="/Python Console" timestamp="1535814784269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -797,13 +803,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text encoding="base64">IDEs</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">IDEs</text>
       </register>
       <register name="/" type="4">
         <text>self.po</text>
@@ -812,7 +818,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodHJhaW5faW1hZ2VzLnNoYXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -832,28 +838,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm9wdGltaXplciA9IHRvcmNoLm9wdGltLkFkYW0oc2VsZi5wb2xpY3kucGFyYW1ldGVycygpLCBscj0xZS0yLCB3ZWlnaHRfZGVjYXk9MWUtMTYpCg==</text>
+        <text encoding="base64">cHJpbnQodGYuX192ZXJzaW9uX18pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2FkOgogICAgICAgICAgICBzZWxmLnBvbGljeS5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChmJ2FpLndlaWdodHN7c2VsZi5wbGF5ZXJ9JykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvbGljeSA9IHBvbGljeQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9wdGltaXplciA9IHRvcmNoLm9wdGltLkFkYW0oc2VsZi5wb2xpY3kucGFyYW1ldGVycygpLCBscj0xZS0yLCB3ZWlnaHRfZGVjYXk9MWUtMTYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfbW92ZXMgPSAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2FkOgogICAgICAgICAgICBzZWxmLnBvbGljeS5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChmJ2FpLndlaWdodHN7c2VsZi5wbGF5ZXJ9JykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnZpZXcoMSwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvbGljeSA9IHBvbGljeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFJc1sxXS51cGRhdGVfcG9saWN5KCkK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbW92ZXMgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGFpIGluIEFJczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZpZXcoMSwgLTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBhaSBpbiBBSXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFJc1sxXS51cGRhdGVfcG9saWN5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
