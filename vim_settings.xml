@@ -177,7 +177,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535752319491">
+      <file name="/Python Console" timestamp="1535766046991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -433,6 +433,11 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Connect4/base_game.py" timestamp="1535766116506">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="20" />
+        <mark key="." line="95" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/__init__.py" timestamp="1534474604928">
         <mark key="[" line="3" column="38" />
