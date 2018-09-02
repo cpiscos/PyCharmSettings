@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1535904222920">
+      <file name="/start_script.py" timestamp="1535909551190">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI/PyTorchEx.py" timestamp="1530050195759">
@@ -177,7 +177,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535904268655">
+      <file name="/Python Console" timestamp="1535909655130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -396,11 +396,11 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/mujoco_test.py" timestamp="1535904267147">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/mujoco_test.py" timestamp="1535909647365">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530600185558">
         <mark key="[" line="22" column="77" />
@@ -790,13 +790,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Humanoid-v2</text>
+        <text>CartPole-v0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Humanoid-v2</text>
+        <text>CartPole-v0</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
