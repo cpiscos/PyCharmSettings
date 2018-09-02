@@ -177,7 +177,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535845000503">
+      <file name="/Python Console" timestamp="1535850507083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -396,11 +396,11 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/mujoco_test.py" timestamp="1535841985705">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/mujoco_test.py" timestamp="1535850494980">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/time-sequence-prediction/generate_sine_wave.py" timestamp="1530600185558">
         <mark key="[" line="22" column="77" />
@@ -784,14 +784,14 @@
       <jump line="43" column="7" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>gym</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>gym</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
