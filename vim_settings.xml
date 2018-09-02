@@ -522,6 +522,11 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/CS294/mujoco_test.py" timestamp="1535908283646">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
       </file>
@@ -785,13 +790,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gym</text>
+        <text>Humanoid-v2</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>gym</text>
+        <text>Humanoid-v2</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
