@@ -35,9 +35,6 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535497422971">
-        <mark key="'" line="146" column="2" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="23" />
@@ -69,13 +66,6 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNetwork.py" timestamp="1535497548808">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="54" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="24" column="58" />
-      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
         <mark key="[" line="25" column="26" />
@@ -97,18 +87,18 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531362192940">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="15" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/indrnn.py" timestamp="1534017607233">
         <mark key="'" line="129" column="19" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/forex/network_wholelstm.py" timestamp="1531362192940">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530249450685">
         <mark key="'" line="0" column="0" />
@@ -138,13 +128,6 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" timestamp="1535233062422">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="38" />
-        <mark key="^" line="23" column="68" />
-        <mark key="." line="30" column="38" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/test.py" timestamp="1528478163581">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
@@ -165,19 +148,19 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="98" column="11" />
-        <mark key="." line="98" column="11" />
-        <mark key="^" line="98" column="11" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/forex/game.py" timestamp="1531374033751">
         <mark key="'" line="14" column="6" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm_projects/AI/FaceLandmarks.py" timestamp="1530171162847">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+        <mark key="^" line="98" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530651094405">
         <mark key="[" line="2" column="29" />
@@ -202,7 +185,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535507567734">
+      <file name="/Python Console" timestamp="1535859320471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -317,22 +300,21 @@
         <mark key="." line="104" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" timestamp="1535501003987">
-        <mark key="'" line="32" column="0" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
-        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535690228038">
+        <mark key="'" line="105" column="7" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/models/nalu.py" timestamp="1535495226662">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/nalu.py" timestamp="1534476249983">
         <mark key="'" line="34" column="13" />
@@ -347,6 +329,12 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535691726397">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="10" />
@@ -359,17 +347,17 @@
         <mark key="." line="107" column="47" />
         <mark key="^" line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/conv.py" timestamp="1532215449720">
         <mark key="[" line="53" column="44" />
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/testbench.py" timestamp="1528961942327">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/time-sequence-prediction/train.py" timestamp="1530600630981">
         <mark key="'" line="63" column="13" />
@@ -403,7 +391,6 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="67" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI_Projects/SineLSTM.py" timestamp="1533081593710">
         <mark key="[" line="18" column="8" />
@@ -411,11 +398,11 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1535523907091">
-        <mark key="'" line="119" column="37" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1535513728964">
+        <mark key="'" line="120" column="37" />
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
@@ -547,6 +534,9 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
+      <file name="vim_settings.xml" timestamp="1535751834422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
         <mark key="[" line="124" column="95" />
         <mark key="]" line="124" column="96" />
@@ -560,19 +550,19 @@
         <mark key="." line="33" column="34" />
         <mark key="^" line="32" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
-        <mark key="'" line="112" column="18" />
-        <mark key="[" line="113" column="15" />
-        <mark key="]" line="113" column="19" />
-        <mark key="^" line="113" column="19" />
-        <mark key="." line="113" column="19" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" timestamp="1534044198092">
         <mark key="'" line="192" column="24" />
         <mark key="[" line="126" column="42" />
         <mark key="]" line="127" column="29" />
         <mark key="." line="127" column="29" />
         <mark key="^" line="127" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
+        <mark key="'" line="112" column="18" />
+        <mark key="[" line="113" column="15" />
+        <mark key="]" line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+        <mark key="." line="113" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/datepart.py" timestamp="1532551091652">
         <mark key="[" line="39" column="36" />
@@ -612,7 +602,7 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531616302291">
+      <file name="/Dummy.txt" timestamp="1535831049010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1530664309835">
@@ -628,18 +618,18 @@
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ForexResearch/merge_data.py" timestamp="1535252260550">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/merge_data.py" timestamp="1535252260550">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn-pytorch-master/addition_test.py" timestamp="1534012304432">
         <mark key="[" line="6" column="6" />
@@ -681,7 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="104" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="110" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="150" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -781,25 +770,26 @@
       <jump line="123" column="17" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="106" column="16" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
+      <jump line="43" column="7" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.to(device)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdcbicsIHJlc2lkdWFsLm1lYW4oKSwgcmVzaWR1YWwubWF4KCksIHJlc2lkdWFsLm1pbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkID0gbnAuemVyb3MoKDYsIDcpKS5hc3R5cGUoaW50KQogICAgICAgIHNlbGYuZG9uZSA9IEZhbHNlCiAgICAgICAgc2VsZi53aW5uZXIgPSAwCiAgICAgICAgc2VsZi50dXJuID0gMQogICAgICAgIHNlbGYucGxheWVyID0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -819,31 +809,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBjLnNhbXBsZSgpCiAgICAgICAgc2VsZi5hY3Rpb25zLmFwcGVuZChjLmxvZ19wcm9iKGFjdGlvbikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfemVyb3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5ub3JtKHgpCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vcm0gPSBubi5CYXRjaE5vcm0xZCgzMzMwKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmluaXRfaGlkZGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -857,48 +847,48 @@
     </search>
     <history>
       <history-search>
-        <entry>schedul</entry>
-        <entry>net(</entry>
-        <entry>tacc</entry>
-        <entry>merged</entry>
-        <entry>d</entry>
-        <entry>soft</entry>
-        <entry>sigm</entry>
-        <entry>optimi</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry>peloss</entry>
-        <entry>states</entry>
-        <entry>upd</entry>
-        <entry encoding="base64">XDxucFw+</entry>
-        <entry>np</entry>
-        <entry>open</entry>
-        <entry>net</entry>
-        <entry>reshape</entry>
-        <entry>scheduler</entry>
-        <entry>load</entry>
+        <entry>torch.save</entry>
+        <entry>float</entry>
+        <entry>start</entry>
+        <entry>half</entry>
+        <entry>256</entry>
+        <entry>64</entry>
+        <entry>:</entry>
+        <entry encoding="base64">XDxzdGVwXD4=</entry>
+        <entry>print</entry>
+        <entry>lr_factor</entry>
         <entry>sched</entry>
+        <entry>nn.LayerNorm</entry>
+        <entry>zeros</entry>
+        <entry>residual</entry>
+        <entry>scheduler</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>init_hid</entry>
+        <entry>cuda</entry>
+        <entry encoding="base64">XDxzZWxlY3RfYWN0aW9uXD4=</entry>
+        <entry>double</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
-        <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>help s</entry>
-        <entry>help v_s</entry>
-        <entry>s/errors_/cost_</entry>
-        <entry>s/0/j/g</entry>
-        <entry>s/hyp/log_func/g</entry>
-        <entry>s/mu/std/g</entry>
-        <entry>%s/head/tail/g</entry>
-        <entry>noh</entry>
-        <entry>s/x/y/g</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action RenameElemenet</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>s/t_/v_/g</entry>
-        <entry>s/G/D/g</entry>
-        <entry>s/d/g/g</entry>
+        <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdA==</entry>
+        <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxV</entry>
+        <entry encoding="base64">JzwsJz5zL2Zsb2F0L2RvdWJsZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RvdWJsZS9oYWxmL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2hhbGYvZmxvYXQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzY0LzI1Ni9n</entry>
+        <entry encoding="base64">JzwsJz5zLzI1Ni82NC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzI1Ni9oaWRkZW5fdW5pdHMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzY0L2JvdHRsZW5lY2tfdW5pdHMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzovMTovZw==</entry>
         <entry>action RenameElement</entry>
-        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
+        <entry>noh</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>double</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
