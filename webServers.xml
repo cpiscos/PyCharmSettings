@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4eb714d8-9314-4700-ac5d-19987312f60a" name="chris@25.5.244.247:22" url="http:///">
-        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris/PycharmProjects" accessType="SFTP" keyPair="true">
+      <webServer id="4eb714d8-9314-4700-ac5d-19987312f60a" name="chris@25.83.51.204" url="http:///">
+        <fileTransfer host="25.83.51.204" port="22" rootFolder="/home/chris/PycharmProjects" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
@@ -11,11 +11,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b47189af-841a-48a8-8322-586f6d8cd69b" name="chris-server" url="http:///">
-        <fileTransfer host="25.5.244.247" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/chris" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
