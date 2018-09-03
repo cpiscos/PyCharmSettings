@@ -136,9 +136,6 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl quote" />
-  </action>
   <action id="TypeHierarchy" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
