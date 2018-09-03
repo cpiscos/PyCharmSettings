@@ -408,8 +408,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535949346540">
-        <mark key="[" line="17" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950204026">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
         <mark key="'" line="10" column="35" />
@@ -677,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="110" column="30" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="150" column="44" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="183" column="65" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="189" column="26" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -777,6 +779,8 @@
       <jump line="106" column="16" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="119" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
       <jump line="43" column="7" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
