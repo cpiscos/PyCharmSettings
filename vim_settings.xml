@@ -185,7 +185,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1535950481159">
+      <file name="/Python Console" timestamp="1535950574153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -381,6 +381,11 @@
         <mark key="]" line="51" column="50" />
         <mark key="." line="51" column="50" />
         <mark key="^" line="98" column="53" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CS294/run_expert.py" timestamp="1535950567547">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/sine.py" timestamp="1530594178733">
         <mark key="'" line="4" column="30" />
@@ -782,14 +787,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnJ29ubHkgdGhlIGdvb2QgdGhpbmdzLCBvbmx5IHRoZSBnb29kIHRoaW5ncywgZG9vIHR1IHR1IHR1dXVkZCcnJwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
