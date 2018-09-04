@@ -35,11 +35,11 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" timestamp="1536083900657">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="33" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" timestamp="1536084619386">
+        <mark key="'" line="40" column="51" />
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -201,7 +201,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536083419906">
+      <file name="/Python Console" timestamp="1536084516961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -727,7 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="74" column="50" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="87" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="114" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -827,16 +826,17 @@
       <jump line="26" column="27" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
+      <jump line="37" column="51" filename="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(nn.Module)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbnYgPSAK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>(nn.Module)</text>
+        <text>CrossEntropyLoss</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -845,7 +845,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9ucy5zaGFwZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbnYgPSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +865,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBneW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RlcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob2JzKQogICAgICAgICAgICBwcmludCh0cnVlX2FjdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5hY3Rpb25zKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGVuKHNlbGYuYWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSBDYXRlZ29yaWNhbChzZWxmLm1vZGVsKG9icykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5vYnNlcnZhdGlvbnMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9ucy5zaGFwZSwgc2VsZi5hY3Rpb25zLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
