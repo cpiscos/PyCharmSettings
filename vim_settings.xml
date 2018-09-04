@@ -35,11 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" timestamp="1536098451726">
+      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" timestamp="1536099912111">
         <mark key="'" line="20" column="41" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
@@ -829,14 +830,14 @@
       <jump line="20" column="41" filename="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
