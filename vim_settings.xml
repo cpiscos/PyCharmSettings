@@ -63,12 +63,12 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.py" timestamp="1536029287377">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.py" timestamp="1536033401197">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Q1.py" timestamp="1531079194430">
         <mark key="[" line="49" column="0" />
@@ -210,11 +210,11 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="223" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/model.py" timestamp="1535956962878">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/model.py" timestamp="1536034734310">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="59" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -398,8 +398,8 @@
         <mark key="." line="51" column="50" />
         <mark key="^" line="98" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/run_expert.py" timestamp="1536029110207">
-        <mark key="'" line="5" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/run_expert.py" timestamp="1536033047320">
+        <mark key="'" line="26" column="27" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -676,11 +676,11 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.bash" timestamp="1536029087037">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.bash" timestamp="1536033265868">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/indrnn.py" timestamp="1534474588579">
         <mark key="[" line="259" column="51" />
@@ -716,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="587" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="10" column="18" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
       <jump line="273" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="74" column="50" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -808,7 +807,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" />
       <jump line="8" column="40" filename="$USER_HOME$/PycharmProjects/CS294/tf_util.py" />
       <jump line="75" column="7" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
       <jump line="5" column="19" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
       <jump line="6" column="15" filename="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/CS294/behavioral_cloning.py" />
@@ -816,25 +814,27 @@
       <jump line="25" column="23" filename="$USER_HOME$/PycharmProjects/CS294/load_policy.py" />
       <jump line="27" column="23" filename="$USER_HOME$/PycharmProjects/CS294/load_policy.py" />
       <jump line="47" column="47" filename="$USER_HOME$/PycharmProjects/CS294/load_policy.py" />
+      <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
+      <jump line="26" column="27" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3MuY2xvc2UoKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LXJlbmRlciA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sess</text>
+        <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yIGUgaW4gSG9wcGVyLXYyIEFudC12MiBIYWxmQ2hlZXRhaC12MiBIdW1hbm9pZC12MiBSZWFjaGVyLXYyIFdhbGtlcjJkLXYyCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3MuY2xvc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -854,45 +854,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWhhdmlvcmFsX2Nsb25pbmcudHJhaW4oYXJncy5lbnZuYW1lLCBleHBlcnRfZGF0YVsnb2JzZXJ2YXRpb25zJ10sIGV4cGVydF9kYXRhWydhY3Rpb25zJ10pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Zm9yIGVudm5hbWUgaW4gb3MubGlzdGRpcignZXhwZXJ0X2RhdGEnKToKICAgIHdpdGggb3BlbignZXhwZXJ0X2RhdGEvJytlbnZuYW1lLCAncmInKSBhcyBleHBlcnRfZGF0YToKICAgICAgICBleHBlcnRfZGF0YSA9IHBpY2tsZS5sb2FkKGV4cGVydF9kYXRhKQogICAgb2JzZXJ2YXRpb25zLCBhY3Rpb25zID0gZXhwZXJ0X2RhdGFbJ29ic2VydmF0aW9ucyddLCBleHBlcnRfZGF0YVsnYWN0aW9ucyddCiAgICBlbnZuYW1lID0gZW52bmFtZVs6LTRdCiAgICB0cmFpbihlbnZuYW1lLCBvYnNlcnZhdGlvbnMsIGFjdGlvbnMpCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBiZWhhdmlvcmFsX2Nsb25pbmcudHJhaW4oYXJncy5lbnZuYW1lLCBleHBlcnRfZGF0YVsnb2JzZXJ2YXRpb25zJ10sIGV4cGVydF9kYXRhWydhY3Rpb25zJ10pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Zm9yIGVudm5hbWUgaW4gb3MubGlzdGRpcignZXhwZXJ0X2RhdGEnKToKICAgIHdpdGggb3BlbignZXhwZXJ0X2RhdGEvJytlbnZuYW1lLCAncmInKSBhcyBleHBlcnRfZGF0YToKICAgICAgICBleHBlcnRfZGF0YSA9IHBpY2tsZS5sb2FkKGV4cGVydF9kYXRhKQogICAgb2JzZXJ2YXRpb25zLCBhY3Rpb25zID0gZXhwZXJ0X2RhdGFbJ29ic2VydmF0aW9ucyddLCBleHBlcnRfZGF0YVsnYWN0aW9ucyddCiAgICBlbnZuYW1lID0gZW52bmFtZVs6LTRdCiAgICB0cmFpbihlbnZuYW1lLCBvYnNlcnZhdGlvbnMsIGFjdGlvbnMpCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>sess</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>sess</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>256</entry>
         <entry>64</entry>
         <entry>:</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
@@ -912,6 +911,7 @@
         <entry>print('i')</entry>
         <entry>tf</entry>
         <entry>sess</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
@@ -926,14 +926,14 @@
         <entry encoding="base64">JzwsJz5zLzI1Ni9oaWRkZW5fdW5pdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzY0L2JvdHRsZW5lY2tfdW5pdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzovMTovZw==</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>double</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />

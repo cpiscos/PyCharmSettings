@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="jupyter" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping ext="bash" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
