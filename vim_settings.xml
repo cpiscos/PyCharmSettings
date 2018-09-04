@@ -35,6 +35,12 @@
         <mark key="^" line="131" column="11" />
         <mark key="." line="136" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" timestamp="1536082983667">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/iris.py" timestamp="1530054553154">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="23" />
@@ -254,6 +260,11 @@
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/demo.bash" timestamp="1536082942243">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/AI_Projects/Sine_Fitting.py" timestamp="1533089030139">
         <mark key="'" line="71" column="14" />
@@ -819,13 +830,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>range(dagger_epochs)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>range(dagger_epochs)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
