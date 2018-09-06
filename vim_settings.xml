@@ -203,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536217666625">
+      <file name="/Python Console" timestamp="1536219019906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -333,12 +333,12 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536217651230">
-        <mark key="'" line="102" column="7" />
-        <mark key="[" line="95" column="24" />
-        <mark key="]" line="95" column="24" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="95" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536219232049">
+        <mark key="'" line="106" column="7" />
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="23" />
+        <mark key="^" line="99" column="23" />
+        <mark key="." line="99" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -362,10 +362,11 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536217642161">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536219133197">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -832,22 +833,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9ucy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2FkOgogICAgICAgICAgICBzZWxmLnBvbGljeS5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChmJ2FpLndlaWdodHN7c2VsZi5wbGF5ZXJ9JykpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -867,28 +868,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQocHJlZCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQocHJlZC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICMgZWxzZToKICAgICMgICAgIHByaW50KGdhbWUuZG9uZSkKICAgICMgICAgIGlmIGdhbWUuZG9uZSA9PSAtMToKICAgICMgICAgICAgICBwcmludChwbGF5ZXIpCiAgICAjICAgICAgICAgcHJpbnQoZ2FtZS5ib2FyZCkKICAgICMgICAgICAgICBnYW1lLnBsYXllcl90dXJuKCkKICAgICMgIGlmIGdhbWUuZG9uZSA+IDA6CiAgICAjICAgICAgICAgICAgIGdhbWUuZG9uZSAtPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9zcyA9IDEvbGVuKGEpICogKChtb2RlbChhKSAtIGEuc3VtKC0xKSkgKiogMikuc3VtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2FtZS53aW5uZXIgPT0gMDoKICAgICAgICAgICAgICAgIHJld2FyZCA9IC0wLjEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobG9zcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQocHJlZCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobW9kZWwoYSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb3NzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
