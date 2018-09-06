@@ -111,11 +111,11 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536202615638">
-        <mark key="[" line="86" column="32" />
-        <mark key="]" line="87" column="29" />
-        <mark key="^" line="87" column="29" />
-        <mark key="." line="87" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536203377063">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="7" />
+        <mark key="^" line="69" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -186,13 +186,13 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536199588893">
+      <file name="/Python Console" timestamp="1536203168200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="/fragment.py" timestamp="1530867744206">
+      <file name="/fragment.py" timestamp="1536203162506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
@@ -614,12 +614,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536202430423">
-        <mark key="'" line="105" column="7" />
-        <mark key="[" line="95" column="23" />
-        <mark key="]" line="95" column="30" />
-        <mark key="^" line="95" column="30" />
-        <mark key="." line="95" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536203241533">
+        <mark key="'" line="100" column="7" />
+        <mark key="[" line="93" column="22" />
+        <mark key="]" line="94" column="40" />
+        <mark key="^" line="94" column="40" />
+        <mark key="." line="94" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -796,13 +796,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deque</text>
+        <text>9</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>deque</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
@@ -811,7 +811,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZF9oaXN0b3J5LmFwcGVuZChzZWxmLnJld2FyZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBvbGljeS5yZXdhcmRzX2hpc3RvcnkuYXBwZW5kKHNlbGYucmV3YXJkcykKICAgICAgICAjIHBvbGljeS5hY3Rpb25zX2hpc3RvcnkuYXBwZW5kKHNlbGYuYWN0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBsYXllciA9PSAwOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -831,28 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZHMgPSBnYW1tYV92ZWMgKiBzZWxmLnJld2FyZHMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZF9oaXN0b3J5ID0gZGVxdWUoW10pCiAgICAgICAgc2VsZi5hY3Rpb25faGlzdG9yeSA9IGRlcXVlKFtdKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYV92ZWMgPSB0b3JjaC5hcmFuZ2Uoc2VsZi5yZXdhcmRzLnNoYXBlWy0xXSkuZmxvYXQoKQogICAgICAgIGdhbW1hX3ZlYyA9IHRvcmNoLnBvdyh0b3JjaC5UZW5zb3IoW2dhbW1hXSksIGdhbW1hX3ZlYykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYSA9IDAuOTk5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRfaGlzdG9yeSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbGF5QnVmZmVyKERhdGFzZXQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuZGF0YSA9IHRvcmNoLm9uZXMoMSwxLDEpCgogICAgZGVmIF9fbGVuX18oc2VsZik6CiAgICAgICAgcmV0dXJuIDEKCiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaXRlbSk6CiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJld2FyZF9oaXN0b3J5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcnJ29ubHkgdGhlIGdvb2QgdGhpbmdzLCBvbmx5IHRoZSBnb29kIHRoaW5ncywgZG9vIHR1IHR1IHR1dXVkZCcnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBsYXllciArIDEpICE9IGdhbWUucGxheWVyIGFuZCBnYW1lLmRvbmUgPT0gLTE6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ZGF0YXNldCA9IFJlcGxheUJ1ZmZlcigpCnRlc3Rsb2FkZXIgPSBEYXRhTG9hZGVyKGRhdGFzZXQpCgpmb3Igc2V0IGluIHRlc3Rsb2FkZXI6CiAgICBwcmludChzZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgaSAlIDEwID09IDA6CiAgICAgICAgICAgICAgICBpZiBpICUgMSA9PSAwOgogICAgICAgICAgICAgICAgICAgIGFpLnNhdmUoaSkKICAgICAgICAgICAgICAgICAgICBwcmludCgnc2F2ZWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
