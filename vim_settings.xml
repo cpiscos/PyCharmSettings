@@ -111,11 +111,11 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536208983830">
-        <mark key="[" line="90" column="49" />
-        <mark key="]" line="90" column="56" />
-        <mark key="." line="90" column="56" />
-        <mark key="^" line="90" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536210584183">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="87" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -186,7 +186,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536208986521">
+      <file name="/Python Console" timestamp="1536210116713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -795,14 +795,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reward_history</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>reward_history</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
@@ -831,28 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0b3JjaC5UZW5zb3Ioc2VsZi5yZXdhcmRzKS5zaGFwZSwgZ2FtbWFfdmVjLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oZ2FtbWFfdmVjKSkKICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYSA9IDAuOTkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oZ2FtbWFfdmVjKSkKICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnYW1tYSA9IDAuOTkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfbGVuID0gMAogICAgICAgIGZvciBpIGluIHNlbGYucmV3YXJkX2hpc3Rvcnk6CiAgICAgICAgICAgIGlmIGxlbihpKSA+IG1heF9sZW46CiAgICAgICAgICAgICAgICBtYXhfbGVuID0gbGVuKGkpCgogICAgICAgIGZvciBpLCBzZXEgaW4gZW51bWVyYXRlKHNlbGYucmV3YXJkX2hpc3RvcnkpOgogICAgICAgICAgICB6ZXJvX2xlbiA9IG1heF9sZW4gLSBsZW4oc2VxKQogICAgICAgICAgICBzZWxmLnJld2FyZF9oaXN0b3J5W2ldID0gc2VxICsgc2VxWzBdKnplcm9fbGVuCgogICAgICAgIHByaW50KGxlbihzZWxmLnJld2FyZF9oaXN0b3J5WzBdKSwgbGVuKHNlbGYucmV3YXJkX2hpc3RvcnlbMV0pKQogICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYXhfbGVuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5yZXdhcmRfaGlzdG9yeSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfbGVuID0gMAogICAgICAgIGZvciBpIGluIHNlbGYucmV3YXJkX2hpc3Rvcnk6CiAgICAgICAgICAgIGlmIGxlbihpKSA+IG1heF9sZW46CiAgICAgICAgICAgICAgICBtYXhfbGVuID0gbGVuKGkpCgogICAgICAgIGZvciBpLCBzZXEgaW4gZW51bWVyYXRlKHNlbGYucmV3YXJkX2hpc3RvcnkpOgogICAgICAgICAgICB6ZXJvX2xlbiA9IG1heF9sZW4gLSBsZW4oc2VxKQogICAgICAgICAgICBzZWxmLnJld2FyZF9oaXN0b3J5W2ldID0gc2VxICsgc2VxWzBdKnplcm9fbGVuCgogICAgICAgIHByaW50KGxlbihzZWxmLnJld2FyZF9oaXN0b3J5WzBdKSwgbGVuKHNlbGYucmV3YXJkX2hpc3RvcnlbMV0pKQogICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
