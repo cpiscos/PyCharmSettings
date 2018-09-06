@@ -179,11 +179,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1530651094405">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536191903305">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/addition_test.py" timestamp="1534017339889">
         <mark key="'" line="58" column="12" />
@@ -202,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536190321143">
+      <file name="/Python Console" timestamp="1536191904550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -728,8 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="114" column="35" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="115" column="64" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="117" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
       <jump line="143" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -828,16 +827,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/CS294/run_expert.py" />
       <jump line="37" column="51" filename="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" />
       <jump line="20" column="41" filename="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" />
+      <jump line="13" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQobG9zcykK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>ntial(</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
@@ -846,7 +847,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9ucy5zaGFwZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJpbnQobG9zcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -866,28 +867,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZG9uZSkK</text>
+        <text encoding="base64">cHJpbnQocHJlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxKToK</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHJpbnQobW9kZWwoYSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSAK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBneW0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIGxvZ2l0X3JlZ3Jlc3Npb24gaW1wb3J0ICoKCiMgSW1wb3J0IGRhdGEgYW5kIGNoYW5nZSBzZXRvc2EgdG8gLTEgJiB2aWNlLXZlcnNhCmRmID0gcGQucmVhZF9jc3YoJy4uL1Jlc291cmNlcy9pcmlzLmRhdGEnLCBoZWFkZXI9Tm9uZSkKeSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIC0xLCAxKQoKIyBFeHRyYWN0IHNlcGFsIGxlbmd0aFswXSBhbmQgcGV0YWwgbGVuZ3RoWzJdClggPSBkZi5pbG9jWzoxMDAsIFswLCAtMl1dLnZhbHVlcwpmb3IgaiBpbiByYW5nZShYLnNoYXBlWzFdKToKICAgIFhbOixqXSA9IChYWzosal0gLSBYWzosal0ubWVhbigpKSAvIFhbOixqXS5zdGQoKQoKcHJpbnQoWCk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RlcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZG9uZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob2JzKQogICAgICAgICAgICBwcmludCh0cnVlX2FjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxKToK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
