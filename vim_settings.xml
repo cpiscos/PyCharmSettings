@@ -179,12 +179,12 @@
         <mark key="." line="98" column="11" />
         <mark key="^" line="98" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536191903305">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536192136182">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/indrnn-pytorch-master/addition_test.py" timestamp="1534017339889">
         <mark key="'" line="58" column="12" />
@@ -203,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536191904550">
+      <file name="/Python Console" timestamp="1536217666625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -333,11 +333,12 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1535690228038">
-        <mark key="'" line="105" column="7" />
-        <mark key="]" line="5" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536217651230">
+        <mark key="'" line="102" column="7" />
+        <mark key="[" line="95" column="24" />
+        <mark key="]" line="95" column="24" />
         <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+        <mark key="." line="95" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -361,11 +362,10 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1535691726397">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536217642161">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -831,14 +831,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQobG9zcykK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ntial(</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
@@ -847,7 +847,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm9ic2VydmF0aW9ucy5zaGFwZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobG9zcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -870,25 +870,25 @@
         <text encoding="base64">cHJpbnQocHJlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
+        <text encoding="base64">cHJpbnQocHJlZC5zaGFwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobW9kZWwoYSkpCg==</text>
+        <text encoding="base64">bG9zcyA9IDEvbGVuKGEpICogKChtb2RlbChhKSAtIGEuc3VtKC0xKSkgKiogMikuc3VtKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">cHJpbnQobG9zcykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIGxvZ2l0X3JlZ3Jlc3Npb24gaW1wb3J0ICoKCiMgSW1wb3J0IGRhdGEgYW5kIGNoYW5nZSBzZXRvc2EgdG8gLTEgJiB2aWNlLXZlcnNhCmRmID0gcGQucmVhZF9jc3YoJy4uL1Jlc291cmNlcy9pcmlzLmRhdGEnLCBoZWFkZXI9Tm9uZSkKeSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIC0xLCAxKQoKIyBFeHRyYWN0IHNlcGFsIGxlbmd0aFswXSBhbmQgcGV0YWwgbGVuZ3RoWzJdClggPSBkZi5pbG9jWzoxMDAsIFswLCAtMl1dLnZhbHVlcwpmb3IgaiBpbiByYW5nZShYLnNoYXBlWzFdKToKICAgIFhbOixqXSA9IChYWzosal0gLSBYWzosal0ubWVhbigpKSAvIFhbOixqXS5zdGQoKQoKcHJpbnQoWCk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQocHJlZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZG9uZSkK</text>
+        <text encoding="base64">cHJpbnQobW9kZWwoYSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxKToK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
