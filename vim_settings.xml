@@ -333,11 +333,11 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536272518679">
-        <mark key="'" line="114" column="7" />
-        <mark key="[" line="103" column="61" />
-        <mark key="]" line="103" column="68" />
-        <mark key="." line="103" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536274375289">
+        <mark key="'" line="113" column="7" />
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="28" />
+        <mark key="." line="105" column="28" />
         <mark key="^" line="103" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
@@ -362,11 +362,11 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536273843480">
-        <mark key="[" line="109" column="20" />
-        <mark key="]" line="109" column="29" />
-        <mark key="^" line="109" column="29" />
-        <mark key="." line="109" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536274963780">
+        <mark key="[" line="32" column="77" />
+        <mark key="]" line="32" column="77" />
+        <mark key="." line="32" column="77" />
+        <mark key="^" line="32" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -832,23 +832,23 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>256</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gdG9yY2guc3RhY2sobGlzdChzZWxmLnJld2FyZHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZHMgPSBkZXF1ZShbXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +865,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZXMuc2hhcGUsIGFjdGlvbnMuc2hhcGUsIHJld2FyZHMuc2hhcGUsIHZhbHVlcy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1lYW4gPSBydW5uaW5nX21lYW4gaWYgcnVubmluZ19tZWFuIGlzIG5vdCBOb25lIGVsc2UgMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2YWx1ZV9sb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gdG9yY2guc3RhY2sobGlzdChzZWxmLnJld2FyZF9oaXN0b3J5KSkKICAgICAgICBuZXdfbWVhbiA9IDAgaWYgc2VsZi5tZWFuID09IHJld2FyZHMubWVhbigpIGVsc2UgcmV3YXJkcy5tZWFuKCkKICAgICAgICByZXdhcmRzID0gcmV3YXJkcwogICAgICAgIGFjdGlvbnMgPSB0b3JjaC5zdGFjayhsaXN0KHNlbGYuYWN0aW9uX2hpc3RvcnkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYSA9IDAuOTkK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZXMgPSB0b3JjaC5zdGFjayhsaXN0KHNlbGYuc3RhdGVzKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZV9sb3NzID0gYmNlbG9zcyh2YWx1ZXNbOi0xXSwgcmV3YXJkcyArICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZXMuc2hhcGUsIGFjdGlvbnMuc2hhcGUsIHJld2FyZHMuc2hhcGUsIHZhbHVlcy5zaGFwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnb3V0cHV0OicsIG5wLnJvdW5kKGFpLnBvbGljeS5vdXRwdXQuZGV0YWNoKCksIDIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbnMgPSBkZXF1ZShbXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvcl9sb3NzKQogICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
