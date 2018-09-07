@@ -203,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536277032571">
+      <file name="/Python Console" timestamp="1536346392523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -333,11 +333,12 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536332938037">
-        <mark key="'" line="119" column="7" />
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="87" column="30" />
-        <mark key="." line="87" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536348797808">
+        <mark key="'" line="120" column="7" />
+        <mark key="[" line="110" column="23" />
+        <mark key="]" line="110" column="24" />
+        <mark key="." line="110" column="24" />
+        <mark key="^" line="112" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -361,11 +362,12 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536332893204">
-        <mark key="[" line="132" column="21" />
-        <mark key="]" line="132" column="59" />
-        <mark key="." line="132" column="59" />
-        <mark key="^" line="132" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536348749612">
+        <mark key="'" line="41" column="22" />
+        <mark key="[" line="137" column="19" />
+        <mark key="]" line="137" column="19" />
+        <mark key="." line="137" column="19" />
+        <mark key="^" line="137" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -729,12 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="64" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="117" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="107" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="139" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="140" column="36" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="16" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="283" column="13" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
@@ -829,25 +825,31 @@
       <jump line="20" column="41" filename="$USER_HOME$/PycharmProjects/CS294/homework/hw1/model_pytorch.py" />
       <jump line="13" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="137" column="28" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="41" column="22" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="139" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>5</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>done</text>
+        <text>round</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm91dC5hcHBseShoZSkK</text>
+        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uU0dEKFt7J3BhcmFtcyc6IHBvbGljeTEuY29udi5wYXJhbWV0ZXJzKCl9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsncGFyYW1zJzogcG9saWN5MS5hY3Rvci5wYXJhbWV0ZXJzKCksICdscic6IDFlLTR9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsncGFyYW1zJzogcG9saWN5MS5jcml0aWMucGFyYW1ldGVycygpfV0sIGxyPTFlLTMsIHdlaWdodF9kZWNheT0xZS01LCBtb21lbnR1bT0wLjkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ludmFsaWQgbW92ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZ2FtbWFfcmV3YXJkczonLCBnYW1tYV9yZXdhcmRzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -864,37 +866,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ludmFsaWQgbW92ZScpCiAgICAgICAgICAgIHNlbGYuaW52YWxpZCArPSAxCiAgICAgICAgICAgIHNlbGYucGxheWVyID0gKHNlbGYucGxheWVyIC0gMSkgJSAyICsgMQogICAgICAgICAgICBzZWxmLnR1cm4gLT0gMQogICAgICAgIGlmIG5vdCAoc2VsZi5ib2FyZCA9PSAwKS5hbnkoKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnYW1lLmludmFsaWQgPj0gMTA6CiAgICAgICAgICAgIGdhbWUuZG9uZSA9IDAKICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMAogICAgICAgICAgICByZXdhcmQgPSAtMQogICAgICAgIGlmIGdhbWUuZG9uZSA+IDA6CiAgICAgICAgICAgIGdhbWUuZG9uZSAtPSAxCiAgICAgICAgICAgIGlmIGdhbWUud2lubmVyID09IChwbGF5ZXIgKyAxKSA6CiAgICAgICAgICAgICAgICByZXdhcmQgPSAxCiAgICAgICAgICAgIGVsaWYgZ2FtZS53aW5uZXIgPT0gMDoKICAgICAgICAgICAgICAgIHJld2FyZCA9IDAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJld2FyZCA9IC0xCiAgICAgICAgaWYgbGVuKGFpLnJld2FyZHMpID09IGxlbihhaS5hY3Rpb25zKToKICAgICAgICAgICAgYWkucmV3YXJkc1stMV0gPSByZXdhcmQKICAgICAgICBlbHNlOgogICAgICAgICAgICBhaS5yZXdhcmRzLmFwcGVuZChyZXdhcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJld2FyZHMgPSAocmV3YXJkcyAtIHJld2FyZHMubWVhbigpKSAvIChyZXdhcmRzLnN0ZCgpICsgMWUtMTYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2FtZS5pbnZhbGlkID49IDIwOgogICAgICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMAogICAgICAgICAgICAgICAgcmV3YXJkID0gLTEK</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gKHJld2FyZHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0b3Bfcm93KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwaQo=</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbCA9IGlucHV0LnZpZXcoMSwgLTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSwgdG9wX3Jvdy5zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3Bfcm93ID0gKGlucHV0ICE9IDApLmZsb2F0KClbOjFdICogLTFlOAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>done</last-search>
+      <last-search>round</last-search>
       <last-offset />
-      <last-pattern>done</last-pattern>
+      <last-pattern>round</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -902,7 +904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
         <entry>print</entry>
         <entry>lr_factor</entry>
@@ -922,6 +923,7 @@
         <entry>sess</entry>
         <entry>render</entry>
         <entry>done</entry>
+        <entry>round</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
