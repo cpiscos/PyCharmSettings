@@ -111,11 +111,11 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536281657451">
-        <mark key="[" line="105" column="44" />
-        <mark key="]" line="105" column="68" />
-        <mark key="." line="105" column="68" />
-        <mark key="^" line="105" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536282320161">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -795,13 +795,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, weight_decay=1e-8</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, weight_decay=1e-8</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
