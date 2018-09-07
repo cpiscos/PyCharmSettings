@@ -111,11 +111,12 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536351620066">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="58" />
-        <mark key="^" line="12" column="58" />
-        <mark key="." line="12" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536354605655">
+        <mark key="'" line="1" column="20" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -613,12 +614,11 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536351409810">
-        <mark key="'" line="120" column="7" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="9" />
-        <mark key="." line="60" column="9" />
-        <mark key="^" line="78" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536354394605">
+        <mark key="'" line="122" column="7" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -692,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="105" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="109" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="544" column="31" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetworks.py" />
@@ -792,25 +791,26 @@
       <jump line="126" column="10" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="127" column="10" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="128" column="10" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="1" column="20" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Flatten</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Flatten</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>ones</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
+      <register name="0" type="4">
+        <text>nn.Conv2d(64, 64, 4, padding=2), nn.ReLU(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHR5cGUobGF5ZXIpID09IG5uLkxpbmVhcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -830,37 +830,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ2FtZS5kb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsncGFyYW1zJzogc2VsZi5wb2xpY3kuYWN0b3IucGFyYW1ldGVycygpLCAnbHInOiAxZS00fSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgcmVzaWR1YWwuc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoMSwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcihpbnB1dCwgaW5wdXQpLCBubi5SZUxVKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV9yZXdhcmRzLnNoYXBlLCB2YWx1ZXMuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhaS51cGRhdGVfcG9saWN5KCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvc3NlcykKICAgIGV4aXQoKQo=</text>
+      <register name="9" type="4">
+        <text>[{'params': policy1.conv.parameters()},
+                             {'</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>ones</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>ones</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -868,8 +869,6 @@
     </search>
     <history>
       <history-search>
-        <entry>torch.save</entry>
-        <entry>float</entry>
         <entry>start</entry>
         <entry>half</entry>
         <entry>256</entry>
@@ -888,6 +887,8 @@
         <entry encoding="base64">XDxzZWxlY3RfYWN0aW9uXD4=</entry>
         <entry>double</entry>
         <entry>print</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry>ones</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
