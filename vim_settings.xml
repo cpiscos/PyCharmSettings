@@ -203,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536220181636">
+      <file name="/Python Console" timestamp="1536277032571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -333,12 +333,11 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536276551531">
-        <mark key="'" line="113" column="7" />
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="29" />
-        <mark key="." line="88" column="29" />
-        <mark key="^" line="88" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536332938037">
+        <mark key="'" line="119" column="7" />
+        <mark key="[" line="87" column="29" />
+        <mark key="]" line="87" column="30" />
+        <mark key="." line="87" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -362,11 +361,11 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536276138929">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536332893204">
+        <mark key="[" line="132" column="21" />
+        <mark key="]" line="132" column="59" />
+        <mark key="." line="132" column="59" />
+        <mark key="^" line="132" column="59" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -833,13 +832,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
@@ -847,8 +846,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm91dC5hcHBseShoZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ludmFsaWQgbW92ZScpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +864,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ludmFsaWQgbW92ZScpCiAgICAgICAgICAgIHNlbGYuaW52YWxpZCArPSAxCiAgICAgICAgICAgIHNlbGYucGxheWVyID0gKHNlbGYucGxheWVyIC0gMSkgJSAyICsgMQogICAgICAgICAgICBzZWxmLnR1cm4gLT0gMQogICAgICAgIGlmIG5vdCAoc2VsZi5ib2FyZCA9PSAwKS5hbnkoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBnYW1lLmludmFsaWQgPj0gMTA6CiAgICAgICAgICAgIGdhbWUuZG9uZSA9IDAKICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMAogICAgICAgICAgICByZXdhcmQgPSAtMQogICAgICAgIGlmIGdhbWUuZG9uZSA+IDA6CiAgICAgICAgICAgIGdhbWUuZG9uZSAtPSAxCiAgICAgICAgICAgIGlmIGdhbWUud2lubmVyID09IChwbGF5ZXIgKyAxKSA6CiAgICAgICAgICAgICAgICByZXdhcmQgPSAxCiAgICAgICAgICAgIGVsaWYgZ2FtZS53aW5uZXIgPT0gMDoKICAgICAgICAgICAgICAgIHJld2FyZCA9IDAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJld2FyZCA9IC0xCiAgICAgICAgaWYgbGVuKGFpLnJld2FyZHMpID09IGxlbihhaS5hY3Rpb25zKToKICAgICAgICAgICAgYWkucmV3YXJkc1stMV0gPSByZXdhcmQKICAgICAgICBlbHNlOgogICAgICAgICAgICBhaS5yZXdhcmRzLmFwcGVuZChyZXdhcmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZ2FtZS5pbnZhbGlkID49IDIwOgogICAgICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMAogICAgICAgICAgICAgICAgcmV3YXJkID0gLTEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lYW4gPSBydW5uaW5nX21lYW4gaWYgcnVubmluZ19tZWFuIGlzIG5vdCBOb25lIGVsc2UgMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FtZS5pbnZhbGlkID0gMQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gdG9yY2guc3RhY2sobGlzdChzZWxmLnJld2FyZF9oaXN0b3J5KSkKICAgICAgICBuZXdfbWVhbiA9IDAgaWYgc2VsZi5tZWFuID09IHJld2FyZHMubWVhbigpIGVsc2UgcmV3YXJkcy5tZWFuKCkKICAgICAgICByZXdhcmRzID0gcmV3YXJkcwogICAgICAgIGFjdGlvbnMgPSB0b3JjaC5zdGFjayhsaXN0KHNlbGYuYWN0aW9uX2hpc3RvcnkpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZXMgPSB0b3JjaC5zdGFjayhsaXN0KHNlbGYuc3RhdGVzKSkK</text>
+        <text encoding="base64">ICAgICAgICBwaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZXMuc2hhcGUsIGFjdGlvbnMuc2hhcGUsIHJld2FyZHMuc2hhcGUsIHZhbHVlcy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnb3V0cHV0OicsIG5wLnJvdW5kKGFpLnBvbGljeS5vdXRwdXQuZGV0YWNoKCksIDIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gKC1hY3Rpb25zICogcmV3YXJkcykuc3VtKCkgLyAxMAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
