@@ -111,7 +111,7 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536354605655">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536355986947">
         <mark key="'" line="1" column="20" />
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="10" />
@@ -614,11 +614,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536354394605">
-        <mark key="'" line="122" column="7" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536355968262">
+        <mark key="'" line="125" column="7" />
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+        <mark key="^" line="64" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -810,7 +811,7 @@
         <text>nn.Conv2d(64, 64, 4, padding=2), nn.ReLU(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWkuZXZhbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -830,29 +831,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgIGZvciBhaSBpbiBBSToKICAgICAgICBhaS5ldmFsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBldmFsKHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSwgcmVzaWR1YWwuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcihpbnB1dCwgaW5wdXQpLCBubi5SZUxVKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhaS51cGRhdGVfcG9saWN5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>[{'params': policy1.conv.parameters()},
-                             {'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
