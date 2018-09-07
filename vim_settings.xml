@@ -111,8 +111,7 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536303961704">
-        <mark key="'" line="128" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536342723124">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
@@ -811,7 +810,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV9yZXdhcmRzLnNoYXBlLCB2YWx1ZXMuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9IGlucHV0LnZpZXcoMSwgLTEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -831,31 +830,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvc3NlcykKICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhaS5sb3NzX2hpc3RvcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV9yZXdhcmRzLnNoYXBlLCB2YWx1ZXMuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBuZXdfc2VzcyhBST1Ob25lKToKICAgIGZvciBhaSBpbiBBSToKICAgICAgICBhaS5uZXdfc2VzcygpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvc3NlcykKICAgIGV4aXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpXy51cGRhdGVfcG9saWN5KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhaS5sb3NzX2hpc3RvcnkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY291bnQgPSBjb3VudCAlIDIgKyAxCg==</text>
+        <text encoding="base64">CmRlZiBuZXdfc2VzcyhBST1Ob25lKToKICAgIGZvciBhaSBpbiBBSToKICAgICAgICBhaS5uZXdfc2VzcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsIGNvdW50PTEpOgogICAgICAgICMgY291bnQgPSBjb3VudCAlIDIgKyAxCiAgICAgICAgdG9yY2guc2F2ZShwb2xpY3kxLnN0YXRlX2RpY3QoKSwgZidhaS53ZWlnaHRzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpXy51cGRhdGVfcG9saWN5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3B0aW1pemVyID0gdG9yY2gub3B0aW0uQWRhbShwb2xpY3kxLnBhcmFtZXRlcnMoKSwgbHI9MWUtMiwgd2VpZ2h0X2RlY2F5PTFlLTQpCg==</text>
+        <text encoding="base64">ICAgICMgY291bnQgPSBjb3VudCAlIDIgKyAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgbG9hZDoKICAgIHBvbGljeTEubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQoJ2FpLndlaWdodHMnKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsIGNvdW50PTEpOgogICAgICAgICMgY291bnQgPSBjb3VudCAlIDIgKyAxCiAgICAgICAgdG9yY2guc2F2ZShwb2xpY3kxLnN0YXRlX2RpY3QoKSwgZidhaS53ZWlnaHRzJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -907,10 +906,10 @@
         <entry encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>double</entry>
         <entry>action ReformatCode</entry>
         <entry>action RenameElement</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
