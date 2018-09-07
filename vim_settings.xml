@@ -111,11 +111,11 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536297126195">
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="32" column="63" />
-        <mark key="." line="32" column="63" />
-        <mark key="^" line="32" column="80" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536298839462">
+        <mark key="[" line="79" column="70" />
+        <mark key="]" line="79" column="71" />
+        <mark key="." line="79" column="71" />
+        <mark key="^" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -613,11 +613,11 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536297326276">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536298094924">
         <mark key="'" line="119" column="7" />
-        <mark key="[" line="109" column="28" />
-        <mark key="]" line="109" column="28" />
-        <mark key="." line="109" column="28" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="9" />
+        <mark key="." line="60" column="9" />
         <mark key="^" line="109" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
@@ -795,13 +795,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, nn.LayerNorm(128)</text>
+        <text>self.</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, nn.LayerNorm(128)</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text>double</text>
