@@ -333,8 +333,12 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536386752138">
-        <mark key="'" line="129" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536397333204">
+        <mark key="'" line="95" column="29" />
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="19" />
+        <mark key="." line="95" column="19" />
+        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -357,6 +361,12 @@
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536397448358">
+        <mark key="[" line="216" column="40" />
+        <mark key="]" line="216" column="48" />
+        <mark key="." line="216" column="48" />
+        <mark key="^" line="216" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -720,8 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="45" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="149" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="191" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="36" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
@@ -820,25 +828,27 @@
       <jump line="110" column="27" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="113" column="16" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="137" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="95" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
+      <jump line="258" column="78" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNodWZmbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5zdGF0ZXMpLCBsZW4oc2VsZi5hY3Rpb25fcHJvYnMpLCBsZW4oc2VsZi50YWtlbl9hY3Rpb25zKSwgbGVuKGdhbW1hX2xpc3QpKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>advantage</text>
+        <text>rewards[-1]</text>
       </register>
       <register name="/" type="4">
-        <text>loss</text>
+        <text>states</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvc3MgIT0gbG9zczoKICAgICAgICAgICAgICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNodWZmbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5zdGF0ZXMpLCBsZW4oc2VsZi5hY3Rpb25fcHJvYnMpLCBsZW4oc2VsZi50YWtlbl9hY3Rpb25zKSwgbGVuKGdhbW1hX2xpc3QpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -855,37 +865,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpLnVwZGF0ZShbQUlzW2h1bWFuICUgMl1dKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvc3MuaXRlbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbCBBSXNbaHVtYW4tMV0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5zdGF0ZXMpLCBsZW4oc2VsZi5hY3Rpb25fcHJvYnMpLCBsZW4oc2VsZi50YWtlbl9hY3Rpb25zKSwgbGVuKGdhbW1hX2xpc3QpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gQUlbMF0ubG9zc19oaXN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnN0YXRlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2guc3RhY2sobG9zc2VzKS5tZWFuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpXy5zdGF0ZXMuYXBwZW5kKGdhbWUuYm9hcmQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpXy5zdGF0ZXMuYXBwZW5kKGdhbWUuYm9hcmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKmxvc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBsYXllcikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNodWZmbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>loss</last-search>
+      <last-search>states</last-search>
       <last-offset />
-      <last-pattern>loss</last-pattern>
+      <last-pattern>states</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -908,11 +918,11 @@
         <entry>render</entry>
         <entry>done</entry>
         <entry>round</entry>
-        <entry>states</entry>
         <entry>self.states</entry>
         <entry>new_ones</entry>
         <entry>policy1</entry>
         <entry>loss</entry>
+        <entry>states</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
