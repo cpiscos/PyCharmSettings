@@ -349,6 +349,9 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="/game" timestamp="1536434160456">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
         <mark key="[" line="24" column="37" />
       </file>
@@ -447,11 +450,11 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536433523529">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="53" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536435242185">
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="11" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -839,22 +842,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text encoding="base64">d2luID0g</text>
       </register>
       <register name="/" type="4">
         <text>states</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkNvbnYyZCg2NCwgNjQsIDMsIHBhZGRpbmc9MSksIG5uLlJlTFUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvcml6b250YWwgPSAocmVnaW9uX2NoZWNrLnN1bSgxKSA9PSA0KS5hbnkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -871,31 +874,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJvYXJkWzosIGFjdGlvbl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgd2luOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICAgIGFjdGlvbiA9IGFjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllciA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICB3aW4gPSBGYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQyZCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW4gPSBUcnVlCiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -949,8 +952,8 @@
         <entry>noh</entry>
         <entry>double</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
