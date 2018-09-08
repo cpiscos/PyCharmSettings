@@ -203,7 +203,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536386027833">
+      <file name="/Python Console" timestamp="1536387522078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -333,12 +333,8 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536386026269">
-        <mark key="'" line="124" column="7" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="113" column="37" />
-        <mark key="^" line="113" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536386752138">
+        <mark key="'" line="129" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -361,13 +357,6 @@
         <mark key="]" line="25" column="48" />
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536385830822">
-        <mark key="'" line="214" column="29" />
-        <mark key="[" line="147" column="28" />
-        <mark key="]" line="147" column="40" />
-        <mark key="." line="147" column="40" />
-        <mark key="^" line="147" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -731,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="37" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="146" column="45" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="149" column="29" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -807,7 +795,6 @@
       <jump line="129" column="21" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="5" column="15" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
-      <jump line="137" column="28" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="41" column="22" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="139" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="79" column="46" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
@@ -825,31 +812,33 @@
       <jump line="86" column="14" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="91" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="94" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
-      <jump line="113" column="11" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="114" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="115" column="15" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="116" column="14" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="145" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="167" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="110" column="27" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="113" column="16" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="137" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbCBBSXNbaHVtYW4tMV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNodWZmbGUoKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>advantage</text>
       </register>
       <register name="/" type="4">
-        <text>policy1</text>
+        <text>loss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRlcywgc2VsZi5hY3Rpb25fcHJvYnMsIHNlbGYudGFrZW5fYWN0aW9ucywgc2VsZi5yZXdhcmRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvc3MgIT0gbG9zczoKICAgICAgICAgICAgICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbCBBSXNbaHVtYW4tMV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNodWZmbGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -866,37 +855,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gQUlbMF0ubG9zc19oaXN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFpLnVwZGF0ZShbQUlzW2h1bWFuICUgMl1dKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2guc3RhY2sobG9zc2VzKS5tZWFuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvc3MuaXRlbSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGRlbCBBSXNbaHVtYW4tMV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gKmxvc3MK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gQUlbMF0ubG9zc19oaXN0b3J5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBsYXllcikK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2guc3RhY2sobG9zc2VzKS5tZWFuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBnYW1lLnBsYXllciAhPSBhaV8ucGxheWVyOgogICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb3NzZXMgPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gKmxvc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBsYXllcikK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>policy1</last-search>
+      <last-search>loss</last-search>
       <last-offset />
-      <last-pattern>policy1</last-pattern>
+      <last-pattern>loss</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -904,7 +893,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nn.LayerNorm</entry>
         <entry>zeros</entry>
         <entry>residual</entry>
         <entry>scheduler</entry>
@@ -924,6 +912,7 @@
         <entry>self.states</entry>
         <entry>new_ones</entry>
         <entry>policy1</entry>
+        <entry>loss</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
