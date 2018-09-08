@@ -361,12 +361,12 @@
         <mark key="." line="25" column="48" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536384076646">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536384845359">
         <mark key="'" line="211" column="29" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="16" />
-        <mark key="." line="95" column="16" />
-        <mark key="^" line="93" column="31" />
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="118" column="29" />
+        <mark key="." line="118" column="29" />
+        <mark key="^" line="93" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -833,13 +833,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>policy1</text>
