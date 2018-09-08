@@ -111,12 +111,12 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536395275724">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="104" column="45" />
-        <mark key="]" line="104" column="45" />
-        <mark key="." line="104" column="45" />
-        <mark key="^" line="104" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536429625310">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="104" column="44" />
+        <mark key="]" line="104" column="44" />
+        <mark key="." line="104" column="44" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -693,8 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/indrnn.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="107" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="139" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="140" column="36" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -793,19 +791,21 @@
       <jump line="134" column="4" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="145" column="0" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="204" column="0" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
+      <jump line="16" column="38" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWkubWVtb3J5X3VwZGF0ZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>decay</text>
       </register>
       <register name="0" type="4">
         <text>nn.Conv2d(64, 64, 4, padding=2), nn.ReLU(),</text>
@@ -859,9 +859,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>decay</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>decay</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -869,8 +869,6 @@
     </search>
     <history>
       <history-search>
-        <entry>64</entry>
-        <entry>:</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
         <entry>lr_factor</entry>
         <entry>sched</entry>
@@ -889,6 +887,8 @@
         <entry>to(device</entry>
         <entry>cuda</entry>
         <entry>print</entry>
+        <entry>weight</entry>
+        <entry>decay</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
