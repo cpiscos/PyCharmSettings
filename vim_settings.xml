@@ -111,12 +111,12 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536370640429">
+      <file name="$USER_HOME$/PycharmProjects/Connect4/ai.py" timestamp="1536388479374">
         <mark key="'" line="1" column="20" />
-        <mark key="[" line="25" column="76" />
-        <mark key="]" line="25" column="76" />
-        <mark key="^" line="35" column="72" />
-        <mark key="." line="25" column="78" />
+        <mark key="[" line="104" column="40" />
+        <mark key="]" line="104" column="40" />
+        <mark key="." line="104" column="40" />
+        <mark key="^" line="104" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/forex/network_Qgate.py" timestamp="1531180342549">
         <mark key="'" line="112" column="54" />
@@ -187,7 +187,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536217475860">
+      <file name="/Python Console" timestamp="1536371215414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -615,11 +615,7 @@
         <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Connect4/base_game.py" timestamp="1536370667145">
-        <mark key="'" line="125" column="7" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="115" column="24" />
-        <mark key="." line="115" column="24" />
-        <mark key="^" line="115" column="25" />
+        <mark key="'" line="127" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris_gan.py" timestamp="1530396158159">
         <mark key="[" line="9" column="23" />
@@ -796,13 +792,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>ones</text>
@@ -811,7 +807,7 @@
         <text>nn.Conv2d(64, 64, 4, padding=2), nn.ReLU(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -831,28 +827,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWkuZXZhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBhaSBpbiBBSToKICAgICAgICBhaS5ldmFsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWkuZXZhbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBhaSBpbiBBSToKICAgICAgICBhaS5ldmFsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBldmFsKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvbAo=</text>
+        <text encoding="base64">ICAgIGRlZiBldmFsKHNlbGYpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
