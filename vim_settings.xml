@@ -83,12 +83,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536467063411">
-        <mark key="'" line="109" column="55" />
-        <mark key="[" line="171" column="32" />
-        <mark key="]" line="171" column="29" />
-        <mark key="." line="171" column="29" />
-        <mark key="^" line="171" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536468402914">
+        <mark key="'" line="116" column="55" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -356,7 +356,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536466961213">
+      <file name="/game" timestamp="1536468453627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -457,12 +457,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536466896685">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536468001485">
         <mark key="'" line="39" column="40" />
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
+        <mark key="[" line="73" column="84" />
+        <mark key="]" line="73" column="84" />
+        <mark key="." line="73" column="84" />
+        <mark key="^" line="73" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -849,23 +849,23 @@
       <jump line="104" column="55" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWVtb3J5X2ZpbGUgPSAnbWVtb3J5LnBrbCcK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.to(device)</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>shape</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5oaXN0b3J5WydzdGF0ZXMnXVstMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWVtb3J5X2ZpbGUgPSAnbWVtb3J5LnBrbCcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYXllcikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,37 +882,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1lbW9yeSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmdhbWVzICUgMTAwID09IDA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5nYW1lcyAlIDEwMCA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWkuc2F2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5nYW1lcykK</text>
+        <text encoding="base64">bWVtb3J5ID0gUmVwbGF5QnVmZmVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gdG9yY2guVGVuc29yKGxpc3Qoc2VsZi5oaXN0b3J5WydyZXdhcmRzJ10pKS50byhkZXZpY2UpCgogICAgICAgIGdhbW1hX3ZlYyA9IHRvcmNoLmFyYW5nZShyZXdhcmRzLnNoYXBlWy0xXSwgZGV2aWNlPWRldmljZSkuZmxvYXQoKQogICAgICAgIGdhbW1hX3ZlYyA9IHRvcmNoLnBvdyhnYW1tYSwgZ2FtbWFfdmVjKQoKICAgICAgICByZXdhcmRzID0gWyhyZXdhcmRzWy1pOl0gKiBnYW1tYV92ZWNbOmldKS5zdW0oKSBmb3IgaSBpbiByZXZlcnNlZChyYW5nZSgxLCByZXdhcmRzLnNoYXBlWy0xXSsxKSldCiAgICAgICAgcmV3YXJkcyA9IHRvcmNoLnN0YWNrKHJld2FyZHMpCg==</text>
+        <text encoding="base64">bWVtb3J5X2ZpbGUgPSAnbWVtb3J5LnBrbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZHMgPSByZXdhcmRzCg==</text>
+        <text encoding="base64">ZmlsZSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>shape</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>shape</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -920,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>residual</entry>
         <entry>scheduler</entry>
         <entry encoding="base64">IA==</entry>
         <entry>init_hid</entry>
@@ -940,6 +939,7 @@
         <entry>loss</entry>
         <entry>states</entry>
         <entry>shape</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
