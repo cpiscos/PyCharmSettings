@@ -375,11 +375,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536470928457">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536513185890">
+        <mark key="[" line="65" column="82" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="83" />
+        <mark key="^" line="65" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534465919708">
         <mark key="'" line="194" column="8" />
@@ -870,7 +870,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wbGF5ZXJfbGlzdCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -924,8 +924,8 @@
         <entry>noh</entry>
         <entry>double</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
