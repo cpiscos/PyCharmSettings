@@ -83,11 +83,11 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536461462200">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536462877253">
+        <mark key="[" line="93" column="70" />
+        <mark key="]" line="93" column="70" />
+        <mark key="." line="93" column="70" />
+        <mark key="^" line="93" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -355,7 +355,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536461381120">
+      <file name="/game" timestamp="1536462878989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -848,13 +848,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXMuYXBwZW5kKDApCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>states</text>
@@ -863,7 +863,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmhpc3RvcnlbJ3Jld2FyZHMnXS5hcHBlbmQocikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXMuYXBwZW5kKDApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -880,28 +880,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZXMuYXBwZW5kKDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1tYSA9IDAuOTkK</text>
+        <text encoding="base64">ICAgICAgICB0cnVlX3ZhbHVlcyA9IHJld2FyZHNbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">CgoKZGVmIHNldF9kZXZpY2UobmV3X2RldmljZSk6CiAgICBnbG9iYWwgZGV2aWNlCiAgICBkZXZpY2UgPSBuZXdfZGV2aWNlCiAgICBwcmludChkZXZpY2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZHMuYXBwZW5kKHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjcml0aWNfbG9zcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbnMgPSBbXQogICAgICAgIHNlbGYucmV3YXJkcyA9IFtdCiAgICAgICAgc2VsZi5sb2dfcHJvYnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV92ZWMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
