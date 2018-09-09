@@ -83,11 +83,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536465889144">
-        <mark key="'" line="104" column="55" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536467063411">
+        <mark key="'" line="109" column="55" />
+        <mark key="[" line="171" column="32" />
+        <mark key="]" line="171" column="29" />
+        <mark key="." line="171" column="29" />
+        <mark key="^" line="171" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -209,7 +210,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536461178327">
+      <file name="/Python Console" timestamp="1536466398180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -355,7 +356,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536465564474">
+      <file name="/game" timestamp="1536466961213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -456,12 +457,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536465681448">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536466896685">
         <mark key="'" line="39" column="40" />
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="61" column="58" />
-        <mark key="." line="61" column="58" />
-        <mark key="^" line="61" column="58" />
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -849,13 +850,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5LnJhbmRvbS5yYW5kbiBhcyByYW5kbgo=</text>
+        <text encoding="base64">bWVtb3J5X2ZpbGUgPSAnbWVtb3J5LnBrbCcK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.to(device)</text>
       </register>
       <register name="/" type="4">
         <text>shape</text>
@@ -864,7 +865,7 @@
         <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5oaXN0b3J5WydzdGF0ZXMnXVstMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5LnJhbmRvbS5yYW5kbiBhcyByYW5kbgo=</text>
+        <text encoding="base64">bWVtb3J5X2ZpbGUgPSAnbWVtb3J5LnBrbCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -881,28 +882,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgcmFuZG9tCg==</text>
+        <text encoding="base64">ZmlsZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHNlbGYucGxheWVyKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgc3RhdGUgaW4gZW51bWVyYXRlKGxpc3Qoc2VsZi5oaXN0b3J5WydzdGF0ZXMnXSlbOi0xXSk6CiAgICAgICAgICAgIHRyYW5zaXRpb24gPSBUcmFuc2l0aW9uKHN0YXRlLCBzZWxmLmhpc3RvcnlbJ2FjdGlvbnMnXVtpXSwgcmV3YXJkc1tpXSwgc2VsZi5oaXN0b3J5WydzdGF0ZXMnXVtpKzFdKQogICAgICAgICAgICBtZW1vcnkucHVzaCh0cmFuc2l0aW9uKQogICAgICAgIHNlbGYuX19pbml0X18oc2VsZi5wbGF5ZXIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5nYW1lcyAlIDEwMCA9PSAwCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5nYW1lcykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnB1dC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRzID0gdG9yY2guVGVuc29yKGxpc3Qoc2VsZi5oaXN0b3J5WydyZXdhcmRzJ10pKS50byhkZXZpY2UpCgogICAgICAgIGdhbW1hX3ZlYyA9IHRvcmNoLmFyYW5nZShyZXdhcmRzLnNoYXBlWy0xXSwgZGV2aWNlPWRldmljZSkuZmxvYXQoKQogICAgICAgIGdhbW1hX3ZlYyA9IHRvcmNoLnBvdyhnYW1tYSwgZ2FtbWFfdmVjKQoKICAgICAgICByZXdhcmRzID0gWyhyZXdhcmRzWy1pOl0gKiBnYW1tYV92ZWNbOmldKS5zdW0oKSBmb3IgaSBpbiByZXZlcnNlZChyYW5nZSgxLCByZXdhcmRzLnNoYXBlWy0xXSsxKSldCiAgICAgICAgcmV3YXJkcyA9IHRvcmNoLnN0YWNrKHJld2FyZHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJld2FyZHMgPSByZXdhcmRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRfdmFsdWUgPSBuZXh0X3ZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
