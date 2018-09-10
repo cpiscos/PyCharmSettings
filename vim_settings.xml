@@ -381,12 +381,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536548902771">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536550241995">
         <mark key="'" line="157" column="24" />
-        <mark key="[" line="183" column="55" />
-        <mark key="]" line="184" column="61" />
-        <mark key="." line="184" column="61" />
-        <mark key="^" line="184" column="61" />
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534465919708">
         <mark key="'" line="194" column="8" />
@@ -818,22 +818,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFjdG9yLmFwcGx5KGthaW1pbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV2ZXJzZWRfc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -853,28 +853,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxpcHBlZF9hY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3JldmVyc2VkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGlwcGVkX2FjdGlvbiA9IGZsaXBwZWRfdHJhbnNpdGlvbi5hY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXZlcnNlZF9zdGF0ZS5tZWFuKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXZlcnNlZF9zdGF0ZS5hYnMoKS5zdW0oKSA+IDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHByaW50KGxlbihzZWxmLm1lbW9yeSkpCiAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoLCB0cnVlX3ZhbHVlc1stMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxpcHBlZF90cmFuc2l0aW9uLmFjdGlvbiwgdHJhbnNpdGlvbi5hY3Rpb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoKHBvbGljeShzdGF0ZXNbLTFdKVstMV0pLnNxdWVlemUoKSwgdHJ1ZV92YWx1ZXNbLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxpcHBlZF90cmFuc2l0aW9uLnN0YXRlID0gcmV2ZXJzZWRfc3RhdGUKICAgICAgICAgICAgZmxpcHBlZF90cmFuc2l0aW9uLmFjdGlvbiA9IHJldmVyc2VkX2FjdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
