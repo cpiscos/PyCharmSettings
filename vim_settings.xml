@@ -457,11 +457,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536600683493">
-        <mark key="[" line="53" column="81" />
-        <mark key="]" line="53" column="81" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="53" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536610038499">
+        <mark key="'" line="36" column="34" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="34" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="36" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -746,8 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="125" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="188" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -830,7 +829,6 @@
       <jump line="95" column="29" filename="$USER_HOME$/PycharmProjects/Connect4/base_game.py" />
       <jump line="258" column="78" filename="$USER_HOME$/PycharmProjects/Connect4/ai.py" />
       <jump line="42" column="22" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
-      <jump line="36" column="43" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="37" column="44" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="39" column="40" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="42" column="18" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
@@ -846,19 +844,22 @@
       <jump line="157" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="231" column="13" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="237" column="17" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="38" column="11" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
+      <jump line="36" column="34" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>winner</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>winner</text>
       </register>
       <register name="/" type="4">
-        <text>memorize</text>
+        <text>winner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
@@ -905,21 +906,20 @@
         <text encoding="base64">ICAgICAgICBpZiBwbGF5ZXJfbGlzdCBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5wbGF5ZXJfbGlzdCA9IHBsYXllcl9saXN0Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>memorize</last-search>
+      <last-search>winner</last-search>
       <last-offset />
-      <last-pattern>memorize</last-pattern>
+      <last-pattern>winner</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cuda</entry>
         <entry encoding="base64">XDxzZWxlY3RfYWN0aW9uXD4=</entry>
         <entry>double</entry>
         <entry>initi</entry>
@@ -939,6 +939,7 @@
         <entry>Average</entry>
         <entry>shuffle</entry>
         <entry>memorize</entry>
+        <entry>winner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
@@ -956,11 +957,11 @@
         <entry encoding="base64">JzwsJz5zL25uLkxheWVyTm9ybS9CYXRjaE5vcm0xZExhc3Q=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc2lkdWFsL2lucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
-        <entry>noh</entry>
         <entry>double</entry>
         <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
         <entry>action ReformatCode</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
