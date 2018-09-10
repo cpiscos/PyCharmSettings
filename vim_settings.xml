@@ -83,12 +83,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536570953400">
-        <mark key="'" line="157" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536601242014">
+        <mark key="'" line="237" column="17" />
         <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -356,7 +356,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536570849525">
+      <file name="/game" timestamp="1536601504197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -457,11 +457,11 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536568787619">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="95" />
-        <mark key="^" line="88" column="7" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536600683493">
+        <mark key="[" line="53" column="81" />
+        <mark key="]" line="53" column="81" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="53" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -746,10 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="157" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="158" column="11" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="70" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -846,19 +842,23 @@
       <jump line="160" column="0" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="158" column="47" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="155" column="22" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="139" column="28" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="157" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="231" column="13" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="237" column="17" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>shuffle</text>
+        <text>memorize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
@@ -909,17 +909,16 @@
       </register>
     </registers>
     <search>
-      <last-search>shuffle</last-search>
+      <last-search>memorize</last-search>
       <last-offset />
-      <last-pattern>shuffle</last-pattern>
+      <last-pattern>memorize</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>init_hid</entry>
         <entry>cuda</entry>
         <entry encoding="base64">XDxzZWxlY3RfYWN0aW9uXD4=</entry>
         <entry>double</entry>
@@ -939,6 +938,7 @@
         <entry>save</entry>
         <entry>Average</entry>
         <entry>shuffle</entry>
+        <entry>memorize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
