@@ -381,12 +381,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536543978612">
-        <mark key="'" line="157" column="17" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536548902771">
+        <mark key="'" line="157" column="24" />
+        <mark key="[" line="183" column="55" />
+        <mark key="]" line="184" column="61" />
+        <mark key="." line="184" column="61" />
+        <mark key="^" line="184" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534465919708">
         <mark key="'" line="194" column="8" />
@@ -715,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
       <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
@@ -815,25 +813,27 @@
       <jump line="70" column="28" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="71" column="25" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="144" column="17" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="60" column="54" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="157" column="24" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>transition.reward</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdG9yLmFwcGx5KGthaW1pbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmV2ZXJzZWRfc3RhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -853,37 +853,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHByaW50KGxlbihzZWxmLm1lbW9yeSkpCiAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmxpcHBlZF9hY3Rpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoLCB0cnVlX3ZhbHVlc1stMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBmbGlwcGVkX2FjdGlvbiA9IGZsaXBwZWRfdHJhbnNpdGlvbi5hY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoKHBvbGljeShzdGF0ZXNbLTFdKVstMV0pLnNxdWVlemUoKSwgdHJ1ZV92YWx1ZXNbLTFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXZlcnNlZF9zdGF0ZS5tZWFuKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBubi5pbml0LmthaW1pbmdfbm9ybWFsXyhzZWxmLmFjdG9yLndlaWdodCkKICAgICAgICBubi5pbml0Lm5vcm1hbF8oc2VsZi5jcml0aWMud2VpZ2h0LCAwLCAxZS00KQogICAgICAgIG5uLmluaXQuY29uc3RhbnRfKHNlbGYuY3JpdGljLmJpYXMsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZsYXR0ZW4oKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDI1NiksIG5uLlJlTFUoKSwgbm4uQmF0Y2hOb3JtMWQoMjU2KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDI1NiksIG5uLlJlTFUoKSwgbm4uQmF0Y2hOb3JtMWQoMjU2KSkK</text>
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkxpbmVhcigyNTYsIDEyOCksIG5uLlJlTFUoKSwgbm4uQmF0Y2hOb3JtMWQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQogICAgICAgIHByaW50KGxlbihzZWxmLm1lbW9yeSkpCiAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkNvbnYyZCg2NCwgOCwgMywgcGFkZGluZz0xKSwgbm4uUmVMVSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoLCB0cnVlX3ZhbHVlc1stMV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5uLkNvbnYyZCg2NCwgNjQsIDMsIHBhZGRpbmc9MSksIG5uLlJlTFUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1TRUxvc3MoKHBvbGljeShzdGF0ZXNbLTFdKVstMV0pLnNxdWVlemUoKSwgdHJ1ZV92YWx1ZXNbLTFdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorJoinLines</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>transition.reward</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>transition.reward</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -891,7 +891,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sched</entry>
         <entry>nn.LayerNorm</entry>
         <entry>zeros</entry>
         <entry>residual</entry>
@@ -911,6 +910,7 @@
         <entry>decay</entry>
         <entry>memory</entry>
         <entry>transition.reward</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
@@ -930,9 +930,9 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
         <entry>double</entry>
-        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action EditorJoinLines</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
