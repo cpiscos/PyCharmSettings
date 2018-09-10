@@ -277,11 +277,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Connect4v2/ai_model.py" timestamp="1536514566848">
-        <mark key="[" line="121" column="77" />
-        <mark key="]" line="121" column="79" />
-        <mark key="^" line="121" column="79" />
-        <mark key="." line="121" column="79" />
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Connect4v2/ai_model.py" timestamp="1536592651436">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BeginnerProjects/chris.json" timestamp="1528486818674">
         <mark key="'" line="131" column="11" />
@@ -381,12 +381,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536555640605">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="245" column="33" />
-        <mark key="]" line="245" column="33" />
-        <mark key="." line="245" column="33" />
-        <mark key="^" line="245" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536595003512">
+        <mark key="'" line="249" column="8" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="62" column="102" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534465919708">
         <mark key="'" line="194" column="8" />
@@ -465,11 +465,11 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536555541641">
-        <mark key="[" line="71" column="63" />
-        <mark key="]" line="71" column="80" />
-        <mark key="." line="71" column="80" />
-        <mark key="^" line="71" column="80" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536595288874">
+        <mark key="[" line="103" column="40" />
+        <mark key="]" line="103" column="41" />
+        <mark key="." line="103" column="41" />
+        <mark key="^" line="91" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/models/__init__.py" timestamp="1534474604928">
         <mark key="[" line="3" column="38" />
@@ -715,13 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
-      <jump line="41" column="53" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
-      <jump line="42" column="48" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" />
-      <jump line="136" column="34" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="179" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="44" column="38" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="7" column="17" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="61" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -810,30 +803,37 @@
       <jump line="66" column="26" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="68" column="17" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="70" column="28" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
-      <jump line="71" column="25" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="144" column="17" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="60" column="54" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="157" column="24" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
       <jump line="52" column="24" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="136" column="14" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="218" column="16" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="247" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
+      <jump line="249" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvcl9sb3NzLCBjcml0aWNfbG9zcykK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>action.actor</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>input.view(input.shape[0], -1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhdmdfd2luLCBhdmdfd2luID4gMC41LCAnZmFydCcgaWYgYXZnX3dpbiA+IDAuNSBlbHNlICdzaGl0JykKICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvcl9sb3NzLCBjcml0aWNfbG9zcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -853,37 +853,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhaV9pbmRleCA9IHJhbmRpbnQoMikK</text>
+        <text encoding="base64">ICAgIHByaW50KHRvcmNoLnN0YWNrKGxvc3MpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWlfbW9kZWwudXBkYXRlKHNlbGYucGxheWVyX2xpc3QsIHNlbGYuaHVtYW5fcGxheWVyLCByZXBsYXk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5oaXN0b3J5WydhY3Rpb25fcHJvYnMnXVstMV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHJlcGxheT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlKHNlbGYubWVtb3J5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWN0aW9ucy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhdmdfd2luLCBhdmdfd2luID4gMC41LCAnZmFydCcgaWYgYXZnX3dpbiA+IDAuNSBlbHNlICdzaGl0JykKICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYWN0b3Iuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhaV9pbmRleCA9IHJhbmRpbnQoMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RhdGVzLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWlfbW9kZWwudXBkYXRlKHNlbGYucGxheWVyX2xpc3QsIHNlbGYuaHVtYW5fcGxheWVyLCByZXBsYXk9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSwgY3JpdGljLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHJlcGxheT1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>action.actor</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>action.actor</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -891,7 +891,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zeros</entry>
         <entry>residual</entry>
         <entry>scheduler</entry>
         <entry encoding="base64">IA==</entry>
@@ -904,13 +903,14 @@
         <entry>states.append</entry>
         <entry>to(device</entry>
         <entry>cuda</entry>
-        <entry>print</entry>
         <entry>weight</entry>
         <entry>decay</entry>
         <entry>memory</entry>
         <entry>transition.reward</entry>
         <entry>push</entry>
         <entry>action.actor</entry>
+        <entry>save</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
