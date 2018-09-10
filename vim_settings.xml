@@ -381,12 +381,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536541835173">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536543978612">
         <mark key="'" line="157" column="17" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNALU.py" timestamp="1534465919708">
         <mark key="'" line="194" column="8" />
@@ -818,13 +818,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>transition.reward</text>
