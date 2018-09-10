@@ -83,12 +83,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536563915367">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536565991639">
         <mark key="'" line="158" column="47" />
         <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -356,7 +356,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536563224485">
+      <file name="/game" timestamp="1536565786249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -457,11 +457,11 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536560408709">
-        <mark key="[" line="73" column="53" />
-        <mark key="]" line="73" column="58" />
-        <mark key="." line="73" column="58" />
-        <mark key="^" line="73" column="58" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536565395732">
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="26" />
+        <mark key="^" line="67" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -849,13 +849,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>shuffle</text>
@@ -864,7 +864,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2h1ZmZsZShzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBudW1weS5yYW5kb20gaW1wb3J0IHJhbmRpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2h1ZmZsZShzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -881,28 +881,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBudW1weS5yYW5kb20gaW1wb3J0IHJhbmRpbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2h1ZmZsZShzZWxmLm1lbW9yeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2h1ZmZsZShzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2h1ZmZsZShzZWxmLm1lbW9yeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykKICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
