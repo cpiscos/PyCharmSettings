@@ -83,8 +83,7 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536484467703">
-        <mark key="'" line="118" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536557993909">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="10" />
@@ -356,7 +355,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/game" timestamp="1536483956207">
+      <file name="/game" timestamp="1536558911689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/load_policy.py" timestamp="1535948941201">
@@ -458,11 +457,7 @@
         <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536482450834">
-        <mark key="'" line="39" column="40" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-        <mark key="^" line="73" column="84" />
+        <mark key="^" line="82" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -865,7 +860,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRpY19sb3NzID0gTVNFTG9zcyhjcml0aWMsIHRyYW5zaXRpb24ucmV3YXJkICsgZ2FtbWEgKiBuZXh0X3ZhbHVlLmRldGFjaCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,25 +877,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykKICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb2dfcHJvYnMpCiAgICAgICAgcHJpbnQoZ2FtbWFfcmV3YXJkcykKICAgICAgICBwcmludChyZXdhcmRzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5tZW1vcnkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV9yZXdhcmRzKQogICAgICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5tZW1vcnkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYXllcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1tYV9yZXdhcmRzKQogICAgICAgIHByaW50KHJld2FyZHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYXllcikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
