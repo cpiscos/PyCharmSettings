@@ -83,12 +83,12 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536601242014">
-        <mark key="'" line="237" column="17" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/ai_model.py" timestamp="1536610698692">
+        <mark key="'" line="240" column="17" />
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/SungKim.py" timestamp="1530146018220">
         <mark key="'" line="82" column="8" />
@@ -457,12 +457,11 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536610038499">
+      <file name="$USER_HOME$/PycharmProjects/Connect4v2/game.py" timestamp="1536610316573">
         <mark key="'" line="36" column="34" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="34" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="36" column="34" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
         <mark key="'" line="0" column="0" />
@@ -850,13 +849,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>winner</text>
+        <text>input</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>winner</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>winner</text>
@@ -865,7 +864,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHNlbGYud2luX2hpc3RvcnksIHJlcGxheT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi5MaW5lCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,31 +881,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZSkK</text>
+        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHNlbGYud2luX2hpc3RvcnksIHJlcGxheT1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Vfd2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Uuc2hhcGUpCiAgICAgICAgICAgICAgICBwcmludChjLnByb2JzKQogICAgICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZV93ZWlnaHQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Vfd2VpZ2h0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjdGlvbnMsIGxvZ19wcm9iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Uuc2hhcGUpCiAgICAgICAgICAgICAgICBwcmludChjLnByb2JzKQogICAgICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZV93ZWlnaHQuc2hhcGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWlfbW9kZWwudXBkYXRlKHNlbGYucGxheWVyX2xpc3QsIHNlbGYuaHVtYW5fcGxheWVyLCBzZWxmLndpbl9oaXN0b3J5LCByZXBsYXk9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjdGlvbnMsIGxvZ19wcm9iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWlfbW9kZWwudXBkYXRlKHNlbGYucGxheWVyX2xpc3QsIHNlbGYuaHVtYW5fcGxheWVyLCBzZWxmLndpbl9oaXN0b3J5LCByZXBsYXk9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwbGF5ZXJfbGlzdCBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5wbGF5ZXJfbGlzdCA9IHBsYXllcl9saXN0Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -960,8 +959,8 @@
         <entry>double</entry>
         <entry>action RenameElement</entry>
         <entry>action EditorJoinLines</entry>
-        <entry>action ReformatCode</entry>
         <entry>noh</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
