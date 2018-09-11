@@ -58,12 +58,6 @@
       <file name="$USER_HOME$/PycharmProjects/CS294/tf_util.py" timestamp="1535950855868">
         <mark key="'" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/recu.py" timestamp="1535225238386">
-        <mark key="'" line="6" column="25" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="35" />
-        <mark key="." line="79" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/eval.py" timestamp="1534046365470">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="91" column="68" />
@@ -307,6 +301,9 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="/plot" timestamp="1536694917336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
@@ -368,6 +365,12 @@
         <mark key="]" line="34" column="16" />
         <mark key="." line="34" column="16" />
         <mark key="^" line="34" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Stocks/plot.py" timestamp="1536694915712">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2018.2/remote_sources/31917887/-1320542576/nalu/core/nac_cell.py" timestamp="1534299773970">
         <mark key="[" line="25" column="50" />
@@ -435,12 +438,6 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" timestamp="1535242602852">
-        <mark key="'" line="107" column="41" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/AI_Projects/SineLSTM.py" timestamp="1533081593710">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="12" />
@@ -463,12 +460,6 @@
         <mark key="]" line="110" column="4" />
         <mark key="." line="110" column="4" />
         <mark key="^" line="109" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/hw1/run_expert.py" timestamp="1535950345880">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/custom.py" timestamp="1534010835218">
         <mark key="'" line="10" column="35" />
@@ -850,7 +841,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -865,7 +856,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,28 +873,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh1bWFuX3BsYXllciAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi5MaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmh1bWFuX3BsYXllciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHNlbGYud2luX2hpc3RvcnksIHJlcGxheT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi5MaW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZSkK</text>
+        <text encoding="base64">ICAgICAgICBhaV9tb2RlbC51cGRhdGUoc2VsZi5wbGF5ZXJfbGlzdCwgc2VsZi5odW1hbl9wbGF5ZXIsIHNlbGYud2luX2hpc3RvcnksIHJlcGxheT1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Vfd2VpZ2h0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Uuc2hhcGUpCiAgICAgICAgICAgICAgICBwcmludChjLnByb2JzKQogICAgICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZV93ZWlnaHQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Vfd2VpZ2h0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjdGlvbnMsIGxvZ19wcm9iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGltcG9ydGFuY2Uuc2hhcGUpCiAgICAgICAgICAgICAgICBwcmludChjLnByb2JzKQogICAgICAgICAgICAgICAgcHJpbnQoaW1wb3J0YW5jZV93ZWlnaHQuc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
