@@ -151,11 +151,11 @@
         <mark key="." line="68" column="25" />
         <mark key="^" line="68" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Stocks/helpers.py" timestamp="1536640838768">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/Stocks/helpers.py" timestamp="1536641477669">
+        <mark key="[" line="62" column="168" />
+        <mark key="]" line="62" column="175" />
+        <mark key="." line="62" column="175" />
+        <mark key="^" line="62" column="175" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexRL/AI.py" timestamp="1535513728964">
         <mark key="'" line="120" column="37" />
@@ -197,7 +197,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536640840390">
+      <file name="/Python Console" timestamp="1536641479235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -858,13 +858,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">bnAud2hlcmUocHJlZC5kZXRhY2goKS5udW1weSgpID4gMC41LCAxLiwgMC4pLnNxdWVlemUoKQ==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">bnAud2hlcmUocHJlZC5kZXRhY2goKS5udW1weSgpID4gMC41LCAxLiwgMC4pLnNxdWVlemUoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>winner</text>
@@ -873,7 +873,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Rlc3QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaWYgc3RlcDoKICAgICMgICAgIG1vZGVsLnRyYWluKCkKICAgICMgZWxzZToKICAgICMgICAgIG1vZGVsLmV2YWwoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -890,25 +890,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRhdGEuZGF0YSkpCnByaW50KGxlbihkYXRhLmRhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5kYXRhLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiID0gcHJlZFswXS5kZXRhY2goKS5udW1weSgpLCB5WzBdLm51bXB5KCkKICAgICAgICBwcmludChhLCBiKQogICAgICAgIHByaW50KG5wLndoZXJlKGEgPiAwLjUsIDEsIDApID09IGIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5kYXRhLnNoYXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3RyYWluJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRbMF0sIHlbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Rlc3QnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcmVkWzBdLCB5WzBdKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQobGVuKGRhdGEuZGF0YSkpCnByaW50KGxlbihkYXRhLmRhdGEpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gcHJlZFswXS5kZXRhY2goKS5udW1weSgpLCB5WzBdLm51bXB5KCkKICAgICAgICBwcmludChhLCBiKQogICAgICAgIHByaW50KG5wLndoZXJlKGEgPiAwLjUsIDEsIDApID09IGIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
