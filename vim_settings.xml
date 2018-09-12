@@ -20,11 +20,11 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536720204091">
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="56" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536723589976">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1535233129558">
         <mark key="[" line="0" column="0" />
@@ -215,7 +215,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536719795730">
+      <file name="/Python Console" timestamp="1536723107684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -597,12 +597,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536719312320">
+      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536723086540">
         <mark key="'" line="13" column="45" />
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="16" column="47" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
@@ -775,6 +775,12 @@
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
       </file>
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Breakout/breakout.py" timestamp="1536723439158">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="106" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
@@ -880,13 +886,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sum</text>
+        <text>False</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
@@ -895,7 +901,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxLmFwcGx5KGthaW1pbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9saWN5ID0gcG9saWN5LlBvbGljeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -912,28 +918,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cG9saWN5ID0gcG9saWN5LlBvbGljeSgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmltYWdlIGltcG9ydCBpbQo=</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmltYWdlIGltcG9ydCBpbQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvc3NlcyA9IGRlcXVlKFtdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
