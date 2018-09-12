@@ -80,6 +80,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
