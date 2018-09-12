@@ -20,11 +20,11 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536723589976">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="37" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536728868012">
+        <mark key="[" line="67" column="77" />
+        <mark key="]" line="67" column="83" />
+        <mark key="." line="67" column="83" />
+        <mark key="^" line="67" column="83" />
       </file>
       <file name="/a.dummy" timestamp="1535233129558">
         <mark key="[" line="0" column="0" />
@@ -215,7 +215,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536726291908">
+      <file name="/Python Console" timestamp="1536728632220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -885,14 +885,14 @@
       <jump line="7" column="45" filename="$USER_HOME$/PycharmProjects/Breakout/policy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.sum()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxvZ19wcm9icy5zaGFwZSwgcmV3YXJkcy5zaGFwZSwgdmFsdWVzLnNoYXBlKQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>.sum()</text>
+        <text>total_rewards</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
@@ -901,7 +901,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxLmFwcGx5KGthaW1pbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCA9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvZ19wcm9icy5zaGFwZSwgcmV3YXJkcy5zaGFwZSwgdmFsdWVzLnNoYXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,28 +918,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9saWN5ID0gcG9saWN5LlBvbGljeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXdhcmRzX2hpc3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ0dhbWUge2l9IFRvdGFsIHJld2FyZDoge3RvdGFsX3Jld2FyZHN9IEF2ZXJhZ2VfbG9zczoge30nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYnR2FtZSB7aX0gVG90YWwgcmV3YXJkOiB7dG90YWxfcmV3YXJkc30nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnR2FtZSB7aX0gVG90YWwgcmV3YXJkOiB7dG90YWxfcmV3YXJkc30nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmltYWdlIGltcG9ydCBpbQo=</text>
+        <text encoding="base64">cG9saWN5ID0gcG9saWN5LlBvbGljeSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
