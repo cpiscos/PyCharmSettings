@@ -20,11 +20,11 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536713293775">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536714999309">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+        <mark key="^" line="60" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1535233129558">
         <mark key="[" line="0" column="0" />
@@ -591,10 +591,11 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536713209197">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536714603942">
+        <mark key="[" line="10" column="89" />
+        <mark key="]" line="10" column="90" />
+        <mark key="." line="10" column="90" />
+        <mark key="^" line="10" column="90" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
@@ -872,22 +873,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gpu</text>
+        <text>deque</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>gpu</text>
+        <text>deque</text>
       </register>
       <register name="/" type="4">
         <text>winner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBwb2xpY3kuY3B1KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5zYXZlKHBvbGljeS5zdGF0ZV9kaWN0KCksICdwb2xpY3kud2VpZ2h0cycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -904,28 +905,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJld2FyZHMgPSAocmV3YXJkcyAtIHJld2FyZHMubWVhbigpKSAvIChyZXdhcmRzLnN0ZCgpKzFlLTgpCg==</text>
+        <text encoding="base64">ICAgIGlmIGkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV3YXJkcyA9IChyZXdhcmRzIC0gcmV3YXJkcy5tZWFuKCkpIC8gKHJld2FyZHMuc3RkKCkrMWUtOCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgIHJld2FyZHMgPSAocmV3YXJkcyAtIHJld2FyZHMubWVhbigpKSAvIChyZXdhcmRzLnN0ZCgpKzFlLTgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgICMgcmV3YXJkcyA9IChyZXdhcmRzIC0gcmV3YXJkcy5tZWFuKCkpIC8gKHJld2FyZHMuc3RkKCkrMWUtOCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh1bWFuX3BsYXllciAK</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5ubi5MaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
