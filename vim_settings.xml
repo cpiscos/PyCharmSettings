@@ -775,11 +775,11 @@
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
       </file>
-      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Breakout/breakout.py" timestamp="1536723439158">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Breakout/breakout.py" timestamp="1536727744926">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="56" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -886,13 +886,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>.sum()</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>.sum()</text>
       </register>
       <register name="/" type="4">
         <text>128</text>
