@@ -20,11 +20,11 @@
         <mark key="." line="96" column="59" />
         <mark key="^" line="96" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536714999309">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="32" />
-        <mark key="." line="60" column="32" />
-        <mark key="^" line="60" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/breakout.py" timestamp="1536720204091">
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="11" />
+        <mark key="." line="56" column="11" />
+        <mark key="^" line="56" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1535233129558">
         <mark key="[" line="0" column="0" />
@@ -61,6 +61,12 @@
         <mark key="]" line="104" column="5" />
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Breakout/scratch.py" timestamp="1536718795278">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
         <mark key="'" line="2" column="13" />
@@ -209,7 +215,7 @@
       <file name="&lt;4eb714d8-9314-4700-ac5d-19987312f60a&gt;/Forex/FNet.py" timestamp="1535419953008">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1536713040035">
+      <file name="/Python Console" timestamp="1536719795730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -591,11 +597,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536714603942">
-        <mark key="[" line="10" column="89" />
-        <mark key="]" line="10" column="90" />
-        <mark key="." line="10" column="90" />
-        <mark key="^" line="10" column="90" />
+      <file name="$USER_HOME$/PycharmProjects/Breakout/policy.py" timestamp="1536719312320">
+        <mark key="'" line="13" column="45" />
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
@@ -770,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="43" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
       <jump line="106" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
       <jump line="110" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
       <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -870,25 +876,26 @@
       <jump line="74" column="43" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="41" column="4" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="50" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
+      <jump line="7" column="45" filename="$USER_HOME$/PycharmProjects/Breakout/policy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deque</text>
+        <text>sum</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>deque</text>
+        <text>sum</text>
       </register>
       <register name="/" type="4">
-        <text>winner</text>
+        <text>128</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xpY3kgPSBwb2xpY3kuY3B1KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnYxLmFwcGx5KGthaW1pbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5zYXZlKHBvbGljeS5zdGF0ZV9kaWN0KCksICdwb2xpY3kud2VpZ2h0cycpCg==</text>
+        <text encoding="base64">cG9saWN5ID0gcG9saWN5LlBvbGljeSgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,45 +912,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGkgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJld2FyZHMgPSAocmV3YXJkcyAtIHJld2FyZHMubWVhbigpKSAvIChyZXdhcmRzLnN0ZCgpKzFlLTgpCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV3YXJkcyA9IChyZXdhcmRzIC0gcmV3YXJkcy5tZWFuKCkpIC8gKHJld2FyZHMuc3RkKCkrMWUtOCkK</text>
+        <text encoding="base64">ICAgIHZhbHVlcyA9IHRvcmNoLnN0YWNrKGxpc3QodmFsdWVzKSkuc3F1ZWV6ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmltYWdlIGltcG9ydCBpbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJld2FyZHMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihsb3NzZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
+        <text encoding="base64">ICAgIGxvc3NlcyA9IGRlcXVlKFtdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>winner</last-search>
+      <last-search>128</last-search>
       <last-offset />
-      <last-pattern>winner</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>128</last-pattern>
+      <last-replace>64</last-replace>
+      <last-substitute>128</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>residual</entry>
         <entry>scheduler</entry>
         <entry encoding="base64">IA==</entry>
         <entry>init_hid</entry>
@@ -963,9 +969,9 @@
         <entry>action.actor</entry>
         <entry>save</entry>
         <entry>print</entry>
+        <entry>128</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0xlYWt5Ly9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvdWJsZS9mbG9hdA==</entry>
         <entry encoding="base64">JzwsJz5zL1JlTFUvTGVha3lSZUxV</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L2RvdWJsZS9n</entry>
@@ -982,9 +988,10 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>noh</entry>
         <entry>double</entry>
-        <entry>action EditorJoinLines</entry>
         <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5zLzEyOC82NC9n</entry>
         <entry>action ReformatCode</entry>
+        <entry>action EditorJoinLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
