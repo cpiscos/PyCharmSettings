@@ -46,7 +46,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt+Shift+Escape'</ShortCut>
           <Description>Close Project</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -110,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -142,7 +142,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -159,6 +159,14 @@
           <ShortCut>'Ctrl+1'</ShortCut>
           <Description>Home Directory</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -215,6 +223,14 @@
           <ShortCut>'⌃⇧K'</ShortCut>
           <Description>Push...</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Python Console">
+        <Item>
+          <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Python Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -406,7 +422,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -694,7 +710,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>15</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
