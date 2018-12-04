@@ -525,6 +525,9 @@
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_train.py" timestamp="1543965719406">
+        <mark key="'" line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/data_aug.py" timestamp="1532552935992">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="4" column="29" />
@@ -774,8 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="190" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="189" column="6" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="121" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="162" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -874,6 +875,8 @@
       <jump line="15" column="42" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="27" column="10" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="33" column="27" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/suprize/suprize_train.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/PycharmProjects/suprize/suprize_train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
