@@ -401,6 +401,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'suprize_model'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Rerun 'suprize_model'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -695,6 +703,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'stock'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'suprize_model'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'suprize_model'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test'">
