@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1543960970655">
+      <file name="/Python Console" timestamp="1543964827543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -239,6 +239,13 @@
         <mark key="]" line="104" column="5" />
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543964223367">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+        <mark key="^" line="49" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -469,9 +476,6 @@
         <mark key="^" line="126" column="70" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/FNet.py" timestamp="1535497422971">
-        <mark key="'" line="146" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/iris.py" timestamp="1530222084502">
         <mark key="'" line="18" column="28" />
         <mark key="[" line="28" column="84" />
@@ -510,9 +514,6 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/load_policy.py" timestamp="1536029522854">
-        <mark key="'" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/perceptron.py" timestamp="1528688345833">
         <mark key="'" line="32" column="10" />
@@ -663,9 +664,6 @@
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/tf_util.py" timestamp="1535950855868">
-        <mark key="'" line="8" column="40" />
-      </file>
       <file name="/Dummy.txt" timestamp="1536696650397">
         <mark key="[" line="0" column="0" />
       </file>
@@ -776,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
-      <jump line="110" column="41" filename="$USER_HOME$/PycharmProjects/ForexResearch/models/utils.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="166" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="190" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="189" column="6" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -876,25 +871,28 @@
       <jump line="41" column="4" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="50" column="8" filename="$USER_HOME$/PycharmProjects/Connect4v2/game.py" />
       <jump line="30" column="37" filename="$USER_HOME$/PycharmProjects/suprize/suprize_model.py" />
+      <jump line="15" column="42" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="27" column="10" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="33" column="27" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>img</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogKGlucHV0WzosIDosIDBdLm1pbigtMSlbMF0gLSAxZTgp</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text>img</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbWFnZSkKcGx0LnNob3coKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -911,37 +909,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LmZpZ3VyZShmaWdzaXplPSgyMCwgMTApKQpmb3IgaSBpbiByYW5nZSg1KToKICBmb3IgaiBpbiByYW5nZSgxMCk6CiAgICBwbHQuc3VicGxvdCg1LCAxMCwgaSoxMCtqKzEpCiAgICBpbWFnZSwgXyA9IGdlbmVyYXRlX3NhbXBsZSh0ZXN0X2xpc3QpCiAgICBwbHQuaW1zaG93KG5wLmNvbmNhdGVuYXRlKChpbWFnZVs6LCA6LCAwXSwgaW1hZ2VbOiwgOiwgMV0pLCAxKSwgY21hcD0nZ3JheScpCiAgICBhbnN3ZXIgPSBtb2RlbC5wcmVkaWN0KG5wLmV4cGFuZF9kaW1zKGltYWdlIC8gMjU1LCAwKSkKICAgIHBsdC54bGFiZWwoJ3t9IHs6LjNmfScuZm9ybWF0KCdTYW1lJyBpZiByb3VuZChhbnN3ZXIuaXRlbSgpKSA+PSAwLjUgZWxzZSAnRGlmZmVyZW50JywgYW5zd2VyLml0ZW0oKSkpCiAgICBwbHQueHRpY2tzKFtdKQogICAgcGx0Lnl0aWNrcyhbXSkKcGx0LmF1dG9zY2FsZSh0aWdodD1UcnVlKQpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNob3coKQoKCgp0cmFpbl9pbWFnZXNbMF0uc2hhcGUKCiFscyBzdXByaXplL3NhbXBsZWQK</text>
+        <text encoding="base64">aW1nID0gSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4oJ3N1cHJpemUvc2FtcGxlZC8nLCBzYW1wbGUpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHJpdmUubW91bnQoJy9jb250ZW50L2dkcml2ZScpCiFscwoKIWNwICdnZHJpdmUvTXkgRHJpdmUvc3Vwcml6ZS56aXAnIC4vCgohcnN5bmMgLWEgLS1kZWxldGUgLS1pZ25vcmUtZXhpc3RpbmcgJy9jb250ZW50L2dkcml2ZS9NeSBEcml2ZS9zdXByaXplJyAnLicKCiFybSBzdXByaXplLnppcAohemlwIC1yIHN1cHJpemUuemlwIC4vc3Vwcml6ZQohbXYgJ2dkcml2ZS9NeSBEcml2ZS9zdXByaXplLnppcCcgJ2dkcml2ZS9NeSBEcml2ZS9zdXByaXplMS56aXAnCiFjcCAuL3N1cHJpemUuemlwICdnZHJpdmUvTXkgRHJpdmUvJwo=</text>
+        <text encoding="base64">CnNhbXBsZSA9IG5wLnJhbmRvbS5jaG9pY2Uob3MubGlzdGRpcignc3Vwcml6ZS9zYW1wbGVkJykpCnNhbXBsZSA9IHRlc3RfbGlzdFswXSArICcuUE5HJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuY29sYWIgaW1wb3J0IGRyaXZlCg==</text>
+        <text encoding="base64">cHJpbnQod2luZG93cykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAlbWF0cGxvdGxpYiBpbmxpbmUK</text>
+      <register name="6" type="4">
+        <text>windows = win32gui.EnumWindows()
+print(windows)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhY3Rvci5zaGFwZSkK</text>
+        <text encoding="base64">cGx0LmZpZ3VyZShmaWdzaXplPSgyMCwgMTApKQpmb3IgaSBpbiByYW5nZSg1KToKICBmb3IgaiBpbiByYW5nZSgxMCk6CiAgICBwbHQuc3VicGxvdCg1LCAxMCwgaSoxMCtqKzEpCiAgICBpbWFnZSwgXyA9IGdlbmVyYXRlX3NhbXBsZSh0ZXN0X2xpc3QpCiAgICBwbHQuaW1zaG93KG5wLmNvbmNhdGVuYXRlKChpbWFnZVs6LCA6LCAwXSwgaW1hZ2VbOiwgOiwgMV0pLCAxKSwgY21hcD0nZ3JheScpCiAgICBhbnN3ZXIgPSBtb2RlbC5wcmVkaWN0KG5wLmV4cGFuZF9kaW1zKGltYWdlIC8gMjU1LCAwKSkKICAgIHBsdC54bGFiZWwoJ3t9IHs6LjNmfScuZm9ybWF0KCdTYW1lJyBpZiByb3VuZChhbnN3ZXIuaXRlbSgpKSA+PSAwLjUgZWxzZSAnRGlmZmVyZW50JywgYW5zd2VyLml0ZW0oKSkpCiAgICBwbHQueHRpY2tzKFtdKQogICAgcGx0Lnl0aWNrcyhbXSkKcGx0LmF1dG9zY2FsZSh0aWdodD1UcnVlKQpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNob3coKQoKCgp0cmFpbl9pbWFnZXNbMF0uc2hhcGUKCiFscyBzdXByaXplL3NhbXBsZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh1bWFuX3BsYXllciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>root</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -949,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>net(</entry>
         <entry>tacc</entry>
         <entry>merged</entry>
         <entry>d</entry>
@@ -969,6 +967,7 @@
         <entry>load</entry>
         <entry>sched</entry>
         <entry>root</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
