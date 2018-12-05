@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1543964827543">
+      <file name="/Python Console" timestamp="1543968263042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,10 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543964223367">
-        <mark key="'" line="33" column="27" />
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543967794821">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -777,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="6" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="121" column="2" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="162" column="10" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="163" column="36" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -877,10 +874,11 @@
       <jump line="33" column="27" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/suprize/suprize_train.py" />
       <jump line="170" column="0" filename="$USER_HOME$/PycharmProjects/suprize/suprize_train.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bW9kZWwgPSBrZXJhcy5tb2RlbHMubG9hZF9tb2RlbCgnc3Vwcml6ZS5oNScpCndpbmRvd3MgPSBbXQpkZWYgZW51bUhhbmRsZXIoaHduZCwgbFBhcmFtKToKICAgIGlmIHdpbjMyZ3VpLklzV2luZG93VmlzaWJsZShod25kKToKICAgICAgICB3aW5kb3dzLmFwcGVuZCh3aW4zMmd1aS5HZXRXaW5kb3dUZXh0KGh3bmQpKQpod25kID0gd2luMzJndWkuRmluZFdpbmRvdyhOb25lLCAnYWlyIHJlbmRlcicpCndpbjMyZ3VpLlNldEZvcmVncm91bmRXaW5kb3coaHduZCkKZGltZW5zaW9ucyA9IHdpbjMyZ3VpLkdldFdpbmRvd1JlY3QoaHduZCkKCmltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkKCmFjY3VyYWN5ID0gMwoKaW1wb3J0IHRpbWUKc3RhcnQgPSB0aW1lLnRpbWUoKQppbWdfYXJyID0gbnAuYXJyYXkoaW1hZ2UuY29udmVydCgnTCcpKQphcnJheXMgPSBbXQp4ID0gW10KeSA9IFtdCmZvciBpIGluIHJhbmdlKDEzKToKICAgIGZvciBqIGluIHJhbmdlKDExKToKICAgICAgICBhcnJheXMuYXBwZW5kKAogICAgICAgICAgICBucC5leHBhbmRfZGltcyhpbWdfYXJyWzQzOSArIDkzICogaTo0MzkgKyA5MyAqIGkgKyA4MCwgcm91bmQoOTMuNiAqIGogKyA1NSk6cm91bmQoOTMuNiAqIGopICsgODAgKyA1NV0sIC0xKSkKICAgICAgICB4LmFwcGVuZCg0MzkgKyA5MyAqIGkgKyA0MCkKICAgICAgICB5LmFwcGVuZChyb3VuZCg5My42ICogaiArIDQwICsgNTUpKQoKZmlyc3RfYXJyID0gW10Kc2FtcGxlX2FyciA9IFtdCmluZCA9IG5wLnJhbmRvbS5yYW5kaW50KGxlbihhcnJheXMpLCBzaXplPWFjY3VyYWN5KS5hc3R5cGUoaW50KQpiYXNlID0gW2FycmF5c1tpXSBmb3IgaSBpbiBpbmRdCmZvciBzYW1wIGluIGFycmF5czoKICAgIGZpcnN0X2Fyci5leHRlbmQoW3NhbXBdICogYWNjdXJhY3kpCiAgICBzYW1wbGVfYXJyLmV4dGVuZChiYXNlKQoKYXJyYXlzID0gbnAuc3RhY2soW25wLmNvbmNhdGVuYXRlKHgsIC0xKSBmb3IgeCBpbiB6aXAoZmlyc3RfYXJyLCBzYW1wbGVfYXJyKV0pCnByZWRpY3Rpb24gPSBtb2RlbC5wcmVkaWN0KGFycmF5cyAvIDI1NSkucmVzaGFwZSgtMSwgYWNjdXJhY3kpLm1lYW4oMSkuc3F1ZWV6ZSgpCnByZWRpY3Rpb25bbnAuYXJnc29ydChwcmVkaWN0aW9uKVsyOl1dID0gMQpwbHQuZmlndXJlKGZpZ3NpemU9KDEwLCAyMCkpCnBsdC5pbXNob3coaW1hZ2UpCgpwbHQuc2NhdHRlcih5LCB4LCBjPXByZWRpY3Rpb24ucmF2ZWwoKSwgbWFya2VyPSdvJywgY21hcD1wbHQuY20ud2ludGVyLCBzPTIwMCkKcGx0LmdyaWQoRmFsc2UpCnBsdC54dGlja3MoW10pCnBsdC55dGlja3MoW10pCnBsdC5zaG93KCkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -895,7 +893,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc0Jsb2NrKDEyOCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhpbWFnZSkKcGx0LnNob3coKQo=</text>
+        <text encoding="base64">bW9kZWwgPSBrZXJhcy5tb2RlbHMubG9hZF9tb2RlbCgnc3Vwcml6ZS5oNScpCndpbmRvd3MgPSBbXQpkZWYgZW51bUhhbmRsZXIoaHduZCwgbFBhcmFtKToKICAgIGlmIHdpbjMyZ3VpLklzV2luZG93VmlzaWJsZShod25kKToKICAgICAgICB3aW5kb3dzLmFwcGVuZCh3aW4zMmd1aS5HZXRXaW5kb3dUZXh0KGh3bmQpKQpod25kID0gd2luMzJndWkuRmluZFdpbmRvdyhOb25lLCAnYWlyIHJlbmRlcicpCndpbjMyZ3VpLlNldEZvcmVncm91bmRXaW5kb3coaHduZCkKZGltZW5zaW9ucyA9IHdpbjMyZ3VpLkdldFdpbmRvd1JlY3QoaHduZCkKCmltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkKCmFjY3VyYWN5ID0gMwoKaW1wb3J0IHRpbWUKc3RhcnQgPSB0aW1lLnRpbWUoKQppbWdfYXJyID0gbnAuYXJyYXkoaW1hZ2UuY29udmVydCgnTCcpKQphcnJheXMgPSBbXQp4ID0gW10KeSA9IFtdCmZvciBpIGluIHJhbmdlKDEzKToKICAgIGZvciBqIGluIHJhbmdlKDExKToKICAgICAgICBhcnJheXMuYXBwZW5kKAogICAgICAgICAgICBucC5leHBhbmRfZGltcyhpbWdfYXJyWzQzOSArIDkzICogaTo0MzkgKyA5MyAqIGkgKyA4MCwgcm91bmQoOTMuNiAqIGogKyA1NSk6cm91bmQoOTMuNiAqIGopICsgODAgKyA1NV0sIC0xKSkKICAgICAgICB4LmFwcGVuZCg0MzkgKyA5MyAqIGkgKyA0MCkKICAgICAgICB5LmFwcGVuZChyb3VuZCg5My42ICogaiArIDQwICsgNTUpKQoKZmlyc3RfYXJyID0gW10Kc2FtcGxlX2FyciA9IFtdCmluZCA9IG5wLnJhbmRvbS5yYW5kaW50KGxlbihhcnJheXMpLCBzaXplPWFjY3VyYWN5KS5hc3R5cGUoaW50KQpiYXNlID0gW2FycmF5c1tpXSBmb3IgaSBpbiBpbmRdCmZvciBzYW1wIGluIGFycmF5czoKICAgIGZpcnN0X2Fyci5leHRlbmQoW3NhbXBdICogYWNjdXJhY3kpCiAgICBzYW1wbGVfYXJyLmV4dGVuZChiYXNlKQoKYXJyYXlzID0gbnAuc3RhY2soW25wLmNvbmNhdGVuYXRlKHgsIC0xKSBmb3IgeCBpbiB6aXAoZmlyc3RfYXJyLCBzYW1wbGVfYXJyKV0pCnByZWRpY3Rpb24gPSBtb2RlbC5wcmVkaWN0KGFycmF5cyAvIDI1NSkucmVzaGFwZSgtMSwgYWNjdXJhY3kpLm1lYW4oMSkuc3F1ZWV6ZSgpCnByZWRpY3Rpb25bbnAuYXJnc29ydChwcmVkaWN0aW9uKVsyOl1dID0gMQpwbHQuZmlndXJlKGZpZ3NpemU9KDEwLCAyMCkpCnBsdC5pbXNob3coaW1hZ2UpCgpwbHQuc2NhdHRlcih5LCB4LCBjPXByZWRpY3Rpb24ucmF2ZWwoKSwgbWFya2VyPSdvJywgY21hcD1wbHQuY20ud2ludGVyLCBzPTIwMCkKcGx0LmdyaWQoRmFsc2UpCnBsdC54dGlja3MoW10pCnBsdC55dGlja3MoW10pCnBsdC5zaG93KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -912,26 +910,26 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1nID0gSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4oJ3N1cHJpemUvc2FtcGxlZC8nLCBzYW1wbGUpKQo=</text>
+        <text encoding="base64">cHJpbnQodGltZS50aW1lKCkgLSBzdGFydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbWFnZSkKcGx0LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNhbXBsZSA9IG5wLnJhbmRvbS5jaG9pY2Uob3MubGlzdGRpcignc3Vwcml6ZS9zYW1wbGVkJykpCnNhbXBsZSA9IHRlc3RfbGlzdFswXSArICcuUE5HJwo=</text>
+        <text encoding="base64">aW1nID0gSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4oJ3N1cHJpemUvc2FtcGxlZC8nLCBzYW1wbGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQod2luZG93cykK</text>
-      </register>
-      <register name="6" type="4">
-        <text>windows = win32gui.EnumWindows()
-print(windows)</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGx0LmZpZ3VyZShmaWdzaXplPSgyMCwgMTApKQpmb3IgaSBpbiByYW5nZSg1KToKICBmb3IgaiBpbiByYW5nZSgxMCk6CiAgICBwbHQuc3VicGxvdCg1LCAxMCwgaSoxMCtqKzEpCiAgICBpbWFnZSwgXyA9IGdlbmVyYXRlX3NhbXBsZSh0ZXN0X2xpc3QpCiAgICBwbHQuaW1zaG93KG5wLmNvbmNhdGVuYXRlKChpbWFnZVs6LCA6LCAwXSwgaW1hZ2VbOiwgOiwgMV0pLCAxKSwgY21hcD0nZ3JheScpCiAgICBhbnN3ZXIgPSBtb2RlbC5wcmVkaWN0KG5wLmV4cGFuZF9kaW1zKGltYWdlIC8gMjU1LCAwKSkKICAgIHBsdC54bGFiZWwoJ3t9IHs6LjNmfScuZm9ybWF0KCdTYW1lJyBpZiByb3VuZChhbnN3ZXIuaXRlbSgpKSA+PSAwLjUgZWxzZSAnRGlmZmVyZW50JywgYW5zd2VyLml0ZW0oKSkpCiAgICBwbHQueHRpY2tzKFtdKQogICAgcGx0Lnl0aWNrcyhbXSkKcGx0LmF1dG9zY2FsZSh0aWdodD1UcnVlKQpwbHQudGlnaHRfbGF5b3V0KCkKcGx0LnNob3coKQoKCgp0cmFpbl9pbWFnZXNbMF0uc2hhcGUKCiFscyBzdXByaXplL3NhbXBsZWQK</text>
+      <register name="6" type="2">
+        <text encoding="base64">CnNhbXBsZSA9IG5wLnJhbmRvbS5jaG9pY2Uob3MubGlzdGRpcignc3Vwcml6ZS9zYW1wbGVkJykpCnNhbXBsZSA9IHRlc3RfbGlzdFswXSArICcuUE5HJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQod2luZG93cykK</text>
+      </register>
+      <register name="8" type="4">
+        <text>windows = win32gui.EnumWindows()
+print(windows)</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
