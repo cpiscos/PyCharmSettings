@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1543979801603">
+      <file name="/Python Console" timestamp="1543984341757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,11 +240,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543979799949">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="27" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543984333468">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -455,10 +455,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1543980969464">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1543984315656">
+        <mark key="[" line="13" column="84" />
+        <mark key="]" line="13" column="102" />
+        <mark key="." line="13" column="102" />
+        <mark key="^" line="13" column="102" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
