@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544035374143">
+      <file name="/Python Console" timestamp="1544042814018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544035606420">
-        <mark key="'" line="55" column="37" />
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="84" column="16" />
-        <mark key="." line="84" column="16" />
-        <mark key="^" line="84" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544042812171">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="70" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -885,23 +884,23 @@
       <jump line="45" column="37" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>not_sort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGluZCA9IG5wLnJhbmRvbS5jaG9pY2UocmFuZ2UobGVuKGFycmF5cykpLCBzaXplPWFjY3VyYWN5LCByZXBsYWNlPUZhbHNlKS5hc3R5cGUoaW50KQo=</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>not_sort</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkK</text>
+        <text encoding="base64">ICAgIGltYWdlLnBhc3RlKGd1ZXNzLCAoaW50KCgxMTI1LWd1ZXNzX3NpemUpLzIpLCAxNzAwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluZCA9IG5wLnJhbmRvbS5jaG9pY2UocmFuZ2UobGVuKGFycmF5cykpLCBzaXplPWFjY3VyYWN5LCByZXBsYWNlPUZhbHNlKS5hc3R5cGUoaW50KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,28 +917,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHNhdmVfYm9vbCA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlucHV0KCkK</text>
+        <text encoding="base64">ICAgICAgICByICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG0udG9fcmdiYShwcmVkaWN0aW9uLnJhdmVsKCkpLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlLnNhdmUoJ3t9LlBORycuZm9ybWF0KG5wLnJhbmRvbS5yYW5kaW50KDEwMDAwMCkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZV9hcnJbaXRbMF1dLnNoYXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJblsxNV06Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zYXZlKCd7fS5wbmcnLmZvcm1hdChucC5yYW5kb20ucmFuZGludCgxMDAwMDApKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgY29kaW5nOiB1dGYtOAoKIyBJblsxMV06CgoK</text>
+        <text encoding="base64">ICAgIHIgKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
