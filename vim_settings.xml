@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544032446579">
+      <file name="/Python Console" timestamp="1544035374143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544032204617">
-        <mark key="'" line="52" column="37" />
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544035606420">
+        <mark key="'" line="55" column="37" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="16" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -886,13 +886,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>image_i</text>
+        <text>not_sort</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>image_i</text>
+        <text>not_sort</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
