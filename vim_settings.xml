@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544029880387">
+      <file name="/Python Console" timestamp="1544032446579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544001632694">
-        <mark key="'" line="45" column="37" />
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-        <mark key="^" line="73" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544032204617">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -456,11 +456,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1543984315656">
-        <mark key="[" line="13" column="84" />
-        <mark key="]" line="13" column="102" />
-        <mark key="." line="13" column="102" />
-        <mark key="^" line="13" column="102" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544033060000">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
@@ -886,22 +886,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>median</text>
+        <text>image_i</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>median</text>
+        <text>image_i</text>
       </register>
       <register name="/" type="4">
-        <text>expand</text>
+        <text>exit()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG0udG9fcmdiYShwcmVkaWN0aW9uLnJhdmVsKCkpLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,37 +918,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlucHV0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBJblsxNV06Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG0udG9fcmdiYShwcmVkaWN0aW9uLnJhdmVsKCkpLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgY29kaW5nOiB1dGYtOAoKIyBJblsxMV06CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIG1haW4oMCkK</text>
+        <text encoding="base64">IyBJblsxNV06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb24ucmF2ZWwoKSkK</text>
+        <text encoding="base64">CiMgY29kaW5nOiB1dGYtOAoKIyBJblsxMV06CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>expand</last-search>
+      <last-search>exit()</last-search>
       <last-offset />
-      <last-pattern>expand</last-pattern>
+      <last-pattern>exit()</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -956,7 +956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sigm</entry>
         <entry>optimi</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>peloss</entry>
@@ -976,6 +975,7 @@
         <entry encoding="base64">XDxmaWdzXD4=</entry>
         <entry>convert</entry>
         <entry>expand</entry>
+        <entry>exit()</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
