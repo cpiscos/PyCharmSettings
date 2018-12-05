@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1543975568675">
+      <file name="/Python Console" timestamp="1543978844488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543975567022">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="63" column="41" />
-        <mark key="]" line="63" column="42" />
-        <mark key="." line="63" column="42" />
-        <mark key="^" line="63" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543978821092">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -777,7 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="27" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="23" column="7" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="27" column="14" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="52" column="16" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
@@ -877,6 +875,7 @@
       <jump line="18" column="10" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="49" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="29" column="11" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="71" column="11" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -886,13 +885,13 @@
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>np.split(img_arr, x, 0))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>figure</text>
+        <text encoding="base64">XDxmaWdzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQogICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
@@ -912,37 +911,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIG1haW4oMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb24ucmF2ZWwoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwbGl0cyA9IG5wLnNwbGl0KGltZ19hcnIsIHgsIDApCiAgICBwcmludChsZW4oc3BsaXRzKSkKICAgIHByaW50KHNwbGl0c1swXS5zaGFwZSkKICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKWEK</text>
+        <text encoding="base64">ZmlncyA9IFtdCmRlZiBpbml0KCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjY3VyYWN5ID0gMTAK</text>
+        <text encoding="base64">YXggPSBmaWcuYWRkX3N1YnBsb3QoMSwgMSwgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsdC5ncmlkKEZhbHNlKQogICAgcGx0Lnh0aWNrcyhbXSkKICAgIHBsdC55dGlja3MoW10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb24ucmF2ZWwoKS5zaGFwZSkK</text>
+        <text encoding="base64">YXggPSBmaWcuYWRkX3N1YnBsb3QoMSwgMSwgMSkK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>figure</last-search>
+      <last-search encoding="base64">XDxmaWdzXD4=</last-search>
       <last-offset />
-      <last-pattern>figure</last-pattern>
+      <last-pattern encoding="base64">XDxmaWdzXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -950,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>merged</entry>
         <entry>d</entry>
         <entry>soft</entry>
         <entry>sigm</entry>
@@ -970,6 +968,7 @@
         <entry>root</entry>
         <entry>img</entry>
         <entry>figure</entry>
+        <entry encoding="base64">XDxmaWdzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
