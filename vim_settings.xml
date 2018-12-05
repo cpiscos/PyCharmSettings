@@ -455,6 +455,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1543980969464">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
         <mark key="[" line="10" column="10" />
@@ -879,7 +884,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
@@ -894,7 +899,7 @@
         <text encoding="base64">ICAgIGltYWdlID0gSW1hZ2VHcmFiLmdyYWIoZGltZW5zaW9ucykucmVzaXplKCgxMTI1LCAyNDM2KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -911,28 +916,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIG1haW4oMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb24ucmF2ZWwoKSkK</text>
+        <text encoding="base64">IyBJblsxNV06Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
+        <text encoding="base64">CiMgY29kaW5nOiB1dGYtOAoKIyBJblsxMV06CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlncyA9IFtdCmRlZiBpbml0KCk6Cg==</text>
+        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIG1haW4oMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXggPSBmaWcuYWRkX3N1YnBsb3QoMSwgMSwgMSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb24ucmF2ZWwoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpLXN0YXJ0KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXggPSBmaWcuYWRkX3N1YnBsb3QoMSwgMSwgMSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmaWdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
