@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1543990528470">
+      <file name="/Python Console" timestamp="1543992939432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,11 +240,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543990526603">
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="39" column="54" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="40" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1543992925731">
+        <mark key="[" line="79" column="42" />
+        <mark key="]" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+        <mark key="^" line="45" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -885,13 +885,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cool</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>cool</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWdzXD4=</text>
