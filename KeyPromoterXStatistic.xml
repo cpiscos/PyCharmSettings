@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'test'</Description>
-          <Count>390</Count>
+          <Count>399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -582,7 +582,7 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CourseraMachineLearning'">
@@ -742,7 +742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'test'</Description>
-          <Count>125</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>25</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
