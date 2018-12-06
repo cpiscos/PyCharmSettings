@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'test'</Description>
-          <Count>413</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -750,7 +750,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'test'</Description>
-          <Count>136</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
