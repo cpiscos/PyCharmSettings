@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544061516290">
+      <file name="/Python Console" timestamp="1544065112550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544061472267">
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544065100992">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
-        <mark key="^" line="71" column="27" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -886,13 +886,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
