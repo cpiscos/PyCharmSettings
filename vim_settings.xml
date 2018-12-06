@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544126098674">
+      <file name="/Python Console" timestamp="1544134688601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544126463262">
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544133565517">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="97" column="87" />
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="195" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -624,6 +624,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544135164195">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="16" />
+        <mark key="^" line="123" column="65" />
+        <mark key="." line="132" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
         <mark key="[" line="20" column="28" />
@@ -886,22 +892,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PNG</text>
+        <text>all</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>PNG</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yW2l0LCA6M10gPSBbMCwgMSwgMF0KICAgIGltMy5zZXRfZWRnZWNvbG9yKGNvbG9yKQo=</text>
+      <register name="0" type="4">
+        <text>frame[439:439+93, 55+round(93.6)] == arrays[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQod2luZG93X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,28 +924,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQod2luMzJndWkuRW51bVdpbmRvd3MoZW51bUhhbmRsZXIsIE5vbmUpKQpwcmludCh3aW5kb3dzKQo=</text>
+        <text encoding="base64">ICAgIGlmIHNhdmVfZnJhbWVfZXZlcnkgIT0gMCAgYW5kIHN0ZXBzICUgc2F2ZV9mcmFtZV9ldmVyeSA9PSAwOgogICAgICAgIHByaW50KCdzYXZpbmcnKQogICAgICAgIGJhY2tncm91bmQuc2F2ZSgnc3Vwcml6ZS97fS5wbmcnLmZvcm1hdChpbnQoc3RlcHMgLyBzYXZlX2ZyYW1lX2V2ZXJ5KSkpCiAgICBzdGVwcyArPSAxCiAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZyYW1lWzQzOTo0MzkrOTMsIDU1OjU1K3JvdW5kKDkzLjYpXSA9PSBhcnJheXNbMF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0KQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEzKToKICAgICAgICBmb3IgaiBpbiByYW5nZSgxMSk6CiAgICAgICAgICAgIGFycmF5cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmcmFtZVs0MzkgKyA5MyAqIGk6NDM5ICsgOTMgKiBpICsgODAsIHJvdW5kKDkzLjYgKiBqICsgNTUpOnJvdW5kKDkzLjYgKiBqKSArIDgwICsgNTVdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHhbaXRdKQo=</text>
+        <text encoding="base64">ICAgIGFycmF5cyA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDE0Myk6CiAgICAgICAgY3YyLnJlY3RhbmdsZShjdjJfZnJhbWUsICh5W2ldLTE0LCB4W2ldLTE0KSwgKHlbaV0rOTQsIHhbaV0rOTQpLCAoMCwgMjU1LCAwKSwgMykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24K</text>
+        <text encoding="base64">aW50ZXJ2YWwgPSA1MDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2X3ByZWRpY3Rpb24gPSAwLjUKICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">c3RlcHMgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
