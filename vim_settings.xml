@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544065909258">
+      <file name="/Python Console" timestamp="1544071331894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,12 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544065764927">
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544070941640">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="18" column="15" />
+        <mark key="[" line="127" column="31" />
+        <mark key="]" line="127" column="33" />
+        <mark key="." line="127" column="33" />
+        <mark key="^" line="127" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -783,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="174" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="198" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="41" column="58" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
@@ -882,17 +881,18 @@
       <jump line="31" column="5" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="45" column="37" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="133" column="18" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="156" column="50" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>png</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
@@ -901,7 +901,7 @@
         <text encoding="base64">ICAgIGNvbG9yW2l0LCA6M10gPSBbMCwgMSwgMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb24K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,28 +918,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9wcG9zaXRlX2NvbG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmV2X3ByZWRpY3Rpb24gPSAwLjUKICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGlycykK</text>
+        <text encoding="base64">ICAgIHByZXZfcHJlZGljdGlvbiA9IHByZWRpY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbG9yWzosIDNdKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW0zID0gYXguc2NhdHRlcih5LCB4LCBtYXJrZXI9JyonLCBzPTMwMCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG9wcG9zaXRlX2NvbG9yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yMSkK</text>
+        <text encoding="base64">cHJpbnQoZGlycykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2F2ZV9ib29sID0gMAphY2N1cmFjeSA9IDEwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbG9yWzosIDNdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bTEgPSBwbHQuY20uU2NhbGFyTWFwcGFibGUoY21hcD1wbHQuY20ud2ludGVyKQo=</text>
+        <text encoding="base64">aW0zID0gYXguc2NhdHRlcih5LCB4LCBtYXJrZXI9JyonLCBzPTMwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>

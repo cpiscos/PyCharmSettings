@@ -238,7 +238,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Python Console</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'test'</Description>
-          <Count>369</Count>
+          <Count>390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -582,7 +582,7 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CourseraMachineLearning'">
@@ -742,7 +742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'test'</Description>
-          <Count>114</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
