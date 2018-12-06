@@ -224,7 +224,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544054424297">
+      <file name="/Python Console" timestamp="1544058512597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -240,12 +240,11 @@
         <mark key="^" line="90" column="41" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544054422935">
+      <file name="$USER_HOME$/PycharmProjects/suprize/test.py" timestamp="1544058179201">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="4" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="66" column="4" />
+        <mark key="[" line="162" column="27" />
+        <mark key="]" line="162" column="28" />
+        <mark key="." line="162" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/networks.py" timestamp="1533192671721">
         <mark key="[" line="27" column="64" />
@@ -456,11 +455,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544048512815">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="15" column="69" />
-        <mark key="." line="15" column="69" />
-        <mark key="^" line="15" column="69" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544057300929">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
@@ -885,23 +884,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbG9yW2l0LCA6M10gPSBbMCwgMSwgMF0K</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>set_facecolor</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1hZ2VfbGlzdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yW2l0LCA6M10gPSBbMCwgMSwgMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZGlycykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,31 +917,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbG9yWzosIDNdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG9wcG9zaXRlX2NvbG9yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW0zID0gYXguc2NhdHRlcih5LCB4LCBtYXJrZXI9JyonLCBzPTMwMCkK</text>
+        <text encoding="base64">cHJpbnQoZGlycykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbG9yWzosIDNdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yMSkK</text>
+        <text encoding="base64">aW0zID0gYXguc2NhdHRlcih5LCB4LCBtYXJrZXI9JyonLCBzPTMwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2F2ZV9ib29sID0gMAphY2N1cmFjeSA9IDEwCg==</text>
+        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bTEgPSBwbHQuY20uU2NhbGFyTWFwcGFibGUoY21hcD1wbHQuY20ud2ludGVyKQo=</text>
+        <text encoding="base64">ICAgIGltMy5zZXRfZmFjZWNvbG9yKGNvbG9yMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW0zID0gYXguc2NhdHRlcih5LCB4LCBtYXJrZXI9Jy4nLCBzPTMwMCkK</text>
+        <text encoding="base64">c2F2ZV9ib29sID0gMAphY2N1cmFjeSA9IDEwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx0LnN1Cg==</text>
+        <text encoding="base64">bTEgPSBwbHQuY20uU2NhbGFyTWFwcGFibGUoY21hcD1wbHQuY20ud2ludGVyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
@@ -952,7 +951,7 @@
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
