@@ -462,11 +462,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544126800675">
-        <mark key="[" line="17" column="77" />
-        <mark key="]" line="17" column="79" />
-        <mark key="." line="17" column="79" />
-        <mark key="^" line="17" column="79" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544165370711">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
@@ -897,14 +897,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zYXZlKCdzdXByaXplL3t9LnBuZycuZm9ybWF0KGludChzdGVwcyAvIHNhdmVfZnJhbWVfZXZlcnkpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>suprize</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>labeled_emojis</text>
+        <text>suprize</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
