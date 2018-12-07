@@ -630,11 +630,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544216626178">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544217772053">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -898,13 +898,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>'sup)rize1.h5'</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>'sup)rize1.h5'</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
