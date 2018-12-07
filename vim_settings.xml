@@ -369,11 +369,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/rename_images.py" timestamp="1544137015312">
-        <mark key="[" line="8" column="135" />
-        <mark key="]" line="8" column="141" />
-        <mark key="^" line="8" column="141" />
-        <mark key="." line="8" column="141" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/rename_images.py" timestamp="1544149116428">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/pytorch projects/iris2.py" timestamp="1530228050227">
         <mark key="[" line="0" column="0" />
@@ -630,11 +630,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544147914218">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544150401138">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -897,14 +897,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zYXZlKCdzdXByaXplL3t9LnBuZycuZm9ybWF0KGludChzdGVwcyAvIHNhdmVfZnJhbWVfZXZlcnkpKSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>labeled_emojis</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
@@ -913,7 +913,7 @@
         <text>frame[439:439+93, 55+round(93.6)] == arrays[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29udGludW91cyA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zYXZlKCdzdXByaXplL3t9LnBuZycuZm9ybWF0KGludChzdGVwcyAvIHNhdmVfZnJhbWVfZXZlcnkpKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -930,28 +930,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
+        <text encoding="base64">ICAgIGlmIHNhdmVfZnJhbWVfZXZlcnkgIT0gMCBhbmQgc3RlcHMgJSBzYXZlX2ZyYW1lX2V2ZXJ5ID09IDA6CiAgICAgICAgcHJpbnQoJ3NhdmluZycpCiAgICAgICAgYmFja2dyb3VuZC5zYXZlKCdzdXByaXplL3t9LnBuZycuZm9ybWF0KGludChzdGVwcyAvIHNhdmVfZnJhbWVfZXZlcnkpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHNhdmVfZnJhbWVfZXZlcnkgIT0gMCAgYW5kIHN0ZXBzICUgc2F2ZV9mcmFtZV9ldmVyeSA9PSAwOgogICAgICAgIHByaW50KCdzYXZpbmcnKQogICAgICAgIGJhY2tncm91bmQuc2F2ZSgnc3Vwcml6ZS97fS5wbmcnLmZvcm1hdChpbnQoc3RlcHMgLyBzYXZlX2ZyYW1lX2V2ZXJ5KSkpCiAgICBzdGVwcyArPSAxCiAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
+        <text encoding="base64">Y29udGludW91cyA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZyYW1lWzQzOTo0MzkrOTMsIDU1OjU1K3JvdW5kKDkzLjYpXSA9PSBhcnJheXNbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEzKToKICAgICAgICBmb3IgaiBpbiByYW5nZSgxMSk6CiAgICAgICAgICAgIGFycmF5cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmcmFtZVs0MzkgKyA5MyAqIGk6NDM5ICsgOTMgKiBpICsgODAsIHJvdW5kKDkzLjYgKiBqICsgNTUpOnJvdW5kKDkzLjYgKiBqKSArIDgwICsgNTVdKQo=</text>
+        <text encoding="base64">ICAgIGlmIHNhdmVfZnJhbWVfZXZlcnkgIT0gMCAgYW5kIHN0ZXBzICUgc2F2ZV9mcmFtZV9ldmVyeSA9PSAwOgogICAgICAgIHByaW50KCdzYXZpbmcnKQogICAgICAgIGJhY2tncm91bmQuc2F2ZSgnc3Vwcml6ZS97fS5wbmcnLmZvcm1hdChpbnQoc3RlcHMgLyBzYXZlX2ZyYW1lX2V2ZXJ5KSkpCiAgICBzdGVwcyArPSAxCiAgICBmcmFtZSA9IG5wLmFycmF5KGJhY2tncm91bmQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFycmF5cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZyYW1lWzQzOTo0MzkrOTMsIDU1OjU1K3JvdW5kKDkzLjYpXSA9PSBhcnJheXNbMF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEzKToKICAgICAgICBmb3IgaiBpbiByYW5nZSgxMSk6CiAgICAgICAgICAgIGFycmF5cy5hcHBlbmQoCiAgICAgICAgICAgICAgICBmcmFtZVs0MzkgKyA5MyAqIGk6NDM5ICsgOTMgKiBpICsgODAsIHJvdW5kKDkzLjYgKiBqICsgNTUpOnJvdW5kKDkzLjYgKiBqKSArIDgwICsgNTVdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDE0Myk6CiAgICAgICAgY3YyLnJlY3RhbmdsZShjdjJfZnJhbWUsICh5W2ldLTE0LCB4W2ldLTE0KSwgKHlbaV0rOTQsIHhbaV0rOTQpLCAoMCwgMjU1LCAwKSwgMykK</text>
+        <text encoding="base64">ICAgIGFycmF5cyA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJ2YWwgPSA1MDAK</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
