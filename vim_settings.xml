@@ -630,11 +630,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544221594789">
-        <mark key="[" line="204" column="21" />
-        <mark key="]" line="204" column="22" />
-        <mark key="." line="204" column="22" />
-        <mark key="^" line="204" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544226116769">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="^" line="203" column="68" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -898,22 +898,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>exit()</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KCgoYXJyYXlzWzBdIC0gYXJyYXlzMVswXSkubWVhbigpKzI1NSkgLyAoMjU1KjIpKSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KGkrMSksICg1LCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4yLCAoMCwgMCwgMjU1KSwgdGhpY2tuZXNzPTUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -930,28 +930,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRpbWVfZGlmZiA9IHRpbWUudGltZSgpIC0gc3RhcnQK</text>
+        <text encoding="base64">ICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7fScuZm9ybWF0KGdyaWRfY29vcmRzWzFdKSwgKHlfc2UsIDIwMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4yLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWVfZGlmZiA9IHRpbWUudGltZSgpIC0gc3RhcnQKICAgIGlmIHRpbWVfZGlmZiA8IDUwMDoKICAgICAgICB0aW1lLnNsZWVwKCg1MDAtdGltZV9kaWZmKS8xMDAwKQo=</text>
+        <text encoding="base64">ICAgIGNvb3JkczIgPSAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNSkK</text>
+        <text encoding="base64">ICAgIGNvb3JkczEgPSAoaXRbMF0gLy8gMTEsIGl0WzBdICUgMTEpCiAgICBjb29yZHMyID0gKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZXBzICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCgoYXJyYXlzWzBdIC0gYXJyYXlzMVswXSkubWVhbigpKzI1NSkgLyAoMjU1KjIpKQo=</text>
+        <text encoding="base64">ICAgIGJveCA9IFt4Lm1pbigpLCB4Lm1heCgpLCB5Lm1pbigpLCB5Lm1heCgpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc2tpcHBpbmcnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZyYW1lLnNoYXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc2tpcHBpbmcnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZyYW1lLnNoYXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
