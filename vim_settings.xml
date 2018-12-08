@@ -331,11 +331,11 @@
         <mark key="^" line="94" column="20" />
         <mark key="." line="94" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544238331751">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="156" column="33" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544239764674">
+        <mark key="[" line="151" column="37" />
+        <mark key="]" line="151" column="55" />
+        <mark key="^" line="151" column="55" />
+        <mark key="." line="151" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
@@ -955,7 +955,7 @@
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
