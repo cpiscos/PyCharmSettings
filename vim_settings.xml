@@ -623,11 +623,11 @@
       <file name="vim_settings.xml" timestamp="1535751834422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544309462578">
-        <mark key="[" line="185" column="4" />
-        <mark key="]" line="185" column="3" />
-        <mark key="." line="185" column="3" />
-        <mark key="^" line="185" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544312452802">
+        <mark key="[" line="184" column="57" />
+        <mark key="]" line="187" column="55" />
+        <mark key="." line="187" column="55" />
+        <mark key="^" line="187" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -887,14 +887,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBbKG5wLmFyZ21pbihpWzBdKSwgaVsxXSkgZm9yIGkgaW4gZ3JpZF9jb29yZHNdCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>grid_coords</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
@@ -903,7 +903,7 @@
         <text>(0, 0 if i == 0 else 225, 255 if i == 0 else 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBbKG5wLmFyZ21pbihpWzBdKSwgaVsxXSkgZm9yIGkgaW4gZ3JpZF9jb29yZHNdCg==</text>
+        <text encoding="base64">ICAgIGdyaWRfY29vcmRzID0gZ3JpZF9jb29yZHNbY29vcmRzXS5zcXVlZXplKCkudG9saXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -920,28 +920,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDExKToKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KGkrMSksICh5X3NldFtpXSsyMCwgeF9zZXRbMF0tMTUpLCBjdjIuRk9OVF9IRVJTSEVZX1NJTVBMRVgsIDEuMiwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz01KQogICAgICAgIGN2Mi5wdXRUZXh0KGN2Ml9mcmFtZSwgJ3s6MmR9Jy5mb3JtYXQoLSgxMS1pKSksICh5X3NldFtpXSsxMCwgeF9zZXRbLTFdKzEyMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMSwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz0yKQogICAgZm9yIGkgaW4gcmFuZ2UoMTMpOgogICAgICAgIGN2Mi5wdXRUZXh0KGN2Ml9mcmFtZSwgJ3s6MmR9Jy5mb3JtYXQoaSsxKSwgKDUsIHhfc2V0W2ldKzUwKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLjIsICgwLCAwLCAyNTUpLCB0aGlja25lc3M9NSkKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KC0oMTMtaSkpLCAoeV9zZXRbLTFdKzYwLCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMSwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz0yKQogICAgY3YyLnB1dFRleHQoY3YyX2ZyYW1lLCAne30gICAgIHt9Jy5mb3JtYXQoKmdyaWRfY29vcmRzKSwgKDE2MCwgMTgwMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMywgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz03KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGQpCiAgICBwcmludChncmlkX2Nvb3JkcykKICAgIHByaW50KGNvb3JkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIubGluZShjdjJfZnJhbWUsICgwLCB4X3ByZWRbaV0pLCAoLTEsIHhfcHJlZFtpXSksICgwLCAwLCAyNTUpLCB0aGlja25lc3M9NSkK</text>
+        <text encoding="base64">ICAgIGQgPSBncmlkX2Nvb3Jkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIubGluZShjdjJfZnJhbWUsICgwLCB4X3ByZWRbaV0pLCAoLTEsIHhfcHJlZFtpXSksICgwLCAwLCAyNTUpLCB0aGlja25lc3M9NSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWNjdXJhY3kgPSAyCg==</text>
+        <text encoding="base64">ICAgIGdyaWRfY29vcmRzID0gWyhpIC8vIDExICsgMSwgaSAlIDExICsgMSkgZm9yIGkgaW4gaXRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0KQo=</text>
+        <text encoding="base64">ICAgIG5ld19jb29yZHMgPSBbKG5wLm1pbigoaVswXSwgMTMtaVswXSkpLCBucC5taW4oKGlbMV0sIDExLWlbMV0pKSkgZm9yIGkgaW4gZ3JpZF9jb29yZHNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uLm1lYW4oMSkuc3F1ZWV6ZSgpCg==</text>
+        <text encoding="base64">ICAgIGdyaWRfY29vcmRzID0gW25ld19jb29yZHNbaSAvLyAyXVtpICUgMl0gZm9yIGksIGogaW4gZW51bWVyYXRlKGdyaWRfY29vcmRzKV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uKm5wLnNpZ24ocHJlZGljdGlvbi5tZWFuKDApKSswLjUK</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBbKG5wLmFyZ21pbihpWzBdKSwgaVsxXSkgZm9yIGkgaW4gZ3JpZF9jb29yZHNdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5kID0gbnAucmFuZG9tLmNob2ljZShyYW5nZSgxMyoxMSksIHNpemU9YWNjdXJhY3ksIHJlcGxhY2U9RmFsc2UpLmFzdHlwZShpbnQpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDExKToKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KGkrMSksICh5X3NldFtpXSsyMCwgeF9zZXRbMF0tMTUpLCBjdjIuRk9OVF9IRVJTSEVZX1NJTVBMRVgsIDEuMiwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz01KQogICAgICAgIGN2Mi5wdXRUZXh0KGN2Ml9mcmFtZSwgJ3s6MmR9Jy5mb3JtYXQoLSgxMS1pKSksICh5X3NldFtpXSsxMCwgeF9zZXRbLTFdKzEyMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMSwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz0yKQogICAgZm9yIGkgaW4gcmFuZ2UoMTMpOgogICAgICAgIGN2Mi5wdXRUZXh0KGN2Ml9mcmFtZSwgJ3s6MmR9Jy5mb3JtYXQoaSsxKSwgKDUsIHhfc2V0W2ldKzUwKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLjIsICgwLCAwLCAyNTUpLCB0aGlja25lc3M9NSkKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KC0oMTMtaSkpLCAoeV9zZXRbLTFdKzYwLCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMSwgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz0yKQogICAgY3YyLnB1dFRleHQoY3YyX2ZyYW1lLCAne30gICAgIHt9Jy5mb3JtYXQoKmdyaWRfY29vcmRzKSwgKDE2MCwgMTgwMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMywgKDAsIDAsIDI1NSksIHRoaWNrbmVzcz03KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
