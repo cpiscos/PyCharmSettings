@@ -118,11 +118,6 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/homework/hw1/demo.bash" timestamp="1536082942243">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Stocks/plot.py" timestamp="1536694915712">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="17" />
@@ -335,6 +330,12 @@
         <mark key="]" line="94" column="20" />
         <mark key="^" line="94" column="20" />
         <mark key="." line="94" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544238331751">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="156" column="33" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
@@ -673,11 +674,6 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Forex/models/nalu.py" timestamp="1535495226662">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/chris.json" timestamp="1528502079420">
         <mark key="'" line="160" column="14" />
         <mark key="[" line="150" column="0" />
@@ -699,11 +695,6 @@
         <mark key="]" line="249" column="8" />
         <mark key="^" line="249" column="8" />
         <mark key="." line="249" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CS294/demo.bash" timestamp="1536029126165">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/network.py" timestamp="1531672805732">
         <mark key="[" line="107" column="59" />
@@ -898,13 +889,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">YWNjdXJhY3kgPSAyCg==</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>*accuracy</text>
       </register>
       <register name="/" type="4">
         <text>exit()</text>
@@ -913,7 +904,7 @@
         <text encoding="base64">ICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KGkrMSksICg1LCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4yLCAoMCwgMCwgMjU1KSwgdGhpY2tuZXNzPTUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">YWNjdXJhY3kgPSAyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -930,28 +921,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7fScuZm9ybWF0KGdyaWRfY29vcmRzWzFdKSwgKHlfc2UsIDIwMCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4yLCAoMjU1LCAwLCAwKSwgdGhpY2tuZXNzPTMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGl0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvb3JkczIgPSAoKQo=</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uLm1lYW4oMSkuc3F1ZWV6ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvb3JkczEgPSAoaXRbMF0gLy8gMTEsIGl0WzBdICUgMTEpCiAgICBjb29yZHMyID0gKCkK</text>
+        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uKm5wLnNpZ24ocHJlZGljdGlvbi5tZWFuKDApKSswLjUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW5kID0gbnAucmFuZG9tLmNob2ljZShyYW5nZSgxMyoxMSksIHNpemU9YWNjdXJhY3ksIHJlcGxhY2U9RmFsc2UpLmFzdHlwZShpbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2UgPSBbYXJyYXlzW2ldIGZvciBpIGluIGluZF0KICAgIGZvciBzYW1wIGluIGFycmF5czoKICAgICAgICBmaXJzdF9hcnIuZXh0ZW5kKFtzYW1wXSAqIGFjY3VyYWN5KQogICAgICAgIHNhbXBsZV9hcnIuZXh0ZW5kKGJhc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJveCA9IFt4Lm1pbigpLCB4Lm1heCgpLCB5Lm1pbigpLCB5Lm1heCgpXQo=</text>
+        <text encoding="base64">ICAgIGZpcnN0X2FyciA9IFtdCiAgICBzYW1wbGVfYXJyID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZyYW1lLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBsZW4oYXJyYXlzMSkgPT0gMSBhbmQgb25seV9kaWZmOgogICAgICAgICAgICAjICAgICBkaWZmZXJlbmNlID0gKG5wLmFicyhhcnJheXNbMF0gLSBhcnJheXMxWzBdKS5tZWFuKCkgLyAyNTUpCiAgICAgICAgICAgICMgICAgIHByaW50KCdEaWZmOiB7Oi4zZn0nLmZvcm1hdChkaWZmZXJlbmNlKSkKICAgICAgICAgICAgIyAgICAgaWYgZGlmZmVyZW5jZSA8IDAuNToKICAgICAgICAgICAgIyAgICAgICAgIHRpbWUuc2xlZXAoNSkKICAgICAgICAgICAgIyAgICAgICAgIGFycmF5cyA9IGFycmF5czEKICAgICAgICAgICAgIyAgICAgICAgIGFycmF5czEgPSBbXQogICAgICAgICAgICAjICAgICAgICAgc2tpcCA9IFRydWUKICAgICAgICAgICAgIyAgICAgICAgIGJyZWFrCiAgICAgICAgIyBpZiBza2lwOgogICAgICAgICMgICAgIGJyZWFrCiAgICAjIGlmIHNraXA6CiAgICAjICAgICBza2lwID0gRmFsc2UKICAgICMgICAgIGNvbnRpbnVlCiAgICAjIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZyYW1lLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIGFycmF5cyA9IGFycmF5czEK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
