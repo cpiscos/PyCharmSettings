@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1543960527268">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1532625601551">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
         <mark key="[" line="124" column="95" />
         <mark key="]" line="124" column="96" />
@@ -51,12 +57,6 @@
         <mark key="]" line="4" column="47" />
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -331,8 +331,8 @@
         <mark key="^" line="94" column="20" />
         <mark key="." line="94" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544239764674">
-        <mark key="[" line="151" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544307600596">
+        <mark key="[" line="134" column="1" />
         <mark key="]" line="151" column="55" />
         <mark key="^" line="151" column="55" />
         <mark key="." line="151" column="55" />
@@ -388,12 +388,6 @@
         <mark key="]" line="537" column="69" />
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1532625601551">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -462,6 +456,12 @@
         <mark key="]" line="30" column="11" />
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544165370711">
         <mark key="[" line="17" column="36" />
@@ -535,6 +535,13 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536192136182">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
       </file>
@@ -558,13 +565,6 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" timestamp="1534044198092">
         <mark key="'" line="192" column="24" />
@@ -624,13 +624,6 @@
       <file name="vim_settings.xml" timestamp="1535751834422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536192136182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544226116769">
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
@@ -680,6 +673,13 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1536696650397">
         <mark key="[" line="0" column="0" />
@@ -955,7 +955,7 @@
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
