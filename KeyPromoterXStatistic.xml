@@ -454,7 +454,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Rerun 'test_cv2'</Description>
-          <Count>250</Count>
+          <Count>307</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'test_cv2_143'">
@@ -798,7 +798,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'test_cv2'</Description>
-          <Count>101</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'test_cv2_143'">
