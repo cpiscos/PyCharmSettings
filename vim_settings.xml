@@ -456,11 +456,11 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/organizer.py" timestamp="1544380442449">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/organizer.py" timestamp="1544382651807">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
         <mark key="[" line="6" column="36" />
@@ -468,11 +468,11 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544165370711">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544381515824">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
@@ -900,23 +900,23 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/suprize/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigwKS5zaGFwZSkK</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>stack</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>tf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN2Mi5wdXRUZXh0KGN2Ml9mcmFtZSwgJ3t9ICAgICB7fScuZm9ybWF0KCpncmlkX2Nvb3JkcyksICgxNjAsIDE4MDApLCBjdjIuRk9OVF9IRVJTSEVZX1NJTVBMRVgsIDIsICgwLCAwLCAyNTUpLCB0aGlja25lc3M9NykK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigwKS5zaGFwZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -933,94 +933,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZV9pbWFnZXNfY3VsbGVkKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpLCBwcmVkaWN0LnNoYXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLmxpc3RkaXIK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKZnJvbSB0ZW5zb3JmbG93IGltcG9ydCBrZXJhcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Quc2hhcGUpCiAgICBleGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnID0gdGYuQ29uZmlnUHJvdG8oKQpjb25maWcuZ3B1X29wdGlvbnMuYWxsb3dfZ3Jvd3RoID0gVHJ1ZQpzZXNzaW9uID0gdGYuU2Vzc2lvbihjb25maWc9Y29uZmlnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdpJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKZnJvbSB0ZW5zb3JmbG93IGltcG9ydCBrZXJhcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KG5wLnRha2Uoc2FtcGxlX2ltYWdlc19jdWxsZWQsIGl0KSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>l2_weight = 1e-4
-a = keras.layers.Input(shape=(80, 80, 6))
-inter = keras.Sequential([
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.BatchNormalization()])(a)
-
-inter1 = keras.layers.Add()([inter, a])
-
-inter = keras.Sequential([
-    keras.layers.ELU(),
-    #     keras.layers.BatchNormalization(),
-    #     keras.layers.SpatialDropout2D(0.2),
-    keras.layers.MaxPooling2D(2)])(inter1)
-
-inter1 = keras.Sequential([
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.BatchNormalization()])(inter)
-
-inter = keras.layers.Add()([inter1, inter])
-
-inter = keras.Sequential([
-    keras.layers.ELU(),
-    #     keras.layers.BatchNormalization(),
-    #     keras.layers.SpatialDropout2D(0.2),
-    keras.layers.MaxPooling2D(2)])(inter)
-
-inter1 = keras.Sequential([
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.BatchNormalization()])(inter)
-
-inter = keras.layers.Add()([inter1, inter])
-
-inter = keras.Sequential([
-    keras.layers.ELU(),
-    #     keras.layers.BatchNormalization(),
-    #     keras.layers.SpatialDropout2D(0.2),
-    keras.layers.MaxPooling2D(2)])(inter)
-
-inter1 = keras.Sequential([
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.Conv2D(6, (3, 3), padding='same', activation='elu', kernel_initializer='he_normal',
-                        kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.BatchNormalization()])(inter)
-
-inter = keras.layers.Add()([inter1, inter])
-
-inter = keras.Sequential([
-    keras.layers.ELU(),
-    keras.layers.AveragePooling2D(2)])(inter)
-
-b = keras.Sequential([
-    keras.layers.Flatten(),
-    keras.layers.Dropout(0.2),
-    keras.layers.Dense(32, kernel_initializer='he_normal', activation='elu',
-                       kernel_regularizer=keras.regularizers.l2(l2_weight)),
-    keras.layers.Dense(1, kernel_initializer='he_normal', activation=tf.nn.sigmoid)])(inter)
-model = keras.models.Model(inputs=a, outputs=b)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZV9pbWFnZXNfY3VsbGVkW2l0XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDExKToKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KHhfYXhpc1tpXSksICh5X3NldFtpXSsyMCwgeF9zZXRbLTFdKzk1KSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAxLjEsICgwLCAwLCAyNTUpLCB0aGlja25lc3M9MykKICAgIGZvciBpIGluIHJhbmdlKDEzKToKICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KHlfYXhpc1sxMi1pXSksICg1LCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4xLCAoMCwgMCwgMjU1KSwgdGhpY2tuZXNzPTMpCiAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7fSAgICAge30nLmZvcm1hdCgqZ3JpZF9jb29yZHMpLCAoMTYwLCAxODAwKSwgY3YyLkZPTlRfSEVSU0hFWV9TSU1QTEVYLCAyLCAoMCwgMCwgMjU1KSwgdGhpY2tuZXNzPTcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
