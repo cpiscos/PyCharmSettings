@@ -546,12 +546,11 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536192136182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544947301637">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
@@ -658,6 +657,9 @@
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/scratch" timestamp="1544947303277">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534474596509">
         <mark key="'" line="382" column="17" />
         <mark key="[" line="3" column="19" />
@@ -691,6 +693,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/news-grabber/news_grabber.py" timestamp="1544947843249">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
         <mark key="'" line="2" column="13" />
@@ -907,13 +915,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG9yICdodHRwJyBpbiBsaW5l</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG9yICdodHRwJyBpbiBsaW5l</text>
       </register>
       <register name="/" type="4">
         <text>tf</text>
@@ -922,7 +930,7 @@
         <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdCA9IG9zLnBhdGguam9pbihyb290KQo=</text>
+        <text encoding="base64">ZGF0YV9mb2xkZXIgPSAnbmV3cycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -939,28 +947,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigwKS5zaGFwZSkK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIGxvZ2l0X3JlZ3Jlc3Npb24gaW1wb3J0ICoKCiMgSW1wb3J0IGRhdGEgYW5kIGNoYW5nZSBzZXRvc2EgdG8gLTEgJiB2aWNlLXZlcnNhCmRmID0gcGQucmVhZF9jc3YoJy4uL1Jlc291cmNlcy9pcmlzLmRhdGEnLCBoZWFkZXI9Tm9uZSkKeSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIC0xLCAxKQoKIyBFeHRyYWN0IHNlcGFsIGxlbmd0aFswXSBhbmQgcGV0YWwgbGVuZ3RoWzJdClggPSBkZi5pbG9jWzoxMDAsIFswLCAtMl1dLnZhbHVlcwpmb3IgaiBpbiByYW5nZShYLnNoYXBlWzFdKToKICAgIFhbOixqXSA9IChYWzosal0gLSBYWzosal0ubWVhbigpKSAvIFhbOixqXS5zdGQoKQoKcHJpbnQoWCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
+        <text encoding="base64">cm9vdCA9IG9zLnBhdGguam9pbihyb290KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpLCBwcmVkaWN0LnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigwKS5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Quc2hhcGUpCiAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpLCBwcmVkaWN0LnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdpJykK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5wLnRha2Uoc2FtcGxlX2ltYWdlc19jdWxsZWQsIGl0KSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Quc2hhcGUpCiAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZV9pbWFnZXNfY3VsbGVkW2l0XSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdpJykK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
