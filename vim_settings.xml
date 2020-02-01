@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1543960527268">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1532625601551">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNet1.py" timestamp="1533519272736">
         <mark key="[" line="124" column="95" />
         <mark key="]" line="124" column="96" />
@@ -51,12 +57,6 @@
         <mark key="]" line="4" column="47" />
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/multiclass_logit_regression.py" timestamp="1529181621474">
         <mark key="[" line="2" column="6" />
@@ -219,7 +219,7 @@
         <mark key="." line="261" column="3" />
         <mark key="^" line="261" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1544134688601">
+      <file name="/Python Console" timestamp="1557269402598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -282,6 +282,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/fix.py" timestamp="1544390784625">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="80" />
+        <mark key="^" line="7" column="80" />
+        <mark key="." line="7" column="80" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/conv.py" timestamp="1532215449720">
         <mark key="[" line="53" column="44" />
         <mark key="]" line="56" column="19" />
@@ -331,11 +337,10 @@
         <mark key="^" line="94" column="20" />
         <mark key="." line="94" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544239764674">
-        <mark key="[" line="151" column="37" />
-        <mark key="]" line="151" column="55" />
-        <mark key="^" line="151" column="55" />
-        <mark key="." line="151" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2_143.py" timestamp="1544308300664">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/NN.py" timestamp="1529735001972">
         <mark key="'" line="112" column="18" />
@@ -388,12 +393,6 @@
         <mark key="]" line="537" column="69" />
         <mark key="." line="537" column="69" />
         <mark key="^" line="537" column="69" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1532625601551">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/pycharm_projects/AI/convnet.py" timestamp="1530228700360">
         <mark key="'" line="0" column="0" />
@@ -463,11 +462,23 @@
         <mark key="." line="18" column="93" />
         <mark key="^" line="18" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544165370711">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/organizer.py" timestamp="1544411109223">
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1532021993982">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/suprize_preprocess.py" timestamp="1544387508763">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/stockAI.py" timestamp="1531956858907">
         <mark key="'" line="39" column="50" />
@@ -535,6 +546,12 @@
         <mark key="." line="35" column="12" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1544947301637">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/SineFitting/.idea/.name" timestamp="1531616084583">
         <mark key="[" line="0" column="11" />
       </file>
@@ -559,13 +576,6 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ForexResearch/indrnn.py" timestamp="1534044198092">
         <mark key="'" line="192" column="24" />
         <mark key="[" line="126" column="42" />
@@ -585,6 +595,13 @@
         <mark key="]" line="27" column="24" />
         <mark key="^" line="63" column="19" />
         <mark key="." line="27" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/suprize/model.py" timestamp="1544379413307">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/projects/pytorch_projects/iris.py" timestamp="1530249450685">
         <mark key="'" line="0" column="0" />
@@ -624,18 +641,11 @@
       <file name="vim_settings.xml" timestamp="1535751834422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536192136182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544226116769">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="203" column="68" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/suprize/test_cv2.py" timestamp="1544400601529">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PythonMachineLearning/02/logit regression.py" timestamp="1528948711971">
         <mark key="'" line="16" column="21" />
@@ -645,6 +655,9 @@
         <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/test.py" timestamp="1529721121929">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/scratch" timestamp="1544947303277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/StockAI/SNetworks.py" timestamp="1534474596509">
@@ -680,6 +693,19 @@
         <mark key="]" line="150" column="0" />
         <mark key="^" line="198" column="15" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/news-grabber/news_grabber.py" timestamp="1544947843249">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1529719838825">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1536696650397">
         <mark key="[" line="0" column="0" />
@@ -786,8 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="8" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
-      <jump line="198" column="4" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="41" column="58" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNet.py" />
       <jump line="30" column="54" filename="$USER_HOME$/PycharmProjects/ForexResearch/FNetwork.py" />
       <jump line="48" column="37" filename="$USER_HOME$/PycharmProjects/ForexRL/AI.py" />
@@ -886,25 +910,27 @@
       <jump line="133" column="18" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="156" column="50" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/suprize/test.py" />
+      <jump line="66" column="46" filename="$USER_HOME$/PycharmProjects/suprize/model.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/suprize/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWNjdXJhY3kgPSAyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9yICdodHRwJyBpbiBsaW5l</text>
       </register>
       <register name="h" type="4">
         <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>*accuracy</text>
+        <text encoding="base64">IG9yICdodHRwJyBpbiBsaW5l</text>
       </register>
       <register name="/" type="4">
-        <text>exit()</text>
+        <text>tf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIucHV0VGV4dChjdjJfZnJhbWUsICd7OjJkfScuZm9ybWF0KGkrMSksICg1LCB4X3NldFtpXSs1MCksIGN2Mi5GT05UX0hFUlNIRVlfU0lNUExFWCwgMS4yLCAoMCwgMCwgMjU1KSwgdGhpY2tuZXNzPTUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWNjdXJhY3kgPSAyCg==</text>
+        <text encoding="base64">ZGF0YV9mb2xkZXIgPSAnbmV3cycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -921,45 +947,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0KQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIGxvZ2l0X3JlZ3Jlc3Npb24gaW1wb3J0ICoKCiMgSW1wb3J0IGRhdGEgYW5kIGNoYW5nZSBzZXRvc2EgdG8gLTEgJiB2aWNlLXZlcnNhCmRmID0gcGQucmVhZF9jc3YoJy4uL1Jlc291cmNlcy9pcmlzLmRhdGEnLCBoZWFkZXI9Tm9uZSkKeSA9IGRmLmlsb2NbOjEwMCwgNF0udmFsdWVzCnkgPSBucC53aGVyZSh5ID09ICJJcmlzLXNldG9zYSIsIC0xLCAxKQoKIyBFeHRyYWN0IHNlcGFsIGxlbmd0aFswXSBhbmQgcGV0YWwgbGVuZ3RoWzJdClggPSBkZi5pbG9jWzoxMDAsIFswLCAtMl1dLnZhbHVlcwpmb3IgaiBpbiByYW5nZShYLnNoYXBlWzFdKToKICAgIFhbOixqXSA9IChYWzosal0gLSBYWzosal0ubWVhbigpKSAvIFhbOixqXS5zdGQoKQoKcHJpbnQoWCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uLm1lYW4oMSkuc3F1ZWV6ZSgpCg==</text>
+        <text encoding="base64">cm9vdCA9IG9zLnBhdGguam9pbihyb290KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZWRpY3Rpb24gPSBwcmVkaWN0aW9uKm5wLnNpZ24ocHJlZGljdGlvbi5tZWFuKDApKSswLjUK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigwKS5zaGFwZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5kID0gbnAucmFuZG9tLmNob2ljZShyYW5nZSgxMyoxMSksIHNpemU9YWNjdXJhY3ksIHJlcGxhY2U9RmFsc2UpLmFzdHlwZShpbnQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhc2UgPSBbYXJyYXlzW2ldIGZvciBpIGluIGluZF0KICAgIGZvciBzYW1wIGluIGFycmF5czoKICAgICAgICBmaXJzdF9hcnIuZXh0ZW5kKFtzYW1wXSAqIGFjY3VyYWN5KQogICAgICAgIHNhbXBsZV9hcnIuZXh0ZW5kKGJhc2UpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3QubWVhbigpLCBwcmVkaWN0Lm1pbigpLCBwcmVkaWN0Lm1heCgpLCBwcmVkaWN0LnNoYXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X2FyciA9IFtdCiAgICBzYW1wbGVfYXJyID0gW10K</text>
+        <text encoding="base64">ICAgIHByaW50KHByZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBsZW4oYXJyYXlzMSkgPT0gMSBhbmQgb25seV9kaWZmOgogICAgICAgICAgICAjICAgICBkaWZmZXJlbmNlID0gKG5wLmFicyhhcnJheXNbMF0gLSBhcnJheXMxWzBdKS5tZWFuKCkgLyAyNTUpCiAgICAgICAgICAgICMgICAgIHByaW50KCdEaWZmOiB7Oi4zZn0nLmZvcm1hdChkaWZmZXJlbmNlKSkKICAgICAgICAgICAgIyAgICAgaWYgZGlmZmVyZW5jZSA8IDAuNToKICAgICAgICAgICAgIyAgICAgICAgIHRpbWUuc2xlZXAoNSkKICAgICAgICAgICAgIyAgICAgICAgIGFycmF5cyA9IGFycmF5czEKICAgICAgICAgICAgIyAgICAgICAgIGFycmF5czEgPSBbXQogICAgICAgICAgICAjICAgICAgICAgc2tpcCA9IFRydWUKICAgICAgICAgICAgIyAgICAgICAgIGJyZWFrCiAgICAgICAgIyBpZiBza2lwOgogICAgICAgICMgICAgIGJyZWFrCiAgICAjIGlmIHNraXA6CiAgICAjICAgICBza2lwID0gRmFsc2UKICAgICMgICAgIGNvbnRpbnVlCiAgICAjIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Quc2hhcGUpCiAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFycmF5cyA9IGFycmF5czEK</text>
+        <text encoding="base64">ICAgIHByaW50KCdpJykK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorJoinLines</text>
       </register>
     </registers>
     <search>
-      <last-search>exit()</last-search>
+      <last-search>tf</last-search>
       <last-offset />
-      <last-pattern>exit()</last-pattern>
+      <last-pattern>tf</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>optimi</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>peloss</entry>
         <entry>states</entry>
@@ -979,6 +1004,7 @@
         <entry>convert</entry>
         <entry>expand</entry>
         <entry>exit()</entry>
+        <entry>tf</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
